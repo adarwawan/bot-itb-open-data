@@ -1,0 +1,401 @@
+{
+  "table_notes": "",
+  "table_title": "",
+  "table_data": [
+    {
+      "Update Terakhir": "22 Mar 2016",
+      "Judul Tabel": "Bank dan Kantor Bank, 2010�2015",
+      "No": "1"
+    },
+    {
+      "Update Terakhir": "22 Mar 2016",
+      "Judul Tabel": "BI Rate , 2005-2016",
+      "No": "2"
+    },
+    {
+      "Update Terakhir": "22 Dec 2015",
+      "Judul Tabel": "Dana Pihak Ketiga Perbankan Syariah Menurut Jenis Dana (miliar rupiah), 2004-2014",
+      "No": "3"
+    },
+    {
+      "Update Terakhir": "04 Dec 2014",
+      "Judul Tabel": "Investasi Nonfinansial Menurut Sektor (Triliun rupiah), 2003-2013",
+      "No": "4"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Jumlah Koperasi Aktif Menurut Provinsi, 2006-2014",
+      "No": "5"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Jumlah Perusahaan Asuransi dan Perusahaan Penunjang Asuransi, 2000-2014",
+      "No": "6"
+    },
+    {
+      "Update Terakhir": "06 Jan 2015",
+      "Judul Tabel": "Kurs Tengah Beberapa Mata Uang Asing Terhadap Rupiah di Bank Indonesia dan Harga Emas di Jakarta (rupiah)",
+      "No": "7"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Kurs Tengah Beberapa Mata Uang Asing Terhadap Rupiah di Bank Indonesia dan Harga Emas di Jakarta (rupiah), 2000�2014",
+      "No": "8"
+    },
+    {
+      "Update Terakhir": "15 Jan 2014",
+      "Judul Tabel": "Pembayaran Utang Luar Negeri Indonesia (juta US$), 2006-2012",
+      "No": "9"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Pembayaran Utang Luar Negeri Pemerintah dan Bank Sentral (juta US$), 2010�2014",
+      "No": "10"
+    },
+    {
+      "Update Terakhir": "05 Jan 2015",
+      "Judul Tabel": "Pemberian Kredit oleh Lembaga-Lembaga Keuangan Lainnya (miliar rupiah), 2000�2013",
+      "No": "11"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Pemberian Kredit oleh Lembaga-Lembaga Keuangan Lainnya (miliar rupiah), 2010-2014",
+      "No": "12"
+    },
+    {
+      "Update Terakhir": "28 Sep 2015",
+      "Judul Tabel": "Perkembangan Dana Perbankan Menurut Jenisnya (miliar rupiah) 2010�2014",
+      "No": "13"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Perkembangan Dana Perbankan Menurut Jenisnya (miliar rupiah), 2010 - 2014",
+      "No": "14"
+    },
+    {
+      "Update Terakhir": "06 Jan 2015",
+      "Judul Tabel": "Pinjaman Investasi Bank-Bank Umum dalam Rupiah Menurut Sektor Ekonomi (miliar rupiah)",
+      "No": "15"
+    },
+    {
+      "Update Terakhir": "04 Dec 2014",
+      "Judul Tabel": "Pinjaman Neto Menurut Sektor (Triliun rupiah), 2003-2013",
+      "No": "16"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Posisi Cadangan Devisa (juta US$), 2005-2014",
+      "No": "17"
+    },
+    {
+      "Update Terakhir": "22 Dec 2015",
+      "Judul Tabel": "Posisi Kredit Investasi Perbankan Menurut Sektor Ekonomi, 2003-2009 (Miliar Rupiah)",
+      "No": "18"
+    },
+    {
+      "Update Terakhir": "22 Mar 2016",
+      "Judul Tabel": "Posisi Kredit Investasi Perbankan Menurut Sektor Ekonomi, 2010-2016 (Miliar Rupiah)",
+      "No": "19"
+    },
+    {
+      "Update Terakhir": "22 Dec 2015",
+      "Judul Tabel": "Posisi Kredit Modal Kerja Perbankan Menurut Sektor Ekonomi, 2003-2009 (Miliar Rupiah)",
+      "No": "20"
+    },
+    {
+      "Update Terakhir": "22 Mar 2016",
+      "Judul Tabel": "Posisi Kredit Modal Kerja Perbankan Menurut Sektor Ekonomi, 2010-2016 (Miliar Rupiah)",
+      "No": "21"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Posisi Kredit Perbankan 1) dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi (miliar rupiah), 2010-2014",
+      "No": "22"
+    },
+    {
+      "Update Terakhir": "09 Jan 2014",
+      "Judul Tabel": "Posisi Kredit Perbankan 1 dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi (miliar rupiah), 2000-2012",
+      "No": "23"
+    },
+    {
+      "Update Terakhir": "30 Sep 2015",
+      "Judul Tabel": "Posisi Kredit Usaha Mikro, Kecil, dan Menengah (UMKM) 1 pada Bank Umum (miliar rupiah), 2012-2014",
+      "No": "24"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Posisi Pinjaman Investasi Bank-Bank Umum dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi (miliar rupiah), 2000 - 2014",
+      "No": "25"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Posisi Pinjaman Investasi Bank-Bank Umum dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi (miliar rupiah), 2013 dan 2014",
+      "No": "26"
+    },
+    {
+      "Update Terakhir": "05 Jan 2015",
+      "Judul Tabel": "Posisi Pinjaman Rupiah dan Valuta Asing yang Diberikan Bank Umum dan BPR Menurut Kelompok Bank (miliar rupiah), 2000-2013",
+      "No": "27"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Posisi Pinjaman Rupiah dan Valuta Asing yang Diberikan Bank Umum dan BPR Menurut Kelompok Bank (miliar rupiah), 2010-2014",
+      "No": "28"
+    },
+    {
+      "Update Terakhir": "07 Jan 2015",
+      "Judul Tabel": "Posisi Simpanan Berjangka Rupiah pada Bank Umum dan BPR Menurut Golongan Pemilik (miliar rupiah), 2005-2013",
+      "No": "29"
+    },
+    {
+      "Update Terakhir": "30 Sep 2015",
+      "Judul Tabel": "Posisi Simpanan Berjangka Rupiah pada Bank Umum dan BPR Menurut Golongan Pemilik (miliar rupiah), 2012-2014",
+      "No": "30"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Posisi Simpanan Masyarakat (Rupiah dan Valuta Asing) pada Bank Umum Menurut Kelompok Bank (miliar rupiah), 2010-2014",
+      "No": "31"
+    },
+    {
+      "Update Terakhir": "30 Sep 2015",
+      "Judul Tabel": "Posisi Tabungan pada Bank Umum Menurut Jenis Tabungan 1 (miliar rupiah), 2010-2014",
+      "No": "32"
+    },
+    {
+      "Update Terakhir": "05 Jan 2015",
+      "Judul Tabel": "Posisi Tabungan pada Bank Umum Menurut Jenis Tabungan 1 (miliar rupiah), 2000-2013",
+      "No": "33"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Posisi Utang Luar Negeri Indonesia Menurut Kelompok Peminjam (juta US$) 2005 - 2014",
+      "No": "34"
+    },
+    {
+      "Update Terakhir": "07 Jan 2015",
+      "Judul Tabel": "Posisi Utang Luar Negeri Indonesia Menurut Kreditor (juta US$), 2005-2013",
+      "No": "35"
+    },
+    {
+      "Update Terakhir": "30 Sep 2015",
+      "Judul Tabel": "Posisi Utang Luar Negeri Indonesia Menurut Kreditor (juta US$), 2010-2014",
+      "No": "36"
+    },
+    {
+      "Update Terakhir": "30 Sep 2015",
+      "Judul Tabel": "Posisi Utang Luar Negeri Pemerintah dan Bank Sentral Menurut Jenis Utang (juta US$), 2010-2014",
+      "No": "37"
+    },
+    {
+      "Update Terakhir": "15 Jan 2014",
+      "Judul Tabel": "Posisi Utang Luar Negeri Pemerintah dan Bank Sentral Menurut Kategori Kreditor dan Persyaratan Kredit (juta US$), 2005-2012",
+      "No": "38"
+    },
+    {
+      "Update Terakhir": "26 Aug 2010",
+      "Judul Tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi 2009",
+      "No": "39"
+    },
+    {
+      "Update Terakhir": "25 Mar 2011",
+      "Judul Tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi 2010",
+      "No": "40"
+    },
+    {
+      "Update Terakhir": "20 Mar 2012",
+      "Judul Tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi, 2011",
+      "No": "41"
+    },
+    {
+      "Update Terakhir": "31 Jan 2013",
+      "Judul Tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi, 2012",
+      "No": "42"
+    },
+    {
+      "Update Terakhir": "26 Mar 2014",
+      "Judul Tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi, 2013",
+      "No": "43"
+    },
+    {
+      "Update Terakhir": "26 Mar 2015",
+      "Judul Tabel": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi, 2014",
+      "No": "44"
+    },
+    {
+      "Update Terakhir": "24 Feb 2016",
+      "Judul Tabel": "Rata-Rata Harga Valuta Asing Terpilih menurut Provinsi 2015",
+      "No": "45"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Realisasi Investasi Penanaman Modal Dalam Negeri Menurut Provinsi 1 (miliar rupiah), 2006-2014",
+      "No": "46"
+    },
+    {
+      "Update Terakhir": "07 Jan 2015",
+      "Judul Tabel": "Realisasi Investasi Penanaman Modal Dalam Negeri Menurut Sektor Ekonomi  1)  (miliar rupiah), 2000-2013",
+      "No": "47"
+    },
+    {
+      "Update Terakhir": "30 Sep 2015",
+      "Judul Tabel": "Realisasi Investasi Penanaman Modal Luar Negeri Menurut Negara 1 (juta US$), 2012-2014",
+      "No": "48"
+    },
+    {
+      "Update Terakhir": "07 Jan 2015",
+      "Judul Tabel": "Realisasi Investasi Penanaman Modal Luar Negeri Menurut Negara  1)  (juta US$), 2000-2013",
+      "No": "49"
+    },
+    {
+      "Update Terakhir": "30 Sep 2015",
+      "Judul Tabel": "Realisasi Investasi Penanaman Modal Luar Negeri Menurut Provinsi 1 (juta US$), 2012-2014",
+      "No": "50"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Realisasi Investasi Penanaman Modal Luar Negeri Menurut Provinsi 1 (juta US$), 2006-2014",
+      "No": "51"
+    },
+    {
+      "Update Terakhir": "30 Sep 2015",
+      "Judul Tabel": "Realisasi Investasi Penanaman Modal Luar Negeri Menurut Sektor Ekonomi 1 (juta US$), 2012-2014",
+      "No": "52"
+    },
+    {
+      "Update Terakhir": "07 Jan 2015",
+      "Judul Tabel": "Realisasi Investasi Penanaman Modal Luar Negeri Menurut Sektor Ekonomi  1)  (juta US$), 2000-2013",
+      "No": "53"
+    },
+    {
+      "Update Terakhir": "12 Jan 2015",
+      "Judul Tabel": "Realisasi Penerimaan dan Pengeluaran Pemerintah Desa (Juta Rupiah) di Perkotaan menurut Provinsi, 2000-2012",
+      "No": "54"
+    },
+    {
+      "Update Terakhir": "22 Mar 2016",
+      "Judul Tabel": "Realisasi Penerimaan Negara (milyar rupiah), 2007-2016",
+      "No": "55"
+    },
+    {
+      "Update Terakhir": "28 May 2015",
+      "Judul Tabel": "Realisasi Penerimaan Pemerintah Kabupaten/Kota Seluruh Indonesia, 2006-2014",
+      "No": "56"
+    },
+    {
+      "Update Terakhir": "13 Jan 2015",
+      "Judul Tabel": "Realisasi Penerimaan Pemerintah Provinsi Seluruh Indonesia Menurut Jenis Penerimaan, 2005-2014",
+      "No": "57"
+    },
+    {
+      "Update Terakhir": "12 Aug 2015",
+      "Judul Tabel": "Realisasi Penerimaan/Pengeluaran Pemerintah Desa, 2005-2014",
+      "No": "58"
+    },
+    {
+      "Update Terakhir": "13 May 2014",
+      "Judul Tabel": "Realisasi Pengeluaran Negara (milyar rupiah), 2007-2014",
+      "No": "59"
+    },
+    {
+      "Update Terakhir": "28 May 2015",
+      "Judul Tabel": "Realisasi Pengeluaran Pemerintah Kabupaten/Kota Seluruh Indonesia, 2006-2014",
+      "No": "60"
+    },
+    {
+      "Update Terakhir": "13 Jan 2015",
+      "Judul Tabel": "Realisasi Pengeluaran Pemerintah Provinsi Seluruh Indonesia Menurut Jenis Belanja, 2005-2014",
+      "No": "61"
+    },
+    {
+      "Update Terakhir": "01 Oct 2015",
+      "Judul Tabel": "Rekapitulasi Neraca Perusahaan Asuransi Menurut Jenis Usaha per 31 Desember (miliar rupiah)",
+      "No": "62"
+    },
+    {
+      "Update Terakhir": "01 Oct 2015",
+      "Judul Tabel": "Rekapitulasi Neraca Perusahaan Penyelenggara Program Asuransi untuk PNS, TNI-Polri, Sosial, dan Jamsostek Per 31 Desember (miliar rupiah) 2000-2013",
+      "No": "63"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Sisa Hasil Usaha (SHU) Koperasi Menurut Provinsi (juta rupiah), 2006-2014",
+      "No": "64"
+    },
+    {
+      "Update Terakhir": "22 Mar 2016",
+      "Judul Tabel": "Suku Bunga Kredit Rupiah Menurut Kelompok Bank, 2002-2015",
+      "No": "65"
+    },
+    {
+      "Update Terakhir": "22 Mar 2016",
+      "Judul Tabel": "Tabel Anggaran Belanja Pemerintah Pusat Berdasarkan Fungsi (miliar rupiah), 2005-2016",
+      "No": "66"
+    },
+    {
+      "Update Terakhir": "30 Jan 2014",
+      "Judul Tabel": "Tabel Perkembangan Koperasi pada Periode 1967 -2013",
+      "No": "67"
+    },
+    {
+      "Update Terakhir": "30 Jan 2014",
+      "Judul Tabel": "Tabel Perkembangan UMKM pada Periode 1997 -2012",
+      "No": "68"
+    },
+    {
+      "Update Terakhir": "04 Dec 2014",
+      "Judul Tabel": "Tabungan bruto Domestik, Investasi nonvinansial, dan Tabungan Luar Negeri Triwulan (Triliun rupiah), 2002-2013",
+      "No": "69"
+    },
+    {
+      "Update Terakhir": "17 Sep 2014",
+      "Judul Tabel": "Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Triwulan Sektor Bank (Miliar rupiah), 2003-2012",
+      "No": "70"
+    },
+    {
+      "Update Terakhir": "17 Sep 2014",
+      "Judul Tabel": "Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Triwulan Sektor bank Sentral (Miliar Rupiah), 2003-2012",
+      "No": "71"
+    },
+    {
+      "Update Terakhir": "04 Dec 2014",
+      "Judul Tabel": "Tabungan bruto, Investasi Nonfinansial, dan pinjaman Neto Triwulan Sektor Domestik Lain 1 (Triliun rupiah), 2002-2013",
+      "No": "72"
+    },
+    {
+      "Update Terakhir": "04 Dec 2014",
+      "Judul Tabel": "Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Triwulan Sektor Pemerintahan Umum (Triliun), 2002-2013",
+      "No": "73"
+    },
+    {
+      "Update Terakhir": "04 Dec 2014",
+      "Judul Tabel": "Tabungan Bruto Menurut Sektor (triliun rupiah), 2003-2013",
+      "No": "74"
+    },
+    {
+      "Update Terakhir": "22 Dec 2015",
+      "Judul Tabel": "Transaksi dan Indeks Saham di Bursa Efek, 1994-2007",
+      "No": "75"
+    },
+    {
+      "Update Terakhir": "22 Mar 2016",
+      "Judul Tabel": "Transaksi dan Indeks Saham di Bursa Efek Indonesia, 2008-2016",
+      "No": "76"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Uang Beredar dan Faktor-Faktor yang Mempengaruhinya (miliar rupiah), 2000 - 2014",
+      "No": "77"
+    },
+    {
+      "Update Terakhir": "22 Mar 2016",
+      "Judul Tabel": "Uang Beredar (Miliar Rupiah), 2003-2016",
+      "No": "78"
+    },
+    {
+      "Update Terakhir": "29 Sep 2015",
+      "Judul Tabel": "Volume Usaha Koperasi Menurut Provinsi (juta rupiah), 2006-2014",
+      "No": "79"
+    }
+  ]
+}

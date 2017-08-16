@@ -1,0 +1,17 @@
+1. levelgroup: headernya jadi ngaco parah
+2. mixedheader: ga ada exception tapi table_data nya empty
+[SOLVED]gara2 headernya pake 'thead', bukan 'tr'
+3. topoatheader:
+	Traceback (most recent call last):
+  File "data_extractor_2.py", line 367, in <module>
+    extract_table(infiletabletestAG,infilefeaturetestAG)
+  File "data_extractor_2.py", line 252, in extract_table
+    res = extract_toponym(t)
+  File "data_extractor_2.py", line 261, in extract_toponym
+    out_json['table_title'] = get_table_title(a_table)
+  File "data_extractor_2.py", line 164, in get_table_title
+    table_title += title[r].list_of_cells[0].text
+IndexError: list index out of range
+[SOLVED]karena ada baris blank yang diklasifikasikan sebagai title sama crf-nya
+4. topomorethanone: header ngaco parah
+[SOLVED] nggak tau, tiba-tiba aja pas dicoba lagi udah bener -____-zzzzZ

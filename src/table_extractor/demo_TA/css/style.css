@@ -1,0 +1,24 @@
+.form-inline {
+	margin-bottom: 10px;
+}
+
+#ruleBasedResult {
+	padding-top: 50px;
+}
+
+#featureResult {
+	padding-top: 50px;
+}
+
+#formrow {
+	padding-top: 15px;
+	padding-left: 25px;
+}
+
+#predictResult {
+	padding-top: 40px;
+}
+
+#extractDataResult {
+	padding-top: 40px;
+}

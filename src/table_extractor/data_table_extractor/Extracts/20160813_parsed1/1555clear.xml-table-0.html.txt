@@ -1,0 +1,108 @@
+{
+  "table_notes": "",
+  "table_title": "Produksi Minyak Bumi dan Gas Alam, 1996-2012 ",
+  "table_data": [
+    {
+      "Minyak Mentah (barel)": "485 573,80",
+      "Tahun": "1996",
+      "Gas Alam (MMscf)": "3164 016,20",
+      "Kondensat (barel)": "63 074,50"
+    },
+    {
+      "Minyak Mentah (barel)": "484 340,60",
+      "Tahun": "1997",
+      "Gas Alam (MMscf)": "3166 034,90",
+      "Kondensat (barel)": "59 412,00"
+    },
+    {
+      "Minyak Mentah (barel)": "480 109,70",
+      "Tahun": "1998",
+      "Gas Alam (MMscf)": "2978 851,90",
+      "Kondensat (barel)": "54 782,30"
+    },
+    {
+      "Minyak Mentah (barel)": "440 461,60",
+      "Tahun": "1999",
+      "Gas Alam (MMscf)": "3068 349,10",
+      "Kondensat (barel)": "54 181,40"
+    },
+    {
+      "Minyak Mentah (barel)": "434 368,80",
+      "Tahun": "2000",
+      "Gas Alam (MMscf)": "2845 532,90",
+      "Kondensat (barel)": "50 024,50"
+    },
+    {
+      "Minyak Mentah (barel)": "432 588,00",
+      "Tahun": "2001",
+      "Gas Alam (MMscf)": "3765 828,50",
+      "Kondensat (barel)": "47 528,10"
+    },
+    {
+      "Minyak Mentah (barel)": "351 949,60",
+      "Tahun": "2002",
+      "Gas Alam (MMscf)": "2289 373,90",
+      "Kondensat (barel)": "45 358,90"
+    },
+    {
+      "Minyak Mentah (barel)": "339 100,00",
+      "Tahun": "2003",
+      "Gas Alam (MMscf)": "2142 605,00",
+      "Kondensat (barel)": "44 600,00"
+    },
+    {
+      "Minyak Mentah (barel)": "354 351,90",
+      "Tahun": "2004",
+      "Gas Alam (MMscf)": "3026 069,30",
+      "Kondensat (barel)": "50 641,00"
+    },
+    {
+      "Minyak Mentah (barel)": "341 202,60",
+      "Tahun": "2005",
+      "Gas Alam (MMscf)": "2985 341,00",
+      "Kondensat (barel)": "46 450,90"
+    },
+    {
+      "Minyak Mentah (barel)": "313 037,20",
+      "Tahun": "2006",
+      "Gas Alam (MMscf)": "2948 021,60",
+      "Kondensat (barel)": "44 440,20"
+    },
+    {
+      "Minyak Mentah (barel)": "305 137,40",
+      "Tahun": "2007",
+      "Gas Alam (MMscf)": "2805 540,30",
+      "Kondensat (barel)": "43 210,60"
+    },
+    {
+      "Minyak Mentah (barel)": "314 221,70",
+      "Tahun": "2008",
+      "Gas Alam (MMscf)": "2790 988,00",
+      "Kondensat (barel)": "44 497,00"
+    },
+    {
+      "Minyak Mentah (barel)": "301 663,40",
+      "Tahun": "2009",
+      "Gas Alam (MMscf)": "2887 892,20",
+      "Kondensat (barel)": "44 649,60"
+    },
+    {
+      "Minyak Mentah (barel)": "300 923,30",
+      "Tahun": "2010",
+      "Gas Alam (MMscf)": "3407 592,30",
+      "Kondensat (barel)": "43 964,70"
+    },
+    {
+      "Minyak Mentah (barel)": "289 899,00",
+      "Tahun": "2011",
+      "Gas Alam (MMscf)": "3256 378,90",
+      "Kondensat (barel)": "39 350,30"
+    },
+    {
+      "Minyak Mentah (barel)": "279 412,10",
+      "Tahun": "2012",
+      "Gas Alam (MMscf)": "2982 753,50",
+      "Kondensat (barel)": "35 253,80"
+    }
+  ]
+}

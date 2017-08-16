@@ -1,0 +1,161 @@
+table_file,is_extracted,is_exception,evaluation
+1018clear.xml-table-0.html,1,0,"Print to file problem, agregat row parsing problem"
+1019clear.xml-table-0.html,1,0,"Print to file problem, agregat row parsing problem"
+1021clear.xml-table-0.html,1,0,"Notes incomplete, missing key/value on table_data because empty cell (supposed to use rowspan)"
+1027clear.xml-table-0.html,1,0,"Print to file problem, agregat row parsing problem"
+1030clear.xml-table-0.html,1,0,Agregat row parsing problem (empty key/value pair)
+103clear.xml-table-0.html,1,0,Complete
+1059clear.xml-table-0.html,1,0,"Notes incomplete, maybe because td element has tree structure again as its child"
+1061clear.xml-table-0.html,1,0,Complete
+1062clear.xml-table-0.html,1,0,Complete
+1063clear.xml-table-0.html,1,0,Notes incomplete
+1069clear.xml-table-0.html,1,0,Complete
+1071clear.xml-table-0.html,1,0,"Notes incomplete, a row contains several cells"
+1072clear.xml-table-0.html,0,1,
+108clear.xml-table-0.html,1,0,"Notes incomplete, a row contains several cells"
+1146clear.xml-table-0.html,1,0,Complete
+1147clear.xml-table-0.html,1,0,"Agregat row parsing problem, mislabelling group header"
+1148clear.xml-table-0.html,1,0,Complete
+1161clear.xml-table-0.html,1,0,Complete
+1162clear.xml-table-0.html,1,0,Complete
+1167clear.xml-table-0.html,1,0,Complete
+1168clear.xml-table-0.html,1,0,Complete
+1169clear.xml-table-0.html,1,0,Complete
+1171clear.xml-table-0.html,1,0,Complete
+1174clear.xml-table-0.html,1,0,Complete
+1197clear.xml-table-0.html,1,0,"Notes incomplete, agregat row parsing problem (empty key)"
+1198clear.xml-table-0.html,1,0,Ambigous value (supposed to use rowspan cell)
+1199clear.xml-table-0.html,1,0,Complete
+1200clear.xml-table-0.html,1,0,"Notes incomplete, contains note row before table, ambigous value (supposed to use rowspan cell)"
+1201clear.xml-table-0.html,1,0,Agregat row parsing problem (empty key/value pair)
+1206clear.xml-table-0.html,1,0,Complete
+1207clear.xml-table-0.html,1,0,Complete
+1209clear.xml-table-0.html,1,0,Agregat row parsing problem (strange key/value pair)
+1210clear.xml-table-0.html,1,0,Complete
+1211clear.xml-table-0.html,1,0,Complete
+124clear.xml-table-0.html,0,0,
+1254clear.xml-table-0.html,1,0,"Agregat row parsing problem (empty key/value pair, empty key)"
+137clear.xml-table-0.html,0,0,
+13clear.xml-table-0.html,0,0,
+13clear.xml-table-1.html,1,0,Complete
+1541clear.xml-table-0.html,1,0,Complete
+1544clear.xml-table-0.html,1,0,Complete
+1545clear.xml-table-0.html,1,0,Print to file problem
+1546clear.xml-table-0.html,1,0,Complete
+1547clear.xml-table-0.html,1,0,Complete
+1548clear.xml-table-0.html,1,0,Complete
+1553clear.xml-table-0.html,1,0,Complete
+1554clear.xml-table-0.html,1,0,Notes incomplete
+1555clear.xml-table-0.html,1,0,Complete
+1559clear.xml-table-0.html,1,0,Complete
+1561clear.xml-table-0.html,1,0,Mislabelling group header as data row
+1695clear.xml-table-0.html,1,0,Complete
+1696clear.xml-table-0.html,1,0,Complete
+1698clear.xml-table-0.html,1,0,Complete
+1699clear.xml-table-0.html,1,0,Complete
+1726clear.xml-table-0.html,1,0,Complete
+1736clear.xml-table-0.html,1,0,Complete
+1738clear.xml-table-0.html,1,0,Notes incomplete
+1739clear.xml-table-0.html,1,0,Complete
+1742clear.xml-table-0.html,1,0,Notes incomplete
+1747clear.xml-table-0.html,1,0,Complete
+1749clear.xml-table-0.html,1,0,Complete
+1762clear.xml-table-0.html,1,0,Complete
+1773clear.xml-table-0.html,1,0,"Notes incomplete, value incomplete (supposed to use merge cell and rowspan)"
+17clear.xml-table-1.html,1,0,Complete
+1804clear.xml-table-0.html,0,0,
+1816clear.xml-table-0.html,1,0,Complete
+1816clear.xml-table-1.html,1,0,Complete
+18clear.xml-table-0.html,1,0,Complete
+191clear.xml-table-0.html,1,0,Group data parsing problem
+24clear.xml-table-0.html,1,1,Agregat row parsing problem (strange key/value pair)
+24clear.xml-table-1.html,1,1,Complete
+24clear.xml-table-2.html,1,1,Print to file problem
+24clear.xml-table-3.html,1,0,Complete
+24clear.xml-table-4.html,1,0,Agregat row parsing problem (strange key/value pair)
+24clear.xml-table-5.html,1,0,Agregat row parsing problem (strange key/value pair)
+25clear.xml-table-0.html,1,1,Complete
+25clear.xml-table-1.html,1,0,Some data not extracted (caused by rowspan on data rows)
+352clear.xml-table-0.html,1,0,Agregat row parsing problem (strange key/value pair)
+352clear.xml-table-2.html,1,0,"Mislabelling, supposed to be more than one table"
+352clear.xml-table-4.html,1,0,Agregat row parsing problem (strange key/value pair)
+35clear.xml-table-0.html,1,0,"Data not extracted, caused by a column that only contains a cell with rowspan"
+35clear.xml-table-1.html,1,0,"Data incomplete, first column not extracted because empty header cell"
+35clear.xml-table-2.html,1,0,"Data not extracted, caused by a column that only contains a cell with rowspan"
+38clear.xml-table-0.html,1,0,"Data incomplete, caused by duplicate header cells"
+38clear.xml-table-1.html,1,0,Complete
+45clear.xml-table-0.html,1,1,Complete
+52clear.xml-table-0.html,1,0,Complete
+578clear.xml-table-0.html,1,0,Complete
+624clear.xml-table-1.html,1,0,"Data incomplete, first column not extracted because empty header cell"
+624clear.xml-table-2.html,1,0,"Data not extracted, caused by a column that only contains a cell with rowspan"
+625clear.xml-table-0.html,1,0,Complete
+72clear.xml-table-0.html,1,1,Complete
+789clear.xml-table-0.html,1,0,Complete
+791clear.xml-table-0.html,1,0,Agregat row parsing problem (empty key/value pair))
+792clear.xml-table-0.html,1,0,Agregat row parsing problem (empty key/value pair))
+795clear.xml-table-0.html,1,0,Agregat row parsing problem (empty key/value pair))
+876clear.xml-table-0.html,1,0,Complete
+882clear.xml-table-0.html,1,0,"Notes incomplete, print to file problem, agregat row parsing problem (empty key/value pair)"
+993clear.xml-table-0.html,1,0,Print to file problem
+997clear.xml-table-0.html,1,0,Complete
+table_0-1031.html,1,0,Complete
+table_0-1043.html,1,0,"Data incomplete, supposed to use rowspan"
+table_0-12.html,0,0,
+table_0-13.html,1,0,"Data incomplete, duplicate header cells"
+table_0-14.html,1,0,"Data incomplete, duplicate header cells"
+table_0-18.html,0,0,
+table_0-19.html,1,0,"Data incomplete, duplicate header cells"
+table_0-30.html,0,0,
+table_0-306.html,1,0,"Data incomplete, data before group header not extracted"
+table_0-307.html,1,0,"Data incomplete, multiple table with only one header (on the first table), consider title as group header maybe"
+table_0-31.html,1,0,"Data incomplete, duplicate header cells"
+table_0-32.html,1,0,"Data incomplete, duplicate header cells"
+table_0-418.html,1,0,Complete
+table_0-419.html,1,0,Complete
+table_0-420.html,1,0,Complete
+table_0-421.html,1,0,Complete
+table_0-422.html,1,0,Complete
+table_0-425.html,1,0,Complete
+table_0-427.html,1,0,"Complete, example for case 4"
+table_0-476.html,1,0,Complete
+table_0-477.html,1,0,"Data incomplete, group header only get value of first cells, contains one header cell for 3 columns"
+table_0-486.html,1,0,Complete
+table_0-497.html,1,0,Complete
+table_0-5.html,1,0,Complete
+table_0-500.html,1,0,Complete
+table_0-547.html,0,0,
+table_0-549.html,1,0,Complete
+table_0-561.html,1,0,Complete
+table_0-567.html,1,0,Complete
+table_0-578.html,0,0,
+table_0-581.html,1,0,Print to file problem
+table_0-587.html,1,0,Complete
+table_0-590.html,1,0,Complete
+table_0-6.html,0,0,
+table_0-663.html,1,0,"Agregat row parsing problem (empty key, strange key/value pair)"
+table_0-664.html,1,0,Complete
+table_0-757.html,1,0,Complete
+table_0-811.html,1,0,Complete
+table_0-812.html,0,0,
+table_0-892.html,1,0,Complete
+table_0-968.html,0,0,
+table_0-973.html,0,0,
+table_0-975.html,0,0,
+table_0-978.html,0,1,
+table_1-1039.html,0,0,
+table_1-212.html,1,0,Complete
+table_1-275.html,1,0,Complete
+table_1-277.html,1,0,Complete
+table_1-486.html,1,0,Complete
+table_1-500.html,1,0,Complete
+table_1-655.html,1,0,Complete
+table_1-663.html,1,0,Complete
+table_1-664.html,1,0,Complete
+table_1-868.html,0,0,
+table_1-885.html,1,0,Complete
+table_1-904.html,0,0,
+table_1-980.html,1,0,"Wrong parsed, different num of cols after a header group"
+table_2-578.html,0,0,
+table_2-757.html,1,0,Complete
+table_3-127.html,1,0,"Data incomplete, missing most left header cell value"

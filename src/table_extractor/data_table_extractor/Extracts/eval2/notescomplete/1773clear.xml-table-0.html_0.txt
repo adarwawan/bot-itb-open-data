@@ -1,0 +1,897 @@
+{
+  "table_notes": "Catatan :  - Data tahun 2008 s/d 2014 berdasarkan Publikasi Statistik Harga Produsen Gabah di Indonesia, sedangkan data tahun 2015-2016 berdasarkan Berita Resmi Statistik (BRS)  - IINPRES 3/2007 mulai 1 April 2007, Harga Pembelian Pemerintah (HPP) per Kg GKP = Rp. 2.000,-(petani), Rp. 2.035,- (penggilingan), GKG = 2.575,-  - INPRES 1/2008 mulai 22 April 2008, Harga Pembelian Pemerintah (HPP) per Kg GKP = Rp. 2.200,- (petani), Rp. 2.240,- (penggilingan), GKG = Rp. 2.800,-  - INPRES 8/2008 mulai 1 Januari 2009, Harga Pembelian Pemerintah (HPP) per Kg GKP = Rp. 2.400,- (petani), Rp. 2.440,- (penggilingan), GKG = Rp. 3.000,-  - INPRES 7/2009 mulai 1 Januari 2010, Harga Pembelian Pemerintah (HPP) per Kg GKP = Rp. 2.640,- (petani), Rp. 2.685,- (penggilingan), GKG = Rp. 3.300,-  - INPRES 3/2012 mulai 27 Februari 2012, Harga Pembelian Pemerintah (HPP) per Kg GKP = Rp. 3.300,- (petani), Rp. 3.350,- (penggilingan), GKG = Rp. 4.150,-  - INPRES 5/2015 mulai 17 Maret 2015, Harga Pembelian Pemerintah (HPP) per Kg GKP = Rp. 3.700,- (petani), Rp. 3.750,- (penggilingan), GKG = Rp. 4.600,-  ",
+  "table_title": "Jumlah Observasi dan Persentase Kasus Harga Gabah di Bawah Harga Pembelian Pemerintah (HPP), 2008-2016 ",
+  "table_data": [
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Januari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "584",
+      "Gabah Kering Giling Jumlah Observasi": "131",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "584",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Februari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "625",
+      "Gabah Kering Giling Jumlah Observasi": "153",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "625",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "11,13",
+      "Gabah Kering Panen Tingkat Petani (%)": "11,00",
+      "Tahun/Bulan": "Maret",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "791",
+      "Gabah Kering Giling Jumlah Observasi": "112",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "791",
+      "Gabah Kering Giling (%)": "7,14"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Januari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "667",
+      "Gabah Kering Giling Jumlah Observasi": "98",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "667",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Februari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "738",
+      "Gabah Kering Giling Jumlah Observasi": "135",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "738",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "11,78",
+      "Gabah Kering Panen Tingkat Petani (%)": "11,20",
+      "Tahun/Bulan": "Maret",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 036",
+      "Gabah Kering Giling Jumlah Observasi": "118",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 036",
+      "Gabah Kering Giling (%)": "11,86"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "22,92",
+      "Gabah Kering Panen Tingkat Petani (%)": "23,24",
+      "Tahun/Bulan": "April",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 536",
+      "Gabah Kering Giling Jumlah Observasi": "90",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 536",
+      "Gabah Kering Giling (%)": "16,67"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "4,13",
+      "Gabah Kering Panen Tingkat Petani (%)": "5,55",
+      "Tahun/Bulan": "Mei",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "919",
+      "Gabah Kering Giling Jumlah Observasi": "125",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "919",
+      "Gabah Kering Giling (%)": "15,20"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,87",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,87",
+      "Tahun/Bulan": "Juni",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "691",
+      "Gabah Kering Giling Jumlah Observasi": "137",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "691",
+      "Gabah Kering Giling (%)": "4,38"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Juli",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "949",
+      "Gabah Kering Giling Jumlah Observasi": "117",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "949",
+      "Gabah Kering Giling (%)": "5,98"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,34",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,34",
+      "Tahun/Bulan": "Agustus",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 165",
+      "Gabah Kering Giling Jumlah Observasi": "86",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 165",
+      "Gabah Kering Giling (%)": "5,81"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,63",
+      "Tahun/Bulan": "September",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "945",
+      "Gabah Kering Giling Jumlah Observasi": "137",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "945",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Oktober",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "928",
+      "Gabah Kering Giling Jumlah Observasi": "148",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "928",
+      "Gabah Kering Giling (%)": "3,38"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "November",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "909",
+      "Gabah Kering Giling Jumlah Observasi": "180",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "909",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Desember",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "815",
+      "Gabah Kering Giling Jumlah Observasi": "146",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "815",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "2,43",
+      "Gabah Kering Panen Tingkat Petani (%)": "1,94",
+      "Tahun/Bulan": "Januari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "617",
+      "Gabah Kering Giling Jumlah Observasi": "127",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "617",
+      "Gabah Kering Giling (%)": "0,79"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Februari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "690",
+      "Gabah Kering Giling Jumlah Observasi": "76",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "690",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "2,75",
+      "Gabah Kering Panen Tingkat Petani (%)": "2,06",
+      "Tahun/Bulan": "Maret",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 019",
+      "Gabah Kering Giling Jumlah Observasi": "96",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 019",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "1,58",
+      "Gabah Kering Panen Tingkat Petani (%)": "2,23",
+      "Tahun/Bulan": "April",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 392",
+      "Gabah Kering Giling Jumlah Observasi": "116",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 392",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "1,85",
+      "Gabah Kering Panen Tingkat Petani (%)": "2,10",
+      "Tahun/Bulan": "Mei",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "810",
+      "Gabah Kering Giling Jumlah Observasi": "121",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "810",
+      "Gabah Kering Giling (%)": "2,48"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "1,05",
+      "Gabah Kering Panen Tingkat Petani (%)": "1,05",
+      "Tahun/Bulan": "Juni",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "760",
+      "Gabah Kering Giling Jumlah Observasi": "117",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "760",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,65",
+      "Tahun/Bulan": "Juli",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "921",
+      "Gabah Kering Giling Jumlah Observasi": "122",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "921",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Agustus",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 024",
+      "Gabah Kering Giling Jumlah Observasi": "111",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 024",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,32",
+      "Gabah Kering Panen Tingkat Petani (%)": "1,06",
+      "Tahun/Bulan": "September",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "946",
+      "Gabah Kering Giling Jumlah Observasi": "133",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "946",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,22",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,89",
+      "Tahun/Bulan": "Oktober",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "898",
+      "Gabah Kering Giling Jumlah Observasi": "148",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "898",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "November",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "879",
+      "Gabah Kering Giling Jumlah Observasi": "154",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "879",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Desember",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "741",
+      "Gabah Kering Giling Jumlah Observasi": "163",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "741",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "2,07",
+      "Gabah Kering Panen Tingkat Petani (%)": "2,07",
+      "Tahun/Bulan": "Januari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "579",
+      "Gabah Kering Giling Jumlah Observasi": "103",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "579",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "1,07",
+      "Gabah Kering Panen Tingkat Petani (%)": "1,07",
+      "Tahun/Bulan": "Februari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "560",
+      "Gabah Kering Giling Jumlah Observasi": "71",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "560",
+      "Gabah Kering Giling (%)": "2,82"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "10,62",
+      "Gabah Kering Panen Tingkat Petani (%)": "8,98",
+      "Tahun/Bulan": "Maret",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "857",
+      "Gabah Kering Giling Jumlah Observasi": "70",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "857",
+      "Gabah Kering Giling (%)": "15,71"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "14,11",
+      "Gabah Kering Panen Tingkat Petani (%)": "13,27",
+      "Tahun/Bulan": "April",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 304",
+      "Gabah Kering Giling Jumlah Observasi": "108",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 304",
+      "Gabah Kering Giling (%)": "33,33"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "6,59",
+      "Gabah Kering Panen Tingkat Petani (%)": "5,60",
+      "Tahun/Bulan": "Mei",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "804",
+      "Gabah Kering Giling Jumlah Observasi": "123",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "804",
+      "Gabah Kering Giling (%)": "8,94"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "1,97",
+      "Gabah Kering Panen Tingkat Petani (%)": "1,71",
+      "Tahun/Bulan": "Juni",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "760",
+      "Gabah Kering Giling Jumlah Observasi": "121",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "760",
+      "Gabah Kering Giling (%)": "10,74"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "2,43",
+      "Gabah Kering Panen Tingkat Petani (%)": "2,06",
+      "Tahun/Bulan": "Juli",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 069",
+      "Gabah Kering Giling Jumlah Observasi": "116",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 069",
+      "Gabah Kering Giling (%)": "10,34"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "3,91",
+      "Gabah Kering Panen Tingkat Petani (%)": "3,91",
+      "Tahun/Bulan": "Agustus",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "972",
+      "Gabah Kering Giling Jumlah Observasi": "109",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "972",
+      "Gabah Kering Giling (%)": "4,59"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "4,58",
+      "Gabah Kering Panen Tingkat Petani (%)": "4,68",
+      "Tahun/Bulan": "September",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 005",
+      "Gabah Kering Giling Jumlah Observasi": "106",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 005",
+      "Gabah Kering Giling (%)": "4,72"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "4,51",
+      "Gabah Kering Panen Tingkat Petani (%)": "4,83",
+      "Tahun/Bulan": "Oktober",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "932",
+      "Gabah Kering Giling Jumlah Observasi": "119",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "932",
+      "Gabah Kering Giling (%)": "4,20"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "1,56",
+      "Gabah Kering Panen Tingkat Petani (%)": "1,22",
+      "Tahun/Bulan": "November",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "900",
+      "Gabah Kering Giling Jumlah Observasi": "142",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "900",
+      "Gabah Kering Giling (%)": "2,11"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,87",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,87",
+      "Tahun/Bulan": "Desember",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "687",
+      "Gabah Kering Giling Jumlah Observasi": "107",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "687",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Januari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "576",
+      "Gabah Kering Giling Jumlah Observasi": "85",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "576",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Februari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "763",
+      "Gabah Kering Giling Jumlah Observasi": "83",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "763",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "18,59",
+      "Gabah Kering Panen Tingkat Petani (%)": "18,20",
+      "Tahun/Bulan": "Maret",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 264",
+      "Gabah Kering Giling Jumlah Observasi": "59",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 264",
+      "Gabah Kering Giling (%)": "32,20"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "12,74",
+      "Gabah Kering Panen Tingkat Petani (%)": "14,02",
+      "Tahun/Bulan": "April",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 248",
+      "Gabah Kering Giling Jumlah Observasi": "78",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 248",
+      "Gabah Kering Giling (%)": "16,67"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "2,67",
+      "Gabah Kering Panen Tingkat Petani (%)": "3,43",
+      "Tahun/Bulan": "Mei",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "787",
+      "Gabah Kering Giling Jumlah Observasi": "109",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "787",
+      "Gabah Kering Giling (%)": "13,76"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "4,94",
+      "Gabah Kering Panen Tingkat Petani (%)": "5,07",
+      "Tahun/Bulan": "Juni",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "789",
+      "Gabah Kering Giling Jumlah Observasi": "115",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "789",
+      "Gabah Kering Giling (%)": "18,26"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "2,05",
+      "Gabah Kering Panen Tingkat Petani (%)": "4,68",
+      "Tahun/Bulan": "Juli",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 026",
+      "Gabah Kering Giling Jumlah Observasi": "100",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 026",
+      "Gabah Kering Giling (%)": "8,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,64",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,96",
+      "Tahun/Bulan": "Agustus",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "938",
+      "Gabah Kering Giling Jumlah Observasi": "95",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "938",
+      "Gabah Kering Giling (%)": "1,05"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,39",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,39",
+      "Tahun/Bulan": "September",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "762",
+      "Gabah Kering Giling Jumlah Observasi": "112",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "762",
+      "Gabah Kering Giling (%)": "3,57"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,38",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,38",
+      "Tahun/Bulan": "Oktober",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "783",
+      "Gabah Kering Giling Jumlah Observasi": "111",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "783",
+      "Gabah Kering Giling (%)": "4,50"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,41",
+      "Gabah Kering Panen Tingkat Petani (%)": "1,10",
+      "Tahun/Bulan": "November",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "730",
+      "Gabah Kering Giling Jumlah Observasi": "104",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "730",
+      "Gabah Kering Giling (%)": "5,77"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "2,17",
+      "Gabah Kering Panen Tingkat Petani (%)": "2,03",
+      "Tahun/Bulan": "Desember",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "739",
+      "Gabah Kering Giling Jumlah Observasi": "118",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "739",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,75",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,75",
+      "Tahun/Bulan": "Januari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "535",
+      "Gabah Kering Giling Jumlah Observasi": "81",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "535",
+      "Gabah Kering Giling (%)": "1,23"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "17,16",
+      "Gabah Kering Panen Tingkat Petani (%)": "17,38",
+      "Tahun/Bulan": "Februari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "938",
+      "Gabah Kering Giling Jumlah Observasi": "81",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "938",
+      "Gabah Kering Giling (%)": "14,81"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "17,97",
+      "Gabah Kering Panen Tingkat Petani (%)": "18,37",
+      "Tahun/Bulan": "Maret",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 486",
+      "Gabah Kering Giling Jumlah Observasi": "63",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 486",
+      "Gabah Kering Giling (%)": "19,05"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "7,57",
+      "Gabah Kering Panen Tingkat Petani (%)": "7,67",
+      "Tahun/Bulan": "April",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "991",
+      "Gabah Kering Giling Jumlah Observasi": "87",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "991",
+      "Gabah Kering Giling (%)": "13,79"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "4,23",
+      "Gabah Kering Panen Tingkat Petani (%)": "3,99",
+      "Tahun/Bulan": "Mei",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "827",
+      "Gabah Kering Giling Jumlah Observasi": "120",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "827",
+      "Gabah Kering Giling (%)": "12,50"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "2,27",
+      "Gabah Kering Panen Tingkat Petani (%)": "2,56",
+      "Tahun/Bulan": "Juni",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 055",
+      "Gabah Kering Giling Jumlah Observasi": "85",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 055",
+      "Gabah Kering Giling (%)": "5,88"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "2,11",
+      "Gabah Kering Panen Tingkat Petani (%)": "2,42",
+      "Tahun/Bulan": "Juli",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "993",
+      "Gabah Kering Giling Jumlah Observasi": "84",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "993",
+      "Gabah Kering Giling (%)": "3,57"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,34",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,34",
+      "Tahun/Bulan": "Agustus",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "892",
+      "Gabah Kering Giling Jumlah Observasi": "97",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "892",
+      "Gabah Kering Giling (%)": "6,19"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "September",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "762",
+      "Gabah Kering Giling Jumlah Observasi": "109",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "762",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Oktober",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 111",
+      "Gabah Kering Giling Jumlah Observasi": "128",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 111",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,52",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,52",
+      "Tahun/Bulan": "November",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "959",
+      "Gabah Kering Giling Jumlah Observasi": "101",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "959",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,00",
+      "Tahun/Bulan": "Desember",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "735",
+      "Gabah Kering Giling Jumlah Observasi": "102",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "735",
+      "Gabah Kering Giling (%)": "0,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "4,38",
+      "Gabah Kering Panen Tingkat Petani (%)": "4,21",
+      "Tahun/Bulan": "Januari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "594",
+      "Gabah Kering Giling Jumlah Observasi": "102",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "594",
+      "Gabah Kering Giling (%)": "13,73"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "3,57",
+      "Gabah Kering Panen Tingkat Petani (%)": "2,95",
+      "Tahun/Bulan": "Februari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "644",
+      "Gabah Kering Giling Jumlah Observasi": "71",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "644",
+      "Gabah Kering Giling (%)": "18,31"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "26,52",
+      "Gabah Kering Panen Tingkat Petani (%)": "27,59",
+      "Tahun/Bulan": "Maret",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 033",
+      "Gabah Kering Giling Jumlah Observasi": "41",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 033",
+      "Gabah Kering Giling (%)": "29,27"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "30,01",
+      "Gabah Kering Panen Tingkat Petani (%)": "30,77",
+      "Tahun/Bulan": "April",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 053",
+      "Gabah Kering Giling Jumlah Observasi": "58",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 053",
+      "Gabah Kering Giling (%)": "53,45"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "17,12",
+      "Gabah Kering Panen Tingkat Petani (%)": "18,36",
+      "Tahun/Bulan": "Mei",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "806",
+      "Gabah Kering Giling Jumlah Observasi": "70",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "806",
+      "Gabah Kering Giling (%)": "42,86"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "15,68",
+      "Gabah Kering Panen Tingkat Petani (%)": "18,64",
+      "Tahun/Bulan": "Juni",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "708",
+      "Gabah Kering Giling Jumlah Observasi": "58",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "708",
+      "Gabah Kering Giling (%)": "37,93"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "4,78",
+      "Gabah Kering Panen Tingkat Petani (%)": "4,78",
+      "Tahun/Bulan": "Juli",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 067",
+      "Gabah Kering Giling Jumlah Observasi": "76",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 067",
+      "Gabah Kering Giling (%)": "18,42"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "3,16",
+      "Gabah Kering Panen Tingkat Petani (%)": "4,49",
+      "Tahun/Bulan": "Agustus",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "980",
+      "Gabah Kering Giling Jumlah Observasi": "69",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "980",
+      "Gabah Kering Giling (%)": "15,94"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "6,24",
+      "Gabah Kering Panen Tingkat Petani (%)": "6,95",
+      "Tahun/Bulan": "September",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "705",
+      "Gabah Kering Giling Jumlah Observasi": "91",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "705",
+      "Gabah Kering Giling (%)": "14,29"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "5,01",
+      "Gabah Kering Panen Tingkat Petani (%)": "5,23",
+      "Tahun/Bulan": "Oktober",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "879",
+      "Gabah Kering Giling Jumlah Observasi": "83",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "879",
+      "Gabah Kering Giling (%)": "9,64"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "5,30",
+      "Gabah Kering Panen Tingkat Petani (%)": "5,83",
+      "Tahun/Bulan": "November",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "943",
+      "Gabah Kering Giling Jumlah Observasi": "89",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "943",
+      "Gabah Kering Giling (%)": "11,24"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "1,20",
+      "Gabah Kering Panen Tingkat Petani (%)": "1,20",
+      "Tahun/Bulan": "Desember",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "750",
+      "Gabah Kering Giling Jumlah Observasi": "79",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "750",
+      "Gabah Kering Giling (%)": "8,86"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "15,38",
+      "Gabah Kering Panen Tingkat Petani (%)": "15,56",
+      "Tahun/Bulan": "Januari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "585",
+      "Gabah Kering Giling Jumlah Observasi": "89",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "585",
+      "Gabah Kering Giling (%)": "38,20"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "18,56",
+      "Gabah Kering Panen Tingkat Petani (%)": "17,87",
+      "Tahun/Bulan": "Februari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "873",
+      "Gabah Kering Giling Jumlah Observasi": "78",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "873",
+      "Gabah Kering Giling (%)": "12,82"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "32,16",
+      "Gabah Kering Panen Tingkat Petani (%)": "32,34",
+      "Tahun/Bulan": "Maret",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 483",
+      "Gabah Kering Giling Jumlah Observasi": "71",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 483",
+      "Gabah Kering Giling (%)": "42,25"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "20,27",
+      "Gabah Kering Panen Tingkat Petani (%)": "18,34",
+      "Tahun/Bulan": "April",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 505",
+      "Gabah Kering Giling Jumlah Observasi": "121",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 505",
+      "Gabah Kering Giling (%)": "66,12"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "10,30",
+      "Gabah Kering Panen Tingkat Petani (%)": "10,79",
+      "Tahun/Bulan": "Mei",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "806",
+      "Gabah Kering Giling Jumlah Observasi": "76",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "806",
+      "Gabah Kering Giling (%)": "42,11"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "12,78",
+      "Gabah Kering Panen Tingkat Petani (%)": "12,35",
+      "Tahun/Bulan": "Juni",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "939",
+      "Gabah Kering Giling Jumlah Observasi": "77",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "939",
+      "Gabah Kering Giling (%)": "29,87"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "14,94",
+      "Gabah Kering Panen Tingkat Petani (%)": "11,61",
+      "Tahun/Bulan": "Juli",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 051",
+      "Gabah Kering Giling Jumlah Observasi": "64",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 051",
+      "Gabah Kering Giling (%)": "50,00"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "5,13",
+      "Gabah Kering Panen Tingkat Petani (%)": "4,52",
+      "Tahun/Bulan": "Agustus",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "995",
+      "Gabah Kering Giling Jumlah Observasi": "80",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "995",
+      "Gabah Kering Giling (%)": "38,75"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "4,46",
+      "Gabah Kering Panen Tingkat Petani (%)": "5,15",
+      "Tahun/Bulan": "September",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "874",
+      "Gabah Kering Giling Jumlah Observasi": "84",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "874",
+      "Gabah Kering Giling (%)": "36,90"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,62",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,62",
+      "Tahun/Bulan": "Oktober",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "973",
+      "Gabah Kering Giling Jumlah Observasi": "101",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "973",
+      "Gabah Kering Giling (%)": "18,81"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,41",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,41",
+      "Tahun/Bulan": "November",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "969",
+      "Gabah Kering Giling Jumlah Observasi": "96",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "969",
+      "Gabah Kering Giling (%)": "22,92"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "1,15",
+      "Gabah Kering Panen Tingkat Petani (%)": "1,91",
+      "Tahun/Bulan": "Desember",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "786",
+      "Gabah Kering Giling Jumlah Observasi": "88",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "786",
+      "Gabah Kering Giling (%)": "21,59"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,73",
+      "Gabah Kering Panen Tingkat Petani (%)": "0,73",
+      "Tahun/Bulan": "Januari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "551",
+      "Gabah Kering Giling Jumlah Observasi": "82",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "551",
+      "Gabah Kering Giling (%)": "9,76"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "9,13",
+      "Gabah Kering Panen Tingkat Petani (%)": "9,13",
+      "Tahun/Bulan": "Februari",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "646",
+      "Gabah Kering Giling Jumlah Observasi": "77",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "646",
+      "Gabah Kering Giling (%)": "3,90"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "34,00",
+      "Gabah Kering Panen Tingkat Petani (%)": "33,21",
+      "Tahun/Bulan": "Maret",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 403",
+      "Gabah Kering Giling Jumlah Observasi": "56",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 394",
+      "Gabah Kering Giling (%)": "37,50"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "36,18",
+      "Gabah Kering Panen Tingkat Petani (%)": "34,02",
+      "Tahun/Bulan": "April",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 896",
+      "Gabah Kering Giling Jumlah Observasi": "72",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 896",
+      "Gabah Kering Giling (%)": "45,83"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "21,46",
+      "Gabah Kering Panen Tingkat Petani (%)": "19,61",
+      "Tahun/Bulan": "Mei",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "974",
+      "Gabah Kering Giling Jumlah Observasi": "81",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "974",
+      "Gabah Kering Giling (%)": "45,68"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "6,22",
+      "Gabah Kering Panen Tingkat Petani (%)": "6,46",
+      "Tahun/Bulan": "Juni",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "852",
+      "Gabah Kering Giling Jumlah Observasi": "79",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "852",
+      "Gabah Kering Giling (%)": "18,99"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "2,76",
+      "Gabah Kering Panen Tingkat Petani (%)": "3,10",
+      "Tahun/Bulan": "Juli",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 160",
+      "Gabah Kering Giling Jumlah Observasi": "58",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 160",
+      "Gabah Kering Giling (%)": "18,97"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "5,63",
+      "Gabah Kering Panen Tingkat Petani (%)": "4,73",
+      "Tahun/Bulan": "Agustus",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "1 333",
+      "Gabah Kering Giling Jumlah Observasi": "102",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "1 333",
+      "Gabah Kering Giling (%)": "25,49"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "1,40",
+      "Gabah Kering Panen Tingkat Petani (%)": "1,83",
+      "Tahun/Bulan": "September",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "929",
+      "Gabah Kering Giling Jumlah Observasi": "93",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "929",
+      "Gabah Kering Giling (%)": "22,58"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "0,82",
+      "Gabah Kering Panen Tingkat Petani (%)": "1,53",
+      "Tahun/Bulan": "Oktober",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "850",
+      "Gabah Kering Giling Jumlah Observasi": "129",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "850",
+      "Gabah Kering Giling (%)": "12,40"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "6,97",
+      "Gabah Kering Panen Tingkat Petani (%)": "3,05",
+      "Tahun/Bulan": "November",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "918",
+      "Gabah Kering Giling Jumlah Observasi": "132",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "918",
+      "Gabah Kering Giling (%)": "10,61"
+    },
+    {
+      "Gabah Kering Panen Tingkat Penggilingan (%)": "2,54",
+      "Gabah Kering Panen Tingkat Petani (%)": "1,27",
+      "Tahun/Bulan": "Desember",
+      "Gabah Kering Panen Tingkat Penggilingan Jumlah Observasi": "786",
+      "Gabah Kering Giling Jumlah Observasi": "101",
+      "Gabah Kering Panen Tingkat Petani Jumlah Observasi": "786",
+      "Gabah Kering Giling (%)": "10,89"
+    }
+  ]
+}

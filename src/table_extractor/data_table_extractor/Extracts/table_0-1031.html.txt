@@ -1,0 +1,66 @@
+{
+  "table_notes": "",
+  "table_title": "",
+  "table_data": [
+    {
+      "KK": "Bioteknologi  Mikroba",
+      "Judul Penelitian": "Analisis kemampuan kolonisasi bakteri endofit  pada kultur jaringan Musa acuminata cv. Pisang Mas (AA Group) sebagai tahap awal skrining agen biokontrol penyakit layu Fusarium",
+      "Peneliti": "Dr. I Nyoman Pugeg Aryantha",
+      "No": "1"
+    },
+    {
+      "KK": "Bioteknologi  Mikroba",
+      "Judul Penelitian": "Studi Pengontrolan Aktivitas Mikroba Penyebab  Korosi pada Instalasi Pipa Industri Minyak Bumi  Menggunakan Zat Aktif Tumbuhan Endemik Indonesia",
+      "Peneliti": "Dr.Eng. Isty Adhitya Purwasena,  S.Si., M.Si.",
+      "No": "2"
+    },
+    {
+      "KK": "Ekologi",
+      "Judul Penelitian": "Kajian Fitoremediasi dan Variasi Sistem untuk  Meningkatkan Efektivitas Lahan Basah Buatan  dalam Mengolah Limbah Logam Berat",
+      "Peneliti": "Dr. Devi Nandita Choesin, M.Sc.",
+      "No": "3"
+    },
+    {
+      "KK": "Fisiologi,  Perkembangan  Hewan dan Sains  Biomedika",
+      "Judul Penelitian": "Peranan BRD4 memperantarai fungsi NFkB  sebagai penghubung inflamasi dan kanker  Ovarium",
+      "Peneliti": "Dr.rer.nat. Marselina Irasonia Tan, MS",
+      "No": "4"
+    },
+    {
+      "KK": "Genetika dan Biologi Molekuler",
+      "Judul Penelitian": "Analisis promoter gen elongation factor â€”Tu  (ptuf) Singkong (Manihot esculenta Crantz.)  untuk pengembangan teknologi biologi sintetik",
+      "Peneliti": "Dr. Sony Suhandono, M.Sc.",
+      "No": "5"
+    },
+    {
+      "KK": "Genetika dan  Biologi Molekuler",
+      "Judul Penelitian": "Percepatan Perakitan Galur Harapan Isoflavon  Tinggi Pada Kedelai Hitam Menggunakan Marka  Mikrosatelit",
+      "Peneliti": "Dr. Adi Pancoro",
+      "No": "6"
+    },
+    {
+      "KK": "Genetika dan Biologi Molekuler",
+      "Judul Penelitian": "Pengujian secara in vitro Kandidat Obat Antituberkular Baru dengan Target Protein  Domain Sitoplasmik PhoR Mycobacterium tuberculosis",
+      "Peneliti": "Ernawati Arifin Giri Rachman, Ph.D.",
+      "No": "7"
+    },
+    {
+      "KK": "Sains dan  Bioteknologi  Tumbuhan",
+      "Judul Penelitian": "Peningkatan ensiensi biokonversi medium tumbuh menjadi biomassa pisang mas (Musa aeuminata, diploid M) pada sistem bioreaktor TIS RITM®",
+      "Peneliti": "Dr. Ahmad Faizal",
+      "No": "8"
+    },
+    {
+      "KK": "Sains dan  Bioteknologi  Tumbuhan",
+      "Judul Penelitian": "Optimasi Transformasi Genetik pada Kultur Embrio Pisang Mas (Musa acuminata cv. Mas)",
+      "Peneliti": "Dr. Rizkita Rachmi",
+      "No": "9"
+    },
+    {
+      "KK": "Sains dan  Bioteknologi  Tumbuhan",
+      "Judul Penelitian": "Evaluasi awal Andrographis paniculata transgenik yang mengekspresikan gen 3-hydroxy-3-methylglutaryl coenzyme- A reductase yang ditumbuhkan di rumah kaca",
+      "Peneliti": "Dr. Erly Marwani, MS",
+      "No": "10"
+    }
+  ]
+}

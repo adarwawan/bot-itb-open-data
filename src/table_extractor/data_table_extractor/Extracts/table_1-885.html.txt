@@ -1,0 +1,48 @@
+{
+  "table_notes": "",
+  "table_title": "",
+  "table_data": [
+    {
+      "Minimum score of Work Experience": "-",
+      "Minimum score of TOEFL": "475",
+      "Concentration/Major": "Young Professional",
+      "Minimum score of GMAT/AAT": "420"
+    },
+    {
+      "Minimum score of Work Experience": "1 year",
+      "Minimum score of TOEFL": "475",
+      "Concentration/Major": "Executive MBA",
+      "Minimum score of GMAT/AAT": "400"
+    },
+    {
+      "Minimum score of Work Experience": "-",
+      "Minimum score of TOEFL": "475",
+      "Concentration/Major": "ENTREE",
+      "Minimum score of GMAT/AAT": "400"
+    },
+    {
+      "Minimum score of Work Experience": "-",
+      "Minimum score of TOEFL": "475",
+      "Concentration/Major": "GM",
+      "Minimum score of GMAT/AAT": "400"
+    },
+    {
+      "Minimum score of Work Experience": "3 years",
+      "Minimum score of TOEFL": "500",
+      "Concentration/Major": "BLEMBA",
+      "Minimum score of GMAT/AAT": "380"
+    },
+    {
+      "Minimum score of Work Experience": "8 years",
+      "Minimum score of TOEFL": "500",
+      "Concentration/Major": "GLEMBA",
+      "Minimum score of GMAT/AAT": "380"
+    },
+    {
+      "Minimum score of Work Experience": "-",
+      "Minimum score of TOEFL": "475",
+      "Concentration/Major": "CCE",
+      "Minimum score of GMAT/AAT": "300"
+    }
+  ]
+}

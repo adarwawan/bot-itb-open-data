@@ -1,0 +1,2720 @@
+{
+  "table_notes": "Catatan:  ",
+  "table_title": "Nilai Output Industri   Besar dan Sedang (miliar rupiah), 2010-2012 ",
+  "table_data": [
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,159",
+      "Jumlah": "92,399",
+      "selisih nilai barang setengah jadi": "1,324",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "87,498",
+      "Penerimaan lain dari jasa nonindustri": "387",
+      "Kode Industri": "15",
+      "Tenaga listrik yang dijual": "30"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,849",
+      "Jumlah": "109,578",
+      "selisih nilai barang setengah jadi": "1,173",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "103,378",
+      "Penerimaan lain dari jasa nonindustri": "1,129",
+      "Tenaga listrik yang dijual": "49"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5,275",
+      "Jumlah": "133,515",
+      "selisih nilai barang setengah jadi": "485",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "125,972",
+      "Penerimaan lain dari jasa nonindustri": "1,763",
+      "Tenaga listrik yang dijual": "19"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,225",
+      "Jumlah": "162,388",
+      "selisih nilai barang setengah jadi": "811",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "156,248",
+      "Penerimaan lain dari jasa nonindustri": "2,055",
+      "Tenaga listrik yang dijual": "48"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,164",
+      "Jumlah": "171,317",
+      "selisih nilai barang setengah jadi": "1,256",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "165,364",
+      "Penerimaan lain dari jasa nonindustri": "2,426",
+      "Tenaga listrik yang dijual": "107"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,047",
+      "Jumlah": "204,052",
+      "selisih nilai barang setengah jadi": "2,127",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "196,572",
+      "Penerimaan lain dari jasa nonindustri": "1,124",
+      "Tenaga listrik yang dijual": "182"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,668",
+      "Jumlah": "264,566",
+      "selisih nilai barang setengah jadi": "3,797",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "252,387",
+      "Penerimaan lain dari jasa nonindustri": "4,607",
+      "Tenaga listrik yang dijual": "107"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "6,300",
+      "Jumlah": "335,547",
+      "selisih nilai barang setengah jadi": "6,760",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "319,495",
+      "Penerimaan lain dari jasa nonindustri": "2,897",
+      "Tenaga listrik yang dijual": "95"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "7 760",
+      "Jumlah": "457 008",
+      "selisih nilai barang setengah jadi": "3 339",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "443 187",
+      "Penerimaan lain dari jasa nonindustri": "2 676",
+      "Tenaga listrik yang dijual": "46"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "6 187",
+      "Jumlah": "467 249",
+      "selisih nilai barang setengah jadi": "2 834",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "456 035",
+      "Penerimaan lain dari jasa nonindustri": "2 158",
+      "Tenaga listrik yang dijual": "35"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "10,932",
+      "Jumlah": "468,833",
+      "selisih nilai barang setengah jadi": "2,713",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "446,798",
+      "Penerimaan lain dari jasa nonindustri": "8,355",
+      "Tenaga listrik yang dijual": "35"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "14,292",
+      "Jumlah": "658,497",
+      "selisih nilai barang setengah jadi": "3,160",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "636,376",
+      "Penerimaan lain dari jasa nonindustri": "4,620",
+      "Tenaga listrik yang dijual": "50"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "19,343",
+      "Jumlah": "706,886",
+      "selisih nilai barang setengah jadi": "6,222",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "676,283",
+      "Penerimaan lain dari jasa nonindustri": "4,843",
+      "Tenaga listrik yang dijual": "195"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "294",
+      "Jumlah": "35,178",
+      "selisih nilai barang setengah jadi": "-283",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "35,126",
+      "Penerimaan lain dari jasa nonindustri": "41",
+      "Kode Industri": "16",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,662",
+      "Jumlah": "61,306",
+      "selisih nilai barang setengah jadi": "784",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "58,673",
+      "Penerimaan lain dari jasa nonindustri": "187",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,665",
+      "Jumlah": "54,631",
+      "selisih nilai barang setengah jadi": "18",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "52,604",
+      "Penerimaan lain dari jasa nonindustri": "344",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,621",
+      "Jumlah": "54,245",
+      "selisih nilai barang setengah jadi": "649",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "51,822",
+      "Penerimaan lain dari jasa nonindustri": "152",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,291",
+      "Jumlah": "51,738",
+      "selisih nilai barang setengah jadi": "41",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "48,080",
+      "Penerimaan lain dari jasa nonindustri": "326",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,317",
+      "Jumlah": "59,377",
+      "selisih nilai barang setengah jadi": "33",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "55,826",
+      "Penerimaan lain dari jasa nonindustri": "200",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,457",
+      "Jumlah": "70,506",
+      "selisih nilai barang setengah jadi": "22",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "66,779",
+      "Penerimaan lain dari jasa nonindustri": "248",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "9,555",
+      "Jumlah": "99,672",
+      "selisih nilai barang setengah jadi": "375",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "89,226",
+      "Penerimaan lain dari jasa nonindustri": "516",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "11 876",
+      "Jumlah": "124 414",
+      "selisih nilai barang setengah jadi": "320",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "111 870",
+      "Penerimaan lain dari jasa nonindustri": "348",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "6 632",
+      "Jumlah": "115 360",
+      "selisih nilai barang setengah jadi": "362",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "108 131",
+      "Penerimaan lain dari jasa nonindustri": "234",
+      "Tenaga listrik yang dijual": "1"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,250",
+      "Jumlah": "112,860",
+      "selisih nilai barang setengah jadi": "902",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "107,357",
+      "Penerimaan lain dari jasa nonindustri": "351",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,383",
+      "Jumlah": "121,284",
+      "selisih nilai barang setengah jadi": "1,679",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "115,629",
+      "Penerimaan lain dari jasa nonindustri": "592",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,341",
+      "Jumlah": "131,822",
+      "selisih nilai barang setengah jadi": "303",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "122,985",
+      "Penerimaan lain dari jasa nonindustri": "4,193",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5,453",
+      "Jumlah": "67,598",
+      "selisih nilai barang setengah jadi": "875",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "60,916",
+      "Penerimaan lain dari jasa nonindustri": "342",
+      "Kode Industri": "17",
+      "Tenaga listrik yang dijual": "12"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,860",
+      "Jumlah": "59,131",
+      "selisih nilai barang setengah jadi": "484",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "54,510",
+      "Penerimaan lain dari jasa nonindustri": "277",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,776",
+      "Jumlah": "68,130",
+      "selisih nilai barang setengah jadi": "1,621",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "61,750",
+      "Penerimaan lain dari jasa nonindustri": "884",
+      "Tenaga listrik yang dijual": "99"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,523",
+      "Jumlah": "73,547",
+      "selisih nilai barang setengah jadi": "537",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "67,592",
+      "Penerimaan lain dari jasa nonindustri": "886",
+      "Tenaga listrik yang dijual": "10"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,727",
+      "Jumlah": "85,054",
+      "selisih nilai barang setengah jadi": "1,085",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "79,144",
+      "Penerimaan lain dari jasa nonindustri": "1,084",
+      "Tenaga listrik yang dijual": "14"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,546",
+      "Jumlah": "93,029",
+      "selisih nilai barang setengah jadi": "955",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "86,858",
+      "Penerimaan lain dari jasa nonindustri": "1,634",
+      "Tenaga listrik yang dijual": "36"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,774",
+      "Jumlah": "103,342",
+      "selisih nilai barang setengah jadi": "1,265",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "92,802",
+      "Penerimaan lain dari jasa nonindustri": "4,464",
+      "Tenaga listrik yang dijual": "37"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5,273",
+      "Jumlah": "111,715",
+      "selisih nilai barang setengah jadi": "2,462",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "103,122",
+      "Penerimaan lain dari jasa nonindustri": "857",
+      "Tenaga listrik yang dijual": "1"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "6 635",
+      "Jumlah": "102 965",
+      "selisih nilai barang setengah jadi": "1 831",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "93 332",
+      "Penerimaan lain dari jasa nonindustri": "1 167",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5 475",
+      "Jumlah": "121 046",
+      "selisih nilai barang setengah jadi": "1 372",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "113 101",
+      "Penerimaan lain dari jasa nonindustri": "1 098",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "6,540",
+      "Jumlah": "117,985",
+      "selisih nilai barang setengah jadi": "956",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "107,391",
+      "Penerimaan lain dari jasa nonindustri": "3,098",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "7,146",
+      "Jumlah": "161,089",
+      "selisih nilai barang setengah jadi": "2,725",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "149,152",
+      "Penerimaan lain dari jasa nonindustri": "2,067",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,843",
+      "Jumlah": "28,166",
+      "selisih nilai barang setengah jadi": "696",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "24,310",
+      "Penerimaan lain dari jasa nonindustri": "317",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,223",
+      "Jumlah": "24,073",
+      "selisih nilai barang setengah jadi": "171",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "21,604",
+      "Penerimaan lain dari jasa nonindustri": "73",
+      "Kode Industri": "18",
+      "Tenaga listrik yang dijual": "1"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,631",
+      "Jumlah": "27,772",
+      "selisih nilai barang setengah jadi": "136",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "24,832",
+      "Penerimaan lain dari jasa nonindustri": "173",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,843",
+      "Jumlah": "28,166",
+      "selisih nilai barang setengah jadi": "696",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "24,310",
+      "Penerimaan lain dari jasa nonindustri": "317",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,491",
+      "Jumlah": "31,616",
+      "selisih nilai barang setengah jadi": "238",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "26,413",
+      "Penerimaan lain dari jasa nonindustri": "474",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,833",
+      "Jumlah": "30,228",
+      "selisih nilai barang setengah jadi": "273",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "25,661",
+      "Penerimaan lain dari jasa nonindustri": "462",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5,558",
+      "Jumlah": "36,805",
+      "selisih nilai barang setengah jadi": "283",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "30,523",
+      "Penerimaan lain dari jasa nonindustri": "441",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "7,158",
+      "Jumlah": "45,369",
+      "selisih nilai barang setengah jadi": "356",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "35,993",
+      "Penerimaan lain dari jasa nonindustri": "1,860",
+      "Tenaga listrik yang dijual": "2"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "7,536",
+      "Jumlah": "47,105",
+      "selisih nilai barang setengah jadi": "906",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "38,143",
+      "Penerimaan lain dari jasa nonindustri": "520",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "6 512",
+      "Jumlah": "43 517",
+      "selisih nilai barang setengah jadi": "599",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "35 779",
+      "Penerimaan lain dari jasa nonindustri": "627",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "10 224",
+      "Jumlah": "47 524",
+      "selisih nilai barang setengah jadi": "677",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "36 292",
+      "Penerimaan lain dari jasa nonindustri": "331",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "15,836",
+      "Jumlah": "60,151",
+      "selisih nilai barang setengah jadi": "1,090",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "42,684",
+      "Penerimaan lain dari jasa nonindustri": "541",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "14,245",
+      "Jumlah": "57,298",
+      "selisih nilai barang setengah jadi": "803",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "41,755",
+      "Penerimaan lain dari jasa nonindustri": "494",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "14,807",
+      "Jumlah": "71,904",
+      "selisih nilai barang setengah jadi": "7,144",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "49,370",
+      "Penerimaan lain dari jasa nonindustri": "584",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "261",
+      "Jumlah": "15,091",
+      "selisih nilai barang setengah jadi": "974",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "13,775",
+      "Penerimaan lain dari jasa nonindustri": "82",
+      "Kode Industri": "19",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "446",
+      "Jumlah": "17,657",
+      "selisih nilai barang setengah jadi": "525",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "16,581",
+      "Penerimaan lain dari jasa nonindustri": "105",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "779",
+      "Jumlah": "23,775",
+      "selisih nilai barang setengah jadi": "443",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "22,451",
+      "Penerimaan lain dari jasa nonindustri": "102",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "256",
+      "Jumlah": "20,870",
+      "selisih nilai barang setengah jadi": "424",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "20,078",
+      "Penerimaan lain dari jasa nonindustri": "112",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "881",
+      "Jumlah": "19,228",
+      "selisih nilai barang setengah jadi": "349",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "17,774",
+      "Penerimaan lain dari jasa nonindustri": "223",
+      "Tenaga listrik yang dijual": "2"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,426",
+      "Jumlah": "22,872",
+      "selisih nilai barang setengah jadi": "400",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "19,633",
+      "Penerimaan lain dari jasa nonindustri": "412",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "363",
+      "Jumlah": "23,472",
+      "selisih nilai barang setengah jadi": "292",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "22,512",
+      "Penerimaan lain dari jasa nonindustri": "305",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "696",
+      "Jumlah": "22,238",
+      "selisih nilai barang setengah jadi": "336",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "21,077",
+      "Penerimaan lain dari jasa nonindustri": "129",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "773",
+      "Jumlah": "35 068",
+      "selisih nilai barang setengah jadi": "549",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "33 499",
+      "Penerimaan lain dari jasa nonindustri": "247",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "340",
+      "Jumlah": "30 136",
+      "selisih nilai barang setengah jadi": "498",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "29 063",
+      "Penerimaan lain dari jasa nonindustri": "235",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "625",
+      "Jumlah": "32,376",
+      "selisih nilai barang setengah jadi": "572",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "30,678",
+      "Penerimaan lain dari jasa nonindustri": "501",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "632",
+      "Jumlah": "50,096",
+      "selisih nilai barang setengah jadi": "735",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "48,140",
+      "Penerimaan lain dari jasa nonindustri": "589",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,559",
+      "Jumlah": "43,244",
+      "selisih nilai barang setengah jadi": "795",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "39,185",
+      "Penerimaan lain dari jasa nonindustri": "704",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,672",
+      "Jumlah": "35,049",
+      "selisih nilai barang setengah jadi": "353",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "32,752",
+      "Penerimaan lain dari jasa nonindustri": "260",
+      "Kode Industri": "20",
+      "Tenaga listrik yang dijual": "12"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,549",
+      "Jumlah": "41,781",
+      "selisih nilai barang setengah jadi": "350",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "38,363",
+      "Penerimaan lain dari jasa nonindustri": "503",
+      "Tenaga listrik yang dijual": "16"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,549",
+      "Jumlah": "41,781",
+      "selisih nilai barang setengah jadi": "350",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "38,363",
+      "Penerimaan lain dari jasa nonindustri": "503",
+      "Tenaga listrik yang dijual": "16"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,542",
+      "Jumlah": "46,736",
+      "selisih nilai barang setengah jadi": "852",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "42,750",
+      "Penerimaan lain dari jasa nonindustri": "577",
+      "Tenaga listrik yang dijual": "15"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,930",
+      "Jumlah": "44,254",
+      "selisih nilai barang setengah jadi": "724",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "40,266",
+      "Penerimaan lain dari jasa nonindustri": "323",
+      "Tenaga listrik yang dijual": "11"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,050",
+      "Jumlah": "44,755",
+      "selisih nilai barang setengah jadi": "481",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "40,937",
+      "Penerimaan lain dari jasa nonindustri": "265",
+      "Tenaga listrik yang dijual": "22"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,532",
+      "Jumlah": "38,205",
+      "selisih nilai barang setengah jadi": "353",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "35,476",
+      "Penerimaan lain dari jasa nonindustri": "827",
+      "Tenaga listrik yang dijual": "17"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,693",
+      "Jumlah": "47,749",
+      "selisih nilai barang setengah jadi": "912",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "44,496",
+      "Penerimaan lain dari jasa nonindustri": "627",
+      "Tenaga listrik yang dijual": "21"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1 462",
+      "Jumlah": "45 248",
+      "selisih nilai barang setengah jadi": "916",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "41 174",
+      "Penerimaan lain dari jasa nonindustri": "1 674",
+      "Tenaga listrik yang dijual": "23"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1 124",
+      "Jumlah": "36 830",
+      "selisih nilai barang setengah jadi": "495",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "34 831",
+      "Penerimaan lain dari jasa nonindustri": "342",
+      "Tenaga listrik yang dijual": "38"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "841",
+      "Jumlah": "37,443",
+      "selisih nilai barang setengah jadi": "591",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "35,393",
+      "Penerimaan lain dari jasa nonindustri": "618",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "880",
+      "Jumlah": "39,566",
+      "selisih nilai barang setengah jadi": "586",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "37,523",
+      "Penerimaan lain dari jasa nonindustri": "561",
+      "Tenaga listrik yang dijual": "16"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,531",
+      "Jumlah": "39,434",
+      "selisih nilai barang setengah jadi": "599",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "34,944",
+      "Penerimaan lain dari jasa nonindustri": "335",
+      "Tenaga listrik yang dijual": "26"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,967",
+      "Jumlah": "37,027",
+      "selisih nilai barang setengah jadi": "1,176",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "33,833",
+      "Penerimaan lain dari jasa nonindustri": "50",
+      "Kode Industri": "21",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,005",
+      "Jumlah": "48,440",
+      "selisih nilai barang setengah jadi": "3,493",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "42,675",
+      "Penerimaan lain dari jasa nonindustri": "267",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,002",
+      "Jumlah": "65,898",
+      "selisih nilai barang setengah jadi": "4,239",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "59,395",
+      "Penerimaan lain dari jasa nonindustri": "261",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,184",
+      "Jumlah": "56,191",
+      "selisih nilai barang setengah jadi": "3,606",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "50,028",
+      "Penerimaan lain dari jasa nonindustri": "1,373",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "976",
+      "Jumlah": "56,486",
+      "selisih nilai barang setengah jadi": "1,664",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "53,461",
+      "Penerimaan lain dari jasa nonindustri": "385",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,297",
+      "Jumlah": "68,226",
+      "selisih nilai barang setengah jadi": "3,574",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "62,778",
+      "Penerimaan lain dari jasa nonindustri": "577",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "905",
+      "Jumlah": "71,959",
+      "selisih nilai barang setengah jadi": "4,889",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "65,274",
+      "Penerimaan lain dari jasa nonindustri": "890",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "627",
+      "Jumlah": "91,756",
+      "selisih nilai barang setengah jadi": "503",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "90,344",
+      "Penerimaan lain dari jasa nonindustri": "282",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "733",
+      "Jumlah": "97 219",
+      "selisih nilai barang setengah jadi": "618",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "95 664",
+      "Penerimaan lain dari jasa nonindustri": "201",
+      "Tenaga listrik yang dijual": "3"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "735",
+      "Jumlah": "107 149",
+      "selisih nilai barang setengah jadi": "218",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "105 639",
+      "Penerimaan lain dari jasa nonindustri": "557",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,792",
+      "Jumlah": "114,388",
+      "selisih nilai barang setengah jadi": "233",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "109,919",
+      "Penerimaan lain dari jasa nonindustri": "429",
+      "Tenaga listrik yang dijual": "15"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,318",
+      "Jumlah": "130,165",
+      "selisih nilai barang setengah jadi": "974",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "125,234",
+      "Penerimaan lain dari jasa nonindustri": "638",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,510",
+      "Jumlah": "149,752",
+      "selisih nilai barang setengah jadi": "1,245",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "145,162",
+      "Penerimaan lain dari jasa nonindustri": "836",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "236",
+      "Jumlah": "11,606",
+      "selisih nilai barang setengah jadi": "25",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "11,335",
+      "Penerimaan lain dari jasa nonindustri": "10",
+      "Kode Industri": "22",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "229",
+      "Jumlah": "3,757",
+      "selisih nilai barang setengah jadi": "14",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "3,504",
+      "Penerimaan lain dari jasa nonindustri": "10",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "993",
+      "Jumlah": "6,272",
+      "selisih nilai barang setengah jadi": "34",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "5,176",
+      "Penerimaan lain dari jasa nonindustri": "69",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,635",
+      "Jumlah": "7,484",
+      "selisih nilai barang setengah jadi": "-3",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "5,770",
+      "Penerimaan lain dari jasa nonindustri": "82",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,081",
+      "Jumlah": "12,174",
+      "selisih nilai barang setengah jadi": "18",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "8,948",
+      "Penerimaan lain dari jasa nonindustri": "128",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,238",
+      "Jumlah": "14,156",
+      "selisih nilai barang setengah jadi": "58",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "10,700",
+      "Penerimaan lain dari jasa nonindustri": "159",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,032",
+      "Jumlah": "12,955",
+      "selisih nilai barang setengah jadi": "36",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "10,530",
+      "Penerimaan lain dari jasa nonindustri": "358",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,380",
+      "Jumlah": "15,581",
+      "selisih nilai barang setengah jadi": "229",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "11,647",
+      "Penerimaan lain dari jasa nonindustri": "325",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1 779",
+      "Jumlah": "13 959",
+      "selisih nilai barang setengah jadi": "28",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "11 875",
+      "Penerimaan lain dari jasa nonindustri": "276",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3 102",
+      "Jumlah": "20 614",
+      "selisih nilai barang setengah jadi": "182",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "17 019",
+      "Penerimaan lain dari jasa nonindustri": "310",
+      "Tenaga listrik yang dijual": "1"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,410",
+      "Jumlah": "13,806",
+      "selisih nilai barang setengah jadi": "81",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "12,043",
+      "Penerimaan lain dari jasa nonindustri": "270",
+      "Tenaga listrik yang dijual": "2"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,818",
+      "Jumlah": "24,064",
+      "selisih nilai barang setengah jadi": "225",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "20,417",
+      "Penerimaan lain dari jasa nonindustri": "604",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "7,276",
+      "Jumlah": "41,774",
+      "selisih nilai barang setengah jadi": "252",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "33,651",
+      "Penerimaan lain dari jasa nonindustri": "595",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "68",
+      "Jumlah": "1,492",
+      "selisih nilai barang setengah jadi": "416",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "995",
+      "Penerimaan lain dari jasa nonindustri": "14",
+      "Kode Industri": "23",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3",
+      "Jumlah": "342",
+      "selisih nilai barang setengah jadi": "2",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "337",
+      "Penerimaan lain dari jasa nonindustri": "0",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4",
+      "Jumlah": "786",
+      "selisih nilai barang setengah jadi": "5",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "776",
+      "Penerimaan lain dari jasa nonindustri": "1",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "192",
+      "Jumlah": "1,715",
+      "selisih nilai barang setengah jadi": "-1",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "1,518",
+      "Penerimaan lain dari jasa nonindustri": "7",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "18",
+      "Jumlah": "1,421",
+      "selisih nilai barang setengah jadi": "10",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "1,385",
+      "Penerimaan lain dari jasa nonindustri": "7",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "82",
+      "Jumlah": "2,023",
+      "selisih nilai barang setengah jadi": "4",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "1,923",
+      "Penerimaan lain dari jasa nonindustri": "13",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "106",
+      "Jumlah": "7,893",
+      "selisih nilai barang setengah jadi": "4",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "7,748",
+      "Penerimaan lain dari jasa nonindustri": "36",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "457",
+      "Jumlah": "7,527",
+      "selisih nilai barang setengah jadi": "99",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "6,952",
+      "Penerimaan lain dari jasa nonindustri": "19",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "484",
+      "Jumlah": "11 040",
+      "selisih nilai barang setengah jadi": "85",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "10 463",
+      "Penerimaan lain dari jasa nonindustri": "9",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "81",
+      "Jumlah": "7 976",
+      "selisih nilai barang setengah jadi": "127",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "7 739",
+      "Penerimaan lain dari jasa nonindustri": "29",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "101",
+      "Jumlah": "7,168",
+      "selisih nilai barang setengah jadi": "118",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "6,913",
+      "Penerimaan lain dari jasa nonindustri": "36",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "126",
+      "Jumlah": "5,063",
+      "selisih nilai barang setengah jadi": "50",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "4,827",
+      "Penerimaan lain dari jasa nonindustri": "60",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "155",
+      "Jumlah": "5,390",
+      "selisih nilai barang setengah jadi": "103",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "5,115",
+      "Penerimaan lain dari jasa nonindustri": "18",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,615",
+      "Jumlah": "61,388",
+      "selisih nilai barang setengah jadi": "469",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "58,962",
+      "Penerimaan lain dari jasa nonindustri": "334",
+      "Kode Industri": "24",
+      "Tenaga listrik yang dijual": "8"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,517",
+      "Jumlah": "86,377",
+      "selisih nilai barang setengah jadi": "544",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "83,475",
+      "Penerimaan lain dari jasa nonindustri": "841",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,407",
+      "Jumlah": "90,492",
+      "selisih nilai barang setengah jadi": "556",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "86,779",
+      "Penerimaan lain dari jasa nonindustri": "751",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,671",
+      "Jumlah": "90,286",
+      "selisih nilai barang setengah jadi": "851",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "86,023",
+      "Penerimaan lain dari jasa nonindustri": "731",
+      "Tenaga listrik yang dijual": "10"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,199",
+      "Jumlah": "92,767",
+      "selisih nilai barang setengah jadi": "441",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "87,295",
+      "Penerimaan lain dari jasa nonindustri": "1,812",
+      "Tenaga listrik yang dijual": "20"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,847",
+      "Jumlah": "110,065",
+      "selisih nilai barang setengah jadi": "1,305",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "102,216",
+      "Penerimaan lain dari jasa nonindustri": "2,696",
+      "Tenaga listrik yang dijual": "1"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,131",
+      "Jumlah": "147,580",
+      "selisih nilai barang setengah jadi": "647",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "136,754",
+      "Penerimaan lain dari jasa nonindustri": "8,048",
+      "Tenaga listrik yang dijual": "1"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5,542",
+      "Jumlah": "173,134",
+      "selisih nilai barang setengah jadi": "8,113",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "157,466",
+      "Penerimaan lain dari jasa nonindustri": "2,013",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3 066",
+      "Jumlah": "266 230",
+      "selisih nilai barang setengah jadi": "2 689",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "259 502",
+      "Penerimaan lain dari jasa nonindustri": "972",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5 145",
+      "Jumlah": "314 739",
+      "selisih nilai barang setengah jadi": "3 664",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "301 955",
+      "Penerimaan lain dari jasa nonindustri": "3 975",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5,434",
+      "Jumlah": "311,806",
+      "selisih nilai barang setengah jadi": "3,800",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "299,126",
+      "Penerimaan lain dari jasa nonindustri": "3,446",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5,829",
+      "Jumlah": "359,715",
+      "selisih nilai barang setengah jadi": "4,894",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "345,945",
+      "Penerimaan lain dari jasa nonindustri": "3,046",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "8,157",
+      "Jumlah": "383,743",
+      "selisih nilai barang setengah jadi": "10,552",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "362,847",
+      "Penerimaan lain dari jasa nonindustri": "2,187",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "423",
+      "Jumlah": "34,505",
+      "selisih nilai barang setengah jadi": "211",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "33,804",
+      "Penerimaan lain dari jasa nonindustri": "64",
+      "Kode Industri": "25",
+      "Tenaga listrik yang dijual": "2"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "864",
+      "Jumlah": "33,435",
+      "selisih nilai barang setengah jadi": "186",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "32,201",
+      "Penerimaan lain dari jasa nonindustri": "184",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,643",
+      "Jumlah": "41,909",
+      "selisih nilai barang setengah jadi": "393",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "39,695",
+      "Penerimaan lain dari jasa nonindustri": "178",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,797",
+      "Jumlah": "45,158",
+      "selisih nilai barang setengah jadi": "485",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "42,662",
+      "Penerimaan lain dari jasa nonindustri": "214",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,090",
+      "Jumlah": "67,838",
+      "selisih nilai barang setengah jadi": "539",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "63,535",
+      "Penerimaan lain dari jasa nonindustri": "671",
+      "Tenaga listrik yang dijual": "3"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "6,985",
+      "Jumlah": "97,521",
+      "selisih nilai barang setengah jadi": "683",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "88,880",
+      "Penerimaan lain dari jasa nonindustri": "972",
+      "Tenaga listrik yang dijual": "1"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,403",
+      "Jumlah": "99,995",
+      "selisih nilai barang setengah jadi": "1,791",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "93,060",
+      "Penerimaan lain dari jasa nonindustri": "1,741",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5,781",
+      "Jumlah": "105,798",
+      "selisih nilai barang setengah jadi": "1,564",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "97,780",
+      "Penerimaan lain dari jasa nonindustri": "673",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "11 576",
+      "Jumlah": "158 372",
+      "selisih nilai barang setengah jadi": "1 784",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "142 812",
+      "Penerimaan lain dari jasa nonindustri": "2 200",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "7 366",
+      "Jumlah": "142 125",
+      "selisih nilai barang setengah jadi": "1 865",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "129 169",
+      "Penerimaan lain dari jasa nonindustri": "3 725",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "6,607",
+      "Jumlah": "251,502",
+      "selisih nilai barang setengah jadi": "2,623",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "239,196",
+      "Penerimaan lain dari jasa nonindustri": "3,076",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "6,243",
+      "Jumlah": "284,834",
+      "selisih nilai barang setengah jadi": "3,046",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "273,996",
+      "Penerimaan lain dari jasa nonindustri": "1,550",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "7,598",
+      "Jumlah": "277,201",
+      "selisih nilai barang setengah jadi": "4,612",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "261,699",
+      "Penerimaan lain dari jasa nonindustri": "3,291",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "315",
+      "Jumlah": "18,684",
+      "selisih nilai barang setengah jadi": "242",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "17,987",
+      "Penerimaan lain dari jasa nonindustri": "138",
+      "Kode Industri": "26",
+      "Tenaga listrik yang dijual": "3"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,143",
+      "Jumlah": "23,768",
+      "selisih nilai barang setengah jadi": "-39",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "21,574",
+      "Penerimaan lain dari jasa nonindustri": "83",
+      "Tenaga listrik yang dijual": "7"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,641",
+      "Jumlah": "23,815",
+      "selisih nilai barang setengah jadi": "86",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "22,018",
+      "Penerimaan lain dari jasa nonindustri": "65",
+      "Tenaga listrik yang dijual": "6"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,812",
+      "Jumlah": "25,578",
+      "selisih nilai barang setengah jadi": "53",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "23,604",
+      "Penerimaan lain dari jasa nonindustri": "102",
+      "Tenaga listrik yang dijual": "6"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,273",
+      "Jumlah": "36,604",
+      "selisih nilai barang setengah jadi": "123",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "33,942",
+      "Penerimaan lain dari jasa nonindustri": "251",
+      "Tenaga listrik yang dijual": "15"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "938",
+      "Jumlah": "37,284",
+      "selisih nilai barang setengah jadi": "112",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "36,066",
+      "Penerimaan lain dari jasa nonindustri": "157",
+      "Tenaga listrik yang dijual": "12"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,187",
+      "Jumlah": "39,659",
+      "selisih nilai barang setengah jadi": "251",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "37,482",
+      "Penerimaan lain dari jasa nonindustri": "740",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,934",
+      "Jumlah": "44,500",
+      "selisih nilai barang setengah jadi": "1,324",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "38,918",
+      "Penerimaan lain dari jasa nonindustri": "324",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4 980",
+      "Jumlah": "53 369",
+      "selisih nilai barang setengah jadi": "432",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "47 685",
+      "Penerimaan lain dari jasa nonindustri": "272",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5 147",
+      "Jumlah": "54 410",
+      "selisih nilai barang setengah jadi": "416",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "48 665",
+      "Penerimaan lain dari jasa nonindustri": "182",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,186",
+      "Jumlah": "52,751",
+      "selisih nilai barang setengah jadi": "709",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "49,383",
+      "Penerimaan lain dari jasa nonindustri": "473",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,519",
+      "Jumlah": "65,051",
+      "selisih nilai barang setengah jadi": "640",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "60,391",
+      "Penerimaan lain dari jasa nonindustri": "501",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,095",
+      "Jumlah": "67,968",
+      "selisih nilai barang setengah jadi": "798",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "63,814",
+      "Penerimaan lain dari jasa nonindustri": "261",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "834",
+      "Jumlah": "30,893",
+      "selisih nilai barang setengah jadi": "668",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "29,266",
+      "Penerimaan lain dari jasa nonindustri": "125",
+      "Kode Industri": "27",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "685",
+      "Jumlah": "45,124",
+      "selisih nilai barang setengah jadi": "585",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "43,676",
+      "Penerimaan lain dari jasa nonindustri": "178",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,000",
+      "Jumlah": "43,278",
+      "selisih nilai barang setengah jadi": "439",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "39,618",
+      "Penerimaan lain dari jasa nonindustri": "222",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,432",
+      "Jumlah": "49,664",
+      "selisih nilai barang setengah jadi": "803",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "44,074",
+      "Penerimaan lain dari jasa nonindustri": "313",
+      "Tenaga listrik yang dijual": "42"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,993",
+      "Jumlah": "62,229",
+      "selisih nilai barang setengah jadi": "541",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "58,918",
+      "Penerimaan lain dari jasa nonindustri": "777",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,143",
+      "Jumlah": "79,920",
+      "selisih nilai barang setengah jadi": "817",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "75,792",
+      "Penerimaan lain dari jasa nonindustri": "159",
+      "Tenaga listrik yang dijual": "9"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,999",
+      "Jumlah": "81,762",
+      "selisih nilai barang setengah jadi": "819",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "78,087",
+      "Penerimaan lain dari jasa nonindustri": "856",
+      "Tenaga listrik yang dijual": "1"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,002",
+      "Jumlah": "108,285",
+      "selisih nilai barang setengah jadi": "760",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "99,361",
+      "Penerimaan lain dari jasa nonindustri": "5,157",
+      "Tenaga listrik yang dijual": "5"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2 942",
+      "Jumlah": "112 776",
+      "selisih nilai barang setengah jadi": "271",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "104 002",
+      "Penerimaan lain dari jasa nonindustri": "5 559",
+      "Tenaga listrik yang dijual": "2"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4 150",
+      "Jumlah": "102 743",
+      "selisih nilai barang setengah jadi": "-841",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "98 392",
+      "Penerimaan lain dari jasa nonindustri": "1 040",
+      "Tenaga listrik yang dijual": "2"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,160",
+      "Jumlah": "136,122",
+      "selisih nilai barang setengah jadi": "2,258",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "128,443",
+      "Penerimaan lain dari jasa nonindustri": "1,258",
+      "Tenaga listrik yang dijual": "3"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,216",
+      "Jumlah": "90,784",
+      "selisih nilai barang setengah jadi": "2,772",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "75,987",
+      "Penerimaan lain dari jasa nonindustri": "8,807",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "6,470",
+      "Jumlah": "153,706",
+      "selisih nilai barang setengah jadi": "857",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "142,350",
+      "Penerimaan lain dari jasa nonindustri": "4,029",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,096",
+      "Jumlah": "18,663",
+      "selisih nilai barang setengah jadi": "168",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "17,320",
+      "Penerimaan lain dari jasa nonindustri": "79",
+      "Kode Industri": "28",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "800",
+      "Jumlah": "11,844",
+      "selisih nilai barang setengah jadi": "211",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "10,699",
+      "Penerimaan lain dari jasa nonindustri": "134",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,458",
+      "Jumlah": "102,004",
+      "selisih nilai barang setengah jadi": "1,483",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "93,393",
+      "Penerimaan lain dari jasa nonindustri": "3,670",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,633",
+      "Jumlah": "20,105",
+      "selisih nilai barang setengah jadi": "222",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "18,133",
+      "Penerimaan lain dari jasa nonindustri": "118",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,203",
+      "Jumlah": "27,376",
+      "selisih nilai barang setengah jadi": "328",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "24,648",
+      "Penerimaan lain dari jasa nonindustri": "197",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,028",
+      "Jumlah": "24,192",
+      "selisih nilai barang setengah jadi": "356",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "21,572",
+      "Penerimaan lain dari jasa nonindustri": "236",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,111",
+      "Jumlah": "32,200",
+      "selisih nilai barang setengah jadi": "519",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "28,993",
+      "Penerimaan lain dari jasa nonindustri": "576",
+      "Tenaga listrik yang dijual": "2"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,593",
+      "Jumlah": "41,266",
+      "selisih nilai barang setengah jadi": "885",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "35,968",
+      "Penerimaan lain dari jasa nonindustri": "820",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "9 255",
+      "Jumlah": "49 619",
+      "selisih nilai barang setengah jadi": "955",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "39 012",
+      "Penerimaan lain dari jasa nonindustri": "397",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "8 708",
+      "Jumlah": "64 112",
+      "selisih nilai barang setengah jadi": "827",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "54 205",
+      "Penerimaan lain dari jasa nonindustri": "372",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "8,032",
+      "Jumlah": "68,545",
+      "selisih nilai barang setengah jadi": "778",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "58,397",
+      "Penerimaan lain dari jasa nonindustri": "1,336",
+      "Tenaga listrik yang dijual": "2"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "7,284",
+      "Jumlah": "79,466",
+      "selisih nilai barang setengah jadi": "1,734",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "68,894",
+      "Penerimaan lain dari jasa nonindustri": "1,550",
+      "Tenaga listrik yang dijual": "5"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "8,928",
+      "Jumlah": "78,555",
+      "selisih nilai barang setengah jadi": "1,159",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "67,640",
+      "Penerimaan lain dari jasa nonindustri": "827",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "604",
+      "Jumlah": "5,738",
+      "selisih nilai barang setengah jadi": "465",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "4,640",
+      "Penerimaan lain dari jasa nonindustri": "28",
+      "Kode Industri": "29",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5,393",
+      "Jumlah": "37,325",
+      "selisih nilai barang setengah jadi": "319",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "31,528",
+      "Penerimaan lain dari jasa nonindustri": "85",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,243",
+      "Jumlah": "13,070",
+      "selisih nilai barang setengah jadi": "112",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "10,654",
+      "Penerimaan lain dari jasa nonindustri": "61",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,120",
+      "Jumlah": "12,479",
+      "selisih nilai barang setengah jadi": "176",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "10,032",
+      "Penerimaan lain dari jasa nonindustri": "151",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,137",
+      "Jumlah": "14,141",
+      "selisih nilai barang setengah jadi": "147",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "12,754",
+      "Penerimaan lain dari jasa nonindustri": "103",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,648",
+      "Jumlah": "16,832",
+      "selisih nilai barang setengah jadi": "228",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "14,789",
+      "Penerimaan lain dari jasa nonindustri": "168",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,922",
+      "Jumlah": "24,455",
+      "selisih nilai barang setengah jadi": "259",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "21,283",
+      "Penerimaan lain dari jasa nonindustri": "991",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,643",
+      "Jumlah": "21,356",
+      "selisih nilai barang setengah jadi": "436",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "18,789",
+      "Penerimaan lain dari jasa nonindustri": "488",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4 722",
+      "Jumlah": "32 504",
+      "selisih nilai barang setengah jadi": "498",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "26 764",
+      "Penerimaan lain dari jasa nonindustri": "520",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2 858",
+      "Jumlah": "31 950",
+      "selisih nilai barang setengah jadi": "1 118",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "27 679",
+      "Penerimaan lain dari jasa nonindustri": "295",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,915",
+      "Jumlah": "61,258",
+      "selisih nilai barang setengah jadi": "869",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "57,166",
+      "Penerimaan lain dari jasa nonindustri": "308",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5,006",
+      "Jumlah": "37,462",
+      "selisih nilai barang setengah jadi": "1,105",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "30,963",
+      "Penerimaan lain dari jasa nonindustri": "388",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,277",
+      "Jumlah": "55,644",
+      "selisih nilai barang setengah jadi": "676",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "51,520",
+      "Penerimaan lain dari jasa nonindustri": "171",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "20",
+      "Jumlah": "26",
+      "selisih nilai barang setengah jadi": "1",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "5",
+      "Penerimaan lain dari jasa nonindustri": "0",
+      "Kode Industri": "30",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3",
+      "Jumlah": "28",
+      "selisih nilai barang setengah jadi": "0",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "25",
+      "Penerimaan lain dari jasa nonindustri": "0",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "32",
+      "Jumlah": "47",
+      "selisih nilai barang setengah jadi": "0",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "16",
+      "Penerimaan lain dari jasa nonindustri": "0",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "73",
+      "Jumlah": "87",
+      "selisih nilai barang setengah jadi": "0",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "15",
+      "Penerimaan lain dari jasa nonindustri": "0",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "11",
+      "Jumlah": "85",
+      "selisih nilai barang setengah jadi": "0",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "74",
+      "Penerimaan lain dari jasa nonindustri": "0",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "84",
+      "Jumlah": "1,762",
+      "selisih nilai barang setengah jadi": "1",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "1,676",
+      "Penerimaan lain dari jasa nonindustri": "2",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "42",
+      "Jumlah": "165",
+      "selisih nilai barang setengah jadi": "-4",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "120",
+      "Penerimaan lain dari jasa nonindustri": "7",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "238",
+      "Jumlah": "274",
+      "selisih nilai barang setengah jadi": "-18",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "15",
+      "Penerimaan lain dari jasa nonindustri": "39",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "427",
+      "Jumlah": "531",
+      "selisih nilai barang setengah jadi": "-42",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "77",
+      "Penerimaan lain dari jasa nonindustri": "69",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "290",
+      "Jumlah": "319",
+      "selisih nilai barang setengah jadi": "-21",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "1",
+      "Penerimaan lain dari jasa nonindustri": "49",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "319",
+      "Jumlah": "351",
+      "selisih nilai barang setengah jadi": "-23",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "2",
+      "Penerimaan lain dari jasa nonindustri": "53",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "441",
+      "Jumlah": "2,022",
+      "selisih nilai barang setengah jadi": "-4",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "1,515",
+      "Penerimaan lain dari jasa nonindustri": "71",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "375",
+      "Jumlah": "540",
+      "selisih nilai barang setengah jadi": "-30",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "135",
+      "Penerimaan lain dari jasa nonindustri": "60",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,021",
+      "Jumlah": "20,787",
+      "selisih nilai barang setengah jadi": "8,125",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "11,560",
+      "Penerimaan lain dari jasa nonindustri": "80",
+      "Kode Industri": "31",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "896",
+      "Jumlah": "17,039",
+      "selisih nilai barang setengah jadi": "473",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "15,649",
+      "Penerimaan lain dari jasa nonindustri": "21",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "982",
+      "Jumlah": "14,769",
+      "selisih nilai barang setengah jadi": "485",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "13,247",
+      "Penerimaan lain dari jasa nonindustri": "55",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,102",
+      "Jumlah": "17,157",
+      "selisih nilai barang setengah jadi": "366",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "15,642",
+      "Penerimaan lain dari jasa nonindustri": "48",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,881",
+      "Jumlah": "33,437",
+      "selisih nilai barang setengah jadi": "507",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "30,967",
+      "Penerimaan lain dari jasa nonindustri": "81",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,327",
+      "Jumlah": "25,534",
+      "selisih nilai barang setengah jadi": "163",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "23,960",
+      "Penerimaan lain dari jasa nonindustri": "84",
+      "Tenaga listrik yang dijual": "1"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,584",
+      "Jumlah": "31,863",
+      "selisih nilai barang setengah jadi": "176",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "28,988",
+      "Penerimaan lain dari jasa nonindustri": "1,115",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,424",
+      "Jumlah": "33,803",
+      "selisih nilai barang setengah jadi": "843",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "30,287",
+      "Penerimaan lain dari jasa nonindustri": "249",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "10 161",
+      "Jumlah": "51 427",
+      "selisih nilai barang setengah jadi": "1 691",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "39 331",
+      "Penerimaan lain dari jasa nonindustri": "244",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "10 048",
+      "Jumlah": "49 940",
+      "selisih nilai barang setengah jadi": "1 021",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "38 663",
+      "Penerimaan lain dari jasa nonindustri": "208",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "11,512",
+      "Jumlah": "56,098",
+      "selisih nilai barang setengah jadi": "-184",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "44,517",
+      "Penerimaan lain dari jasa nonindustri": "253",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "12,570",
+      "Jumlah": "60,091",
+      "selisih nilai barang setengah jadi": "2,290",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "44,868",
+      "Penerimaan lain dari jasa nonindustri": "209",
+      "Tenaga listrik yang dijual": "153"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "9,680",
+      "Jumlah": "94,330",
+      "selisih nilai barang setengah jadi": "1,291",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "82,931",
+      "Penerimaan lain dari jasa nonindustri": "428",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,708",
+      "Jumlah": "43,515",
+      "selisih nilai barang setengah jadi": "161",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "41,309",
+      "Penerimaan lain dari jasa nonindustri": "110",
+      "Kode Industri": "32",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,111",
+      "Jumlah": "26,157",
+      "selisih nilai barang setengah jadi": "385",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "23,623",
+      "Penerimaan lain dari jasa nonindustri": "38",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,736",
+      "Jumlah": "32,262",
+      "selisih nilai barang setengah jadi": "143",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "28,357",
+      "Penerimaan lain dari jasa nonindustri": "27",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,347",
+      "Jumlah": "39,959",
+      "selisih nilai barang setengah jadi": "164",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "35,225",
+      "Penerimaan lain dari jasa nonindustri": "223",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "6,658",
+      "Jumlah": "77,344",
+      "selisih nilai barang setengah jadi": "311",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "70,087",
+      "Penerimaan lain dari jasa nonindustri": "288",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,350",
+      "Jumlah": "28,197",
+      "selisih nilai barang setengah jadi": "87",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "23,608",
+      "Penerimaan lain dari jasa nonindustri": "152",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,909",
+      "Jumlah": "46,441",
+      "selisih nilai barang setengah jadi": "280",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "40,293",
+      "Penerimaan lain dari jasa nonindustri": "959",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "6,488",
+      "Jumlah": "45,711",
+      "selisih nilai barang setengah jadi": "266",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "38,675",
+      "Penerimaan lain dari jasa nonindustri": "282",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5 097",
+      "Jumlah": "40 248",
+      "selisih nilai barang setengah jadi": "34",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "34 757",
+      "Penerimaan lain dari jasa nonindustri": "360",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "11 405",
+      "Jumlah": "55 043",
+      "selisih nilai barang setengah jadi": "259",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "42 748",
+      "Penerimaan lain dari jasa nonindustri": "631",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "11,189",
+      "Jumlah": "50,151",
+      "selisih nilai barang setengah jadi": "368",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "37,968",
+      "Penerimaan lain dari jasa nonindustri": "600",
+      "Tenaga listrik yang dijual": "26"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "13,542",
+      "Jumlah": "53,785",
+      "selisih nilai barang setengah jadi": "795",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "38,854",
+      "Penerimaan lain dari jasa nonindustri": "594",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "7,936",
+      "Jumlah": "58,650",
+      "selisih nilai barang setengah jadi": "382",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "49,863",
+      "Penerimaan lain dari jasa nonindustri": "380",
+      "Tenaga listrik yang dijual": "88"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "96",
+      "Jumlah": "2,088",
+      "selisih nilai barang setengah jadi": "42",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "1,948",
+      "Penerimaan lain dari jasa nonindustri": "2",
+      "Kode Industri": "33",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "10",
+      "Jumlah": "1,597",
+      "selisih nilai barang setengah jadi": "16",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "1,567",
+      "Penerimaan lain dari jasa nonindustri": "4",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "21",
+      "Jumlah": "1,154",
+      "selisih nilai barang setengah jadi": "17",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "1,114",
+      "Penerimaan lain dari jasa nonindustri": "2",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "41",
+      "Jumlah": "1,704",
+      "selisih nilai barang setengah jadi": "25",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "1,635",
+      "Penerimaan lain dari jasa nonindustri": "3",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "28",
+      "Jumlah": "1,615",
+      "selisih nilai barang setengah jadi": "22",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "1,531",
+      "Penerimaan lain dari jasa nonindustri": "35",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "617",
+      "Jumlah": "2,382",
+      "selisih nilai barang setengah jadi": "16",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "1,744",
+      "Penerimaan lain dari jasa nonindustri": "4",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "387",
+      "Jumlah": "4,832",
+      "selisih nilai barang setengah jadi": "27",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "3,762",
+      "Penerimaan lain dari jasa nonindustri": "656",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "452",
+      "Jumlah": "4,188",
+      "selisih nilai barang setengah jadi": "99",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "3,604",
+      "Penerimaan lain dari jasa nonindustri": "33",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "322",
+      "Jumlah": "3 236",
+      "selisih nilai barang setengah jadi": "40",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "2 849",
+      "Penerimaan lain dari jasa nonindustri": "25",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "160",
+      "Jumlah": "2 747",
+      "selisih nilai barang setengah jadi": "26",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "2 547",
+      "Penerimaan lain dari jasa nonindustri": "14",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "82",
+      "Jumlah": "3,873",
+      "selisih nilai barang setengah jadi": "136",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "3,595",
+      "Penerimaan lain dari jasa nonindustri": "60",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "254",
+      "Jumlah": "2,583",
+      "selisih nilai barang setengah jadi": "32",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "1,957",
+      "Penerimaan lain dari jasa nonindustri": "341",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "167",
+      "Jumlah": "3,810",
+      "selisih nilai barang setengah jadi": "52",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "3,571",
+      "Penerimaan lain dari jasa nonindustri": "20",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,522",
+      "Jumlah": "27,450",
+      "selisih nilai barang setengah jadi": "130",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "24,723",
+      "Penerimaan lain dari jasa nonindustri": "1,075",
+      "Kode Industri": "34",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,148",
+      "Jumlah": "26,320",
+      "selisih nilai barang setengah jadi": "146",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "22,890",
+      "Penerimaan lain dari jasa nonindustri": "136",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "7,998",
+      "Jumlah": "52,536",
+      "selisih nilai barang setengah jadi": "336",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "43,962",
+      "Penerimaan lain dari jasa nonindustri": "241",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,497",
+      "Jumlah": "27,885",
+      "selisih nilai barang setengah jadi": "305",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "25,035",
+      "Penerimaan lain dari jasa nonindustri": "47",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,808",
+      "Jumlah": "49,506",
+      "selisih nilai barang setengah jadi": "356",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "46,208",
+      "Penerimaan lain dari jasa nonindustri": "134",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,677",
+      "Jumlah": "63,249",
+      "selisih nilai barang setengah jadi": "513",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "58,844",
+      "Penerimaan lain dari jasa nonindustri": "216",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,034",
+      "Jumlah": "69,848",
+      "selisih nilai barang setengah jadi": "332",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "65,478",
+      "Penerimaan lain dari jasa nonindustri": "1,005",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3,741",
+      "Jumlah": "71,569",
+      "selisih nilai barang setengah jadi": "1,169",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "66,421",
+      "Penerimaan lain dari jasa nonindustri": "238",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3 819",
+      "Jumlah": "87 639",
+      "selisih nilai barang setengah jadi": "480",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "82 923",
+      "Penerimaan lain dari jasa nonindustri": "418",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4 721",
+      "Jumlah": "95 277",
+      "selisih nilai barang setengah jadi": "441",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "89 729",
+      "Penerimaan lain dari jasa nonindustri": "386",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,186",
+      "Jumlah": "125,027",
+      "selisih nilai barang setengah jadi": "241",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "120,393",
+      "Penerimaan lain dari jasa nonindustri": "207",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "8,191",
+      "Jumlah": "201,155",
+      "selisih nilai barang setengah jadi": "1,338",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "191,086",
+      "Penerimaan lain dari jasa nonindustri": "541",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "8,376",
+      "Jumlah": "197,107",
+      "selisih nilai barang setengah jadi": "1,914",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "186,296",
+      "Penerimaan lain dari jasa nonindustri": "521",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "10,481",
+      "Jumlah": "33,765",
+      "selisih nilai barang setengah jadi": "812",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "22,457",
+      "Penerimaan lain dari jasa nonindustri": "13",
+      "Kode Industri": "35",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,034",
+      "Jumlah": "29,268",
+      "selisih nilai barang setengah jadi": "663",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "26,520",
+      "Penerimaan lain dari jasa nonindustri": "51",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "523",
+      "Jumlah": "26,849",
+      "selisih nilai barang setengah jadi": "494",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "25,748",
+      "Penerimaan lain dari jasa nonindustri": "85",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "896",
+      "Jumlah": "37,667",
+      "selisih nilai barang setengah jadi": "259",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "36,372",
+      "Penerimaan lain dari jasa nonindustri": "140",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,322",
+      "Jumlah": "32,354",
+      "selisih nilai barang setengah jadi": "623",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "29,225",
+      "Penerimaan lain dari jasa nonindustri": "184",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,759",
+      "Jumlah": "36,220",
+      "selisih nilai barang setengah jadi": "850",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "32,269",
+      "Penerimaan lain dari jasa nonindustri": "343",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,223",
+      "Jumlah": "46,245",
+      "selisih nilai barang setengah jadi": "764",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "40,279",
+      "Penerimaan lain dari jasa nonindustri": "979",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5,035",
+      "Jumlah": "72,294",
+      "selisih nilai barang setengah jadi": "1,293",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "65,172",
+      "Penerimaan lain dari jasa nonindustri": "794",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "3 396",
+      "Jumlah": "90 425",
+      "selisih nilai barang setengah jadi": "777",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "85 755",
+      "Penerimaan lain dari jasa nonindustri": "496",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4 732",
+      "Jumlah": "99 600",
+      "selisih nilai barang setengah jadi": "910",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "93 385",
+      "Penerimaan lain dari jasa nonindustri": "573",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "5,626",
+      "Jumlah": "86,990",
+      "selisih nilai barang setengah jadi": "75",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "80,876",
+      "Penerimaan lain dari jasa nonindustri": "413",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "7,740",
+      "Jumlah": "88,603",
+      "selisih nilai barang setengah jadi": "545",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "79,715",
+      "Penerimaan lain dari jasa nonindustri": "602",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "4,700",
+      "Jumlah": "99,395",
+      "selisih nilai barang setengah jadi": "465",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "93,878",
+      "Penerimaan lain dari jasa nonindustri": "353",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "350",
+      "Jumlah": "11,939",
+      "selisih nilai barang setengah jadi": "115",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "11,392",
+      "Penerimaan lain dari jasa nonindustri": "82",
+      "Kode Industri": "36",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "762",
+      "Jumlah": "13,234",
+      "selisih nilai barang setengah jadi": "84",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "12,273",
+      "Penerimaan lain dari jasa nonindustri": "115",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,592",
+      "Jumlah": "17,128",
+      "selisih nilai barang setengah jadi": "120",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "15,298",
+      "Penerimaan lain dari jasa nonindustri": "118",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,313",
+      "Jumlah": "16,053",
+      "selisih nilai barang setengah jadi": "415",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "14,202",
+      "Penerimaan lain dari jasa nonindustri": "124",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,071",
+      "Jumlah": "18,518",
+      "selisih nilai barang setengah jadi": "287",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "16,033",
+      "Penerimaan lain dari jasa nonindustri": "1,126",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "782",
+      "Jumlah": "19,970",
+      "selisih nilai barang setengah jadi": "172",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "17,643",
+      "Penerimaan lain dari jasa nonindustri": "1,373",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,359",
+      "Jumlah": "27,921",
+      "selisih nilai barang setengah jadi": "251",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "25,754",
+      "Penerimaan lain dari jasa nonindustri": "558",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,023",
+      "Jumlah": "44,157",
+      "selisih nilai barang setengah jadi": "628",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "41,205",
+      "Penerimaan lain dari jasa nonindustri": "301",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "837",
+      "Jumlah": "39 647",
+      "selisih nilai barang setengah jadi": "271",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "38 341",
+      "Penerimaan lain dari jasa nonindustri": "197",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1 153",
+      "Jumlah": "32 629",
+      "selisih nilai barang setengah jadi": "153",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "30 917",
+      "Penerimaan lain dari jasa nonindustri": "406",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,087",
+      "Jumlah": "38,467",
+      "selisih nilai barang setengah jadi": "919",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "35,722",
+      "Penerimaan lain dari jasa nonindustri": "739",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "1,779",
+      "Jumlah": "45,376",
+      "selisih nilai barang setengah jadi": "1,723",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "41,492",
+      "Penerimaan lain dari jasa nonindustri": "382",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "2,364",
+      "Jumlah": "53,410",
+      "selisih nilai barang setengah jadi": "783",
+      "Tahun": "2012 e",
+      "Barang yang dihasilkan": "49,838",
+      "Penerimaan lain dari jasa nonindustri": "425",
+      "Tenaga listrik yang dijual": "0"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "35,418",
+      "Jumlah": "629,036",
+      "selisih nilai barang setengah jadi": "16,641",
+      "Tahun": "2000",
+      "Barang yang dihasilkan": "573,288",
+      "Penerimaan lain dari jasa nonindustri": "3,389",
+      "Tenaga listrik yang dijual": "68"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "38,369",
+      "Jumlah": "719,293",
+      "selisih nilai barang setengah jadi": "10,491",
+      "Tahun": "2001",
+      "Barang yang dihasilkan": "665,733",
+      "Penerimaan lain dari jasa nonindustri": "4,643",
+      "Kode Industri": "Jumlah",
+      "Tenaga listrik yang dijual": "57"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "49,169",
+      "Jumlah": "882,473",
+      "selisih nilai barang setengah jadi": "12,555",
+      "Tahun": "2002",
+      "Barang yang dihasilkan": "810,895",
+      "Penerimaan lain dari jasa nonindustri": "9,719",
+      "Tenaga listrik yang dijual": "140"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "44,410",
+      "Jumlah": "838,804",
+      "selisih nilai barang setengah jadi": "11,235",
+      "Tahun": "2003",
+      "Barang yang dihasilkan": "775,097",
+      "Penerimaan lain dari jasa nonindustri": "7,931",
+      "Tenaga listrik yang dijual": "131"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "49,576",
+      "Jumlah": "985,946",
+      "selisih nilai barang setengah jadi": "9,645",
+      "Tahun": "2004",
+      "Barang yang dihasilkan": "915,525",
+      "Penerimaan lain dari jasa nonindustri": "11,028",
+      "Tenaga listrik yang dijual": "172"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "58,749",
+      "Jumlah": "1,088,683",
+      "selisih nilai barang setengah jadi": "13,218",
+      "Tahun": "2005",
+      "Barang yang dihasilkan": "1,005,056",
+      "Penerimaan lain dari jasa nonindustri": "11,394",
+      "Tenaga listrik yang dijual": "264"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "52,301",
+      "Jumlah": "1,292,560",
+      "selisih nilai barang setengah jadi": "17,124",
+      "Tahun": "2006",
+      "Barang yang dihasilkan": "1,191,136",
+      "Penerimaan lain dari jasa nonindustri": "31,835",
+      "Tenaga listrik yang dijual": "166"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "79,442",
+      "Jumlah": "1,547,004",
+      "selisih nilai barang setengah jadi": "29,981",
+      "Tahun": "2007",
+      "Barang yang dihasilkan": "1,419,863",
+      "Penerimaan lain dari jasa nonindustri": "17,596",
+      "Tenaga listrik yang dijual": "122"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "98 629",
+      "Jumlah": "1 917 313",
+      "selisih nilai barang setengah jadi": "18 167",
+      "Tahun": "2008",
+      "Barang yang dihasilkan": "1 781 478",
+      "Penerimaan lain dari jasa nonindustri": "18 964",
+      "Tenaga listrik yang dijual": "75"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "99 803",
+      "Jumlah": "2 000 944",
+      "selisih nilai barang setengah jadi": "16 602",
+      "Tahun": "2009",
+      "Barang yang dihasilkan": "1 867 302",
+      "Penerimaan lain dari jasa nonindustri": "17 160",
+      "Tenaga listrik yang dijual": "77"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "107 662 r",
+      "Jumlah": "2 207 951 r",
+      "selisih nilai barang setengah jadi": "19,825",
+      "Tahun": "2010",
+      "Barang yang dihasilkan": "2 053 960 r",
+      "Penerimaan lain dari jasa nonindustri": "26 421 r",
+      "Tenaga listrik yang dijual": "83"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "122,454",
+      "Jumlah": "2,618,048",
+      "selisih nilai barang setengah jadi": "31,847",
+      "Tahun": "2011",
+      "Barang yang dihasilkan": "2,434,716",
+      "Penerimaan lain dari jasa nonindustri": "28,807",
+      "Tenaga listrik yang dijual": "224"
+    },
+    {
+      "Jasa industri yang diberikan pada pihak lain": "134,257",
+      "Jumlah": "2,873,747",
+      "selisih nilai barang setengah jadi": "43,399",
+      "Tahun": "2012e",
+      "Barang yang dihasilkan": "2,668,787",
+      "Penerimaan lain dari jasa nonindustri": "26,996",
+      "Tenaga listrik yang dijual": "309"
+    }
+  ]
+}

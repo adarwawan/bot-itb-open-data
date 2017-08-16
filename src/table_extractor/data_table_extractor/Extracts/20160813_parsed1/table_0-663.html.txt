@@ -1,0 +1,78 @@
+{
+  "table_notes": "",
+  "table_title": "",
+  "table_data": [
+    {
+      "Magister": "-",
+      "Total": "197",
+      "Sarjana": "197",
+      "Program Studi": "SAPPK (TPB)",
+      "Doktor": "-"
+    },
+    {
+      "No.": "1",
+      "Magister": "26",
+      "Program Studi": "Arsitektur",
+      "Total": "29",
+      "Sarjana": "-",
+      "Doktor": "3"
+    },
+    {
+      "No.": "2",
+      "Magister": "85",
+      "Program Studi": "PWK",
+      "Total": "91",
+      "Sarjana": "-",
+      "Doktor": "6"
+    },
+    {
+      "No.": "3",
+      "Magister": "39",
+      "Program Studi": "Studi Pembangunan",
+      "Total": "39",
+      "Sarjana": "-",
+      "Doktor": "-"
+    },
+    {
+      "No.": "4",
+      "Magister": "10",
+      "Program Studi": "Transportasi",
+      "Total": "11",
+      "Sarjana": "-",
+      "Doktor": "1"
+    },
+    {
+      "No.": "5",
+      "Magister": "16",
+      "Program Studi": "Rancang Kota",
+      "Total": "16",
+      "Sarjana": "-",
+      "Doktor": "-"
+    },
+    {
+      "No.": "6",
+      "Magister": "6",
+      "Program Studi": "Perenc. Kepariwisataan",
+      "Total": "6",
+      "Sarjana": "-",
+      "Doktor": "-"
+    },
+    {
+      "No.": "7",
+      "Magister": "7",
+      "Program Studi": "Arsitektur Lanskap",
+      "Total": "7",
+      "Sarjana": "-",
+      "Doktor": "-"
+    },
+    {
+      "": {
+        "Magister": "221",
+        "Total": "428",
+        "Sarjana": "197",
+        "Program Studi": "Total",
+        "Doktor": "10"
+      }
+    }
+  ]
+}

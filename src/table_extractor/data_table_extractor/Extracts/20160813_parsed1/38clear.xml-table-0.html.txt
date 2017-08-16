@@ -1,0 +1,62 @@
+{
+  "table_notes": "",
+  "table_title": "",
+  "table_data": [
+    {
+      "Komoditi": "15. Pepaya",
+      "Unit": "Kg"
+    },
+    {
+      "Komoditi": "16. Kelapa",
+      "Unit": "Butir"
+    },
+    {
+      "Komoditi": "17. Gula",
+      "Unit": "Ons"
+    },
+    {
+      "Komoditi": "18. Kopi",
+      "Unit": "Ons"
+    },
+    {
+      "Komoditi": "19. Garam",
+      "Unit": "Ons"
+    },
+    {
+      "Komoditi": "20. Merica",
+      "Unit": "Ons"
+    },
+    {
+      "Komoditi": "21. Mie instan",
+      "Unit": "80 Gram"
+    },
+    {
+      "Komoditi": "22. Rokok Kretek",
+      "Unit": "10 batang"
+    },
+    {
+      "Komoditi": "23. Listrik",
+      "Unit": "Kwh"
+    },
+    {
+      "Komoditi": "24. Air minum",
+      "Unit": "M3"
+    },
+    {
+      "Komoditi": "25. Bensin",
+      "Unit": "Liter"
+    },
+    {
+      "Komoditi": "26. Minyak tanah",
+      "Unit": "Liter"
+    },
+    {
+      "Komoditi": "27. Sewa rumah",
+      "Unit": "Unit"
+    },
+    {
+      "Komoditi": "14. Jeruk",
+      "Unit": "Kg"
+    }
+  ]
+}

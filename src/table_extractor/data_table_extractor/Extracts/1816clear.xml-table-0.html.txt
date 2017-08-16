@@ -1,0 +1,96 @@
+{
+  "table_notes": "",
+  "table_title": "",
+  "table_data": [
+    {
+      "Status": "Belum Rilis",
+      "No.": "1",
+      "Keterangan Publikasi": "Indeks Harga Produsen 2015 \n Jadwal Rilis: 14 Apr 2016 \n Status: Belum Rilis",
+      "Judul": "Indeks Harga Produsen 2015",
+      "Periode Terbit": "Tahunan",
+      "Bahasa": "Indonesia & Inggris",
+      "Jadwal Rilis": "14 Apr 2016"
+    },
+    {
+      "Status": "Belum Rilis",
+      "No.": "2",
+      "Keterangan Publikasi": "Statistik Keuangan Pemerintah Kabupaten/Kota 2014-2015 \n Jadwal Rilis: 15 Apr 2016 \n Status: Belum Rilis",
+      "Judul": "Statistik Keuangan Pemerintah Kabupaten/Kota 2014-2015",
+      "Periode Terbit": "Tahunan",
+      "Bahasa": "Indonesia & Inggris",
+      "Jadwal Rilis": "15 Apr 2016"
+    },
+    {
+      "Status": "Belum Rilis",
+      "No.": "3",
+      "Keterangan Publikasi": "Indeks Harga Perdagangan Besar Indonesia (2010=100) Tahun 2015 \n Jadwal Rilis: 25 Apr 2016 \n Status: Belum Rilis",
+      "Judul": "Indeks Harga Perdagangan Besar Indonesia (2010=100) Tahun 2015",
+      "Periode Terbit": "Tahunan",
+      "Bahasa": "Indonesia & Inggris",
+      "Jadwal Rilis": "25 Apr 2016"
+    },
+    {
+      "Status": "Belum Rilis",
+      "No.": "4",
+      "Keterangan Publikasi": "Indikator Ekonomi Februari 2016 \n Jadwal Rilis: 25 Apr 2016 \n Status: Belum Rilis",
+      "Judul": "Indikator Ekonomi Februari 2016",
+      "Periode Terbit": "Bulanan",
+      "Bahasa": "Indonesia & Inggris",
+      "Jadwal Rilis": "25 Apr 2016"
+    },
+    {
+      "Status": "Belum Rilis",
+      "No.": "5",
+      "Keterangan Publikasi": "Buletin Statistik Perdagangan Luar Negeri Ekspor Menurut Kelompok Komoditi dan Negara, Februari 2016 \n Jadwal Rilis: 28 Apr 2016 \n Status: Belum Rilis",
+      "Judul": "Buletin Statistik Perdagangan Luar Negeri Ekspor Menurut Kelompok Komoditi dan Negara, Februari 2016",
+      "Periode Terbit": "Bulanan",
+      "Bahasa": "Indonesia",
+      "Jadwal Rilis": "28 Apr 2016"
+    },
+    {
+      "Status": "Belum Rilis",
+      "No.": "6",
+      "Keterangan Publikasi": "Buletin Statistik Perdagangan Luar Negeri Ekspor Menurut Komoditi HS, Februari 2016 \n Jadwal Rilis: 28 Apr 2016 \n Status: Belum Rilis",
+      "Judul": "Buletin Statistik Perdagangan Luar Negeri Ekspor Menurut Komoditi HS, Februari 2016",
+      "Periode Terbit": "Bulanan",
+      "Bahasa": "Indonesia",
+      "Jadwal Rilis": "28 Apr 2016"
+    },
+    {
+      "Status": "Belum Rilis",
+      "No.": "7",
+      "Keterangan Publikasi": "Indeks \"Unit Value\" Ekspor, Februari 2016 \n Jadwal Rilis: 28 Apr 2016 \n Status: Belum Rilis",
+      "Judul": "Indeks \"Unit Value\" Ekspor, Februari 2016",
+      "Periode Terbit": "Bulanan",
+      "Bahasa": "Indonesia",
+      "Jadwal Rilis": "28 Apr 2016"
+    },
+    {
+      "Status": "Belum Rilis",
+      "No.": "8",
+      "Keterangan Publikasi": "Buletin Statistik Perdagangan Luar Negeri Impor Februari 2016 \n Jadwal Rilis: 29 Apr 2016 \n Status: Belum Rilis",
+      "Judul": "Buletin Statistik Perdagangan Luar Negeri Impor Februari 2016",
+      "Periode Terbit": "Bulanan",
+      "Bahasa": "Indonesia",
+      "Jadwal Rilis": "29 Apr 2016"
+    },
+    {
+      "Status": "Belum Rilis",
+      "No.": "9",
+      "Keterangan Publikasi": "Indikator Konstruksi, Triwulan IV-2015 \n Jadwal Rilis: 29 Apr 2016 \n Status: Belum Rilis",
+      "Judul": "Indikator Konstruksi, Triwulan IV-2015",
+      "Periode Terbit": "Triwulanan",
+      "Bahasa": "Indonesia & Inggris",
+      "Jadwal Rilis": "29 Apr 2016"
+    },
+    {
+      "Status": "Belum Rilis",
+      "No.": "10",
+      "Keterangan Publikasi": "Statistik Harga Konsumen Perdesaan Kelompok Makanan 2015 \n Jadwal Rilis: 29 Apr 2016 \n Status: Belum Rilis",
+      "Judul": "Statistik Harga Konsumen Perdesaan Kelompok Makanan 2015",
+      "Periode Terbit": "Tahunan",
+      "Bahasa": "Indonesia & Inggris",
+      "Jadwal Rilis": "29 Apr 2016"
+    }
+  ]
+}

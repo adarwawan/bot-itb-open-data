@@ -1,0 +1,33 @@
+{
+  "table_notes": "",
+  "table_title": "",
+  "table_data": [
+    {
+      "Nama": "Juniastel Rajagukguk",
+      "No": "1",
+      "NIM": "30212006",
+      "Fak./Sek.": "FMIPA",
+      "Program Studi": "Fisika",
+      "Judul Disertasi": "Pengembangan Medium Gelas Didoping oleh Ion Neodimium (Nd3+) sebagai Medium Penguat Laser",
+      "Periode Wisuda": "III 2015/2016  (Juli)"
+    },
+    {
+      "Nama": "Auliya Ilmiawati",
+      "No": "2",
+      "NIM": "30512024",
+      "Fak./Sek.": "FMIPA",
+      "Program Studi": "Kimia",
+      "Judul Disertasi": "Senyawa-Senyawa Turunan Fenol dari Empat Spesies Macaranga Indonesia serta Aktivitas Sitotoksik dan Antibakterinya",
+      "Periode Wisuda": "III 2015/2016  (Juli)"
+    },
+    {
+      "Nama": "Dhini Dewiyanti",
+      "No": "3",
+      "NIM": "35211003",
+      "Fak./Sek.": "SAPPK",
+      "Program Studi": "Arsitektur",
+      "Judul Disertasi": "Masjid Salman Bandung Sebuah Tinjauan Fenomenologis terhadap Makna Eksistensial",
+      "Periode Wisuda": "III 2015/2016  (Juli)"
+    }
+  ]
+}

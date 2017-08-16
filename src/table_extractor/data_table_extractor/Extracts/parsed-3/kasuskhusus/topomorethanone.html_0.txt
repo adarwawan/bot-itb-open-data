@@ -1,0 +1,21 @@
+{
+  "table_notes": "",
+  "table_title": "",
+  "table_data": {
+    "row-2": {
+      "Bandung": "Surakarta",
+      "129": "324",
+      "134": "213",
+      "213": "333",
+      "Jawa Barat": "Jawa Tengah"
+    },
+    "row-0": {},
+    "row-1": {
+      "Bandung": "Semarang",
+      "129": "235",
+      "134": "211",
+      "213": "214",
+      "Jawa Barat": "Jawa Tengah"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "table_notes": "",
+  "table_title": "",
+  "table_data": [
+    {
+      "TUJUAN INDIKATOR (3)": "Persentase konsumen yang merasa puas dengan  kualitas data statistik",
+      "TARGET 2018 (7)": "80%",
+      "TARGET 2016 (5)": "80%",
+      "No (1)": "1",
+      "TARGET 2015 (4)": "80%",
+      "TARGET 2017 (6)": "80%",
+      "TUJUAN URAIAN (2)": "Peningkatan kualitas data statistik melalui kerangka penjaminan kualitas",
+      "TARGET 2019 (8)": "80%"
+    },
+    {
+      "TUJUAN INDIKATOR (3)": "Persentase Konsumen yang puas akan layanan data BPS",
+      "TARGET 2018 (7)": "84%",
+      "TARGET 2016 (5)": "84%",
+      "No (1)": "2",
+      "TARGET 2015 (4)": "84%",
+      "TARGET 2017 (6)": "84%",
+      "TUJUAN URAIAN (2)": "Peningkatan pelayanan prima hasil kegiatan statistik",
+      "TARGET 2019 (8)": "84%"
+    },
+    {
+      "TUJUAN INDIKATOR (3)": "Jumlah metadata kegiatan statistik sektoral dan khusus yang dihimpun",
+      "TARGET 2018 (7)": "150",
+      "TARGET 2016 (5)": "150",
+      "No (1)": "3",
+      "TARGET 2015 (4)": "150",
+      "TARGET 2017 (6)": "150",
+      "TUJUAN URAIAN (2)": "Penguatan Sistem Statistik Nasional melalui koordinasi dan pembinaan yang efektif di bidang statistik",
+      "TARGET 2019 (8)": "150"
+    },
+    {
+      "TUJUAN INDIKATOR (3)": "Opini terhadap Laporan Keuangan BPS oleh BPK",
+      "TARGET 2018 (7)": "WTP",
+      "TARGET 2016 (5)": "WTP",
+      "No (1)": "4",
+      "TARGET 2015 (4)": "WTP",
+      "TARGET 2017 (6)": "WTP",
+      "TUJUAN URAIAN (2)": "Peningkatan birokrasi yang akuntabel",
+      "TARGET 2019 (8)": "WTP"
+    }
+  ]
+}

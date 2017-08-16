@@ -1,0 +1,36 @@
+{
+  "table_notes": "",
+  "table_title": "",
+  "table_data": [
+    {
+      "SK": "SK1",
+      "Masuk ke Tahap": "I (Persiapan/Kualifikasi)",
+      "Keterangan": "Penentuan nama tim pembimbing",
+      "No": "1"
+    },
+    {
+      "SK": "SK2",
+      "Masuk ke Tahap": "II (Penyusunan proposal)",
+      "Keterangan": "Lulus ujian persiapan/kualifikasi",
+      "No": "2"
+    },
+    {
+      "SK": "SK3",
+      "Masuk ke Tahap": "III (Penelitian)",
+      "Keterangan": "Lulus tahap penyusunan proposal",
+      "No": "3"
+    },
+    {
+      "SK": "SK4a",
+      "Masuk ke Tahap": "IVa (Sidang Tertutup)",
+      "Keterangan": "Lulus tahap penelitian",
+      "No": "4"
+    },
+    {
+      "SK": "SK4b",
+      "Masuk ke Tahap": "IVb (Sidang Terbuka)",
+      "Keterangan": "Lulus Sidang Tertutup",
+      "No": "5"
+    }
+  ]
+}

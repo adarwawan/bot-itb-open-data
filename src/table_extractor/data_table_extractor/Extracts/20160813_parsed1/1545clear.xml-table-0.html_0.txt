@@ -1,0 +1,163 @@
+{
+  "table_notes": "",
+  "table_title": "Produksi Bulanan Perkebunan Besar, Indonesia (000 Ton), 2013* ",
+  "table_data": [
+    {
+      "Teh": "7,5",
+      "Kulit Kina": "0,01",
+      "Kopi": "0,1",
+      "Tembakau  1)": "0,2",
+      "Karet Kering": "60,0",
+      "Coklat": "3,4",
+      "Bulan": "Januari",
+      "Biji Sawit": "375,0",
+      "Minyak Sawit": "1.572,2",
+      "Gula Tebu  1)": "-"
+    },
+    {
+      "Teh": "6,5",
+      "Kulit Kina": "0,01",
+      "Kopi": "0,1",
+      "Tembakau  1)": "0,2",
+      "Karet Kering": "52,1",
+      "Coklat": "3,3",
+      "Bulan": "Februari",
+      "Biji Sawit": "312,8",
+      "Minyak Sawit": "1.311,1",
+      "Gula Tebu  1)": "-"
+    },
+    {
+      "Teh": "6,3",
+      "Kulit Kina": "0,01",
+      "Kopi": "0,2",
+      "Tembakau  1)": "0,2",
+      "Karet Kering": "51,2",
+      "Coklat": "3,3",
+      "Bulan": "Maret",
+      "Biji Sawit": "354,3",
+      "Minyak Sawit": "1.485,5",
+      "Gula Tebu  1)": "-"
+    },
+    {
+      "Teh": "8,9",
+      "Kulit Kina": "0,01",
+      "Kopi": "0,8",
+      "Tembakau  1)": "0,3",
+      "Karet Kering": "47,7",
+      "Coklat": "5,3",
+      "Bulan": "April",
+      "Biji Sawit": "380,1",
+      "Minyak Sawit": "1.593,5",
+      "Gula Tebu  1)": "44,2"
+    },
+    {
+      "Teh": "8,9",
+      "Kulit Kina": "0,01",
+      "Kopi": "3,1",
+      "Tembakau  1)": "0,3",
+      "Karet Kering": "51,0",
+      "Coklat": "4,5",
+      "Bulan": "Mei",
+      "Biji Sawit": "372,3",
+      "Minyak Sawit": "1.560,6",
+      "Gula Tebu  1)": "58,9"
+    },
+    {
+      "Teh": "8,5",
+      "Kulit Kina": "0,01",
+      "Kopi": "2,8",
+      "Tembakau  1)": "0,3",
+      "Karet Kering": "47,0",
+      "Coklat": "3,8",
+      "Bulan": "Juni",
+      "Biji Sawit": "389,0",
+      "Minyak Sawit": "1.630,9",
+      "Gula Tebu  1)": "94,2"
+    },
+    {
+      "Teh": "9,1",
+      "Kulit Kina": "0,02",
+      "Kopi": "4,9",
+      "Tembakau  1)": "0,2",
+      "Karet Kering": "54,1",
+      "Coklat": "5,6",
+      "Bulan": "Juli",
+      "Biji Sawit": "237,4",
+      "Minyak Sawit": "1.370,6",
+      "Gula Tebu  1)": "588,7"
+    },
+    {
+      "Teh": "8,1",
+      "Kulit Kina": "0,01",
+      "Kopi": "5,2",
+      "Tembakau  1)": "0,2",
+      "Karet Kering": "54,2",
+      "Coklat": "7,2",
+      "Bulan": "Agustus",
+      "Biji Sawit": "236,7",
+      "Minyak Sawit": "1.366,1",
+      "Gula Tebu  1)": "559,3"
+    },
+    {
+      "Teh": "8,1",
+      "Kulit Kina": "0,01",
+      "Kopi": "4,1",
+      "Tembakau  1)": "0,2",
+      "Karet Kering": "54,2",
+      "Coklat": "4,9",
+      "Bulan": "September",
+      "Biji Sawit": "235,9",
+      "Minyak Sawit": "1.361,6",
+      "Gula Tebu  1)": "500,4"
+    },
+    {
+      "Teh": "8,1",
+      "Kulit Kina": "0,01",
+      "Kopi": "3,8",
+      "Tembakau  1)": "0,2",
+      "Karet Kering": "60,3",
+      "Coklat": "4,7",
+      "Bulan": "Oktober",
+      "Biji Sawit": "250,7",
+      "Minyak Sawit": "1.375,0",
+      "Gula Tebu  1)": "396,4"
+    },
+    {
+      "Teh": "8,0",
+      "Kulit Kina": "0,02",
+      "Kopi": "2,4",
+      "Tembakau  1)": "0,2",
+      "Karet Kering": "63,0",
+      "Coklat": "4,5",
+      "Bulan": "November",
+      "Biji Sawit": "251,6",
+      "Minyak Sawit": "1.379,5",
+      "Gula Tebu  1)": "236,9"
+    },
+    {
+      "Teh": "8,0",
+      "Kulit Kina": "0,01",
+      "Kopi": "2,4",
+      "Tembakau  1)": "0,2",
+      "Karet Kering": "75,6",
+      "Coklat": "4,0",
+      "Bulan": "Desember",
+      "Biji Sawit": "252,4",
+      "Minyak Sawit": "1.383,9",
+      "Gula Tebu  1)": "75,9"
+    },
+    {
+      "Total": {
+        "Kulit Kina": "0,15",
+        "Teh": "96,1",
+        "Kopi": "29,8",
+        "Tembakau  1)": "2,8",
+        "Karet Kering": "670,4",
+        "Biji Sawit": "3 648,2",
+        "Coklat": "54,5",
+        "Minyak Sawit": "17 390,5",
+        "Gula Tebu  1)": "2 554,8"
+      }
+    }
+  ]
+}

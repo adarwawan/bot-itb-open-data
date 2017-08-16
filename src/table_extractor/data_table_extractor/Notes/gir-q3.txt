@@ -1,0 +1,62 @@
+                    from_table                       sr_names  sr_scores
+0                         Aceh                 Matangara Aceh   6.358321
+1               Sumatera Utara                 Sumatera Utara   7.262721
+2               Sumatera Barat        Provinsi Sumatera Barat   5.690537
+3                         Riau                           Riau   4.790980
+4                        Jambi                          Jambi   4.056425
+5             Sumatera Selatan               Sumatera Selatan   7.134184
+6                     Bengkulu                       Bengkulu   4.030584
+7                      Lampung                        Lampung   1.967384
+8    Kepulauan Bangka Belitung      Kepulauan Bangka Belitung   6.396063
+9               Kepulauan Riau        Provinsi Kepulauan Riau   6.916872
+10                 DKI Jakarta  Daerah Khusus Ibukota Jakarta   3.466949
+11                  Jawa Barat                     Jawa Barat   8.442406
+12                 Jawa Tengah                    Jati Tengah   6.983789
+13               DI Yogyakarta                     Yogyakarta   2.752575
+14                  Jawa Timur                     Jawa Timur   7.650753
+15                      Banten                         Banten   2.023457
+16                     B a l i                    Not Toponym   0.000000
+17         Nusa Tenggara Barat             West Nusa Tenggara   9.276229
+18         Nusa Tenggara Timur   Provinsi Nusa Tenggara Timur   8.315378
+19            Kalimantan Barat      Provinsi Kalimantan Barat   4.354505
+20           Kalimantan Tengah     Provinsi Kalimantan Tengah   8.653484
+21          Kalimantan Selatan      Sungai Kalimantan Selatan   8.970122
+22            Kalimantan Timur                Palimanan Timur   6.660725
+23            Kalimantan Utara               North Kalimantan   8.824524
+24              Sulawesi Utara                 Sulawesi Utara   7.237736
+25             Sulawesi Tengah                Sulawesi Tengah   7.613142
+26            Sulawesi Selatan      Provinsi Sulawesi Selatan   4.668487
+27           Sulawesi Tenggara              Sulawesi Tenggara  11.207206
+28                   Gorontalo                      Gorontalo  11.553780
+29              Sulawesi Barat        Provinsi Sulawesi Barat   9.458584
+..                         ...                            ...        ...
+72                       Jambi                          Jambi   4.056425
+73            Sumatera Selatan               Sumatera Selatan   7.134184
+74                    Bengkulu                       Bengkulu   4.030584
+75                     Lampung                        Lampung   1.967384
+76   Kepulauan Bangka Belitung      Kepulauan Bangka Belitung   6.396063
+77              Kepulauan Riau        Provinsi Kepulauan Riau   6.916872
+78                 DKI Jakarta  Daerah Khusus Ibukota Jakarta   3.466949
+79                  Jawa Barat                     Jawa Barat   8.442406
+80                 Jawa Tengah                    Jati Tengah   6.983789
+81               DI Yogyakarta                     Yogyakarta   2.752575
+82                  Jawa Timur                     Jawa Timur   7.650753
+83                      Banten                         Banten   2.023457
+84                     B a l i                    Not Toponym   0.000000
+85         Nusa Tenggara Barat             West Nusa Tenggara   9.276229
+86         Nusa Tenggara Timur   Provinsi Nusa Tenggara Timur   8.315378
+87            Kalimantan Barat      Provinsi Kalimantan Barat   4.354505
+88           Kalimantan Tengah     Provinsi Kalimantan Tengah   8.653484
+89          Kalimantan Selatan      Sungai Kalimantan Selatan   8.970122
+90            Kalimantan Timur                Palimanan Timur   6.660725
+91            Kalimantan Utara               North Kalimantan   8.824524
+92              Sulawesi Utara                 Sulawesi Utara   7.237736
+93             Sulawesi Tengah                Sulawesi Tengah   7.613142
+94            Sulawesi Selatan      Provinsi Sulawesi Selatan   4.668487
+95           Sulawesi Tenggara              Sulawesi Tenggara  11.207206
+96                   Gorontalo                      Gorontalo  11.553780
+97              Sulawesi Barat        Provinsi Sulawesi Barat   9.458584
+98                      Maluku                         Maluku   2.316313
+99                Maluku Utara          Provinsi Maluku Utara   9.850761
+100                Papua Barat                    Dapur Barat   5.963881
+101                      Papua                           Papu   4.866213

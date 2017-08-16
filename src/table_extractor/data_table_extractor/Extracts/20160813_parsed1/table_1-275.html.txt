@@ -1,0 +1,26 @@
+{
+  "table_notes": "",
+  "table_title": "",
+  "table_data": [
+    {
+      "JABATAN": "Ketua",
+      "N A M A": "Ir. Betti S. Alisjahbana",
+      "NO": "1."
+    },
+    {
+      "JABATAN": "Wakil Ketua",
+      "N A M A": "â€ŽProf. Jann Hidajat Tjakraatmadja",
+      "NO": "2."
+    },
+    {
+      "JABATAN": "Sekretaris Eksekutif",
+      "N A M A": "Prof. Emmy Suparka",
+      "NO": "3."
+    },
+    {
+      "JABATAN": "Sekretaris I",
+      "N A M A": "Dr. Benno Rahardyan, ST, MT.",
+      "NO": "4."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "table_notes": "",
+  "table_title": "",
+  "table_data": [
+    {
+      "Kode Mata Kuliah": "ME2112",
+      "No.": "1.",
+      "Nama Mata Kuliah": "Meteorologi Umum",
+      "Jumlah Mahasiswa": "80",
+      "Prodi Pengguna": "Meteorologi"
+    },
+    {
+      "Kode Mata Kuliah": "ME3121",
+      "No.": "2.",
+      "Nama Mata Kuliah": "Analisis Data Meterologi I",
+      "Jumlah Mahasiswa": "22",
+      "Prodi Pengguna": "Meteorologi"
+    },
+    {
+      "Kode Mata Kuliah": "ME4133",
+      "No.": "3.",
+      "Nama Mata Kuliah": "Manajemen Air",
+      "Jumlah Mahasiswa": "11",
+      "Prodi Pengguna": "Meteorologi"
+    },
+    {
+      "Kode Mata Kuliah": "ME4234",
+      "No.": "4.",
+      "Nama Mata Kuliah": "Kebijakan Iklim",
+      "Jumlah Mahasiswa": "40",
+      "Prodi Pengguna": "Meteorologi"
+    },
+    {
+      "Kode Mata Kuliah": "â¦.dst",
+      "No.": "5."
+    }
+  ]
+}

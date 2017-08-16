@@ -1,0 +1,62 @@
+                    from_table                         sr_names  sr_scores
+0                         Aceh                      Krueng Aceh   6.534935
+1               Sumatera Utara                   Sumatera Utara   4.069819
+2               Sumatera Barat          Provinsi Sumatera Barat   3.365160
+3                         Riau                             Riau   4.556633
+4                        Jambi                            Jambi   3.405730
+5             Sumatera Selatan                 Sumatera Selatan   2.112521
+6                     Bengkulu                         Bengkulu   3.288170
+7                      Lampung                         Lampeong   1.528718
+8    Kepulauan Bangka Belitung        Kepulauan Bangka Belitung   2.279491
+9               Kepulauan Riau                   Kepulauan Riau   3.745333
+10                 DKI Jakarta                          Jakarta   3.835494
+11                  Jawa Barat                       Jawa Barat   1.723905
+12                 Jawa Tengah             Provinsi Jawa Tengah   1.435775
+13               DI Yogyakarta                       Yogyakarta   4.173803
+14                  Jawa Timur                       Rawa Timur   1.932735
+15                      Banten                           Banten   2.017534
+16                     B a l i  Transmigrasi Blok B Unit I Lumu   2.290040
+17         Nusa Tenggara Barat       Museum Nusa Tenggara Barat   2.070154
+18         Nusa Tenggara Timur     Provinsi Nusa Tenggara Timur   2.174427
+19            Kalimantan Barat        Provinsi Kalimantan Barat   2.374864
+20           Kalimantan Tengah       Provinsi Kalimantan Tengah   2.107354
+21          Kalimantan Selatan      Provinsi Kalimantan Selatan   1.790826
+22            Kalimantan Timur             Desa Palimanan Timur   2.667149
+23            Kalimantan Utara                 North Kalimantan   3.348560
+24              Sulawesi Utara                   Sulawesi Utara   4.173758
+25             Sulawesi Tengah                  Sulawesi Tengah   2.620921
+26            Sulawesi Selatan        Provinsi Sulawesi Selatan   2.164994
+27           Sulawesi Tenggara                Sulawesi Tenggara   3.091366
+28                   Gorontalo                        Gorontalo  11.147505
+29              Sulawesi Barat          Provinsi Sulawesi Barat   3.759853
+..                         ...                              ...        ...
+72                       Jambi                            Jambi   3.405730
+73            Sumatera Selatan                 Sumatera Selatan   2.112521
+74                    Bengkulu                         Bengkulu   3.288170
+75                     Lampung                         Lampeong   1.528718
+76   Kepulauan Bangka Belitung        Kepulauan Bangka Belitung   2.279491
+77              Kepulauan Riau                   Kepulauan Riau   3.745333
+78                 DKI Jakarta                          Jakarta   3.835494
+79                  Jawa Barat                       Jawa Barat   1.723905
+80                 Jawa Tengah             Provinsi Jawa Tengah   1.435775
+81               DI Yogyakarta                       Yogyakarta   4.173803
+82                  Jawa Timur                       Rawa Timur   1.932735
+83                      Banten                           Banten   2.017534
+84                     B a l i  Transmigrasi Blok B Unit I Lumu   2.290040
+85         Nusa Tenggara Barat       Museum Nusa Tenggara Barat   2.070154
+86         Nusa Tenggara Timur     Provinsi Nusa Tenggara Timur   2.174427
+87            Kalimantan Barat        Provinsi Kalimantan Barat   2.374864
+88           Kalimantan Tengah       Provinsi Kalimantan Tengah   2.107354
+89          Kalimantan Selatan      Provinsi Kalimantan Selatan   1.790826
+90            Kalimantan Timur             Desa Palimanan Timur   2.667149
+91            Kalimantan Utara                 North Kalimantan   3.348560
+92              Sulawesi Utara                   Sulawesi Utara   4.173758
+93             Sulawesi Tengah                  Sulawesi Tengah   2.620921
+94            Sulawesi Selatan        Provinsi Sulawesi Selatan   2.164994
+95           Sulawesi Tenggara                Sulawesi Tenggara   3.091366
+96                   Gorontalo                        Gorontalo  11.147505
+97              Sulawesi Barat          Provinsi Sulawesi Barat   3.759853
+98                      Maluku                           Maluku   2.003557
+99                Maluku Utara            Provinsi Maluku Utara   1.804338
+100                Papua Barat             Provinsi Papua Barat   2.671417
+101                      Papua                            Pappa   5.009369
