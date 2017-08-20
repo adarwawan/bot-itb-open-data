@@ -1,0 +1,11 @@
+FAKULTAS TEKNOLOGI INDUSTRI
+Tweet
+Jurnal Nasional 2016
+Abady, H., Joelianto, E., Energy aware distributed estimator system over wireless sensor networks with ad-hoc on-demand distance vector (AODV) routing algorithm, Internetworking Indonesia Journal, Volume 8, Issue 1, 2016, Pages 23-28, ISSN: 19429703 (Scopus)
+Joelianto, E., Widyotriatmo, A., Turnip, A. , Guest editors’ introduction to special issue on Industrial Internet of Things (IIoT), Internetworking Indonesia Journal, Volume 8, Issue 1, 2016, Pages 1-3,ISSN: 1942-9703 (Scopus)
+Turnip, A., Soetraprawata, D., Turnip, M., Joelianto, E., EEG-based brain-controlled wheelchair with four different stimuli frequencies, Internetworking Indonesia Journal, Volume 8, Issue 1, 2016, Pages 65-69, ISSN: 19429703 (Scopus)
+Sutanto Hadisupadmo, Arista Nugroho, Augie Widyotriatmo, A Small Signal State Space Model of Inverter-based Microgrid Control on Signal Phase AC Power System, Internetworking Indonesia Journal, Volume 8 No. 1, 2016.
+Rajesri Govindaraju, Iwan Inrawan Wiratmadja, Avif Haryana, Pengembangan Model Evaluasi Kualitas Layanan Sistem E-Goverment, Jurnal Manajemen Teknologi Vol. 15 No. 2 (2016) page: 196 – 205
+Tota Simatupang, Rajesri Govindaraju, Reni Amaranti, Change Management Perspectives in an ERP Module Implementation: A Case Study in a Telecommunication Company, Jurnal Teknik Industri, Jurnal Keilmuan dan Aplikasi Teknik Industri, Volume 18 No.1, Juni 2016 (Terakreditasi DIKTI), ISSN: 1411-2485, e-ISSN: 2087-7439
+Suprayogi, Senator Nur Bahagia, Yudi Thaddeus, Genetic Algorithm for Solving Location Problem in a Supply Chain Network with Inbound and Outbound Product Flows, Jurnal Teknik Industri, ISSN: 1411-2485, e-ISSN: 2087-7439, Vol 18, No 2 (2016)
+Ari Widyanti, Anisa Agtriani, Budaya Organisasi yang Mendukung Keselamatan Pasien di Rumah Sakit,  Jurnal Teknik Industri, ISSN: 1411-2485, e-ISSN: 2087-7439, Vol 18, No 2 (2016)

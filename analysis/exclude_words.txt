@@ -1,0 +1,11 @@
+blog
+news
+berita
+tag
+event
+admin
+kategori
+category
+download
+downloads
+kurikulum

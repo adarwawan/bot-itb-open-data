@@ -1,0 +1,110 @@
+# STEI
+https://stei.itb.ac.id/id/
+https://if.stei.itb.ac.id/
+http://www.ee.itb.ac.id/
+http://et.stei.itb.ac.id/
+https://epe.stei.itb.ac.id/
+https://biomed.stei.itb.ac.id/
+http://www.lskk.ee.itb.ac.id/
+http://elektronika.ee.itb.ac.id/
+# FMIPA
+http://fmipa.itb.ac.id/
+https://www.as.itb.ac.id/
+http://www.phys.itb.ac.id/
+http://pcs.phys.itb.ac.id/
+http://fismots.fi.itb.ac.id/FMF/
+http://pem.phys.itb.ac.id/
+http://fi.itb.ac.id/fnb/
+http://thepi.phys.itb.ac.id/
+http://www.chem.itb.ac.id/
+http://inorg-phys.chem.itb.ac.id/
+http://analytical.chem.itb.ac.id/
+http://organic.chem.itb.ac.id/
+http://biochem.chem.itb.ac.id
+http://www.math.itb.ac.id/
+# FTI
+http://www.fti.itb.ac.id/
+https://www.che.itb.ac.id/
+http://www.tf.itb.ac.id/
+http://www.ti.itb.ac.id/en/
+http://ppprostk.fti.itb.ac.id/
+http://ppprodtk.fti.itb.ac.id/
+http://esptk.fti.itb.ac.id/
+http://tf.fti.itb.ac.id/
+http://ik.fti.itb.ac.id/
+http://sm.fti.itb.ac.id/
+http://mi.fti.itb.ac.id/
+http://site.fti.itb.ac.id/
+# SF
+http://fa.itb.ac.id/
+# SAPPK
+http://sappk.itb.ac.id
+http://www.ar.itb.ac.id/
+http://www.pl.itb.ac.id/
+http://dosen.ar.itb.ac.id/pa
+http://dosen.ar.itb.ac.id/pp/
+http://dosen.ar.itb.ac.id/kktb/
+http://dosen.ar.itb.ac.id/kkstka/
+# FITB
+http://fitb.itb.ac.id/
+http://www.gc.itb.ac.id/
+http://www.gd.itb.ac.id/
+http://www.meteo.itb.ac.id/
+http://www.oceanography.itb.ac.id/
+# FTTM
+http://www.fttm.itb.ac.id
+http://mining.itb.ac.id/
+http://tm.itb.ac.id/
+http://gf.itb.ac.id/
+http://metallurgy.itb.ac.id/
+http://esdb.fttm.itb.ac.id/
+http://ta.fttm.itb.ac.id/
+http://tekres.fttm.itb.ac.id/
+http://mg.fttm.itb.ac.id/
+http://gt.fttm.itb.ac.id/
+http://gg.fttm.itb.ac.id/
+http://ser.fttm.itb.ac.id/
+http://tppmm.fttm.itb.ac.id/
+# SBM
+http://www.sbm.itb.ac.id/
+# FSRD
+http://fsrd.itb.ac.id/
+http://senirupa.fsrd.itb.ac.id/
+http://www.kria.fsrd.itb.ac.id/
+http://www.interior.fsrd.itb.ac.id/
+http://www.dkv.fsrd.itb.ac.id/
+http://www.produk.fsrd.itb.ac.id/
+http://kksr.fsrd.itb.ac.id/
+http://kkeis.fsrd.itb.ac.id/
+http://kkmri.fsrd.itb.ac.id/
+http://kkkvm.fsrd.itb.ac.id/
+http://desainproduk.fsrd.itb.ac.id/
+http://kkkt.fsrd.itb.ac.id/
+http://kkiidbv.fsrd.itb.ac.id/
+http://kkik.fsrd.itb.ac.id/
+# FTMD
+http://www.ftmd.itb.ac.id
+http://www.mesin.itb.ac.id/home/
+# SITH
+http://sith.itb.ac.id/
+http://mikrobiologi.sith.itb.ac.id/
+http://biologis1.sith.itb.ac.id/
+http://rh.sith.itb.ac.id/
+http://rp.sith.itb.ac.id/
+http://rk.sith.itb.ac.id/
+http://tpp.sith.itb.ac.id/
+http://atb.sith.itb.ac.id/
+http://bm.sith.itb.ac.id/
+http://ekologi.sith.itb.ac.id/
+http://fphsb.sith.itb.ac.id/
+http://gbm.sith.itb.ac.id/
+http://sbt.sith.itb.ac.id/
+http://msdh.sith.itb.ac.id/
+http://th.sith.itb.ac.id/
+# FTSL
+http://ftsl.itb.ac.id
+http://www.si.itb.ac.id/
+http://www.tl.itb.ac.id/
+http://www.ocean.itb.ac.id/
+http://www.ril.itb.ac.id/
+http://www.tpsda.itb.ac.id/

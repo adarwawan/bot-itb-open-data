@@ -1,0 +1,10 @@
+Crawling
+- Isi URL
+- Isi Informasi Fakultas
+- Isi Informasi Jurusan
+- Start
+- Output: list-url.csv
+
+Ekstraktor
+- Input: list-url.csv
+- Start

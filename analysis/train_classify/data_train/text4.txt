@@ -1,0 +1,53 @@
+Dr. Eng. Ayu Purwarianti, ST.,MT.
+Assistant Professor
+Ph.D:        Toyohashi University of Technology, Japan _________________________________
+School of Electrical Engineering and Informatics
+Institut Teknologi Bandung
+Achmad Bakrie Building-Jl. Ganesa No. 10 Bandung,
+Indonesia 40132
+Doctoral: Informatics, Toyohashi University of Technology, Japan
+Field of Expertise
+Natural language processing, Speech Processing, Intelligent Tutoring System, and          Knowledge Management System
+Publications/Seminars
+2012
+Ayu Purwarianti, Zulfikar Hakim,"Interactive Question Answering for Customer Service Representative Using Information State Concept",2012 International Conference on System Engineering and Technology, September 11-12, 2012, Bandung, Indonesia
+Aqsath Rasyid Naradhipa, Ayu Purwarianti,"Sentiment Classification for Indonesian Message in Social Media",International Conference on Cloud Computing and Social Networking, 26-27 April 2012
+Filman Ferdian, Ayu Purwarianti,"Implementation of Semantic Analyzer in Indonesian Text-Understanding Evaluation System",IEEE International Conference on Computational Intelligence and Cybernetics, July 12-14, 2012
+Zakiy Firdaus Alfikri and Ayu Purwarianti,"The Construction Of Indonesian-English Cross Language Plagiarism Detection System Using Fingerprinting Technique",Jurnal Ilmu Komputer dan Informasi, Fakultas Ilmu Komputer, Universitas Indonesia, Vol 5, No 1 (2012): ISSN: 2088-7051
+Igor Bonny Tua Panggabean, Ayu Purwarianti,"Opinion Sentence Classification in Indonesian Review Document",The 7th International Conference on Telematics System, Services, and Applications (TSSA), 30-31 October 2012 ISBN: 978-1-4673-4548-4
+Abdurrisyad Fikri1, Ayu Purwarianti2,"Case Based Indonesian Closed Domain Question Answering System with Real World Questions",The 7th International Conference on Telematics System, Services, and Applications (TSSA), 30-31 October 2012 ISBN: 978-1-4673-4548-4
+Bertha Selviana Djahi1 and Ayu Purwarianti,"K-Nearest Neighbours Approach to Predict Medical Prescription (Study Case: BLUD RSUD Prof. Dr. WZ Yohannes)",International Conference on Women’s Health in Science & Engineering (WiSE-Health) 2012, Bandung, December 6 - 7, 2019
+2011
+Wardah Kaddihani, Ayu Purwarianti,"SpeakoBoy: Educational Games for Evaluating English Word Pronunciation by Using Automatic Speech Recognition",International Conference on Rural Information and Conference Technology 2011,23 November 2011. ISBN: 978-979-15509-6-3
+Ayu Purwarianti, Dwi Hendratmo Widyantoro, Nazar Iskandar F, Satrya Pratama,"Development of Learning Model in Virtual Class for Primary School in Rural Area",International Conference on Rural Information and Conference Technology 2011,23 November 2011. ISBN: 978-979-15509-6-3
+Ayu Purwarianti, Indri Rahmayuni,"Experiments of Educational Data Mining for Academic Performance Prediction using Student Characteristics Data and Student Academic Data with Classification and Clustering",International Conference on Rural Information and Conference Technology 2011,23 November 2011. ISBN: 978-979-15509-6-3
+Aswin Juari, Ayu Purwarianti,"Out of Vocabulary Detection in Indonesian Speech Recognition using Word and Syllable Level Decoding",International Conference on Electrical Engineering and Informatics (ICEEI 2011) 17-19 Juli 2011. ISBN: 978-1-4577-0750-6, IEEE Catalog Number: CFP1177H-PRT
+Ayu Purwarianti,"A Robust Indonesian Morphologically Analyzer",International Conference on Electrical Engineering and Informatics (ICEEI 2011) 17-19 Juli 2011. ISBN: 978-1-4577-0750-6, IEEE Catalog Number: CFP1177H-PRT
+M. Iqbal Faruqi, Ayu Purwarianti,"An Indonesian Question Analyzer to Enhance the Performance of Indonesian-English CLQA",International Conference on Electrical Engineering and Informatics (ICEEI 2011) 17-19 Juli 2011. ISBN: 978-1-4577-0750-6, IEEE Catalog Number: CFP1177H-PRT
+Mochammad Yusup, Ayu Purwarianti,"A Non Word Error Spell Checker for Indonesian using Morphologically Analyzer and HMM",International Conference on Electrical Engineering and Informatics (ICEEI 2011) 17-19 Juli 2011. ISBN: 978-1-4577-0750-6, IEEE Catalog Number: CFP1177H-PRT
+Mia Kamayani, Ayu Purwarianti,"Dependency Parsing for Indonesian",International Conference on Electrical Engineering and Informatics (ICEEI 2011) 17-19 Juli 2011. ISBN: 978-1-4577-0750-6, IEEE Catalog Number: CFP1177H-PRT
+Peb Ruswono Aryan, Iping Supriana, Ayu Purwarianti,"Development of Indonesian Handwritten Text Database for Offline Character Recognition",International Conference on Electrical Engineering and Informatics (ICEEI 2011) 17-19 Juli 2011. ISBN: 978-1-4577-0750-6, IEEE Catalog Number: CFP1177H-PRT
+Veri Ferdiansyah, Ayu Purwarianti,"Indonesian Automatic Speech Recognition System Using English-Based Acoustic Model",International Conference on Electrical Engineering and Informatics (ICEEI 2011) 17-19 Juli 2011. ISBN: 978-1-4577-0750-6, IEEE Catalog Number: CFP1177H-PRT
+Aqsath Rasyid Naradhipa, Ayu Purwarianti,"Sentiment Classification for Indonesian Message in Social Media",International Conference on Electrical Engineering and Informatics (ICEEI 2011) 17-19 Juli 2011. ISBN: 978-1-4577-0750-6, IEEE Catalog Number: CFP1177H-PRT
+Aqsath Rasyid N., Mia Kamayani, Ridho Reinanda, Simon Simbolon, Moch Yusup Soleh and Ayu Purwarianti,"Application of Document Spelling Checker for Bahasa Indonesia",International Conference on Advanced Computer Science and Information Systems. 17-18 Desember 2011.
+Aditya Eka Prabawa dan Ayu Purwarianti,"Indonesian List Question Answering System",Konferensi Nasional Informatika – KNIF 2011,23 November 2011. ISSN: 2087-3328
+Edria Albert Varian W dan Ayu Purwarianti,"Post-Editing Berbasis Statistik Pada Mesin Penerjemah Bahasa Inggris- Indonesia",Konferensi Nasional Informatika – KNIF 2011,23 November 2011. ISSN: 2087-3328
+2005-2010
+"Study of Non Factoid Question Answering System for Bahasa Indonesia", International Conference on Advanced Computer Science and Informatics, Bali, 20 - 21 November 2010
+"HMM Based Part-of-Speech Tagger for Bahasa Indonesia", Proceeding of the Fourth International MALINDO Workshop (MALINDO2010). Agustus 2010. Jakarta, Indonesia
+"Implementation of Indonesian Real Time Speech Dictation Application", Proceeding of ICACSIS (International Conference on COmputer Science and Information System) 2010. November 2010. Bali, Indonesia
+"Pemeriksaan Urutan Hafalan Al-Quran Memanfaatkan Pengenalan Suara Otomatis", Konferensi Nasional Informatika 2010, Institut Teknologi Bandung, 11 Oktober 2010
+"Evaluasi Otomatis Jawaban Persoalan Matematika", Konferensi Nasional Informatika 2010, Institut Teknologi Bandung, 11 Oktober 2010
+"Penggunaan Moodle untuk Knowledge Management System", Proceeding of ?Konferensi Nasional Sistem Informasi (KNSI) 2010, 22-23 Januari 2010, Palembang, Indonesia.
+"Deteksi OOV Menggunakan Hasil Pengenalan Suara Otomatis untuk Bahasa Indonesia", Journal of Jurnal Ilmu Komputer dan Informasi (JIKI), ISSN 1979-0732
+"Automated Essay Grading System using SVM and LSA for Essay Answers in Indonesian", Proceeding of International Conference on Advanced Computer Science and Information Systems, December 7th-8th, 2009, Jakarta, Indonesia.
+"Implementation of Indonesian Automated Speech Recognition for OOV Detection", Proceeding of International Conference on Advanced Computer Science and Information Systems, December 7th-8th, 2009, Jakarta, Indonesia.
+"INAGP: Pengurai Kalimat Bahasa Indonesia sebagai Alat Bantu untuk Pengembangan Aplikasi", Proceeding of ?Seminar Nasional Ilmu Komputer dan Aplikasinya (SNIKA)?, Volume 4, No. 1, Oktober 2009, Bandung, Indonesia.
+"Information Extraction using SVM Uneven Margin for Multi Language Document", Proceedings of the Fourth International Conference on Information & Communication Technology and Systems (ICTS) 2008, ISSN 1858 1633 Surabaya - Indonesia, P249-253
+"Transitive Strategy on CLQA System for Low Resources Language Pair-via Development of Indonesia-Japanese CLQA", The Second International Malindo Workshop di Multimedia University (MMU), Cyberjaya, Selangor Malaysia, 12-13 Juni 2008
+"Indonesian-Japanese Transitive Translation using English for CLIR", Journal of Natural Language Processing, pp. 95-123, Volume 14 No 2, April 2007
+"A Machine Learning Approach for an Indonesian-English Cross Language Question Answering System", IEICE Transactions on Information and Systems, pp. 1841-1852, Volume E90-D No 11, November 2007
+"A Machine Learning Approach for Indonesian Question Answering System", Proceeding of the IASTED International Conference on Artificial Intelligence and Its Application (AIA 2007), 6 pages, 12-14 February 2007, Innsbruck, Austria.
+"Indonesian-Japanese CLIR using only Limited Resource", Proceeding of the Workshop on How Can Computational Linguistics Improve Information Retrieval, Workshop on ACL/Coling 2006, pp. 1-8, Sydney, Australia.
+"Query Transitive Translation using IR Score for Indonesian-Japanese CLIR?, Proceeding of Second Asia Information Retrieval Symposium, pp. 565-570, October 13-15 2005, Jeju Island, Korea."
+Professional Memberships
