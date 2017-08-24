@@ -4,6 +4,7 @@ jo?urnals?
 konferensi
 conferences?
 prosiding
+published
 publikasi
 publications?
 proceedings?

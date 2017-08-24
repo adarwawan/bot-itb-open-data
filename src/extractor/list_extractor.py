@@ -130,7 +130,7 @@ class ListExtractor(object):
 
 def main(argv):
     if len(argv) != 1:
-        print 'usage: python rule_based_extractor.py <url>'
+        print 'usage: python list_extractor.py <url>'
         sys.exit(2)    
     
     output_dir = "clean_html/"

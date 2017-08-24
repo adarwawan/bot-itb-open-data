@@ -18,7 +18,7 @@ class TableExtractor(object):
         self.url = url
         self.tableCount = 0
         with open('positive.txt', 'r') as myfile:
-            self.positive = myfile.readlines()
+            self.positive = myfile.read().splitlines() 
 
     def getBody(self):
         page = urllib2.urlopen(self.url).read()
@@ -44,7 +44,8 @@ class TableExtractor(object):
                 if len(child_table) == 0:
                     if (self.countBlank(t) != (self.countTh(t) + self.countTd(t))):
                         if self.countNonEmptyRow(t) > 2:
-                            if (self.cellRowRatio(t) and self.imgLimit(t) and self.formLimit(t) and self.linkLimit(t) and self.relevantTitle(headers[j])):
+                            print(headers[j])
+                            if (self.relevantTitle(headers[j])):
                                 isTable = True
                     if isTable:
                         out_path = self.printTableToFile(t, headers, j, self.tableCount)
@@ -104,10 +105,10 @@ class TableExtractor(object):
         return nNonEmpty
     
     def cellRowRatio(self, table_soup):
-        threshold = 1.5 # TODO: rethink about the threshold
+        threshold = 1 # TODO: rethink about the threshold
         ret = False
         ratio = (self.countTd(table_soup)+self.countTh(table_soup)) / self.countTr(table_soup)
-        if ratio > threshold:
+        if ratio >= threshold:
             ret = True
         return ret
     
@@ -183,7 +184,7 @@ class TableExtractor(object):
 
 def main(argv):
     if len(argv) != 1:
-        print 'usage: python rule_based_extractor.py <url>'
+        print 'usage: python table_extractor.py <url>'
         sys.exit(2)    
     
     output_dir = "clean_html/"

@@ -1,0 +1,77 @@
+{
+    "name" : "academic web",
+    "main_url" : "https://six.akademik.itb.ac.id/publik/displayprodikelas.php",
+    "data" :
+    [
+        {
+            "field_name" : "fakultas",
+            "type" : "re",
+            "pattern" : ".*(Fakultas.*|Sekolah.*).*",
+            "count" : "single"
+        },
+        {
+            "field_name" : "prodi",
+            "type" : "re",
+            "pattern" : ".*Program Studi.*:\\s+(.*)",
+            "count" : "single"
+        },
+        {
+            "field_name" : "smt",
+            "type" : "re",
+            "pattern" : ".*Semester.*:\\s+(.*)",
+            "count" : "single"
+        },
+        {
+            "field_name" : "kode_kuliah",
+            "type" : "re",
+            "pattern" : ".*Kode/Mata Kuliah.*:\\s+(.*)\\s/",
+            "count" : "single"
+        },
+        {
+            "field_name" : "nama_kuliah",
+            "type" : "re",
+            "pattern" : ".*Kode/Mata Kuliah.*:\\s+.*\\s/\\s+(.*),",
+            "count" : "single"
+        },
+        {
+            "field_name" : "sks",
+            "type" : "re",
+            "pattern" : ".*Kode/Mata Kuliah.*:\\s+.*\\s+/\\s+.*,\\s+(.*)",
+            "count" : "single"
+        },
+        {
+            "field_name" : "no_kelas",
+            "type" : "re",
+            "pattern" : ".*No. Kelas/Dosen.*:\\s+(.*)\\s/",
+            "count" : "single"
+        },
+        {
+            "field_name" : "nama_dosen",
+            "type" : "re",
+            "pattern" : ".*No. Kelas/Dosen.*:\\s+.*\\s+/\\s+(.*)",
+            "count" : "single"
+        },
+        {
+            "field_name" : "mahasiswa",
+            "type" : "re",
+            "pattern" : "\n[0-9]+\\s+(.*)",
+            "count" : "any",
+            "data" :
+            [
+                {
+                    "field_name" : "nim",
+                    "type" : "re",
+                    "pattern" : "([0-9]+)",
+                    "count" : "single"
+                },
+                {
+                    "field_name" : "nama",
+                    "type" : "re",
+                    "pattern" : "[0-9]+\\s+(.*)\\s",
+                    "count" : "single",
+                    "filter" : "strip"
+                }
+            ]
+        }
+    ]
+}
