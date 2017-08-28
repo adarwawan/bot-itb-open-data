@@ -47,6 +47,7 @@ class ListExtractor(object):
                     if (self.wordAvgLimit(l) and self.relevantTitle(headers[j]) and self.hasPunctuation(l)):
                         isList = True
                     if isList:
+                        print(l)
                         out_path = self.printListToFile(l, headers, j, self.listCount)
                         lists.append(out_path)
                         self.listCount = self.listCount + 1
@@ -77,6 +78,8 @@ class ListExtractor(object):
                     if (self.wordAvgLimit(l) and self.relevantTitle(headers[j]) and self.hasPunctuation(l)):
                         isList = True
                     if isList:
+                        print(l)
+                        print("BBBBB")
                         out_path = self.printListToFile(l, headers, j, self.listCount)
                         lists.append(out_path)
                         self.listCount = self.listCount + 1
@@ -89,7 +92,7 @@ class ListExtractor(object):
         threshold = 0.9 # dipikirin ya
         isPass = False
         list_element = list_soup.find_all('li')
-        count = len(list_element)
+        count = len(list_element) + 1
         total = 0
         for i in xrange(0,len(list_element)):
             words = re.split("[^a-zA-Z0-9']+", list_element[i].text)
@@ -105,15 +108,16 @@ class ListExtractor(object):
         return False
 
     def printListToFile(self, list_soup, headers, j, counter):
-        pretty = list_soup.prettify()
-        pretty = headers[j] + pretty
-        html_string = "<html><body>" + pretty + "</body></html>"
-        soup = BeautifulSoup(html_string, "html.parser")
-        fout = 'test' + '.html'
+        lines = list_soup.findAll('li')
+        fout = 'test' + '.txt'
         out_path = self.dirout + str(counter)+"-"+fout
-        with codecs.open(out_path, 'w+', encoding='utf-8') as outfile:
-            outfile.write(soup.prettify())
+        for line in lines:
+            with codecs.open(out_path, 'a+', encoding='utf-8') as outfile:
+                outfile.write(line.get_text() + '\n')
         return out_path
+
+    def printCleanList(self, list_soup, headers, j, counter):
+        pass
 
     def hasPunctuation(self, list_soup):
         threshold = 0.95 # dipikirin ya

@@ -11,6 +11,8 @@ from os.path import basename
 import json
 import re
 import urllib2
+import time
+from academic_db import DBAcademic
 
 class TemplateExtractor(object):
     def __init__(self, dirout, url, template):
@@ -20,8 +22,16 @@ class TemplateExtractor(object):
         self.data = json.loads(json_data) 
 
     def getBody(self):
-        page = urllib2.urlopen(self.url).read()
-        # page = open(self.url, 'r').read()
+        accessed = False 
+        while not accessed:
+            try:
+                # page = urllib2.urlopen(self.url).read()
+                accessed = True
+                page = open(self.url, 'r').read()
+            except:
+                print("MAAF")
+                time.sleep(5)
+                None
         soup = BeautifulSoup(page, 'html.parser')
         return soup
 
@@ -56,7 +66,8 @@ class TemplateExtractor(object):
 
     def createFile(self, result):
         fout = 'test' + '.json'
-        out_path = self.dirout+ "0-" +fout
+        # out_path = self.dirout+ "0-" +fout
+        out_path = "0-" +fout
         with open(out_path, 'w') as outfile:
             json.dump(result, outfile)
         return out_path
@@ -70,14 +81,15 @@ def main(argv):
     filename = "test.html"
     sub_folder = os.path.splitext(basename(filename))[0] + "/"
     print sub_folder
-    os.mkdir(output_dir+sub_folder)
+    # os.mkdir(output_dir+sub_folder)
     rbe = TemplateExtractor(output_dir+sub_folder, argv[0], argv[1])
     body_soup = rbe.getBody()
     template = rbe.getTemplate()
     result = rbe.getCandidatesTemplate(body_soup, template)
-    print('AAAAAAAAAAAAAAAAAAAAAA')
+    result['url'] = argv[0]
     print(result)
-    out_path = rbe.createFile(result)
+    db = DBAcademic()
+    db.insertDoc(result)
     
 if __name__ == "__main__":
    main(sys.argv[1:])
