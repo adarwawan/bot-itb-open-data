@@ -26,5 +26,5 @@ class RunExtractor(object):
           print(output)
 
 
-output_dir = "clean_html/test"
-r = RunExtractor('testing.txt', output_dir)
+# output_dir = "clean_html/test"
+# r = RunExtractor('testing.txt', output_dir)

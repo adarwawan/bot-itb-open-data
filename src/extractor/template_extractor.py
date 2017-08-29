@@ -12,7 +12,8 @@ import json
 import re
 import urllib2
 import time
-from academic_db import DBAcademic
+sys.path.insert(0, os.path.abspath(".."))
+from db.academic_db import DBAcademic
 
 class TemplateExtractor(object):
     def __init__(self, dirout, url, template):

@@ -27,6 +27,7 @@ class AcademicSpider(scrapy.Spider):
     def start_requests(self):
         start = getattr(self, 'url', None)
         allow = getattr(self, 'allow', None)
+        self.pat = getattr(self, 'pat', None)
 
         self.start_url = start
 
@@ -66,4 +67,7 @@ class AcademicSpider(scrapy.Spider):
         return [url.netloc]
 
     def violation_check(self, url, text):
-        return True
+        pattern = re.compile(self.pat, re.I)
+        if re.search(pattern, url) is not None:
+            return True
+        return False
