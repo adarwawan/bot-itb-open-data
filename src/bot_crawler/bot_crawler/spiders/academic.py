@@ -50,7 +50,7 @@ class AcademicSpider(scrapy.Spider):
                   if (len(text)) != 0:
                       name = text[0].strip()
                   else:
-                      name = 'A'
+                      name = 'None'
                   url = urlparse.urljoin(response.url, href)
               
               if self.violation_check(url, name):

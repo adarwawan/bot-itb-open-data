@@ -1,0 +1,8512 @@
+ccopy_reg
+_reconstructor
+p0
+(csklearn_crfsuite.estimator
+CRF
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'verbose'
+p6
+I00
+sS'num_memories'
+p7
+NsS'min_freq'
+p8
+NsS'averaging'
+p9
+NsS'period'
+p10
+NsS'calibration_samples'
+p11
+NsS'calibration_eta'
+p12
+NsS'delta'
+p13
+NsS'c2'
+p14
+F0.00951365772291315
+sS'c1'
+p15
+F0.2626865973938258
+sS'linesearch'
+p16
+NsS'_info_cached'
+p17
+NsS'max_iterations'
+p18
+I200
+sS'modelfile'
+p19
+g0
+(csklearn_crfsuite._fileresource
+FileResource
+p20
+g2
+Ntp21
+Rp22
+(dp23
+S'name'
+p24
+NsS'auto'
+p25
+I01
+sS'__FILE_RESOURCE_DATA__'
+p26
+S'lCRF\xd0K\x00\x00FOMCd\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00_\x00\x00\x000\x00\x00\x00\\!\x00\x00F*\x00\x00\xe0A\x00\x00\x9cB\x00\x00FEAT,!\x00\x00\xa8\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x93F\x80\xd2\x99\x9f\t@\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\xdd\xbd\t)a\x8c\xe5\xbf\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x0c\x9b\x89\xd2\x1ez\xcb\xbf\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00_Rf\x04`\x0e\xf1\xbf\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00Wh\xfdwP\xfa\xf1?\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x18\x08)\x01\xac\x10\x96\xbf\x00\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x0c3\xc5\xc4\xe8x\xd5?\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\\q\xd2"\xf3,W\xbf\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x93t\xdats8\xd7\xbf\x00\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8b\x06%\xa2\xbb\xb6q\xbf\x00\x00\x00\x00\x01\x00\x00\x00\x03\x00\x00\x00\xc9Fm!c\x0b\xc0?\x00\x00\x00\x00\x01\x00\x00\x00\x04\x00\x00\x00\xed1\xeb\xe1\xcc\xb9\xd9\xbf\x00\x00\x00\x00\x01\x00\x00\x00\x05\x00\x00\x00\x06o\x96Yay\x91?\x00\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00B?\xd9k\x8d\x11\xd3\xbf\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x82\xa1\x05j\xc28\xe8?\x00\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00\xf2dC\xc0M\x93\x00\xc0\x00\x00\x00\x00\x02\x00\x00\x00\x02\x00\x00\x00\xda\xf00\xc9\xd5F\xef\xbf\x00\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x0b,\xa37\x8ab\xe5\xbf\x00\x00\x00\x00\x02\x00\x00\x00\x04\x00\x00\x00\xa72,\xd0\xa0\x02\xec?\x00\x00\x00\x00\x02\x00\x00\x00\x05\x00\x00\x00\x8db\xfc\x1a\x9d\xa2\x96?\x00\x00\x00\x00\x02\x00\x00\x00\x06\x00\x00\x00\xaaKN}GG\xf1?\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\xcem-Ye^\xc6\xbf\x00\x00\x00\x00\x03\x00\x00\x00\x02\x00\x00\x00\x12\xe1C\xf5\x0e\x88\xd5\xbf\x00\x00\x00\x00\x03\x00\x00\x00\x03\x00\x00\x00\xc3\tZ\xd9J\x07\xe3\xbf\x00\x00\x00\x00\x03\x00\x00\x00\x04\x00\x00\x00+\xb5\xd2\xeb\xa6\x84\xe0?\x00\x00\x00\x00\x03\x00\x00\x00\x05\x00\x00\x00\xaa\xba\xc2@0\xd7\x8c?\x00\x00\x00\x00\x03\x00\x00\x00\x06\x00\x00\x00Cd\xfab\ru\xc4?\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x8cn\xfb\x01\xe0Y\xe0\xbf\x00\x00\x00\x00\x04\x00\x00\x00\x01\x00\x00\x00_\x0f\x84\xfdg\x14\xc9\xbf\x00\x00\x00\x00\x04\x00\x00\x00\x02\x00\x00\x00\xd3]\xd7\xe1\xbe\xc9\xd6?\x00\x00\x00\x00\x04\x00\x00\x00\x03\x00\x00\x00\xa5\x1bV\x82\xe6\xa6\xce\xbf\x00\x00\x00\x00\x04\x00\x00\x00\x04\x00\x00\x00\xac\x99\xb9\x16[v\xec\xbf\x00\x00\x00\x00\x04\x00\x00\x00\x05\x00\x00\x00\xa8\xd9\x85\x82\xb4\x00\xae?\x00\x00\x00\x00\x05\x00\x00\x00\x01\x00\x00\x00 $\x08\xe0[\xd0\xf3?\x00\x00\x00\x00\x05\x00\x00\x00\x02\x00\x00\x00uS\x9e\xb0$H\xea?\x00\x00\x00\x00\x05\x00\x00\x00\x03\x00\x00\x00\xf9\x1bv\xaeY\xd0\x10\xc0\x00\x00\x00\x00\x05\x00\x00\x00\x04\x00\x00\x00\ng\x8a\xec\x01\x00\xd8?\x00\x00\x00\x00\x05\x00\x00\x00\x05\x00\x00\x00\xe8\x83\xde\xb8\xd0\xce\x0e\xc0\x00\x00\x00\x00\x05\x00\x00\x00\x06\x00\x00\x00\xf2\xe0t5\x94$\xf0?\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\xda=%\xe5\x10\x87\xf1\xbf\x00\x00\x00\x00\x06\x00\x00\x00\x01\x00\x00\x00@\x04:\x83\x8b,\xd3\xbf\x00\x00\x00\x00\x06\x00\x00\x00\x02\x00\x00\x00@\xc1<"a\x02\xf4?\x00\x00\x00\x00\x06\x00\x00\x00\x03\x00\x00\x004d\xda|\x87\xd5\x02@\x00\x00\x00\x00\x06\x00\x00\x00\x05\x00\x00\x00\xa5MA{\xb0\x86\xea?\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x008^\x8f\xcbR\xe9\xea?\x00\x00\x00\x00\x07\x00\x00\x00\x02\x00\x00\x00\xca~\x7fL\x15\xc9\x08@\x00\x00\x00\x00\x07\x00\x00\x00\x03\x00\x00\x00 \x1e?\xbf\x81\xc4\xf9?\x00\x00\x00\x00\x08\x00\x00\x00\x01\x00\x00\x00\xcaI\x1e\xe8\xe6\xb9\xe1?\x00\x00\x00\x00\x08\x00\x00\x00\x03\x00\x00\x00\xd6\xbe\xdf\x8d\x05x\xd7?\x00\x00\x00\x00\x08\x00\x00\x00\x04\x00\x00\x00\x8e\x83v\xb4\xc7\xcbh\xbf\x00\x00\x00\x00\x08\x00\x00\x00\x05\x00\x00\x00\xc2\xf9*nk\xa1\xf6\xbf\x00\x00\x00\x00\x08\x00\x00\x00\x06\x00\x00\x00\x08\x0c\xeelm3\xf4\xbf\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x0e\xba\x07\xc6\x04y\xeb?\x00\x00\x00\x00\t\x00\x00\x00\x01\x00\x00\x006O\xf6\x0b\xfau\xc9\xbf\x00\x00\x00\x00\t\x00\x00\x00\x02\x00\x00\x00?\xcd q0\x8f\xe3?\x00\x00\x00\x00\t\x00\x00\x00\x03\x00\x00\x00F\xf4\x94\x98(e\x9d\xbf\x00\x00\x00\x00\t\x00\x00\x00\x04\x00\x00\x00*\xe3)\x1b\xcfc\xdb\xbf\x00\x00\x00\x00\t\x00\x00\x00\x05\x00\x00\x003x\xa8A\x87\xf8\xde\xbf\x00\x00\x00\x00\t\x00\x00\x00\x06\x00\x00\x00\x03\xa2\xf5\xbb\xf4\x0c\xfe\xbf\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00F3]\x01@9\x03@\x00\x00\x00\x00\n\x00\x00\x00\x01\x00\x00\x00=\xe4\x1f\xc6Pv\xef\xbf\x00\x00\x00\x00\n\x00\x00\x00\x02\x00\x00\x002RBn\xa2q\xe8?\x00\x00\x00\x00\n\x00\x00\x00\x03\x00\x00\x003C`\xa3\x9a\x93\xd3?\x00\x00\x00\x00\n\x00\x00\x00\x04\x00\x00\x00\x8d([\x8a\x12@\xc5\xbf\x00\x00\x00\x00\n\x00\x00\x00\x05\x00\x00\x00\x81TQ\x89<S\xea\xbf\x00\x00\x00\x00\n\x00\x00\x00\x06\x00\x00\x00\xa6\x80x\x87\x91?s?\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x8cp\xfa?Q\x89\xc4?\x00\x00\x00\x00\x0b\x00\x00\x00\x01\x00\x00\x00`\xa3mkg\xf3\xae?\x00\x00\x00\x00\x0b\x00\x00\x00\x02\x00\x00\x00\xc9B\xcd#\xb9\x02\xc7\xbf\x00\x00\x00\x00\x0b\x00\x00\x00\x03\x00\x00\x00W\xe8\xf7q\x94v\xdb?\x00\x00\x00\x00\x0b\x00\x00\x00\x04\x00\x00\x00R5\x0f(\'\xda\xd0?\x00\x00\x00\x00\x0b\x00\x00\x00\x05\x00\x00\x00\xf5*\x95\xfe\xa7\x0f\xf3?\x00\x00\x00\x00\x0b\x00\x00\x00\x06\x00\x00\x00\xa3\'\x91$\x1cd\xf1\xbf\x00\x00\x00\x00\x0c\x00\x00\x00\x01\x00\x00\x00\xa9\x84y\x8aY?\xc1\xbf\x00\x00\x00\x00\x0c\x00\x00\x00\x02\x00\x00\x00V\xc9\xed:\xdbZ\xd5?\x00\x00\x00\x00\x0c\x00\x00\x00\x03\x00\x00\x00\x98\xf7\x85\xc9%\xf2\xb1\xbf\x00\x00\x00\x00\x0c\x00\x00\x00\x04\x00\x00\x00\x01\xb6d\x87\xf5J\xe9\xbf\x00\x00\x00\x00\x0c\x00\x00\x00\x05\x00\x00\x00\x9b[\x1b\x13\xb8\xe1\xd7\xbf\x00\x00\x00\x00\x0c\x00\x00\x00\x06\x00\x00\x00\xcf\xa9\xbe\xd6\x81>\xa1?\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x1b\xc9Md\x9a\xc6\x93\xbf\x00\x00\x00\x00\r\x00\x00\x00\x01\x00\x00\x00\xc4\xdd\x8f\r\x83\xe9\xfa\xbf\x00\x00\x00\x00\r\x00\x00\x00\x02\x00\x00\x00o@\xce\x84T#\xf0\xbf\x00\x00\x00\x00\r\x00\x00\x00\x03\x00\x00\x00\x89\xe2}\xad\x8a\r\xe9?\x00\x00\x00\x00\r\x00\x00\x00\x04\x00\x00\x00\x8f\x9e7\x89r\xcf\xe3?\x00\x00\x00\x00\r\x00\x00\x00\x05\x00\x00\x00\x98\x0f\x89\xa8\x01g\x07@\x00\x00\x00\x00\r\x00\x00\x00\x06\x00\x00\x00\xec\\\x02\xf8\x80I\xf0\xbf\x00\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x00\x00\xb5\xea#-\xa8\x8d\xf7?\x00\x00\x00\x00\x0e\x00\x00\x00\x01\x00\x00\x00t(tG\r\xf7\xd7\xbf\x00\x00\x00\x00\x0e\x00\x00\x00\x02\x00\x00\x00\xdf\xed\xe8\xc1\'x\xc0\xbf\x00\x00\x00\x00\x0e\x00\x00\x00\x03\x00\x00\x00\x82\xde\x98\xd5\x88\x8a\xb9\xbf\x00\x00\x00\x00\x0e\x00\x00\x00\x04\x00\x00\x00\x10\x13;\x80\xb7\xd3\x9c\xbf\x00\x00\x00\x00\x0e\x00\x00\x00\x05\x00\x00\x00\xdc\xaf\xd9\xf4^2\xb3\xbf\x00\x00\x00\x00\x0e\x00\x00\x00\x06\x00\x00\x002\x17r\xb9\xcd\x89\n@\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x8e\xcf\xd5\xfb\x1f&\x00\xc0\x00\x00\x00\x00\x0f\x00\x00\x00\x01\x00\x00\x00\x18<\xb6A\t$\xf4?\x00\x00\x00\x00\x0f\x00\x00\x00\x02\x00\x00\x00\x07.\xe1\x8a\xbc\xc8\x8d?\x00\x00\x00\x00\x0f\x00\x00\x00\x03\x00\x00\x00l\x96\xcb<\x14\xd8\xc3?\x00\x00\x00\x00\x0f\x00\x00\x00\x04\x00\x00\x00D\x98d\x97\x99A\xfc\xbf\x00\x00\x00\x00\x0f\x00\x00\x00\x05\x00\x00\x00E\xe9\x1e\t7[\xd8?\x00\x00\x00\x00\x0f\x00\x00\x00\x06\x00\x00\x00\\u\xed\x1c\x9b\xc8\xf1\xbf\x00\x00\x00\x00\x10\x00\x00\x00\x01\x00\x00\x0079KTl\x12\x0c@\x00\x00\x00\x00\x10\x00\x00\x00\x02\x00\x00\x00~\x0f\xf9\x15\xd3+\xcd\xbf\x00\x00\x00\x00\x10\x00\x00\x00\x03\x00\x00\x00\x96\xbe\xbb\x1228\xdb\xbf\x00\x00\x00\x00\x10\x00\x00\x00\x04\x00\x00\x00%\x05\xe2\xac|T\xd0\xbf\x00\x00\x00\x00\x10\x00\x00\x00\x05\x00\x00\x00\xb7\xfb\xd8<o\xf2\xeb\xbf\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00)\x0f\xe6\x17}L\xf5\xbf\x00\x00\x00\x00\x11\x00\x00\x00\x01\x00\x00\x00\xfc\x0b\t\xee\'\x1c\xd3?\x00\x00\x00\x00\x11\x00\x00\x00\x02\x00\x00\x00\xd7\x94\x1c\xa5|\xc6\xd5?\x00\x00\x00\x00\x11\x00\x00\x00\x03\x00\x00\x00\x7f\xd0\x96\x8a\xda\xdd\xbe?\x00\x00\x00\x00\x11\x00\x00\x00\x04\x00\x00\x00>G\x02\xf3,\xaf\xdf\xbf\x00\x00\x00\x00\x11\x00\x00\x00\x05\x00\x00\x00\r\x00,?\xc8\xc0\x98\xbf\x00\x00\x00\x00\x11\x00\x00\x00\x06\x00\x00\x00\x85}\xe5\x18Bs\xfa\xbf\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00_\x1a\x9e\xb1 \xff\xea\xbf\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x00\x00U\x928\xac@B\xec?\x00\x00\x00\x00\x12\x00\x00\x00\x02\x00\x00\x00\xff\x06\xa2\xfd\x88\x8c\xd2\xbf\x00\x00\x00\x00\x12\x00\x00\x00\x03\x00\x00\x00\x82\x14\x95*\xb2\x05\xf6?\x00\x00\x00\x00\x12\x00\x00\x00\x04\x00\x00\x00Tk\xe0\x9d\xa8\x16\xe7\xbf\x00\x00\x00\x00\x12\x00\x00\x00\x06\x00\x00\x00Z\x98=\xf9\xed\x06\xb5?\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\xa7\x05r\xa1\xea\xad\xfa\xbf\x00\x00\x00\x00\x13\x00\x00\x00\x01\x00\x00\x00\xbb\x1bGHt\xd6\xea?\x00\x00\x00\x00\x13\x00\x00\x00\x02\x00\x00\x00\x96\xc8Kj\xf3\xf8\xed\xbf\x00\x00\x00\x00\x13\x00\x00\x00\x03\x00\x00\x00\xc62s\xe8\x17\xed\xbd?\x00\x00\x00\x00\x13\x00\x00\x00\x04\x00\x00\x00\xe70"E\x86p1?\x00\x00\x00\x00\x13\x00\x00\x00\x05\x00\x00\x00\xe75\x1a\x1a\x07\x8c\xac?\x00\x00\x00\x00\x13\x00\x00\x00\x06\x00\x00\x004\x0e\xe1v\x8c\x9e\xf3\xbf\x00\x00\x00\x00\x14\x00\x00\x00\x01\x00\x00\x00R\x00\xd9\x88r\xf7\xc7?\x00\x00\x00\x00\x14\x00\x00\x00\x02\x00\x00\x00c\x1dD\xeb\xe2/\xbe\xbf\x00\x00\x00\x00\x14\x00\x00\x00\x03\x00\x00\x00\xa5\x90\xcbM\xb1v\xe1?\x00\x00\x00\x00\x14\x00\x00\x00\x04\x00\x00\x00\xb0\x11aI\xe6\x02\xd5?\x00\x00\x00\x00\x14\x00\x00\x00\x05\x00\x00\x00\x92\xaa\r%\xe5\x81\x05\xc0\x00\x00\x00\x00\x14\x00\x00\x00\x06\x00\x00\x00\t\x1aZ\xbf\x1e\x14\xec\xbf\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\xfa\x89\x88\xac\x99\x9c\xd7?\x00\x00\x00\x00\x15\x00\x00\x00\x01\x00\x00\x00\x80\x87\x9ferZ\xd8?\x00\x00\x00\x00\x15\x00\x00\x00\x02\x00\x00\x00d\xbb?\xaeV,x\xbf\x00\x00\x00\x00\x15\x00\x00\x00\x03\x00\x00\x00\xfa\x9eB\xc5\xe8j\x1f?\x00\x00\x00\x00\x15\x00\x00\x00\x04\x00\x00\x00\xe06\xf2\xd0\x1e\x05\xf0\xbf\x00\x00\x00\x00\x15\x00\x00\x00\x05\x00\x00\x00g$Y\xa9kZ\xb1\xbf\x00\x00\x00\x00\x15\x00\x00\x00\x06\x00\x00\x00B\xf3\x17\x9f~\x8f\xe0\xbf\x00\x00\x00\x00\x16\x00\x00\x00\x00\x00\x00\x00><kR\xc1\xc0\xfd\xbf\x00\x00\x00\x00\x16\x00\x00\x00\x01\x00\x00\x00\x88\x9c\xear\x12\xbf\xdd?\x00\x00\x00\x00\x16\x00\x00\x00\x02\x00\x00\x00o\xb8\x9c=1W\xe5\xbf\x00\x00\x00\x00\x16\x00\x00\x00\x03\x00\x00\x00j[&\xa1I\x98*\xbf\x00\x00\x00\x00\x16\x00\x00\x00\x04\x00\x00\x00{\x14\x14\x8c\r5\xc0\xbf\x00\x00\x00\x00\x16\x00\x00\x00\x05\x00\x00\x00o\xf0\x05\x88\x8cn\xf1?\x00\x00\x00\x00\x17\x00\x00\x00\x00\x00\x00\x00\x856\xa7\x04\xf9\xc3\xdd\xbf\x00\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\xb2x2\xa8\x88\x93\xe4\xbf\x00\x00\x00\x00\x17\x00\x00\x00\x02\x00\x00\x005\xbex\xdb\x9c\xdc\xea?\x00\x00\x00\x00\x17\x00\x00\x00\x03\x00\x00\x00\xee\x17\xbb\x1a\xa7\xc8\xf8?\x00\x00\x00\x00\x17\x00\x00\x00\x04\x00\x00\x00%4\xaf\xc5\xc93\xce\xbf\x00\x00\x00\x00\x17\x00\x00\x00\x05\x00\x00\x00iQ\xb1)\x9a\xdc\xf7\xbf\x00\x00\x00\x00\x17\x00\x00\x00\x06\x00\x00\x00\x80\x86\xab\xa3\tk\xe9\xbf\x00\x00\x00\x00\x18\x00\x00\x00\x00\x00\x00\x00F\xc4\x0eH\x11N\xba?\x00\x00\x00\x00\x18\x00\x00\x00\x01\x00\x00\x00\xc9\xe5W\xab\xc5\x0b\xf4?\x00\x00\x00\x00\x18\x00\x00\x00\x02\x00\x00\x00\xb2\x9c\xbfu\x88M\xe5\xbf\x00\x00\x00\x00\x18\x00\x00\x00\x03\x00\x00\x00\xaf\\8\xdf\rv\xc6\xbf\x00\x00\x00\x00\x18\x00\x00\x00\x04\x00\x00\x004\xb34\x0b3O\xf1?\x00\x00\x00\x00\x18\x00\x00\x00\x05\x00\x00\x000R\x1a\xd4 Z\x18?\x00\x00\x00\x00\x18\x00\x00\x00\x06\x00\x00\x00\x18Ez\x16X\xa3\xe4\xbf\x00\x00\x00\x00\x19\x00\x00\x00\x02\x00\x00\x00X\xe7,W\'\xa3\xe9\xbf\x00\x00\x00\x00\x19\x00\x00\x00\x04\x00\x00\x00d\xc4\x85\xc9R\xf9\xa5?\x00\x00\x00\x00\x19\x00\x00\x00\x05\x00\x00\x00\xf7\x05\xcb\xb3wq\xf7?\x00\x00\x00\x00\x1a\x00\x00\x00\x01\x00\x00\x00\x1e\x0f\xb7\xbfC\xef\xd5?\x00\x00\x00\x00\x1a\x00\x00\x00\x02\x00\x00\x00{\xabc\xc3\x1a\xb1\xaa\xbf\x00\x00\x00\x00\x1a\x00\x00\x00\x03\x00\x00\x00\xd5\xb7\x8eQ9m\xd6?\x00\x00\x00\x00\x1b\x00\x00\x00\x01\x00\x00\x00\xf0\xb6\xa3k\xd8\xdc\x9c?\x00\x00\x00\x00\x1b\x00\x00\x00\x03\x00\x00\x00\x18\x8dH\xd1\x83\xbc\xdf\xbf\x00\x00\x00\x00\x1b\x00\x00\x00\x05\x00\x00\x00N\x86\xfe?\x02\x1f\xb9\xbf\x00\x00\x00\x00\x1b\x00\x00\x00\x06\x00\x00\x00\x01\xbd\xb8\xfc\xf5\xc6\x04@\x00\x00\x00\x00\x1c\x00\x00\x00\x04\x00\x00\x00\xb8\x11^\xda\xe7.\xe5?\x00\x00\x00\x00\x1d\x00\x00\x00\x02\x00\x00\x00~\x1f\x81#F \xf7?\x00\x00\x00\x00\x1d\x00\x00\x00\x03\x00\x00\x00di-\x81\x80U\xf7?\x00\x00\x00\x00\x1d\x00\x00\x00\x05\x00\x00\x00\xb5\xf9\xc8\\\x0b\x14\xce?\x00\x00\x00\x00\x1e\x00\x00\x00\x01\x00\x00\x00f\xac\xdb\xd1oN\x01@\x00\x00\x00\x00\x1e\x00\x00\x00\x02\x00\x00\x00\xf1uN\x03\x03\xf8\xeb\xbf\x00\x00\x00\x00\x1e\x00\x00\x00\x03\x00\x00\x00A\x84N\x17\xd4?\xbe?\x00\x00\x00\x00\x1e\x00\x00\x00\x04\x00\x00\x00\xefm\x17\x0b\xdfa\xf0\xbf\x00\x00\x00\x00\x1e\x00\x00\x00\x05\x00\x00\x00[X\x95+p\xb9\xd6\xbf\x00\x00\x00\x00\x1e\x00\x00\x00\x06\x00\x00\x00\xc1}^\x8b_\\\xf2?\x00\x00\x00\x00\x1f\x00\x00\x00\x00\x00\x00\x00\xc4\xd8~\x99\x18p\xe1\xbf\x00\x00\x00\x00\x1f\x00\x00\x00\x01\x00\x00\x00\xe8Q/\x110\x18\xe1?\x00\x00\x00\x00\x1f\x00\x00\x00\x02\x00\x00\x00\xfb.N\x19\xe5\xda\xd4\xbf\x00\x00\x00\x00\x1f\x00\x00\x00\x03\x00\x00\x00\xe9\x8f4\xb8\xa7*\xca?\x00\x00\x00\x00\x1f\x00\x00\x00\x04\x00\x00\x00\x9c\'\xca\xd2\xa5\x83\xd3\xbf\x00\x00\x00\x00\x1f\x00\x00\x00\x05\x00\x00\x00\x87\x01!\xf1\xdd\x88\xe6?\x00\x00\x00\x00\x1f\x00\x00\x00\x06\x00\x00\x00{\xe6\xcb<o\xd9\xe1?\x00\x00\x00\x00 \x00\x00\x00\x00\x00\x00\x00\xd6339( \xf1\xbf\x00\x00\x00\x00 \x00\x00\x00\x01\x00\x00\x00C\xaf\xe5W\xb0\xf3\xe1\xbf\x00\x00\x00\x00 \x00\x00\x00\x02\x00\x00\x00\xfc\xfe\xc4\xea]\xa5b\xbf\x00\x00\x00\x00 \x00\x00\x00\x03\x00\x00\x00\x14\x8b\xc3\x18\xdc+\xe7?\x00\x00\x00\x00 \x00\x00\x00\x04\x00\x00\x00)p\x00\xce9\xc1\xbe?\x00\x00\x00\x00 \x00\x00\x00\x05\x00\x00\x008\xf1\x03\xa5F\xd3\xca\xbf\x00\x00\x00\x00 \x00\x00\x00\x06\x00\x00\x00\xaa}\xd8NB2\xd5\xbf\x00\x00\x00\x00!\x00\x00\x00\x00\x00\x00\x00\x8e\xf3hS\xce\xe3\xca\xbf\x00\x00\x00\x00!\x00\x00\x00\x01\x00\x00\x00*\xe0\x17\x17;N\xdf?\x00\x00\x00\x00!\x00\x00\x00\x02\x00\x00\x00\xdfV\xf0\xec\x95\x1d\xc5\xbf\x00\x00\x00\x00!\x00\x00\x00\x03\x00\x00\x00\xa1\xaf\xfd\xb9$\x0f\xd6?\x00\x00\x00\x00!\x00\x00\x00\x04\x00\x00\x00\xeaY\xb1\xf6O\xb2\xd9?\x00\x00\x00\x00!\x00\x00\x00\x05\x00\x00\x00\x0e\xfd\xddU\xce\xc8\xed?\x00\x00\x00\x00!\x00\x00\x00\x06\x00\x00\x00\x7fN`\xd0(\x92\xd3\xbf\x00\x00\x00\x00"\x00\x00\x00\x01\x00\x00\x00\x88\xdbY\x04\xb7\xc1q?\x00\x00\x00\x00"\x00\x00\x00\x02\x00\x00\x00\xde\xd4\x0c&w\xc0\xe4?\x00\x00\x00\x00"\x00\x00\x00\x03\x00\x00\x00\xf6\n\x04W\xc7\x8c\xb8?\x00\x00\x00\x00"\x00\x00\x00\x04\x00\x00\x00U\xae\xbf\xee\xb8]\xda\xbf\x00\x00\x00\x00"\x00\x00\x00\x05\x00\x00\x00\xb9}\xc9H\xcc\x9f\xd9\xbf\x00\x00\x00\x00"\x00\x00\x00\x06\x00\x00\x00P\xca\x96\xab\xd3\xbd\xf6?\x00\x00\x00\x00#\x00\x00\x00\x01\x00\x00\x00#e\x0b\x0b\xa67\xc2?\x00\x00\x00\x00#\x00\x00\x00\x02\x00\x00\x00\xc8\x9fPd\xa8D\xd7\xbf\x00\x00\x00\x00#\x00\x00\x00\x03\x00\x00\x00v\x04(\xfe@E\x8e?\x00\x00\x00\x00#\x00\x00\x00\x04\x00\x00\x00P\x99\xec\x1b%W\xea\xbf\x00\x00\x00\x00#\x00\x00\x00\x05\x00\x00\x00\x88\x02b\xbe=J\xfa?\x00\x00\x00\x00#\x00\x00\x00\x06\x00\x00\x00\xa2\xa7f(\xa35|\xbf\x00\x00\x00\x00$\x00\x00\x00\x01\x00\x00\x00\xd6\xee\x9do\x9d\x80\xde\xbf\x00\x00\x00\x00$\x00\x00\x00\x02\x00\x00\x00\x81\xda\x853\xa7\x9d\xdb?\x00\x00\x00\x00$\x00\x00\x00\x03\x00\x00\x00\x8f\x85cwUk|\xbf\x00\x00\x00\x00$\x00\x00\x00\x06\x00\x00\x00\xd3{"h\xee{\xf0?\x00\x00\x00\x00%\x00\x00\x00\x01\x00\x00\x00m\x993y #\xfd?\x00\x00\x00\x00%\x00\x00\x00\x02\x00\x00\x00M\x13&\xfe\xc9=\x00@\x00\x00\x00\x00%\x00\x00\x00\x03\x00\x00\x00\xddz\x02+\xdbW\xed\xbf\x00\x00\x00\x00&\x00\x00\x00\x00\x00\x00\x00N/\x96\xbe\xd73\xe5\xbf\x00\x00\x00\x00&\x00\x00\x00\x01\x00\x00\x00b\x1d\xfb\x9bv\xcb\xb8?\x00\x00\x00\x00&\x00\x00\x00\x02\x00\x00\x00W\xb3\xa7\x07\x92\x83\xaf\xbf\x00\x00\x00\x00&\x00\x00\x00\x03\x00\x00\x00\xfe\x9ay/\x94\x9b\xeb?\x00\x00\x00\x00&\x00\x00\x00\x04\x00\x00\x00y\xbdY\x82\xb62\xf1\xbf\x00\x00\x00\x00&\x00\x00\x00\x05\x00\x00\x00R\xbf\xf2z\x1dN\xcc?\x00\x00\x00\x00&\x00\x00\x00\x06\x00\x00\x00\xe7\x10z\xbbk\xce\xff\xbf\x00\x00\x00\x00\'\x00\x00\x00\x02\x00\x00\x00\xfb\'\x92F\xb3F\xf2?\x00\x00\x00\x00\'\x00\x00\x00\x03\x00\x00\x00\x83k\x1b\xbbp!\xf4?\x00\x00\x00\x00\'\x00\x00\x00\x04\x00\x00\x00&\x1ewO$;\x84?\x00\x00\x00\x00\'\x00\x00\x00\x05\x00\x00\x00 j\xa6\xccL]\xed?\x00\x00\x00\x00(\x00\x00\x00\x03\x00\x00\x00\x82\x80\xe2mJ\xbd\x10@\x00\x00\x00\x00(\x00\x00\x00\x05\x00\x00\x00\xb2\xdc\x1d\x0c\xc1i\xc1?\x00\x00\x00\x00)\x00\x00\x00\x02\x00\x00\x00.e\x88n\x00:\xd0?\x00\x00\x00\x00)\x00\x00\x00\x03\x00\x00\x00\x1aR\xa0J\x06J\x03@\x00\x00\x00\x00*\x00\x00\x00\x01\x00\x00\x00\xcc\t\x9b\xcb\xbcx\xc7?\x00\x00\x00\x00*\x00\x00\x00\x02\x00\x00\x00\xd7y\x81~\x0eK\xf7\xbf\x00\x00\x00\x00*\x00\x00\x00\x03\x00\x00\x00[\x12\xef\x8f?\xa9\xc3\xbf\x00\x00\x00\x00*\x00\x00\x00\x04\x00\x00\x00\x8b\xfc\x0fl\x81\xccV\xbf\x00\x00\x00\x00*\x00\x00\x00\x05\x00\x00\x00\xf5\xb1:\x80,8\xe6?\x00\x00\x00\x00*\x00\x00\x00\x06\x00\x00\x00\x0c\\\xef\xe5\xdf\xdb\xc0?\x00\x00\x00\x00+\x00\x00\x00\x01\x00\x00\x00\xb0\x02;\x01%\x96\xab\xbf\x00\x00\x00\x00+\x00\x00\x00\x02\x00\x00\x00u\xd0\x0f\x96\xf6\xa0\xad?\x00\x00\x00\x00+\x00\x00\x00\x03\x00\x00\x00\x10\xa7\xc5\xbe\xd1d\xf0?\x00\x00\x00\x00+\x00\x00\x00\x04\x00\x00\x00\xda\x12\x0b\x0c\xb3\xd1\xc6?\x00\x00\x00\x00+\x00\x00\x00\x05\x00\x00\x00*\xd6/J\x83#\xf3\xbf\x00\x00\x00\x00+\x00\x00\x00\x06\x00\x00\x00\x85\x99\xadN\xe4\xad\xe9?\x00\x00\x00\x00,\x00\x00\x00\x01\x00\x00\x00\xb9G\xeb\xe2l3\xd1?\x00\x00\x00\x00,\x00\x00\x00\x03\x00\x00\x00\xc5\xcf\x1c\xb5D\x96\x87\xbf\x00\x00\x00\x00,\x00\x00\x00\x04\x00\x00\x00\xe6\x8f9\x9c\xe0\xca\xcb?\x00\x00\x00\x00,\x00\x00\x00\x06\x00\x00\x00[\xea\xbdp\xa7P\xf4\xbf\x00\x00\x00\x00-\x00\x00\x00\x02\x00\x00\x00\xcf\xb6\x1b*\x1c\x80\xb5?\x00\x00\x00\x00-\x00\x00\x00\x03\x00\x00\x00\x90\x07\xe7\xe9E\x1c\xd7\xbf\x00\x00\x00\x00-\x00\x00\x00\x04\x00\x00\x00\xa5\xdd\x9d\x19\xe6\xc3\xfe?\x00\x00\x00\x00.\x00\x00\x00\x02\x00\x00\x00Kd\xae\xc3\xcd[\xd0?\x00\x00\x00\x00.\x00\x00\x00\x03\x00\x00\x00I\xe3\x04\xae\xd1\x91\xe9?\x00\x00\x00\x00.\x00\x00\x00\x04\x00\x00\x000\xe8\x16\xee\x8d\x93\xe7?\x00\x00\x00\x00.\x00\x00\x00\x05\x00\x00\x00\xb8\x94M\xc2\x068\xb9?\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x96\xe8\xd3\x19\xe9\xed\xf8?\x00\x00\x00\x00/\x00\x00\x00\x03\x00\x00\x00\xb3r\x01\x955\x96\xff?\x00\x00\x00\x00/\x00\x00\x00\x04\x00\x00\x00\xbd\xe8\xb5YR]\x03@\x00\x00\x00\x000\x00\x00\x00\x01\x00\x00\x00\xf1\x1b\xa6P\xe7m\xe4?\x00\x00\x00\x000\x00\x00\x00\x02\x00\x00\x00\xe5\x11)\x8f\\k\xfe\xbf\x00\x00\x00\x000\x00\x00\x00\x03\x00\x00\x00yF\x83&R0\xbb\xbf\x00\x00\x00\x000\x00\x00\x00\x04\x00\x00\x00\xd3\xab\xa4R\xf6\xe2\xc1?\x00\x00\x00\x000\x00\x00\x00\x05\x00\x00\x00L}\xb6\xb4\xfa\xef\xe5?\x00\x00\x00\x001\x00\x00\x00\x01\x00\x00\x00\x1a\x12XX\x86>\xc7?\x00\x00\x00\x001\x00\x00\x00\x02\x00\x00\x00\xc9\xd6-\xe8&\xf0\x1f?\x00\x00\x00\x001\x00\x00\x00\x03\x00\x00\x00:\x87\xea\x92H\xa6\xa4\xbf\x00\x00\x00\x001\x00\x00\x00\x04\x00\x00\x00\xb7V\x8d\xeb\xe42f?\x00\x00\x00\x001\x00\x00\x00\x05\x00\x00\x00\x13\xe4\x91r~\x9e\xe3?\x00\x00\x00\x001\x00\x00\x00\x06\x00\x00\x00\xed\xff!#i\xf5\xf1?\x00\x00\x00\x002\x00\x00\x00\x01\x00\x00\x00\xc2-\x98L^g\xe8?\x00\x00\x00\x002\x00\x00\x00\x03\x00\x00\x00\x17\xf6:_\xf9t\xf9\xbf\x00\x00\x00\x002\x00\x00\x00\x04\x00\x00\x00=5\xe4\x03G\x86\xf1?\x00\x00\x00\x002\x00\x00\x00\x05\x00\x00\x00"x3\xbb\xc7\x9e\xf7?\x00\x00\x00\x002\x00\x00\x00\x06\x00\x00\x00`\xcb\xdb-\xc3Q\xe4?\x00\x00\x00\x003\x00\x00\x00\x01\x00\x00\x00\x8e\xb1\x934\xfc4\xf9?\x00\x00\x00\x003\x00\x00\x00\x02\x00\x00\x00\x02;\x17\x83\xcd\x12\x00@\x00\x00\x00\x003\x00\x00\x00\x03\x00\x00\x00\xde43\x87\\A\xe5\xbf\x00\x00\x00\x004\x00\x00\x00\x03\x00\x00\x00\xed\xec\xc1J\xa7\xd9\x0b@\x00\x00\x00\x004\x00\x00\x00\x05\x00\x00\x00\x98ldt\xa9\xfa\xf4?\x00\x00\x00\x005\x00\x00\x00\x01\x00\x00\x00\xd9\x99lN\xbc\xcc\xb3?\x00\x00\x00\x005\x00\x00\x00\x02\x00\x00\x00\xe1\xccu\x84\x96$\xf2\xbf\x00\x00\x00\x005\x00\x00\x00\x03\x00\x00\x00}\xab|\xd9v\x11\xb3?\x00\x00\x00\x006\x00\x00\x00\x01\x00\x00\x00\xea\xc8\x99\x98\xd59\x04@\x00\x00\x00\x006\x00\x00\x00\x02\x00\x00\x00\xfa\xb6v\x88<~\xe8\xbf\x00\x00\x00\x006\x00\x00\x00\x03\x00\x00\x00\x8f\xff\x11\xd9\x85=\x00@\x00\x00\x00\x007\x00\x00\x00\x04\x00\x00\x00+\x8b\xf1 -\x97\x08@\x00\x00\x00\x007\x00\x00\x00\x05\x00\x00\x00\xb9\x9f\x85\xa3[\xbe\xda?\x00\x00\x00\x008\x00\x00\x00\x01\x00\x00\x00Q\x8f\x14\x89T\xef\xe2?\x00\x00\x00\x008\x00\x00\x00\x03\x00\x00\x00\xe4j\xa7\x1e\x14\xe6\xde\xbf\x00\x00\x00\x009\x00\x00\x00\x03\x00\x00\x00w\xb2F\xa4\x1e"\xd4?\x00\x00\x00\x009\x00\x00\x00\x05\x00\x00\x00\x98#\x8aR4H\xc6?\x00\x00\x00\x00:\x00\x00\x00\x01\x00\x00\x00+\x18?\xd0\x8e\xcf\x02@\x00\x00\x00\x00;\x00\x00\x00\x00\x00\x00\x00\xc6&\xd8\xdb\xd3\x82_?\x00\x00\x00\x00;\x00\x00\x00\x01\x00\x00\x00\xa3f\x15q\x94|\xe7\xbf\x00\x00\x00\x00;\x00\x00\x00\x02\x00\x00\x00\x96\xf5\xe1\xdbq\xe3V?\x00\x00\x00\x00;\x00\x00\x00\x03\x00\x00\x00\xee\xdf\xec\xcdyd\xc7?\x00\x00\x00\x00;\x00\x00\x00\x04\x00\x00\x008\xee\xca\xab\xbb\xb7\xbc\xbf\x00\x00\x00\x00;\x00\x00\x00\x05\x00\x00\x00\xe5\xb9!\x84<\x06\xa3?\x00\x00\x00\x00;\x00\x00\x00\x06\x00\x00\x00\x1e\x96\xf7\x05\x05\xe9\xcb\xbf\x00\x00\x00\x00<\x00\x00\x00\x01\x00\x00\x00>\x13(!!{\xf9?\x00\x00\x00\x00<\x00\x00\x00\x03\x00\x00\x00A\xa2\x02\xfc\x87\x91\xea\xbf\x00\x00\x00\x00=\x00\x00\x00\x03\x00\x00\x00\xd8\x81\xcf\x87X\xf7\x00@\x00\x00\x00\x00>\x00\x00\x00\x05\x00\x00\x001#\x87A<\t\xeb?\x00\x00\x00\x00?\x00\x00\x00\x00\x00\x00\x00\xcb\x10\xa5y\xc3\x1f\xf4?\x00\x00\x00\x00?\x00\x00\x00\x01\x00\x00\x00\xc6z6\xcd\x95\xfc\xf4?\x00\x00\x00\x00?\x00\x00\x00\x02\x00\x00\x00"\x98\xb9}\x0b\xb8\xd3?\x00\x00\x00\x00?\x00\x00\x00\x03\x00\x00\x00|~\xd0\xd2\xbc3c?\x00\x00\x00\x00?\x00\x00\x00\x04\x00\x00\x00\xb3\xf4s\xd5\x97%\xc3\xbf\x00\x00\x00\x00?\x00\x00\x00\x05\x00\x00\x00\x13\x9b\x14\xd9\xa9\xaf\x9e?\x00\x00\x00\x00@\x00\x00\x00\x01\x00\x00\x00\x18>h\xe3\xb1c\xeb\xbf\x00\x00\x00\x00@\x00\x00\x00\x03\x00\x00\x00S\xe8\xfd\xcc\xdfN\x01@\x00\x00\x00\x00@\x00\x00\x00\x04\x00\x00\x00|~=\x80\x84\xaa\xe6?\x00\x00\x00\x00@\x00\x00\x00\x05\x00\x00\x00LM\xa5<aM\x11@\x00\x00\x00\x00A\x00\x00\x00\x00\x00\x00\x009\x80\x8a\'\x07\xc9\xd5\xbf\x00\x00\x00\x00A\x00\x00\x00\x01\x00\x00\x00\x80SDD\xde\xab\xf0?\x00\x00\x00\x00A\x00\x00\x00\x02\x00\x00\x00;\xf0\\2\x95\xdf\xab\xbf\x00\x00\x00\x00A\x00\x00\x00\x03\x00\x00\x00\x9fz\xe3z\xeaY\xd3?\x00\x00\x00\x00A\x00\x00\x00\x04\x00\x00\x00\xcd\x81\x0b\xe0\x1b\x06\xe2\xbf\x00\x00\x00\x00A\x00\x00\x00\x06\x00\x00\x00<\x0ft\xf2\xe3H\xf3?\x00\x00\x00\x00B\x00\x00\x00\x01\x00\x00\x00_\xd7\x00\xbf&\x00\xf9\xbf\x00\x00\x00\x00B\x00\x00\x00\x02\x00\x00\x00U\x85\xf2\x10\x94\xd7\xe6\xbf\x00\x00\x00\x00B\x00\x00\x00\x03\x00\x00\x00\x98\xd8R\xbd\x1c\xca\xf1?\x00\x00\x00\x00B\x00\x00\x00\x04\x00\x00\x00;\x83\xbdu\x9b\x85\xea?\x00\x00\x00\x00B\x00\x00\x00\x05\x00\x00\x00\x90}\xe0\xa9\x97 \xd9\xbf\x00\x00\x00\x00B\x00\x00\x00\x06\x00\x00\x00\xce\xbd\x83\x94\x98T\xe2?\x00\x00\x00\x00C\x00\x00\x00\x00\x00\x00\x00\xa5\\s\xd6\tr\xf5?\x00\x00\x00\x00C\x00\x00\x00\x01\x00\x00\x00\xc0\xb9.m\x16\n\x91\xbf\x00\x00\x00\x00C\x00\x00\x00\x02\x00\x00\x00B\xb2\xd5jf\xae\xef?\x00\x00\x00\x00C\x00\x00\x00\x03\x00\x00\x00\x05\x8dR\xe3\xe1e\xf3\xbf\x00\x00\x00\x00C\x00\x00\x00\x04\x00\x00\x00\xcfW\x90\xecp\xb0\xf0?\x00\x00\x00\x00C\x00\x00\x00\x06\x00\x00\x00\xad\xe2\t\x84P\t\xd2?\x00\x00\x00\x00D\x00\x00\x00\x02\x00\x00\x00\n4rt\xef/3?\x00\x00\x00\x00D\x00\x00\x00\x03\x00\x00\x00\x93\xb8?v\xf2\xd5\x0b@\x00\x00\x00\x00D\x00\x00\x00\x04\x00\x00\x00,\xb3\xc6\x98#\n\xf0?\x00\x00\x00\x00D\x00\x00\x00\x05\x00\x00\x00\xd9\xfe\x05>V\x05\xd4?\x00\x00\x00\x00E\x00\x00\x00\x00\x00\x00\x00\xdd)1\xc9n\x86\xfa?\x00\x00\x00\x00E\x00\x00\x00\x01\x00\x00\x00\xe9;hB\xf8z\x99?\x00\x00\x00\x00E\x00\x00\x00\x02\x00\x00\x00\xe7\xc4^\x9d(\xba\xc6\xbf\x00\x00\x00\x00E\x00\x00\x00\x03\x00\x00\x00\\zZ\xc6\x92J\xdc\xbf\x00\x00\x00\x00E\x00\x00\x00\x04\x00\x00\x00\xf3\xd3\xef\x19O\xd0\xde\xbf\x00\x00\x00\x00E\x00\x00\x00\x06\x00\x00\x00T\xac\xaeOM\xf7d?\x00\x00\x00\x00F\x00\x00\x00\x00\x00\x00\x00\xbe\x07\x15V{\xff\xf1?\x00\x00\x00\x00F\x00\x00\x00\x01\x00\x00\x00\xcd-\x82`/\x00\xf7?\x00\x00\x00\x00F\x00\x00\x00\x03\x00\x00\x00\xb5\x18\x94x\x05\x9c\xed\xbf\x00\x00\x00\x00F\x00\x00\x00\x04\x00\x00\x00\x8a\xac\x93\xe9 V\xf9?\x00\x00\x00\x00F\x00\x00\x00\x05\x00\x00\x00,\x1ad\xddu\xc8\x94?\x00\x00\x00\x00F\x00\x00\x00\x06\x00\x00\x00\xba\xc8\x92Ay\xa7\xec?\x00\x00\x00\x00G\x00\x00\x00\x00\x00\x00\x00)\xa3;\x85t\xb0\x1f@\x00\x00\x00\x00G\x00\x00\x00\x01\x00\x00\x00\x89\xd5xX-\xb4\x12\xc0\x00\x00\x00\x00G\x00\x00\x00\x02\x00\x00\x00M\xc7\x0bN[+\xf5\xbf\x00\x00\x00\x00G\x00\x00\x00\x03\x00\x00\x00\x99\xe8\xa9\x05ks\xe5\xbf\x00\x00\x00\x00G\x00\x00\x00\x04\x00\x00\x00\xc8\x89\x18@\xcd\x19\x07@\x00\x00\x00\x00G\x00\x00\x00\x05\x00\x00\x00\xa35\x83\xc4\xb5\x89\xfc?\x00\x00\x00\x00H\x00\x00\x00\x01\x00\x00\x006b|\xfc*\x1f\xfa?\x00\x00\x00\x00H\x00\x00\x00\x02\x00\x00\x00\x8c\x03\x19\xd5\x1f\x8b\xc0\xbf\x00\x00\x00\x00H\x00\x00\x00\x03\x00\x00\x00\xf8\xadD\xbc\x98 \xde?\x00\x00\x00\x00H\x00\x00\x00\x04\x00\x00\x00\xa0\xb59O|`\xc8\xbf\x00\x00\x00\x00H\x00\x00\x00\x05\x00\x00\x00{\x1bW \x0f\xaf\xe4?\x00\x00\x00\x00I\x00\x00\x00\x00\x00\x00\x00\x9aW\x7f\xaf\x96R\x13\xc0\x00\x00\x00\x00I\x00\x00\x00\x01\x00\x00\x00IZ6J\xbf\xee\x83?\x00\x00\x00\x00I\x00\x00\x00\x02\x00\x00\x00\x1f\r>\x9b\xfdb\xb8\xbf\x00\x00\x00\x00I\x00\x00\x00\x03\x00\x00\x00R\x083\xc2nf\xe3?\x00\x00\x00\x00I\x00\x00\x00\x04\x00\x00\x00!U\xc5\xee\xdc\x02\xd4?\x00\x00\x00\x00J\x00\x00\x00\x01\x00\x00\x00\x18yJ\x07^\xf2\xe6\xbf\x00\x00\x00\x00J\x00\x00\x00\x02\x00\x00\x00\x11\xbbf])]\x00@\x00\x00\x00\x00J\x00\x00\x00\x04\x00\x00\x00\x02\x13\xed\xb8\xcb\x1d\xee?\x00\x00\x00\x00K\x00\x00\x00\x01\x00\x00\x00\xe6\x89\x141\xd2\xe1\xe3?\x00\x00\x00\x00K\x00\x00\x00\x02\x00\x00\x00jO\r7=\x9b\xe5\xbf\x00\x00\x00\x00L\x00\x00\x00\x03\x00\x00\x00\xd3\x0cC\xa1\x15\xd3\xdf?\x00\x00\x00\x00M\x00\x00\x00\x01\x00\x00\x00\x8a\xfe\x12\x9fv\xe5\xf5\xbf\x00\x00\x00\x00M\x00\x00\x00\x02\x00\x00\x00\x0b\x84\xe1q48\xf0?\x00\x00\x00\x00N\x00\x00\x00\x01\x00\x00\x00\xb7\xb8b\xf7\x07\xbe\xdd?\x00\x00\x00\x00N\x00\x00\x00\x02\x00\x00\x00\x80\xb8\x8e\xabl-\xf7\xbf\x00\x00\x00\x00O\x00\x00\x00\x02\x00\x00\x00\xe28a\x14!\xfe\xee\xbf\x00\x00\x00\x00O\x00\x00\x00\x03\x00\x00\x00\x18\xe2\xe1Vm\x83\xdb?\x00\x00\x00\x00P\x00\x00\x00\x03\x00\x00\x00\\M\xe7:2q\xed?\x00\x00\x00\x00Q\x00\x00\x00\x03\x00\x00\x00\xffZ\x96\xb9\xc4\x1a\xe0?\x00\x00\x00\x00Q\x00\x00\x00\x05\x00\x00\x00g\xe4\xf4\xda&?\xc6?\x00\x00\x00\x00R\x00\x00\x00\x05\x00\x00\x00\xdc\x89\xc8+s\xb8\xfa?\x00\x00\x00\x00S\x00\x00\x00\x03\x00\x00\x00\xf6?^f\xb8r\xc9\xbf\x00\x00\x00\x00S\x00\x00\x00\x05\x00\x00\x00\x16\r\x16\x1eP\xb9M?\x00\x00\x00\x00T\x00\x00\x00\x03\x00\x00\x00G\xaa0^.\xab\xfa\xbf\x00\x00\x00\x00T\x00\x00\x00\x05\x00\x00\x00}\xe0\xf3\xed\xa4K\xef?\x00\x00\x00\x00U\x00\x00\x00\x01\x00\x00\x00\x1c\x84I\xf6R\xbc\xe5?\x00\x00\x00\x00V\x00\x00\x00\x02\x00\x00\x00l\x8ePw\xda\t\xbd?\x00\x00\x00\x00W\x00\x00\x00\x03\x00\x00\x00\xffH\xd3\x10M\x0b`?\x00\x00\x00\x00X\x00\x00\x00\x03\x00\x00\x00D#G\x81tL\xc0?\x00\x00\x00\x00Y\x00\x00\x00\x01\x00\x00\x00\xd2\x14k\x8c\xae\xa7\xf3?\x00\x00\x00\x00Y\x00\x00\x00\x03\x00\x00\x00\xed\xd89bL\'\xb2\xbf\x00\x00\x00\x00Z\x00\x00\x00\x03\x00\x00\x00s0t\x88>U\x04@\x00\x00\x00\x00Z\x00\x00\x00\x05\x00\x00\x00R5Q>k\x0cw\xbf\x00\x00\x00\x00[\x00\x00\x00\x03\x00\x00\x00\xbf\x88$Hl\x97\xb1?\x00\x00\x00\x00\\\x00\x00\x00\x06\x00\x00\x00p\x1e\x1f\xc39\x9b\x1d@\x00\x00\x00\x00]\x00\x00\x00\x03\x00\x00\x00d\xb1k\xa5\xacq\x05@\x00\x00\x00\x00^\x00\x00\x00\x06\x00\x00\x00v\xd0\xcb\xfc<\xed\xf3?\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x19:\xcf\xd2\x00\xc2\x0c@\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00]\xbd\xf6\x05O\xc2\xfe?\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\xd6\nfWGY\x0c@\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x84ti\x08Q\xd6\x01\xc0\x01\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x1e\'\x08}\x17l\xf1?\x01\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00Y\x89HO\xff/\xb9\xbf\x01\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\xc24\x9e\xad`\xaa\x0c@\x01\x00\x00\x00\x01\x00\x00\x00\x03\x00\x00\x00]&\x99\x12.!\x00\xc0\x01\x00\x00\x00\x01\x00\x00\x00\x04\x00\x00\x00j\xcf\xb8\xb7\xd9\xa5\xf5?\x01\x00\x00\x00\x01\x00\x00\x00\x05\x00\x00\x00p5\xf9 \xe8 \xba\xbf\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00=\xc6\xb7\xac\x83\xf8\xd3\xbf\x01\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00zA\x85\xfb\x93k\xd0?\x01\x00\x00\x00\x02\x00\x00\x00\x02\x00\x00\x00\x19\xfbZ\xb5\xa2\xb6\x17@\x01\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x1d\xfa\x81r\x89\xec\xfd?\x01\x00\x00\x00\x02\x00\x00\x00\x06\x00\x00\x00\xba{\x9f.\x1fk\x0c@\x01\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\xcc\xbc\xa9\xc0z3\xee\xbf\x01\x00\x00\x00\x03\x00\x00\x00\x01\x00\x00\x00>\x93\xfa\x82h\xd5\xc3\xbf\x01\x00\x00\x00\x03\x00\x00\x00\x03\x00\x00\x00\xa8\x18q\x9e,\xb7\x13@\x01\x00\x00\x00\x03\x00\x00\x00\x04\x00\x00\x00\xb3\xcb\x86\xd24\x90\xe0\xbf\x01\x00\x00\x00\x03\x00\x00\x00\x05\x00\x00\x00\x7f\x07\xc1\xbe\xecF\xf7?\x01\x00\x00\x00\x04\x00\x00\x00\x01\x00\x00\x00xT\xcd\xd4u\x08\x11@\x01\x00\x00\x00\x04\x00\x00\x00\x02\x00\x00\x00\xb9\xf4q\xa12\xbf\x01@\x01\x00\x00\x00\x04\x00\x00\x00\x04\x00\x00\x00\x81\xbb\xc6N#\x05 @\x01\x00\x00\x00\x05\x00\x00\x00\x01\x00\x00\x00\xe1Ti\xdc#\xf9\xfd?\x01\x00\x00\x00\x05\x00\x00\x00\x04\x00\x00\x00\x99s\xc9c6\x8a\xca?\x01\x00\x00\x00\x05\x00\x00\x00\x05\x00\x00\x00\xc1C\xfcN\xf6d\xfb?\x01\x00\x00\x00\x05\x00\x00\x00\x06\x00\x00\x00\xf2\xc8n\x8d\xa8G\xe3?\x01\x00\x00\x00\x06\x00\x00\x00\x03\x00\x00\x00\x95\xa06d\xce!\x10@CQDB\xea\x08\x00\x00^\xcf\xafqqSDb\x07\x00\x00\x00\xce\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00^\x08\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00n\x08\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00~\x08\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x8e\x08\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x9e\x08\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xae\x08\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xbe\x08\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00T\x00\x01\x00\x00\x00\x02\x00\x00\x00B\x00\x02\x00\x00\x00\x02\x00\x00\x00H\x00\x03\x00\x00\x00\x02\x00\x00\x00D\x00\x04\x00\x00\x00\x02\x00\x00\x00N\x00\x05\x00\x00\x00\x02\x00\x00\x00A\x00\x06\x00\x00\x00\x02\x00\x00\x00G\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01A(\x89J\x08\x00\x00:2# 6\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00Q\xce_&@\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\\~\x98\xd1T\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xb5\\m\xcb"\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xb8\xdfB\xfa\x18\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xbcA\xe1},\x08\x00\x00\x18\x08\x00\x00"\x08\x00\x00,\x08\x00\x006\x08\x00\x00@\x08\x00\x00J\x08\x00\x00T\x08\x00\x00CQDB\x9a\x17\x00\x00^\xcf\xafqqSDb_\x00\x00\x00\x1e\x16\x00\x00.\x10\x00\x00\x02\x00\x00\x00>\x10\x00\x00\x02\x00\x00\x00N\x10\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00^\x10\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00n\x10\x00\x00\x02\x00\x00\x00~\x10\x00\x00\x04\x00\x00\x00\x9e\x10\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xae\x10\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xbe\x10\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xce\x10\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xde\x10\x00\x00\x02\x00\x00\x00\xee\x10\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xfe\x10\x00\x00\x02\x00\x00\x00\x0e\x11\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x1e\x11\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00.\x11\x00\x00\x02\x00\x00\x00>\x11\x00\x00\x02\x00\x00\x00N\x11\x00\x00\x04\x00\x00\x00n\x11\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00~\x11\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x8e\x11\x00\x00\x02\x00\x00\x00\x9e\x11\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xbe\x11\x00\x00\x02\x00\x00\x00\xce\x11\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xde\x11\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xee\x11\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xfe\x11\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0e\x12\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x1e\x12\x00\x00\x02\x00\x00\x00.\x12\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00>\x12\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00N\x12\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00^\x12\x00\x00\x02\x00\x00\x00n\x12\x00\x00\x04\x00\x00\x00\x8e\x12\x00\x00\x02\x00\x00\x00\x9e\x12\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xae\x12\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xbe\x12\x00\x00\x02\x00\x00\x00\xce\x12\x00\x00\x02\x00\x00\x00\xde\x12\x00\x00\x04\x00\x00\x00\xfe\x12\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0e\x13\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00.\x13\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00>\x13\x00\x00\x02\x00\x00\x00N\x13\x00\x00\x02\x00\x00\x00^\x13\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00n\x13\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00~\x13\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x8e\x13\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x9e\x13\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xae\x13\x00\x00\x02\x00\x00\x00\xbe\x13\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xce\x13\x00\x00\x02\x00\x00\x00\xde\x13\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xee\x13\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xfe\x13\x00\x00\x04\x00\x00\x00\x1e\x14\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00.\x14\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00>\x14\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00N\x14\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00n\x14\x00\x00\x02\x00\x00\x00~\x14\x00\x00\x02\x00\x00\x00\x8e\x14\x00\x00\x04\x00\x00\x00\xae\x14\x00\x00\x02\x00\x00\x00\xbe\x14\x00\x00\x02\x00\x00\x00\xce\x14\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xde\x14\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xfe\x14\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0e\x15\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x1e\x15\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00.\x15\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00>\x15\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00N\x15\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00^\x15\x00\x00\x02\x00\x00\x00n\x15\x00\x00\x02\x00\x00\x00~\x15\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x9e\x15\x00\x00\x04\x00\x00\x00\xbe\x15\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xce\x15\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xde\x15\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xee\x15\x00\x00\x02\x00\x00\x00\xfe\x15\x00\x00\x02\x00\x00\x00\x0e\x16\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00ismerged=1.0\x00\x01\x00\x00\x00\x0b\x00\x00\x00ishead=0.0\x00\x02\x00\x00\x00\x0c\x00\x00\x00isempty=1.0\x00\x03\x00\x00\x00\x10\x00\x00\x00isshorttext=1.0\x00\x04\x00\x00\x00\x0f\x00\x00\x00islongtext=0.0\x00\x05\x00\x00\x00\x0e\x00\x00\x00isnumeric=0.0\x00\x06\x00\x00\x00\x06\x00\x00\x00B=2.0\x00\x07\x00\x00\x00\x04\x00\x00\x00BOT\x00\x08\x00\x00\x00\x10\x00\x00\x00+1:ismerged=1.0\x00\t\x00\x00\x00\x0e\x00\x00\x00+1:ishead=0.0\x00\n\x00\x00\x00\x0f\x00\x00\x00+1:isempty=0.0\x00\x0b\x00\x00\x00\x13\x00\x00\x00+1:isshorttext=0.0\x00\x0c\x00\x00\x00\x12\x00\x00\x00+1:islongtext=0.0\x00\r\x00\x00\x00\x11\x00\x00\x00+1:isnumeric=0.0\x00\x0e\x00\x00\x00\t\x00\x00\x00+1:B=3.0\x00\x0f\x00\x00\x00\x0c\x00\x00\x00isempty=0.0\x00\x10\x00\x00\x00\x10\x00\x00\x00isshorttext=0.0\x00\x11\x00\x00\x00\x06\x00\x00\x00B=3.0\x00\x12\x00\x00\x00\x10\x00\x00\x00-1:ismerged=1.0\x00\x13\x00\x00\x00\x0e\x00\x00\x00-1:ishead=0.0\x00\x14\x00\x00\x00\x0f\x00\x00\x00-1:isempty=1.0\x00\x15\x00\x00\x00\x13\x00\x00\x00-1:isshorttext=1.0\x00\x16\x00\x00\x00\x12\x00\x00\x00-1:islongtext=0.0\x00\x17\x00\x00\x00\x11\x00\x00\x00-1:isnumeric=0.0\x00\x18\x00\x00\x00\t\x00\x00\x00-1:B=2.0\x00\x19\x00\x00\x00\x10\x00\x00\x00+1:ismerged=2.0\x00\x1a\x00\x00\x00\x13\x00\x00\x00+1:isshorttext=3.0\x00\x1b\x00\x00\x00\t\x00\x00\x00+1:B=4.0\x00\x1c\x00\x00\x00\r\x00\x00\x00ismerged=2.0\x00\x1d\x00\x00\x00\x10\x00\x00\x00isshorttext=3.0\x00\x1e\x00\x00\x00\x06\x00\x00\x00B=4.0\x00\x1f\x00\x00\x00\x0f\x00\x00\x00-1:isempty=0.0\x00 \x00\x00\x00\x13\x00\x00\x00-1:isshorttext=0.0\x00!\x00\x00\x00\t\x00\x00\x00-1:B=3.0\x00"\x00\x00\x00\x10\x00\x00\x00+1:ismerged=0.0\x00#\x00\x00\x00\x0f\x00\x00\x00+1:isempty=1.0\x00$\x00\x00\x00\x13\x00\x00\x00+1:isshorttext=2.0\x00%\x00\x00\x00\x11\x00\x00\x00+1:isnumeric=2.0\x00&\x00\x00\x00\r\x00\x00\x00ismerged=0.0\x00\'\x00\x00\x00\x10\x00\x00\x00isshorttext=2.0\x00(\x00\x00\x00\x0e\x00\x00\x00isnumeric=2.0\x00)\x00\x00\x00\x10\x00\x00\x00-1:ismerged=2.0\x00*\x00\x00\x00\x13\x00\x00\x00-1:isshorttext=3.0\x00+\x00\x00\x00\t\x00\x00\x00-1:B=4.0\x00,\x00\x00\x00\x0f\x00\x00\x00+1:isempty=2.0\x00-\x00\x00\x00\x12\x00\x00\x00+1:islongtext=1.0\x00.\x00\x00\x00\x0c\x00\x00\x00isempty=2.0\x00/\x00\x00\x00\x0f\x00\x00\x00islongtext=1.0\x000\x00\x00\x00\x10\x00\x00\x00-1:ismerged=0.0\x001\x00\x00\x00\x13\x00\x00\x00-1:isshorttext=2.0\x002\x00\x00\x00\x11\x00\x00\x00-1:isnumeric=2.0\x003\x00\x00\x00\x11\x00\x00\x00+1:isnumeric=3.0\x004\x00\x00\x00\x0e\x00\x00\x00isnumeric=3.0\x005\x00\x00\x00\x0f\x00\x00\x00-1:isempty=2.0\x006\x00\x00\x00\x12\x00\x00\x00-1:islongtext=1.0\x007\x00\x00\x00\x11\x00\x00\x00-1:isnumeric=3.0\x008\x00\x00\x00\x11\x00\x00\x00+1:isnumeric=4.0\x009\x00\x00\x00\x0e\x00\x00\x00isnumeric=4.0\x00:\x00\x00\x00\x11\x00\x00\x00-1:isnumeric=4.0\x00;\x00\x00\x00\x13\x00\x00\x00+1:isshorttext=1.0\x00<\x00\x00\x00\x0f\x00\x00\x00+1:isempty=3.0\x00=\x00\x00\x00\x0c\x00\x00\x00isempty=3.0\x00>\x00\x00\x00\x0f\x00\x00\x00-1:isempty=3.0\x00?\x00\x00\x00\t\x00\x00\x00+1:B=2.0\x00@\x00\x00\x00\x04\x00\x00\x00EOT\x00A\x00\x00\x00\t\x00\x00\x00+1:B=1.0\x00B\x00\x00\x00\x06\x00\x00\x00B=1.0\x00C\x00\x00\x00\x11\x00\x00\x00+1:isnumeric=1.0\x00D\x00\x00\x00\x0e\x00\x00\x00isnumeric=1.0\x00E\x00\x00\x00\t\x00\x00\x00-1:B=1.0\x00F\x00\x00\x00\x11\x00\x00\x00-1:isnumeric=1.0\x00G\x00\x00\x00\x06\x00\x00\x00B=0.0\x00H\x00\x00\x00\t\x00\x00\x00-1:B=0.0\x00I\x00\x00\x00\t\x00\x00\x00+1:B=0.0\x00J\x00\x00\x00\t\x00\x00\x00+1:B=5.0\x00K\x00\x00\x00\x06\x00\x00\x00B=5.0\x00L\x00\x00\x00\t\x00\x00\x00-1:B=5.0\x00M\x00\x00\x00\t\x00\x00\x00+1:B=7.0\x00N\x00\x00\x00\x06\x00\x00\x00B=7.0\x00O\x00\x00\x00\t\x00\x00\x00-1:B=7.0\x00P\x00\x00\x00\x13\x00\x00\x00+1:isshorttext=5.0\x00Q\x00\x00\x00\x10\x00\x00\x00isshorttext=5.0\x00R\x00\x00\x00\x13\x00\x00\x00-1:isshorttext=5.0\x00S\x00\x00\x00\x11\x00\x00\x00-1:isnumeric=5.0\x00T\x00\x00\x00\x0f\x00\x00\x00+1:isempty=4.0\x00U\x00\x00\x00\x0c\x00\x00\x00isempty=4.0\x00V\x00\x00\x00\x10\x00\x00\x00-1:ismerged=3.0\x00W\x00\x00\x00\x0f\x00\x00\x00+1:isempty=5.0\x00X\x00\x00\x00\x0c\x00\x00\x00isempty=5.0\x00Y\x00\x00\x00\x13\x00\x00\x00+1:isshorttext=4.0\x00Z\x00\x00\x00\x10\x00\x00\x00isshorttext=4.0\x00[\x00\x00\x00\x13\x00\x00\x00-1:isshorttext=4.0\x00\\\x00\x00\x00\x0e\x00\x00\x00+1:ishead=1.0\x00]\x00\x00\x00\x0b\x00\x00\x00ishead=1.0\x00^\x00\x00\x00\x0e\x00\x00\x00-1:ishead=1.0\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00Y\x8e\xa5@\x08\x00\x00\x01l\x8cP\x9c\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02IuK\x90\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\xe3\x92\x08v\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x06S\xb3\x99\x05\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07%Q\xb9p\x0c\x00\x00\x07ZE\x83\x8b\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x08\xfd\xbb\xd8\xf1\t\x00\x00\x17v\x0f\xed^\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x19\xd2\xc1Ke\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00 >\x8c/\x9d\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"f\x01\xbay\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00#;\xeek[\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00+U\xff\xa9\x8e\n\x00\x00,\xf2\xfbo\x87\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x001\xf6\t\xcf3\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x004L\xbd0\xe7\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x005\x12\x7f\xd2U\x0c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x006N \xf9\xf8\x08\x00\x006\xa3Bw\xad\x0e\x00\x007(c\x8b\x83\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00:\x7fzRJ\r\x00\x00@\xdc\xfd\xc6\xfc\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00A\x86X\x8c5\n\x00\x00A\xf3\xb2\xcf\xb5\x0b\x00\x00C\x9c\xcb4\xd0\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00D~M\x91J\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00F\xa0\xa3\xe9\x02\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00IB\xbbc\xe1\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00L\xb8%\x12&\x0c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00Uv\xa8X\xef\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00W\xf51\xdfM\n\x00\x00XD\x99)-\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00]<r\xae\xd6\t\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00a\xe5\x16Uk\t\x00\x00e\xe8\x1a\x8b\x18\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00f8{\x8aA\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00f\xba#\xf9\xbc\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00g\x0e\xb7_\xf7\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00h\xe4\x1d8\xcf\x0c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00j5\t)\x1b\r\x00\x00m\xf0\xd4X#\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00n\xfb\x83\xde\xd5\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00o!\x01\xbc\x12\x0e\x00\x00o\xfd\xf9&\x8d\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00pf\x0c:\x18\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x81\xf9\x10WF\t\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x81\xd7\xd6\xbfo\x0b\x00\x00\x94 \x8b\x80\xcb\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x96`\xb21\xe3\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x97\xeaG\x10\x99\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x98\xea\xf7CW\t\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x9b\x93\x0b\xc3\x89\x0c\x00\x00\xa2\xfc}\xd2\xc4\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xa4)\tr\xb4\n\x00\x00\xa7\xe6\xc3\xe6\xcc\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xab\xb4\xe8p\xa7\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xac\x99\x86M1\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xaee\xb1\xf1\xb8\r\x00\x00\xaf@U\xd7\xb3\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xb7\xa1-\xbch\n\x00\x00\xbcx\xb2\x8f=\x0c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xbc\x02\xed\x97\xe6\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xbd\x00\xd5\xf3&\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xbf\xe1\xf7o$\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xc1\xfd<2\xff\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xc5\xf9-\xf1}\x0e\x00\x00\xc5\xfa\xe9\xdaJ\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xcd\xf0\x90Z\xa1\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xce\xdf\xab\x97\xbb\x0e\x00\x00\xcf\xe8\xaf\xad|\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xcf\x96b\x13\x0f\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xd0\x9a\x19R\x12\x0c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xd1j\x00}l\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xd2/>\xf4\x83\t\x00\x00\xd6\xf8\xfb\'\x0b\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xd6~8 \xd4\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xda\xbcn\x16T\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xdc\x10\x7fH\xa9\t\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xdeA\xa2\xe2\xe1\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xe2\x85jg\xcb\n\x00\x00\xe5\xe2N\xca\xb8\x0c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xe7K\xf6[\xa2\x0c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xeb\xcb\xaa!l\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xec\xa9<\xf0\xf8\x0b\x00\x00\xed\x90\xd3\xe1\xa7\r\x00\x00\xede\xcc#-\t\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xf3\x9c\xddK\x91\t\x00\x00\xf30R8\xe9\x0c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xf4\x9f\xc2\x96\x13\t\x00\x00\xf6\x06\x84\xdc<\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xf8\xb6\x10dZ\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xfdI\xcd\xdd\x1a\x0f\x00\x00\xfed.\x9d\xbf\t\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xfff\xa1\xbd\xa6\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x18\x08\x00\x00-\x08\x00\x00@\x08\x00\x00T\x08\x00\x00l\x08\x00\x00\x83\x08\x00\x00\x99\x08\x00\x00\xa7\x08\x00\x00\xb3\x08\x00\x00\xcb\x08\x00\x00\xe1\x08\x00\x00\xf8\x08\x00\x00\x13\t\x00\x00-\t\x00\x00F\t\x00\x00W\t\x00\x00k\t\x00\x00\x83\t\x00\x00\x91\t\x00\x00\xa9\t\x00\x00\xbf\t\x00\x00\xd6\t\x00\x00\xf1\t\x00\x00\x0b\n\x00\x00$\n\x00\x005\n\x00\x00M\n\x00\x00h\n\x00\x00y\n\x00\x00\x8e\n\x00\x00\xa6\n\x00\x00\xb4\n\x00\x00\xcb\n\x00\x00\xe6\n\x00\x00\xf7\n\x00\x00\x0f\x0b\x00\x00&\x0b\x00\x00A\x0b\x00\x00Z\x0b\x00\x00o\x0b\x00\x00\x87\x0b\x00\x00\x9d\x0b\x00\x00\xb5\x0b\x00\x00\xd0\x0b\x00\x00\xe1\x0b\x00\x00\xf8\x0b\x00\x00\x12\x0c\x00\x00&\x0c\x00\x00=\x0c\x00\x00U\x0c\x00\x00p\x0c\x00\x00\x89\x0c\x00\x00\xa2\x0c\x00\x00\xb8\x0c\x00\x00\xcf\x0c\x00\x00\xe9\x0c\x00\x00\x02\r\x00\x00\x1b\r\x00\x001\r\x00\x00J\r\x00\x00e\r\x00\x00|\r\x00\x00\x90\r\x00\x00\xa7\r\x00\x00\xb8\r\x00\x00\xc4\r\x00\x00\xd5\r\x00\x00\xe3\r\x00\x00\xfc\r\x00\x00\x12\x0e\x00\x00#\x0e\x00\x00<\x0e\x00\x00J\x0e\x00\x00[\x0e\x00\x00l\x0e\x00\x00}\x0e\x00\x00\x8b\x0e\x00\x00\x9c\x0e\x00\x00\xad\x0e\x00\x00\xbb\x0e\x00\x00\xcc\x0e\x00\x00\xe7\x0e\x00\x00\xff\x0e\x00\x00\x1a\x0f\x00\x003\x0f\x00\x00J\x0f\x00\x00^\x0f\x00\x00v\x0f\x00\x00\x8d\x0f\x00\x00\xa1\x0f\x00\x00\xbc\x0f\x00\x00\xd4\x0f\x00\x00\xef\x0f\x00\x00\x05\x10\x00\x00\x18\x10\x00\x00LFRF\xbc\x00\x00\x00\t\x00\x00\x00\x10B\x00\x00$B\x00\x00DB\x00\x00XB\x00\x00pB\x00\x00\x80B\x00\x00\x94B\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x8c\x01\x00\x00\x8d\x01\x00\x00\x8e\x01\x00\x00\x8f\x01\x00\x00\x07\x00\x00\x00\x90\x01\x00\x00\x91\x01\x00\x00\x92\x01\x00\x00\x93\x01\x00\x00\x94\x01\x00\x00\x95\x01\x00\x00\x96\x01\x00\x00\x04\x00\x00\x00\x97\x01\x00\x00\x98\x01\x00\x00\x99\x01\x00\x00\x9a\x01\x00\x00\x05\x00\x00\x00\x9b\x01\x00\x00\x9c\x01\x00\x00\x9d\x01\x00\x00\x9e\x01\x00\x00\x9f\x01\x00\x00\x03\x00\x00\x00\xa0\x01\x00\x00\xa1\x01\x00\x00\xa2\x01\x00\x00\x04\x00\x00\x00\xa3\x01\x00\x00\xa4\x01\x00\x00\xa5\x01\x00\x00\xa6\x01\x00\x00\x01\x00\x00\x00\xa7\x01\x00\x00AFRF4\t\x00\x00_\x00\x00\x00$D\x00\x00DD\x00\x00dD\x00\x00\x84D\x00\x00\xa0D\x00\x00\xbcD\x00\x00\xd8D\x00\x00\xf0D\x00\x00\x00E\x00\x00\x18E\x00\x008E\x00\x00XE\x00\x00xE\x00\x00\x94E\x00\x00\xb4E\x00\x00\xd4E\x00\x00\xf4E\x00\x00\x0cF\x00\x00,F\x00\x00HF\x00\x00hF\x00\x00\x84F\x00\x00\xa4F\x00\x00\xc0F\x00\x00\xe0F\x00\x00\x00G\x00\x00\x10G\x00\x00 G\x00\x004G\x00\x00<G\x00\x00LG\x00\x00hG\x00\x00\x88G\x00\x00\xa8G\x00\x00\xc8G\x00\x00\xe4G\x00\x00\x00H\x00\x00\x14H\x00\x00$H\x00\x00DH\x00\x00XH\x00\x00dH\x00\x00pH\x00\x00\x8cH\x00\x00\xa8H\x00\x00\xbcH\x00\x00\xccH\x00\x00\xe0H\x00\x00\xf0H\x00\x00\x08I\x00\x00$I\x00\x00<I\x00\x00LI\x00\x00XI\x00\x00hI\x00\x00xI\x00\x00\x84I\x00\x00\x90I\x00\x00\x9cI\x00\x00\xa4I\x00\x00\xc4I\x00\x00\xd0I\x00\x00\xd8I\x00\x00\xe0I\x00\x00\xfcI\x00\x00\x10J\x00\x00,J\x00\x00HJ\x00\x00dJ\x00\x00xJ\x00\x00\x94J\x00\x00\xb0J\x00\x00\xccJ\x00\x00\xe4J\x00\x00\xfcJ\x00\x00\x0cK\x00\x00\x18K\x00\x00 K\x00\x00,K\x00\x008K\x00\x00DK\x00\x00LK\x00\x00XK\x00\x00`K\x00\x00lK\x00\x00xK\x00\x00\x80K\x00\x00\x88K\x00\x00\x90K\x00\x00\x98K\x00\x00\xa4K\x00\x00\xb0K\x00\x00\xb8K\x00\x00\xc0K\x00\x00\xc8K\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x04\x00\x00\x00\x05\x00\x00\x00\x06\x00\x00\x00\x07\x00\x00\x00\x07\x00\x00\x00\x08\x00\x00\x00\t\x00\x00\x00\n\x00\x00\x00\x0b\x00\x00\x00\x0c\x00\x00\x00\r\x00\x00\x00\x07\x00\x00\x00\x0e\x00\x00\x00\x0f\x00\x00\x00\x10\x00\x00\x00\x11\x00\x00\x00\x12\x00\x00\x00\x13\x00\x00\x00\x14\x00\x00\x00\x06\x00\x00\x00\x15\x00\x00\x00\x16\x00\x00\x00\x17\x00\x00\x00\x18\x00\x00\x00\x19\x00\x00\x00\x1a\x00\x00\x00\x06\x00\x00\x00\x1b\x00\x00\x00\x1c\x00\x00\x00\x1d\x00\x00\x00\x1e\x00\x00\x00\x1f\x00\x00\x00 \x00\x00\x00\x06\x00\x00\x00!\x00\x00\x00"\x00\x00\x00#\x00\x00\x00$\x00\x00\x00%\x00\x00\x00&\x00\x00\x00\x05\x00\x00\x00\'\x00\x00\x00(\x00\x00\x00)\x00\x00\x00*\x00\x00\x00+\x00\x00\x00\x03\x00\x00\x00,\x00\x00\x00-\x00\x00\x00.\x00\x00\x00\x05\x00\x00\x00/\x00\x00\x000\x00\x00\x001\x00\x00\x002\x00\x00\x003\x00\x00\x00\x07\x00\x00\x004\x00\x00\x005\x00\x00\x006\x00\x00\x007\x00\x00\x008\x00\x00\x009\x00\x00\x00:\x00\x00\x00\x07\x00\x00\x00;\x00\x00\x00<\x00\x00\x00=\x00\x00\x00>\x00\x00\x00?\x00\x00\x00@\x00\x00\x00A\x00\x00\x00\x07\x00\x00\x00B\x00\x00\x00C\x00\x00\x00D\x00\x00\x00E\x00\x00\x00F\x00\x00\x00G\x00\x00\x00H\x00\x00\x00\x06\x00\x00\x00I\x00\x00\x00J\x00\x00\x00K\x00\x00\x00L\x00\x00\x00M\x00\x00\x00N\x00\x00\x00\x07\x00\x00\x00O\x00\x00\x00P\x00\x00\x00Q\x00\x00\x00R\x00\x00\x00S\x00\x00\x00T\x00\x00\x00U\x00\x00\x00\x07\x00\x00\x00V\x00\x00\x00W\x00\x00\x00X\x00\x00\x00Y\x00\x00\x00Z\x00\x00\x00[\x00\x00\x00\\\x00\x00\x00\x07\x00\x00\x00]\x00\x00\x00^\x00\x00\x00_\x00\x00\x00`\x00\x00\x00a\x00\x00\x00b\x00\x00\x00c\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00e\x00\x00\x00f\x00\x00\x00g\x00\x00\x00h\x00\x00\x00\x07\x00\x00\x00i\x00\x00\x00j\x00\x00\x00k\x00\x00\x00l\x00\x00\x00m\x00\x00\x00n\x00\x00\x00o\x00\x00\x00\x06\x00\x00\x00p\x00\x00\x00q\x00\x00\x00r\x00\x00\x00s\x00\x00\x00t\x00\x00\x00u\x00\x00\x00\x07\x00\x00\x00v\x00\x00\x00w\x00\x00\x00x\x00\x00\x00y\x00\x00\x00z\x00\x00\x00{\x00\x00\x00|\x00\x00\x00\x06\x00\x00\x00}\x00\x00\x00~\x00\x00\x00\x7f\x00\x00\x00\x80\x00\x00\x00\x81\x00\x00\x00\x82\x00\x00\x00\x07\x00\x00\x00\x83\x00\x00\x00\x84\x00\x00\x00\x85\x00\x00\x00\x86\x00\x00\x00\x87\x00\x00\x00\x88\x00\x00\x00\x89\x00\x00\x00\x06\x00\x00\x00\x8a\x00\x00\x00\x8b\x00\x00\x00\x8c\x00\x00\x00\x8d\x00\x00\x00\x8e\x00\x00\x00\x8f\x00\x00\x00\x07\x00\x00\x00\x90\x00\x00\x00\x91\x00\x00\x00\x92\x00\x00\x00\x93\x00\x00\x00\x94\x00\x00\x00\x95\x00\x00\x00\x96\x00\x00\x00\x07\x00\x00\x00\x97\x00\x00\x00\x98\x00\x00\x00\x99\x00\x00\x00\x9a\x00\x00\x00\x9b\x00\x00\x00\x9c\x00\x00\x00\x9d\x00\x00\x00\x03\x00\x00\x00\x9e\x00\x00\x00\x9f\x00\x00\x00\xa0\x00\x00\x00\x03\x00\x00\x00\xa1\x00\x00\x00\xa2\x00\x00\x00\xa3\x00\x00\x00\x04\x00\x00\x00\xa4\x00\x00\x00\xa5\x00\x00\x00\xa6\x00\x00\x00\xa7\x00\x00\x00\x01\x00\x00\x00\xa8\x00\x00\x00\x03\x00\x00\x00\xa9\x00\x00\x00\xaa\x00\x00\x00\xab\x00\x00\x00\x06\x00\x00\x00\xac\x00\x00\x00\xad\x00\x00\x00\xae\x00\x00\x00\xaf\x00\x00\x00\xb0\x00\x00\x00\xb1\x00\x00\x00\x07\x00\x00\x00\xb2\x00\x00\x00\xb3\x00\x00\x00\xb4\x00\x00\x00\xb5\x00\x00\x00\xb6\x00\x00\x00\xb7\x00\x00\x00\xb8\x00\x00\x00\x07\x00\x00\x00\xb9\x00\x00\x00\xba\x00\x00\x00\xbb\x00\x00\x00\xbc\x00\x00\x00\xbd\x00\x00\x00\xbe\x00\x00\x00\xbf\x00\x00\x00\x07\x00\x00\x00\xc0\x00\x00\x00\xc1\x00\x00\x00\xc2\x00\x00\x00\xc3\x00\x00\x00\xc4\x00\x00\x00\xc5\x00\x00\x00\xc6\x00\x00\x00\x06\x00\x00\x00\xc7\x00\x00\x00\xc8\x00\x00\x00\xc9\x00\x00\x00\xca\x00\x00\x00\xcb\x00\x00\x00\xcc\x00\x00\x00\x06\x00\x00\x00\xcd\x00\x00\x00\xce\x00\x00\x00\xcf\x00\x00\x00\xd0\x00\x00\x00\xd1\x00\x00\x00\xd2\x00\x00\x00\x04\x00\x00\x00\xd3\x00\x00\x00\xd4\x00\x00\x00\xd5\x00\x00\x00\xd6\x00\x00\x00\x03\x00\x00\x00\xd7\x00\x00\x00\xd8\x00\x00\x00\xd9\x00\x00\x00\x07\x00\x00\x00\xda\x00\x00\x00\xdb\x00\x00\x00\xdc\x00\x00\x00\xdd\x00\x00\x00\xde\x00\x00\x00\xdf\x00\x00\x00\xe0\x00\x00\x00\x04\x00\x00\x00\xe1\x00\x00\x00\xe2\x00\x00\x00\xe3\x00\x00\x00\xe4\x00\x00\x00\x02\x00\x00\x00\xe5\x00\x00\x00\xe6\x00\x00\x00\x02\x00\x00\x00\xe7\x00\x00\x00\xe8\x00\x00\x00\x06\x00\x00\x00\xe9\x00\x00\x00\xea\x00\x00\x00\xeb\x00\x00\x00\xec\x00\x00\x00\xed\x00\x00\x00\xee\x00\x00\x00\x06\x00\x00\x00\xef\x00\x00\x00\xf0\x00\x00\x00\xf1\x00\x00\x00\xf2\x00\x00\x00\xf3\x00\x00\x00\xf4\x00\x00\x00\x04\x00\x00\x00\xf5\x00\x00\x00\xf6\x00\x00\x00\xf7\x00\x00\x00\xf8\x00\x00\x00\x03\x00\x00\x00\xf9\x00\x00\x00\xfa\x00\x00\x00\xfb\x00\x00\x00\x04\x00\x00\x00\xfc\x00\x00\x00\xfd\x00\x00\x00\xfe\x00\x00\x00\xff\x00\x00\x00\x03\x00\x00\x00\x00\x01\x00\x00\x01\x01\x00\x00\x02\x01\x00\x00\x05\x00\x00\x00\x03\x01\x00\x00\x04\x01\x00\x00\x05\x01\x00\x00\x06\x01\x00\x00\x07\x01\x00\x00\x06\x00\x00\x00\x08\x01\x00\x00\t\x01\x00\x00\n\x01\x00\x00\x0b\x01\x00\x00\x0c\x01\x00\x00\r\x01\x00\x00\x05\x00\x00\x00\x0e\x01\x00\x00\x0f\x01\x00\x00\x10\x01\x00\x00\x11\x01\x00\x00\x12\x01\x00\x00\x03\x00\x00\x00\x13\x01\x00\x00\x14\x01\x00\x00\x15\x01\x00\x00\x02\x00\x00\x00\x16\x01\x00\x00\x17\x01\x00\x00\x03\x00\x00\x00\x18\x01\x00\x00\x19\x01\x00\x00\x1a\x01\x00\x00\x03\x00\x00\x00\x1b\x01\x00\x00\x1c\x01\x00\x00\x1d\x01\x00\x00\x02\x00\x00\x00\x1e\x01\x00\x00\x1f\x01\x00\x00\x02\x00\x00\x00 \x01\x00\x00!\x01\x00\x00\x02\x00\x00\x00"\x01\x00\x00#\x01\x00\x00\x01\x00\x00\x00$\x01\x00\x00\x07\x00\x00\x00%\x01\x00\x00&\x01\x00\x00\'\x01\x00\x00(\x01\x00\x00)\x01\x00\x00*\x01\x00\x00+\x01\x00\x00\x02\x00\x00\x00,\x01\x00\x00-\x01\x00\x00\x01\x00\x00\x00.\x01\x00\x00\x01\x00\x00\x00/\x01\x00\x00\x06\x00\x00\x000\x01\x00\x001\x01\x00\x002\x01\x00\x003\x01\x00\x004\x01\x00\x005\x01\x00\x00\x04\x00\x00\x006\x01\x00\x007\x01\x00\x008\x01\x00\x009\x01\x00\x00\x06\x00\x00\x00:\x01\x00\x00;\x01\x00\x00<\x01\x00\x00=\x01\x00\x00>\x01\x00\x00?\x01\x00\x00\x06\x00\x00\x00@\x01\x00\x00A\x01\x00\x00B\x01\x00\x00C\x01\x00\x00D\x01\x00\x00E\x01\x00\x00\x06\x00\x00\x00F\x01\x00\x00G\x01\x00\x00H\x01\x00\x00I\x01\x00\x00J\x01\x00\x00K\x01\x00\x00\x04\x00\x00\x00L\x01\x00\x00M\x01\x00\x00N\x01\x00\x00O\x01\x00\x00\x06\x00\x00\x00P\x01\x00\x00Q\x01\x00\x00R\x01\x00\x00S\x01\x00\x00T\x01\x00\x00U\x01\x00\x00\x06\x00\x00\x00V\x01\x00\x00W\x01\x00\x00X\x01\x00\x00Y\x01\x00\x00Z\x01\x00\x00[\x01\x00\x00\x06\x00\x00\x00\\\x01\x00\x00]\x01\x00\x00^\x01\x00\x00_\x01\x00\x00`\x01\x00\x00a\x01\x00\x00\x05\x00\x00\x00b\x01\x00\x00c\x01\x00\x00d\x01\x00\x00e\x01\x00\x00f\x01\x00\x00\x05\x00\x00\x00g\x01\x00\x00h\x01\x00\x00i\x01\x00\x00j\x01\x00\x00k\x01\x00\x00\x03\x00\x00\x00l\x01\x00\x00m\x01\x00\x00n\x01\x00\x00\x02\x00\x00\x00o\x01\x00\x00p\x01\x00\x00\x01\x00\x00\x00q\x01\x00\x00\x02\x00\x00\x00r\x01\x00\x00s\x01\x00\x00\x02\x00\x00\x00t\x01\x00\x00u\x01\x00\x00\x02\x00\x00\x00v\x01\x00\x00w\x01\x00\x00\x01\x00\x00\x00x\x01\x00\x00\x02\x00\x00\x00y\x01\x00\x00z\x01\x00\x00\x01\x00\x00\x00{\x01\x00\x00\x02\x00\x00\x00|\x01\x00\x00}\x01\x00\x00\x02\x00\x00\x00~\x01\x00\x00\x7f\x01\x00\x00\x01\x00\x00\x00\x80\x01\x00\x00\x01\x00\x00\x00\x81\x01\x00\x00\x01\x00\x00\x00\x82\x01\x00\x00\x01\x00\x00\x00\x83\x01\x00\x00\x02\x00\x00\x00\x84\x01\x00\x00\x85\x01\x00\x00\x02\x00\x00\x00\x86\x01\x00\x00\x87\x01\x00\x00\x01\x00\x00\x00\x88\x01\x00\x00\x01\x00\x00\x00\x89\x01\x00\x00\x01\x00\x00\x00\x8a\x01\x00\x00\x01\x00\x00\x00\x8b\x01\x00\x00'
+p27
+sS'prefix'
+p28
+S'model'
+p29
+sS'keep_tempfiles'
+p30
+I00
+sS'suffix'
+p31
+S'.crfsuite'
+p32
+sbsS'all_possible_states'
+p33
+NsS'c'
+p34
+NsS'pa_type'
+p35
+NsS'algorithm'
+p36
+S'lbfgs'
+p37
+sS'_tagger'
+p38
+NsS'calibration_rate'
+p39
+NsS'trainer_cls'
+p40
+NsS'error_sensitive'
+p41
+NsS'training_log_'
+p42
+g0
+(cpycrfsuite._logparser
+TrainLogParser
+p43
+g2
+Ntp44
+Rp45
+(dp46
+S'last_iteration'
+p47
+(dp48
+S'loss'
+p49
+F331.784667
+sS'error_norm'
+p50
+F12.220448
+sS'linesearch_trials'
+p51
+I1
+sS'active_features'
+p52
+I424
+sS'num'
+p53
+I200
+sS'time'
+p54
+F0.042
+sS'scores'
+p55
+(dp56
+sS'linesearch_step'
+p57
+F1.0
+sS'feature_norm'
+p58
+F29.92891
+ssS'featgen_seconds'
+p59
+F0.039
+sS'log'
+p60
+(lp61
+S'Feature generation\n'
+p62
+aS'type: CRF1d\n'
+p63
+aS'feature.minfreq: 0.000000\n'
+p64
+aS'feature.possible_states: 0\n'
+p65
+aS'feature.possible_transitions: 0\n'
+p66
+aS'0'
+p67
+aS'.'
+p68
+ag68
+ag68
+ag68
+aS'1'
+p69
+ag68
+ag68
+ag68
+ag68
+aS'2'
+p70
+ag68
+ag68
+ag68
+ag68
+aS'3'
+p71
+ag68
+ag68
+ag68
+ag68
+aS'4'
+p72
+ag68
+ag68
+ag68
+ag68
+aS'5'
+p73
+ag68
+ag68
+ag68
+ag68
+aS'6'
+p74
+ag68
+ag68
+ag68
+ag68
+aS'7'
+p75
+ag68
+ag68
+ag68
+ag68
+aS'8'
+p76
+ag68
+ag68
+ag68
+ag68
+aS'9'
+p77
+ag68
+ag68
+ag68
+ag68
+aS'10'
+p78
+aS'\n'
+p79
+aS'Number of features: 560\n'
+p80
+aS'Seconds required: 0.039\n'
+p81
+ag79
+aS'L-BFGS optimization\n'
+p82
+aS'c1: 0.262687\n'
+p83
+aS'c2: 0.009514\n'
+p84
+aS'num_memories: 6\n'
+p85
+aS'max_iterations: 200\n'
+p86
+aS'epsilon: 0.000010\n'
+p87
+aS'stop: 10\n'
+p88
+aS'delta: 0.000010\n'
+p89
+aS'linesearch: MoreThuente\n'
+p90
+aS'linesearch.max_iterations: 20\n'
+p91
+ag79
+aS'***** Iteration #1 *****\n'
+p92
+aS'Loss: 3254.040282\n'
+p93
+aS'Feature norm: 1.000000\n'
+p94
+aS'Error norm: 1729.029067\n'
+p95
+aS'Active features: 559\n'
+p96
+aS'Line search trials: 1\n'
+p97
+aS'Line search step: 0.000094\n'
+p98
+aS'Seconds required for this iteration: 0.078\n'
+p99
+ag79
+aS'***** Iteration #2 *****\n'
+p100
+aS'Loss: 3071.761991\n'
+p101
+aS'Feature norm: 0.942596\n'
+p102
+aS'Error norm: 1367.037297\n'
+p103
+aS'Active features: 526\n'
+p104
+aS'Line search trials: 1\n'
+p105
+aS'Line search step: 1.000000\n'
+p106
+aS'Seconds required for this iteration: 0.042\n'
+p107
+ag79
+aS'***** Iteration #3 *****\n'
+p108
+aS'Loss: 2657.630673\n'
+p109
+aS'Feature norm: 1.023261\n'
+p110
+aS'Error norm: 1443.571431\n'
+p111
+aS'Active features: 452\n'
+p112
+aS'Line search trials: 1\n'
+p113
+aS'Line search step: 1.000000\n'
+p114
+aS'Seconds required for this iteration: 0.044\n'
+p115
+ag79
+aS'***** Iteration #4 *****\n'
+p116
+aS'Loss: 2248.016467\n'
+p117
+aS'Feature norm: 1.459253\n'
+p118
+aS'Error norm: 750.586275\n'
+p119
+aS'Active features: 500\n'
+p120
+aS'Line search trials: 1\n'
+p121
+aS'Line search step: 1.000000\n'
+p122
+aS'Seconds required for this iteration: 0.042\n'
+p123
+ag79
+aS'***** Iteration #5 *****\n'
+p124
+aS'Loss: 1810.891971\n'
+p125
+aS'Feature norm: 2.459560\n'
+p126
+aS'Error norm: 543.285829\n'
+p127
+aS'Active features: 512\n'
+p128
+aS'Line search trials: 1\n'
+p129
+aS'Line search step: 1.000000\n'
+p130
+aS'Seconds required for this iteration: 0.041\n'
+p131
+ag79
+aS'***** Iteration #6 *****\n'
+p132
+aS'Loss: 1495.318176\n'
+p133
+aS'Feature norm: 3.419387\n'
+p134
+aS'Error norm: 594.199461\n'
+p135
+aS'Active features: 493\n'
+p136
+aS'Line search trials: 1\n'
+p137
+aS'Line search step: 1.000000\n'
+p138
+aS'Seconds required for this iteration: 0.042\n'
+p139
+ag79
+aS'***** Iteration #7 *****\n'
+p140
+aS'Loss: 1266.585288\n'
+p141
+aS'Feature norm: 4.668689\n'
+p142
+aS'Error norm: 564.127234\n'
+p143
+aS'Active features: 518\n'
+p144
+aS'Line search trials: 1\n'
+p145
+aS'Line search step: 1.000000\n'
+p146
+aS'Seconds required for this iteration: 0.042\n'
+p147
+ag79
+aS'***** Iteration #8 *****\n'
+p148
+aS'Loss: 1195.114475\n'
+p149
+aS'Feature norm: 5.132001\n'
+p150
+aS'Error norm: 766.344290\n'
+p151
+aS'Active features: 539\n'
+p152
+aS'Line search trials: 1\n'
+p153
+aS'Line search step: 1.000000\n'
+p154
+aS'Seconds required for this iteration: 0.041\n'
+p155
+ag79
+aS'***** Iteration #9 *****\n'
+p156
+aS'Loss: 1113.930747\n'
+p157
+aS'Feature norm: 5.720687\n'
+p158
+aS'Error norm: 637.879796\n'
+p159
+aS'Active features: 546\n'
+p160
+aS'Line search trials: 1\n'
+p161
+aS'Line search step: 1.000000\n'
+p162
+aS'Seconds required for this iteration: 0.042\n'
+p163
+ag79
+aS'***** Iteration #10 *****\n'
+p164
+aS'Loss: 1053.034451\n'
+p165
+aS'Feature norm: 6.079931\n'
+p166
+aS'Error norm: 437.274474\n'
+p167
+aS'Active features: 542\n'
+p168
+aS'Line search trials: 1\n'
+p169
+aS'Line search step: 1.000000\n'
+p170
+aS'Seconds required for this iteration: 0.042\n'
+p171
+ag79
+aS'***** Iteration #11 *****\n'
+p172
+aS'Loss: 992.685523\n'
+p173
+aS'Feature norm: 6.536866\n'
+p174
+aS'Error norm: 343.814091\n'
+p175
+aS'Active features: 545\n'
+p176
+aS'Line search trials: 1\n'
+p177
+aS'Line search step: 1.000000\n'
+p178
+aS'Seconds required for this iteration: 0.042\n'
+p179
+ag79
+aS'***** Iteration #12 *****\n'
+p180
+aS'Loss: 944.077780\n'
+p181
+aS'Feature norm: 7.141134\n'
+p182
+aS'Error norm: 412.076127\n'
+p183
+aS'Active features: 539\n'
+p184
+aS'Line search trials: 1\n'
+p185
+aS'Line search step: 1.000000\n'
+p186
+aS'Seconds required for this iteration: 0.042\n'
+p187
+ag79
+aS'***** Iteration #13 *****\n'
+p188
+aS'Loss: 905.773709\n'
+p189
+aS'Feature norm: 7.814741\n'
+p190
+aS'Error norm: 584.383418\n'
+p191
+aS'Active features: 537\n'
+p192
+aS'Line search trials: 1\n'
+p193
+aS'Line search step: 1.000000\n'
+p194
+aS'Seconds required for this iteration: 0.042\n'
+p195
+ag79
+aS'***** Iteration #14 *****\n'
+p196
+aS'Loss: 850.204695\n'
+p197
+aS'Feature norm: 8.465183\n'
+p198
+aS'Error norm: 283.181161\n'
+p199
+aS'Active features: 538\n'
+p200
+aS'Line search trials: 1\n'
+p201
+aS'Line search step: 1.000000\n'
+p202
+aS'Seconds required for this iteration: 0.042\n'
+p203
+ag79
+aS'***** Iteration #15 *****\n'
+p204
+aS'Loss: 817.857027\n'
+p205
+aS'Feature norm: 8.973717\n'
+p206
+aS'Error norm: 295.484881\n'
+p207
+aS'Active features: 543\n'
+p208
+aS'Line search trials: 1\n'
+p209
+aS'Line search step: 1.000000\n'
+p210
+aS'Seconds required for this iteration: 0.042\n'
+p211
+ag79
+aS'***** Iteration #16 *****\n'
+p212
+aS'Loss: 784.755711\n'
+p213
+aS'Feature norm: 9.458812\n'
+p214
+aS'Error norm: 203.927716\n'
+p215
+aS'Active features: 542\n'
+p216
+aS'Line search trials: 1\n'
+p217
+aS'Line search step: 1.000000\n'
+p218
+aS'Seconds required for this iteration: 0.044\n'
+p219
+ag79
+aS'***** Iteration #17 *****\n'
+p220
+aS'Loss: 751.975861\n'
+p221
+aS'Feature norm: 10.195990\n'
+p222
+aS'Error norm: 331.488991\n'
+p223
+aS'Active features: 538\n'
+p224
+aS'Line search trials: 1\n'
+p225
+aS'Line search step: 1.000000\n'
+p226
+aS'Seconds required for this iteration: 0.042\n'
+p227
+ag79
+aS'***** Iteration #18 *****\n'
+p228
+aS'Loss: 716.005537\n'
+p229
+aS'Feature norm: 11.168939\n'
+p230
+aS'Error norm: 294.829871\n'
+p231
+aS'Active features: 536\n'
+p232
+aS'Line search trials: 1\n'
+p233
+aS'Line search step: 1.000000\n'
+p234
+aS'Seconds required for this iteration: 0.042\n'
+p235
+ag79
+aS'***** Iteration #19 *****\n'
+p236
+aS'Loss: 685.198678\n'
+p237
+aS'Feature norm: 11.860368\n'
+p238
+aS'Error norm: 350.733598\n'
+p239
+aS'Active features: 535\n'
+p240
+aS'Line search trials: 1\n'
+p241
+aS'Line search step: 1.000000\n'
+p242
+aS'Seconds required for this iteration: 0.042\n'
+p243
+ag79
+aS'***** Iteration #20 *****\n'
+p244
+aS'Loss: 656.700477\n'
+p245
+aS'Feature norm: 12.399081\n'
+p246
+aS'Error norm: 136.968881\n'
+p247
+aS'Active features: 533\n'
+p248
+aS'Line search trials: 1\n'
+p249
+aS'Line search step: 1.000000\n'
+p250
+aS'Seconds required for this iteration: 0.043\n'
+p251
+ag79
+aS'***** Iteration #21 *****\n'
+p252
+aS'Loss: 641.223931\n'
+p253
+aS'Feature norm: 12.872342\n'
+p254
+aS'Error norm: 259.306355\n'
+p255
+aS'Active features: 531\n'
+p256
+aS'Line search trials: 1\n'
+p257
+aS'Line search step: 1.000000\n'
+p258
+aS'Seconds required for this iteration: 0.042\n'
+p259
+ag79
+aS'***** Iteration #22 *****\n'
+p260
+aS'Loss: 620.593772\n'
+p261
+aS'Feature norm: 13.251415\n'
+p262
+aS'Error norm: 94.038840\n'
+p263
+aS'Active features: 533\n'
+p264
+aS'Line search trials: 1\n'
+p265
+aS'Line search step: 1.000000\n'
+p266
+aS'Seconds required for this iteration: 0.044\n'
+p267
+ag79
+aS'***** Iteration #23 *****\n'
+p268
+aS'Loss: 603.282617\n'
+p269
+aS'Feature norm: 13.833137\n'
+p270
+aS'Error norm: 409.003957\n'
+p271
+aS'Active features: 532\n'
+p272
+aS'Line search trials: 1\n'
+p273
+aS'Line search step: 1.000000\n'
+p274
+aS'Seconds required for this iteration: 0.042\n'
+p275
+ag79
+aS'***** Iteration #24 *****\n'
+p276
+aS'Loss: 577.242228\n'
+p277
+aS'Feature norm: 14.129888\n'
+p278
+aS'Error norm: 116.436613\n'
+p279
+aS'Active features: 529\n'
+p280
+aS'Line search trials: 1\n'
+p281
+aS'Line search step: 1.000000\n'
+p282
+aS'Seconds required for this iteration: 0.042\n'
+p283
+ag79
+aS'***** Iteration #25 *****\n'
+p284
+aS'Loss: 573.049304\n'
+p285
+aS'Feature norm: 14.704484\n'
+p286
+aS'Error norm: 270.164890\n'
+p287
+aS'Active features: 530\n'
+p288
+aS'Line search trials: 1\n'
+p289
+aS'Line search step: 1.000000\n'
+p290
+aS'Seconds required for this iteration: 0.043\n'
+p291
+ag79
+aS'***** Iteration #26 *****\n'
+p292
+aS'Loss: 561.323993\n'
+p293
+aS'Feature norm: 14.701554\n'
+p294
+aS'Error norm: 106.482218\n'
+p295
+aS'Active features: 536\n'
+p296
+aS'Line search trials: 1\n'
+p297
+aS'Line search step: 1.000000\n'
+p298
+aS'Seconds required for this iteration: 0.042\n'
+p299
+ag79
+aS'***** Iteration #27 *****\n'
+p300
+aS'Loss: 553.510691\n'
+p301
+aS'Feature norm: 14.728660\n'
+p302
+aS'Error norm: 98.064977\n'
+p303
+aS'Active features: 536\n'
+p304
+aS'Line search trials: 1\n'
+p305
+aS'Line search step: 1.000000\n'
+p306
+aS'Seconds required for this iteration: 0.042\n'
+p307
+ag79
+aS'***** Iteration #28 *****\n'
+p308
+aS'Loss: 533.805359\n'
+p309
+aS'Feature norm: 15.065296\n'
+p310
+aS'Error norm: 150.207441\n'
+p311
+aS'Active features: 534\n'
+p312
+aS'Line search trials: 1\n'
+p313
+aS'Line search step: 1.000000\n'
+p314
+aS'Seconds required for this iteration: 0.042\n'
+p315
+ag79
+aS'***** Iteration #29 *****\n'
+p316
+aS'Loss: 518.135958\n'
+p317
+aS'Feature norm: 15.453072\n'
+p318
+aS'Error norm: 175.702907\n'
+p319
+aS'Active features: 534\n'
+p320
+aS'Line search trials: 1\n'
+p321
+aS'Line search step: 1.000000\n'
+p322
+aS'Seconds required for this iteration: 0.041\n'
+p323
+ag79
+aS'***** Iteration #30 *****\n'
+p324
+aS'Loss: 507.592147\n'
+p325
+aS'Feature norm: 15.794360\n'
+p326
+aS'Error norm: 277.030829\n'
+p327
+aS'Active features: 528\n'
+p328
+aS'Line search trials: 1\n'
+p329
+aS'Line search step: 1.000000\n'
+p330
+aS'Seconds required for this iteration: 0.042\n'
+p331
+ag79
+aS'***** Iteration #31 *****\n'
+p332
+aS'Loss: 495.705895\n'
+p333
+aS'Feature norm: 16.157868\n'
+p334
+aS'Error norm: 104.640434\n'
+p335
+aS'Active features: 531\n'
+p336
+aS'Line search trials: 1\n'
+p337
+aS'Line search step: 1.000000\n'
+p338
+aS'Seconds required for this iteration: 0.043\n'
+p339
+ag79
+aS'***** Iteration #32 *****\n'
+p340
+aS'Loss: 487.004777\n'
+p341
+aS'Feature norm: 16.317193\n'
+p342
+aS'Error norm: 83.757590\n'
+p343
+aS'Active features: 529\n'
+p344
+aS'Line search trials: 1\n'
+p345
+aS'Line search step: 1.000000\n'
+p346
+aS'Seconds required for this iteration: 0.042\n'
+p347
+ag79
+aS'***** Iteration #33 *****\n'
+p348
+aS'Loss: 473.351600\n'
+p349
+aS'Feature norm: 16.622837\n'
+p350
+aS'Error norm: 61.829467\n'
+p351
+aS'Active features: 523\n'
+p352
+aS'Line search trials: 1\n'
+p353
+aS'Line search step: 1.000000\n'
+p354
+aS'Seconds required for this iteration: 0.044\n'
+p355
+ag79
+aS'***** Iteration #34 *****\n'
+p356
+aS'Loss: 471.904794\n'
+p357
+aS'Feature norm: 17.954337\n'
+p358
+aS'Error norm: 775.519046\n'
+p359
+aS'Active features: 502\n'
+p360
+aS'Line search trials: 1\n'
+p361
+aS'Line search step: 1.000000\n'
+p362
+aS'Seconds required for this iteration: 0.043\n'
+p363
+ag79
+aS'***** Iteration #35 *****\n'
+p364
+aS'Loss: 448.926464\n'
+p365
+aS'Feature norm: 17.961567\n'
+p366
+aS'Error norm: 96.885876\n'
+p367
+aS'Active features: 515\n'
+p368
+aS'Line search trials: 1\n'
+p369
+aS'Line search step: 1.000000\n'
+p370
+aS'Seconds required for this iteration: 0.042\n'
+p371
+ag79
+aS'***** Iteration #36 *****\n'
+p372
+aS'Loss: 447.193737\n'
+p373
+aS'Feature norm: 17.940082\n'
+p374
+aS'Error norm: 57.104421\n'
+p375
+aS'Active features: 523\n'
+p376
+aS'Line search trials: 1\n'
+p377
+aS'Line search step: 1.000000\n'
+p378
+aS'Seconds required for this iteration: 0.042\n'
+p379
+ag79
+aS'***** Iteration #37 *****\n'
+p380
+aS'Loss: 443.452953\n'
+p381
+aS'Feature norm: 18.038719\n'
+p382
+aS'Error norm: 64.152378\n'
+p383
+aS'Active features: 522\n'
+p384
+aS'Line search trials: 1\n'
+p385
+aS'Line search step: 1.000000\n'
+p386
+aS'Seconds required for this iteration: 0.043\n'
+p387
+ag79
+aS'***** Iteration #38 *****\n'
+p388
+aS'Loss: 435.779291\n'
+p389
+aS'Feature norm: 18.266466\n'
+p390
+aS'Error norm: 48.490479\n'
+p391
+aS'Active features: 518\n'
+p392
+aS'Line search trials: 1\n'
+p393
+aS'Line search step: 1.000000\n'
+p394
+aS'Seconds required for this iteration: 0.042\n'
+p395
+ag79
+aS'***** Iteration #39 *****\n'
+p396
+aS'Loss: 427.097171\n'
+p397
+aS'Feature norm: 18.694809\n'
+p398
+aS'Error norm: 127.641061\n'
+p399
+aS'Active features: 518\n'
+p400
+aS'Line search trials: 1\n'
+p401
+aS'Line search step: 1.000000\n'
+p402
+aS'Seconds required for this iteration: 0.042\n'
+p403
+ag79
+aS'***** Iteration #40 *****\n'
+p404
+aS'Loss: 424.762529\n'
+p405
+aS'Feature norm: 19.146152\n'
+p406
+aS'Error norm: 469.369202\n'
+p407
+aS'Active features: 515\n'
+p408
+aS'Line search trials: 2\n'
+p409
+aS'Line search step: 0.500000\n'
+p410
+aS'Seconds required for this iteration: 0.083\n'
+p411
+ag79
+aS'***** Iteration #41 *****\n'
+p412
+aS'Loss: 416.442874\n'
+p413
+aS'Feature norm: 19.187502\n'
+p414
+aS'Error norm: 93.762284\n'
+p415
+aS'Active features: 522\n'
+p416
+aS'Line search trials: 1\n'
+p417
+aS'Line search step: 1.000000\n'
+p418
+aS'Seconds required for this iteration: 0.042\n'
+p419
+ag79
+aS'***** Iteration #42 *****\n'
+p420
+aS'Loss: 413.834104\n'
+p421
+aS'Feature norm: 19.326357\n'
+p422
+aS'Error norm: 102.011662\n'
+p423
+aS'Active features: 521\n'
+p424
+aS'Line search trials: 1\n'
+p425
+aS'Line search step: 1.000000\n'
+p426
+aS'Seconds required for this iteration: 0.042\n'
+p427
+ag79
+aS'***** Iteration #43 *****\n'
+p428
+aS'Loss: 411.148074\n'
+p429
+aS'Feature norm: 19.446663\n'
+p430
+aS'Error norm: 48.708083\n'
+p431
+aS'Active features: 522\n'
+p432
+aS'Line search trials: 1\n'
+p433
+aS'Line search step: 1.000000\n'
+p434
+aS'Seconds required for this iteration: 0.042\n'
+p435
+ag79
+aS'***** Iteration #44 *****\n'
+p436
+aS'Loss: 408.905197\n'
+p437
+aS'Feature norm: 19.697523\n'
+p438
+aS'Error norm: 197.876303\n'
+p439
+aS'Active features: 519\n'
+p440
+aS'Line search trials: 1\n'
+p441
+aS'Line search step: 1.000000\n'
+p442
+aS'Seconds required for this iteration: 0.042\n'
+p443
+ag79
+aS'***** Iteration #45 *****\n'
+p444
+aS'Loss: 405.585267\n'
+p445
+aS'Feature norm: 20.049430\n'
+p446
+aS'Error norm: 119.664048\n'
+p447
+aS'Active features: 519\n'
+p448
+aS'Line search trials: 1\n'
+p449
+aS'Line search step: 1.000000\n'
+p450
+aS'Seconds required for this iteration: 0.043\n'
+p451
+ag79
+aS'***** Iteration #46 *****\n'
+p452
+aS'Loss: 402.189277\n'
+p453
+aS'Feature norm: 20.365101\n'
+p454
+aS'Error norm: 97.356598\n'
+p455
+aS'Active features: 519\n'
+p456
+aS'Line search trials: 1\n'
+p457
+aS'Line search step: 1.000000\n'
+p458
+aS'Seconds required for this iteration: 0.042\n'
+p459
+ag79
+aS'***** Iteration #47 *****\n'
+p460
+aS'Loss: 399.867138\n'
+p461
+aS'Feature norm: 20.596354\n'
+p462
+aS'Error norm: 64.262965\n'
+p463
+aS'Active features: 519\n'
+p464
+aS'Line search trials: 1\n'
+p465
+aS'Line search step: 1.000000\n'
+p466
+aS'Seconds required for this iteration: 0.042\n'
+p467
+ag79
+aS'***** Iteration #48 *****\n'
+p468
+aS'Loss: 397.270293\n'
+p469
+aS'Feature norm: 20.716754\n'
+p470
+aS'Error norm: 76.314567\n'
+p471
+aS'Active features: 520\n'
+p472
+aS'Line search trials: 1\n'
+p473
+aS'Line search step: 1.000000\n'
+p474
+aS'Seconds required for this iteration: 0.043\n'
+p475
+ag79
+aS'***** Iteration #49 *****\n'
+p476
+aS'Loss: 394.626579\n'
+p477
+aS'Feature norm: 20.848893\n'
+p478
+aS'Error norm: 94.164132\n'
+p479
+aS'Active features: 515\n'
+p480
+aS'Line search trials: 1\n'
+p481
+aS'Line search step: 1.000000\n'
+p482
+aS'Seconds required for this iteration: 0.043\n'
+p483
+ag79
+aS'***** Iteration #50 *****\n'
+p484
+aS'Loss: 393.059661\n'
+p485
+aS'Feature norm: 21.128398\n'
+p486
+aS'Error norm: 185.625128\n'
+p487
+aS'Active features: 512\n'
+p488
+aS'Line search trials: 1\n'
+p489
+aS'Line search step: 1.000000\n'
+p490
+aS'Seconds required for this iteration: 0.044\n'
+p491
+ag79
+aS'***** Iteration #51 *****\n'
+p492
+aS'Loss: 389.740214\n'
+p493
+aS'Feature norm: 21.291335\n'
+p494
+aS'Error norm: 73.500070\n'
+p495
+aS'Active features: 515\n'
+p496
+aS'Line search trials: 1\n'
+p497
+aS'Line search step: 1.000000\n'
+p498
+aS'Seconds required for this iteration: 0.044\n'
+p499
+ag79
+aS'***** Iteration #52 *****\n'
+p500
+aS'Loss: 388.064753\n'
+p501
+aS'Feature norm: 21.460538\n'
+p502
+aS'Error norm: 73.943819\n'
+p503
+aS'Active features: 515\n'
+p504
+aS'Line search trials: 1\n'
+p505
+aS'Line search step: 1.000000\n'
+p506
+aS'Seconds required for this iteration: 0.044\n'
+p507
+ag79
+aS'***** Iteration #53 *****\n'
+p508
+aS'Loss: 386.284799\n'
+p509
+aS'Feature norm: 21.536380\n'
+p510
+aS'Error norm: 41.077537\n'
+p511
+aS'Active features: 518\n'
+p512
+aS'Line search trials: 1\n'
+p513
+aS'Line search step: 1.000000\n'
+p514
+aS'Seconds required for this iteration: 0.043\n'
+p515
+ag79
+aS'***** Iteration #54 *****\n'
+p516
+aS'Loss: 385.169229\n'
+p517
+aS'Feature norm: 21.675768\n'
+p518
+aS'Error norm: 151.855966\n'
+p519
+aS'Active features: 517\n'
+p520
+aS'Line search trials: 1\n'
+p521
+aS'Line search step: 1.000000\n'
+p522
+aS'Seconds required for this iteration: 0.042\n'
+p523
+ag79
+aS'***** Iteration #55 *****\n'
+p524
+aS'Loss: 383.787653\n'
+p525
+aS'Feature norm: 21.812979\n'
+p526
+aS'Error norm: 101.209447\n'
+p527
+aS'Active features: 514\n'
+p528
+aS'Line search trials: 1\n'
+p529
+aS'Line search step: 1.000000\n'
+p530
+aS'Seconds required for this iteration: 0.042\n'
+p531
+ag79
+aS'***** Iteration #56 *****\n'
+p532
+aS'Loss: 382.077869\n'
+p533
+aS'Feature norm: 21.959078\n'
+p534
+aS'Error norm: 151.811506\n'
+p535
+aS'Active features: 514\n'
+p536
+aS'Line search trials: 1\n'
+p537
+aS'Line search step: 1.000000\n'
+p538
+aS'Seconds required for this iteration: 0.042\n'
+p539
+ag79
+aS'***** Iteration #57 *****\n'
+p540
+aS'Loss: 380.685356\n'
+p541
+aS'Feature norm: 22.077610\n'
+p542
+aS'Error norm: 74.657408\n'
+p543
+aS'Active features: 512\n'
+p544
+aS'Line search trials: 1\n'
+p545
+aS'Line search step: 1.000000\n'
+p546
+aS'Seconds required for this iteration: 0.042\n'
+p547
+ag79
+aS'***** Iteration #58 *****\n'
+p548
+aS'Loss: 379.775750\n'
+p549
+aS'Feature norm: 22.194160\n'
+p550
+aS'Error norm: 141.931260\n'
+p551
+aS'Active features: 512\n'
+p552
+aS'Line search trials: 1\n'
+p553
+aS'Line search step: 1.000000\n'
+p554
+aS'Seconds required for this iteration: 0.042\n'
+p555
+ag79
+aS'***** Iteration #59 *****\n'
+p556
+aS'Loss: 378.616321\n'
+p557
+aS'Feature norm: 22.282095\n'
+p558
+aS'Error norm: 61.263278\n'
+p559
+aS'Active features: 511\n'
+p560
+aS'Line search trials: 1\n'
+p561
+aS'Line search step: 1.000000\n'
+p562
+aS'Seconds required for this iteration: 0.042\n'
+p563
+ag79
+aS'***** Iteration #60 *****\n'
+p564
+aS'Loss: 377.884354\n'
+p565
+aS'Feature norm: 22.365336\n'
+p566
+aS'Error norm: 120.873203\n'
+p567
+aS'Active features: 511\n'
+p568
+aS'Line search trials: 1\n'
+p569
+aS'Line search step: 1.000000\n'
+p570
+aS'Seconds required for this iteration: 0.042\n'
+p571
+ag79
+aS'***** Iteration #61 *****\n'
+p572
+aS'Loss: 376.756812\n'
+p573
+aS'Feature norm: 22.426370\n'
+p574
+aS'Error norm: 56.932293\n'
+p575
+aS'Active features: 510\n'
+p576
+aS'Line search trials: 1\n'
+p577
+aS'Line search step: 1.000000\n'
+p578
+aS'Seconds required for this iteration: 0.042\n'
+p579
+ag79
+aS'***** Iteration #62 *****\n'
+p580
+aS'Loss: 375.939720\n'
+p581
+aS'Feature norm: 22.508679\n'
+p582
+aS'Error norm: 109.533151\n'
+p583
+aS'Active features: 510\n'
+p584
+aS'Line search trials: 1\n'
+p585
+aS'Line search step: 1.000000\n'
+p586
+aS'Seconds required for this iteration: 0.043\n'
+p587
+ag79
+aS'***** Iteration #63 *****\n'
+p588
+aS'Loss: 374.922633\n'
+p589
+aS'Feature norm: 22.608805\n'
+p590
+aS'Error norm: 67.512700\n'
+p591
+aS'Active features: 510\n'
+p592
+aS'Line search trials: 1\n'
+p593
+aS'Line search step: 1.000000\n'
+p594
+aS'Seconds required for this iteration: 0.042\n'
+p595
+ag79
+aS'***** Iteration #64 *****\n'
+p596
+aS'Loss: 374.062864\n'
+p597
+aS'Feature norm: 22.735227\n'
+p598
+aS'Error norm: 136.974337\n'
+p599
+aS'Active features: 507\n'
+p600
+aS'Line search trials: 1\n'
+p601
+aS'Line search step: 1.000000\n'
+p602
+aS'Seconds required for this iteration: 0.042\n'
+p603
+ag79
+aS'***** Iteration #65 *****\n'
+p604
+aS'Loss: 372.928299\n'
+p605
+aS'Feature norm: 22.820479\n'
+p606
+aS'Error norm: 73.965146\n'
+p607
+aS'Active features: 506\n'
+p608
+aS'Line search trials: 1\n'
+p609
+aS'Line search step: 1.000000\n'
+p610
+aS'Seconds required for this iteration: 0.042\n'
+p611
+ag79
+aS'***** Iteration #66 *****\n'
+p612
+aS'Loss: 372.035876\n'
+p613
+aS'Feature norm: 22.953775\n'
+p614
+aS'Error norm: 127.827995\n'
+p615
+aS'Active features: 505\n'
+p616
+aS'Line search trials: 1\n'
+p617
+aS'Line search step: 1.000000\n'
+p618
+aS'Seconds required for this iteration: 0.042\n'
+p619
+ag79
+aS'***** Iteration #67 *****\n'
+p620
+aS'Loss: 370.568794\n'
+p621
+aS'Feature norm: 23.049812\n'
+p622
+aS'Error norm: 57.901989\n'
+p623
+aS'Active features: 504\n'
+p624
+aS'Line search trials: 1\n'
+p625
+aS'Line search step: 1.000000\n'
+p626
+aS'Seconds required for this iteration: 0.042\n'
+p627
+ag79
+aS'***** Iteration #68 *****\n'
+p628
+aS'Loss: 369.785691\n'
+p629
+aS'Feature norm: 23.178235\n'
+p630
+aS'Error norm: 117.660744\n'
+p631
+aS'Active features: 502\n'
+p632
+aS'Line search trials: 1\n'
+p633
+aS'Line search step: 1.000000\n'
+p634
+aS'Seconds required for this iteration: 0.043\n'
+p635
+ag79
+aS'***** Iteration #69 *****\n'
+p636
+aS'Loss: 368.474342\n'
+p637
+aS'Feature norm: 23.263224\n'
+p638
+aS'Error norm: 64.779118\n'
+p639
+aS'Active features: 504\n'
+p640
+aS'Line search trials: 1\n'
+p641
+aS'Line search step: 1.000000\n'
+p642
+aS'Seconds required for this iteration: 0.042\n'
+p643
+ag79
+aS'***** Iteration #70 *****\n'
+p644
+aS'Loss: 367.706517\n'
+p645
+aS'Feature norm: 23.402256\n'
+p646
+aS'Error norm: 125.638792\n'
+p647
+aS'Active features: 505\n'
+p648
+aS'Line search trials: 1\n'
+p649
+aS'Line search step: 1.000000\n'
+p650
+aS'Seconds required for this iteration: 0.042\n'
+p651
+ag79
+aS'***** Iteration #71 *****\n'
+p652
+aS'Loss: 366.378378\n'
+p653
+aS'Feature norm: 23.493896\n'
+p654
+aS'Error norm: 71.419850\n'
+p655
+aS'Active features: 503\n'
+p656
+aS'Line search trials: 1\n'
+p657
+aS'Line search step: 1.000000\n'
+p658
+aS'Seconds required for this iteration: 0.042\n'
+p659
+ag79
+aS'***** Iteration #72 *****\n'
+p660
+aS'Loss: 365.591902\n'
+p661
+aS'Feature norm: 23.624488\n'
+p662
+aS'Error norm: 116.559481\n'
+p663
+aS'Active features: 499\n'
+p664
+aS'Line search trials: 1\n'
+p665
+aS'Line search step: 1.000000\n'
+p666
+aS'Seconds required for this iteration: 0.042\n'
+p667
+ag79
+aS'***** Iteration #73 *****\n'
+p668
+aS'Loss: 364.437835\n'
+p669
+aS'Feature norm: 23.723134\n'
+p670
+aS'Error norm: 65.828820\n'
+p671
+aS'Active features: 494\n'
+p672
+aS'Line search trials: 1\n'
+p673
+aS'Line search step: 1.000000\n'
+p674
+aS'Seconds required for this iteration: 0.043\n'
+p675
+ag79
+aS'***** Iteration #74 *****\n'
+p676
+aS'Loss: 363.751233\n'
+p677
+aS'Feature norm: 23.864486\n'
+p678
+aS'Error norm: 104.784051\n'
+p679
+aS'Active features: 496\n'
+p680
+aS'Line search trials: 1\n'
+p681
+aS'Line search step: 1.000000\n'
+p682
+aS'Seconds required for this iteration: 0.042\n'
+p683
+ag79
+aS'***** Iteration #75 *****\n'
+p684
+aS'Loss: 362.623168\n'
+p685
+aS'Feature norm: 23.950899\n'
+p686
+aS'Error norm: 48.557999\n'
+p687
+aS'Active features: 500\n'
+p688
+aS'Line search trials: 1\n'
+p689
+aS'Line search step: 1.000000\n'
+p690
+aS'Seconds required for this iteration: 0.042\n'
+p691
+ag79
+aS'***** Iteration #76 *****\n'
+p692
+aS'Loss: 361.762518\n'
+p693
+aS'Feature norm: 24.050810\n'
+p694
+aS'Error norm: 72.054803\n'
+p695
+aS'Active features: 500\n'
+p696
+aS'Line search trials: 1\n'
+p697
+aS'Line search step: 1.000000\n'
+p698
+aS'Seconds required for this iteration: 0.041\n'
+p699
+ag79
+aS'***** Iteration #77 *****\n'
+p700
+aS'Loss: 361.034397\n'
+p701
+aS'Feature norm: 24.132260\n'
+p702
+aS'Error norm: 59.485394\n'
+p703
+aS'Active features: 500\n'
+p704
+aS'Line search trials: 1\n'
+p705
+aS'Line search step: 1.000000\n'
+p706
+aS'Seconds required for this iteration: 0.042\n'
+p707
+ag79
+aS'***** Iteration #78 *****\n'
+p708
+aS'Loss: 360.916810\n'
+p709
+aS'Feature norm: 24.268761\n'
+p710
+aS'Error norm: 131.140798\n'
+p711
+aS'Active features: 500\n'
+p712
+aS'Line search trials: 1\n'
+p713
+aS'Line search step: 1.000000\n'
+p714
+aS'Seconds required for this iteration: 0.042\n'
+p715
+ag79
+aS'***** Iteration #79 *****\n'
+p716
+aS'Loss: 359.538377\n'
+p717
+aS'Feature norm: 24.377473\n'
+p718
+aS'Error norm: 55.015933\n'
+p719
+aS'Active features: 498\n'
+p720
+aS'Line search trials: 1\n'
+p721
+aS'Line search step: 1.000000\n'
+p722
+aS'Seconds required for this iteration: 0.041\n'
+p723
+ag79
+aS'***** Iteration #80 *****\n'
+p724
+aS'Loss: 359.297541\n'
+p725
+aS'Feature norm: 24.504598\n'
+p726
+aS'Error norm: 109.584321\n'
+p727
+aS'Active features: 498\n'
+p728
+aS'Line search trials: 1\n'
+p729
+aS'Line search step: 1.000000\n'
+p730
+aS'Seconds required for this iteration: 0.042\n'
+p731
+ag79
+aS'***** Iteration #81 *****\n'
+p732
+aS'Loss: 358.207340\n'
+p733
+aS'Feature norm: 24.593513\n'
+p734
+aS'Error norm: 40.451976\n'
+p735
+aS'Active features: 499\n'
+p736
+aS'Line search trials: 1\n'
+p737
+aS'Line search step: 1.000000\n'
+p738
+aS'Seconds required for this iteration: 0.042\n'
+p739
+ag79
+aS'***** Iteration #82 *****\n'
+p740
+aS'Loss: 357.810948\n'
+p741
+aS'Feature norm: 24.697193\n'
+p742
+aS'Error norm: 84.875045\n'
+p743
+aS'Active features: 499\n'
+p744
+aS'Line search trials: 1\n'
+p745
+aS'Line search step: 1.000000\n'
+p746
+aS'Seconds required for this iteration: 0.042\n'
+p747
+ag79
+aS'***** Iteration #83 *****\n'
+p748
+aS'Loss: 356.924973\n'
+p749
+aS'Feature norm: 24.752489\n'
+p750
+aS'Error norm: 31.281402\n'
+p751
+aS'Active features: 498\n'
+p752
+aS'Line search trials: 1\n'
+p753
+aS'Line search step: 1.000000\n'
+p754
+aS'Seconds required for this iteration: 0.042\n'
+p755
+ag79
+aS'***** Iteration #84 *****\n'
+p756
+aS'Loss: 356.627161\n'
+p757
+aS'Feature norm: 24.856591\n'
+p758
+aS'Error norm: 95.642280\n'
+p759
+aS'Active features: 497\n'
+p760
+aS'Line search trials: 1\n'
+p761
+aS'Line search step: 1.000000\n'
+p762
+aS'Seconds required for this iteration: 0.043\n'
+p763
+ag79
+aS'***** Iteration #85 *****\n'
+p764
+aS'Loss: 355.789186\n'
+p765
+aS'Feature norm: 24.947279\n'
+p766
+aS'Error norm: 54.096656\n'
+p767
+aS'Active features: 498\n'
+p768
+aS'Line search trials: 1\n'
+p769
+aS'Line search step: 1.000000\n'
+p770
+aS'Seconds required for this iteration: 0.042\n'
+p771
+ag79
+aS'***** Iteration #86 *****\n'
+p772
+aS'Loss: 355.692705\n'
+p773
+aS'Feature norm: 25.090161\n'
+p774
+aS'Error norm: 131.562893\n'
+p775
+aS'Active features: 496\n'
+p776
+aS'Line search trials: 1\n'
+p777
+aS'Line search step: 1.000000\n'
+p778
+aS'Seconds required for this iteration: 0.042\n'
+p779
+ag79
+aS'***** Iteration #87 *****\n'
+p780
+aS'Loss: 354.458009\n'
+p781
+aS'Feature norm: 25.160082\n'
+p782
+aS'Error norm: 54.503224\n'
+p783
+aS'Active features: 494\n'
+p784
+aS'Line search trials: 1\n'
+p785
+aS'Line search step: 1.000000\n'
+p786
+aS'Seconds required for this iteration: 0.042\n'
+p787
+ag79
+aS'***** Iteration #88 *****\n'
+p788
+aS'Loss: 353.757010\n'
+p789
+aS'Feature norm: 25.234740\n'
+p790
+aS'Error norm: 22.026773\n'
+p791
+aS'Active features: 498\n'
+p792
+aS'Line search trials: 2\n'
+p793
+aS'Line search step: 0.500000\n'
+p794
+aS'Seconds required for this iteration: 0.082\n'
+p795
+ag79
+aS'***** Iteration #89 *****\n'
+p796
+aS'Loss: 353.203083\n'
+p797
+aS'Feature norm: 25.308354\n'
+p798
+aS'Error norm: 44.808846\n'
+p799
+aS'Active features: 499\n'
+p800
+aS'Line search trials: 1\n'
+p801
+aS'Line search step: 1.000000\n'
+p802
+aS'Seconds required for this iteration: 0.042\n'
+p803
+ag79
+aS'***** Iteration #90 *****\n'
+p804
+aS'Loss: 352.660781\n'
+p805
+aS'Feature norm: 25.395359\n'
+p806
+aS'Error norm: 45.203905\n'
+p807
+aS'Active features: 499\n'
+p808
+aS'Line search trials: 2\n'
+p809
+aS'Line search step: 0.500000\n'
+p810
+aS'Seconds required for this iteration: 0.082\n'
+p811
+ag79
+aS'***** Iteration #91 *****\n'
+p812
+aS'Loss: 352.186819\n'
+p813
+aS'Feature norm: 25.445800\n'
+p814
+aS'Error norm: 30.256986\n'
+p815
+aS'Active features: 500\n'
+p816
+aS'Line search trials: 2\n'
+p817
+aS'Line search step: 0.500000\n'
+p818
+aS'Seconds required for this iteration: 0.083\n'
+p819
+ag79
+aS'***** Iteration #92 *****\n'
+p820
+aS'Loss: 351.731316\n'
+p821
+aS'Feature norm: 25.528336\n'
+p822
+aS'Error norm: 40.435250\n'
+p823
+aS'Active features: 497\n'
+p824
+aS'Line search trials: 2\n'
+p825
+aS'Line search step: 0.500000\n'
+p826
+aS'Seconds required for this iteration: 0.082\n'
+p827
+ag79
+aS'***** Iteration #93 *****\n'
+p828
+aS'Loss: 351.285575\n'
+p829
+aS'Feature norm: 25.610565\n'
+p830
+aS'Error norm: 35.650312\n'
+p831
+aS'Active features: 492\n'
+p832
+aS'Line search trials: 2\n'
+p833
+aS'Line search step: 0.500000\n'
+p834
+aS'Seconds required for this iteration: 0.082\n'
+p835
+ag79
+aS'***** Iteration #94 *****\n'
+p836
+aS'Loss: 350.997912\n'
+p837
+aS'Feature norm: 25.674946\n'
+p838
+aS'Error norm: 51.376775\n'
+p839
+aS'Active features: 493\n'
+p840
+aS'Line search trials: 2\n'
+p841
+aS'Line search step: 0.500000\n'
+p842
+aS'Seconds required for this iteration: 0.081\n'
+p843
+ag79
+aS'***** Iteration #95 *****\n'
+p844
+aS'Loss: 350.511774\n'
+p845
+aS'Feature norm: 25.753655\n'
+p846
+aS'Error norm: 33.516180\n'
+p847
+aS'Active features: 493\n'
+p848
+aS'Line search trials: 2\n'
+p849
+aS'Line search step: 0.500000\n'
+p850
+aS'Seconds required for this iteration: 0.082\n'
+p851
+ag79
+aS'***** Iteration #96 *****\n'
+p852
+aS'Loss: 350.167858\n'
+p853
+aS'Feature norm: 25.805449\n'
+p854
+aS'Error norm: 32.805968\n'
+p855
+aS'Active features: 492\n'
+p856
+aS'Line search trials: 2\n'
+p857
+aS'Line search step: 0.500000\n'
+p858
+aS'Seconds required for this iteration: 0.081\n'
+p859
+ag79
+aS'***** Iteration #97 *****\n'
+p860
+aS'Loss: 349.828222\n'
+p861
+aS'Feature norm: 25.867447\n'
+p862
+aS'Error norm: 23.207673\n'
+p863
+aS'Active features: 494\n'
+p864
+aS'Line search trials: 2\n'
+p865
+aS'Line search step: 0.500000\n'
+p866
+aS'Seconds required for this iteration: 0.082\n'
+p867
+ag79
+aS'***** Iteration #98 *****\n'
+p868
+aS'Loss: 349.600431\n'
+p869
+aS'Feature norm: 25.915287\n'
+p870
+aS'Error norm: 33.166177\n'
+p871
+aS'Active features: 493\n'
+p872
+aS'Line search trials: 2\n'
+p873
+aS'Line search step: 0.500000\n'
+p874
+aS'Seconds required for this iteration: 0.082\n'
+p875
+ag79
+aS'***** Iteration #99 *****\n'
+p876
+aS'Loss: 349.264045\n'
+p877
+aS'Feature norm: 25.971738\n'
+p878
+aS'Error norm: 21.874288\n'
+p879
+aS'Active features: 492\n'
+p880
+aS'Line search trials: 2\n'
+p881
+aS'Line search step: 0.500000\n'
+p882
+aS'Seconds required for this iteration: 0.082\n'
+p883
+ag79
+aS'***** Iteration #100 *****\n'
+p884
+aS'Loss: 349.005177\n'
+p885
+aS'Feature norm: 26.019604\n'
+p886
+aS'Error norm: 29.214960\n'
+p887
+aS'Active features: 491\n'
+p888
+aS'Line search trials: 2\n'
+p889
+aS'Line search step: 0.500000\n'
+p890
+aS'Seconds required for this iteration: 0.083\n'
+p891
+ag79
+aS'***** Iteration #101 *****\n'
+p892
+aS'Loss: 348.662686\n'
+p893
+aS'Feature norm: 26.080787\n'
+p894
+aS'Error norm: 25.927682\n'
+p895
+aS'Active features: 489\n'
+p896
+aS'Line search trials: 2\n'
+p897
+aS'Line search step: 0.500000\n'
+p898
+aS'Seconds required for this iteration: 0.082\n'
+p899
+ag79
+aS'***** Iteration #102 *****\n'
+p900
+aS'Loss: 348.343457\n'
+p901
+aS'Feature norm: 26.134425\n'
+p902
+aS'Error norm: 32.659124\n'
+p903
+aS'Active features: 488\n'
+p904
+aS'Line search trials: 2\n'
+p905
+aS'Line search step: 0.500000\n'
+p906
+aS'Seconds required for this iteration: 0.081\n'
+p907
+ag79
+aS'***** Iteration #103 *****\n'
+p908
+aS'Loss: 347.985789\n'
+p909
+aS'Feature norm: 26.204494\n'
+p910
+aS'Error norm: 31.610434\n'
+p911
+aS'Active features: 484\n'
+p912
+aS'Line search trials: 2\n'
+p913
+aS'Line search step: 0.500000\n'
+p914
+aS'Seconds required for this iteration: 0.083\n'
+p915
+ag79
+aS'***** Iteration #104 *****\n'
+p916
+aS'Loss: 347.606583\n'
+p917
+aS'Feature norm: 26.265447\n'
+p918
+aS'Error norm: 31.068562\n'
+p919
+aS'Active features: 481\n'
+p920
+aS'Line search trials: 2\n'
+p921
+aS'Line search step: 0.500000\n'
+p922
+aS'Seconds required for this iteration: 0.082\n'
+p923
+ag79
+aS'***** Iteration #105 *****\n'
+p924
+aS'Loss: 347.277644\n'
+p925
+aS'Feature norm: 26.331955\n'
+p926
+aS'Error norm: 28.446659\n'
+p927
+aS'Active features: 481\n'
+p928
+aS'Line search trials: 2\n'
+p929
+aS'Line search step: 0.500000\n'
+p930
+aS'Seconds required for this iteration: 0.082\n'
+p931
+ag79
+aS'***** Iteration #106 *****\n'
+p932
+aS'Loss: 346.986074\n'
+p933
+aS'Feature norm: 26.385971\n'
+p934
+aS'Error norm: 28.066641\n'
+p935
+aS'Active features: 480\n'
+p936
+aS'Line search trials: 2\n'
+p937
+aS'Line search step: 0.500000\n'
+p938
+aS'Seconds required for this iteration: 0.082\n'
+p939
+ag79
+aS'***** Iteration #107 *****\n'
+p940
+aS'Loss: 346.598787\n'
+p941
+aS'Feature norm: 26.456743\n'
+p942
+aS'Error norm: 23.242640\n'
+p943
+aS'Active features: 480\n'
+p944
+aS'Line search trials: 2\n'
+p945
+aS'Line search step: 0.500000\n'
+p946
+aS'Seconds required for this iteration: 0.083\n'
+p947
+ag79
+aS'***** Iteration #108 *****\n'
+p948
+aS'Loss: 346.267641\n'
+p949
+aS'Feature norm: 26.503394\n'
+p950
+aS'Error norm: 28.136969\n'
+p951
+aS'Active features: 479\n'
+p952
+aS'Line search trials: 2\n'
+p953
+aS'Line search step: 0.500000\n'
+p954
+aS'Seconds required for this iteration: 0.082\n'
+p955
+ag79
+aS'***** Iteration #109 *****\n'
+p956
+aS'Loss: 345.956303\n'
+p957
+aS'Feature norm: 26.581144\n'
+p958
+aS'Error norm: 23.324624\n'
+p959
+aS'Active features: 476\n'
+p960
+aS'Line search trials: 2\n'
+p961
+aS'Line search step: 0.500000\n'
+p962
+aS'Seconds required for this iteration: 0.082\n'
+p963
+ag79
+aS'***** Iteration #110 *****\n'
+p964
+aS'Loss: 345.678604\n'
+p965
+aS'Feature norm: 26.642427\n'
+p966
+aS'Error norm: 30.866031\n'
+p967
+aS'Active features: 474\n'
+p968
+aS'Line search trials: 2\n'
+p969
+aS'Line search step: 0.500000\n'
+p970
+aS'Seconds required for this iteration: 0.082\n'
+p971
+ag79
+aS'***** Iteration #111 *****\n'
+p972
+aS'Loss: 345.665586\n'
+p973
+aS'Feature norm: 26.735073\n'
+p974
+aS'Error norm: 56.555759\n'
+p975
+aS'Active features: 467\n'
+p976
+aS'Line search trials: 1\n'
+p977
+aS'Line search step: 1.000000\n'
+p978
+aS'Seconds required for this iteration: 0.043\n'
+p979
+ag79
+aS'***** Iteration #112 *****\n'
+p980
+aS'Loss: 345.158037\n'
+p981
+aS'Feature norm: 26.825448\n'
+p982
+aS'Error norm: 46.490912\n'
+p983
+aS'Active features: 465\n'
+p984
+aS'Line search trials: 1\n'
+p985
+aS'Line search step: 1.000000\n'
+p986
+aS'Seconds required for this iteration: 0.042\n'
+p987
+ag79
+aS'***** Iteration #113 *****\n'
+p988
+aS'Loss: 344.723071\n'
+p989
+aS'Feature norm: 26.922659\n'
+p990
+aS'Error norm: 29.188522\n'
+p991
+aS'Active features: 467\n'
+p992
+aS'Line search trials: 1\n'
+p993
+aS'Line search step: 1.000000\n'
+p994
+aS'Seconds required for this iteration: 0.042\n'
+p995
+ag79
+aS'***** Iteration #114 *****\n'
+p996
+aS'Loss: 344.411461\n'
+p997
+aS'Feature norm: 26.961855\n'
+p998
+aS'Error norm: 23.029690\n'
+p999
+aS'Active features: 466\n'
+p1000
+aS'Line search trials: 1\n'
+p1001
+aS'Line search step: 1.000000\n'
+p1002
+aS'Seconds required for this iteration: 0.042\n'
+p1003
+ag79
+aS'***** Iteration #115 *****\n'
+p1004
+aS'Loss: 344.100788\n'
+p1005
+aS'Feature norm: 27.000931\n'
+p1006
+aS'Error norm: 12.795201\n'
+p1007
+aS'Active features: 466\n'
+p1008
+aS'Line search trials: 1\n'
+p1009
+aS'Line search step: 1.000000\n'
+p1010
+aS'Seconds required for this iteration: 0.042\n'
+p1011
+ag79
+aS'***** Iteration #116 *****\n'
+p1012
+aS'Loss: 343.835856\n'
+p1013
+aS'Feature norm: 27.049440\n'
+p1014
+aS'Error norm: 53.404965\n'
+p1015
+aS'Active features: 462\n'
+p1016
+aS'Line search trials: 1\n'
+p1017
+aS'Line search step: 1.000000\n'
+p1018
+aS'Seconds required for this iteration: 0.042\n'
+p1019
+ag79
+aS'***** Iteration #117 *****\n'
+p1020
+aS'Loss: 343.622136\n'
+p1021
+aS'Feature norm: 27.109433\n'
+p1022
+aS'Error norm: 39.055647\n'
+p1023
+aS'Active features: 463\n'
+p1024
+aS'Line search trials: 1\n'
+p1025
+aS'Line search step: 1.000000\n'
+p1026
+aS'Seconds required for this iteration: 0.042\n'
+p1027
+ag79
+aS'***** Iteration #118 *****\n'
+p1028
+aS'Loss: 343.283621\n'
+p1029
+aS'Feature norm: 27.155300\n'
+p1030
+aS'Error norm: 51.895709\n'
+p1031
+aS'Active features: 466\n'
+p1032
+aS'Line search trials: 1\n'
+p1033
+aS'Line search step: 1.000000\n'
+p1034
+aS'Seconds required for this iteration: 0.043\n'
+p1035
+ag79
+aS'***** Iteration #119 *****\n'
+p1036
+aS'Loss: 342.980752\n'
+p1037
+aS'Feature norm: 27.174075\n'
+p1038
+aS'Error norm: 28.375958\n'
+p1039
+aS'Active features: 465\n'
+p1040
+aS'Line search trials: 1\n'
+p1041
+aS'Line search step: 1.000000\n'
+p1042
+aS'Seconds required for this iteration: 0.042\n'
+p1043
+ag79
+aS'***** Iteration #120 *****\n'
+p1044
+aS'Loss: 342.876471\n'
+p1045
+aS'Feature norm: 27.218436\n'
+p1046
+aS'Error norm: 51.279137\n'
+p1047
+aS'Active features: 465\n'
+p1048
+aS'Line search trials: 1\n'
+p1049
+aS'Line search step: 1.000000\n'
+p1050
+aS'Seconds required for this iteration: 0.042\n'
+p1051
+ag79
+aS'***** Iteration #121 *****\n'
+p1052
+aS'Loss: 342.596009\n'
+p1053
+aS'Feature norm: 27.243333\n'
+p1054
+aS'Error norm: 27.754229\n'
+p1055
+aS'Active features: 465\n'
+p1056
+aS'Line search trials: 1\n'
+p1057
+aS'Line search step: 1.000000\n'
+p1058
+aS'Seconds required for this iteration: 0.042\n'
+p1059
+ag79
+aS'***** Iteration #122 *****\n'
+p1060
+aS'Loss: 342.415390\n'
+p1061
+aS'Feature norm: 27.282006\n'
+p1062
+aS'Error norm: 39.731734\n'
+p1063
+aS'Active features: 464\n'
+p1064
+aS'Line search trials: 1\n'
+p1065
+aS'Line search step: 1.000000\n'
+p1066
+aS'Seconds required for this iteration: 0.042\n'
+p1067
+ag79
+aS'***** Iteration #123 *****\n'
+p1068
+aS'Loss: 342.182013\n'
+p1069
+aS'Feature norm: 27.307607\n'
+p1070
+aS'Error norm: 24.432392\n'
+p1071
+aS'Active features: 465\n'
+p1072
+aS'Line search trials: 1\n'
+p1073
+aS'Line search step: 1.000000\n'
+p1074
+aS'Seconds required for this iteration: 0.043\n'
+p1075
+ag79
+aS'***** Iteration #124 *****\n'
+p1076
+aS'Loss: 342.074742\n'
+p1077
+aS'Feature norm: 27.349541\n'
+p1078
+aS'Error norm: 51.175998\n'
+p1079
+aS'Active features: 466\n'
+p1080
+aS'Line search trials: 1\n'
+p1081
+aS'Line search step: 1.000000\n'
+p1082
+aS'Seconds required for this iteration: 0.042\n'
+p1083
+ag79
+aS'***** Iteration #125 *****\n'
+p1084
+aS'Loss: 341.818192\n'
+p1085
+aS'Feature norm: 27.385671\n'
+p1086
+aS'Error norm: 33.409023\n'
+p1087
+aS'Active features: 465\n'
+p1088
+aS'Line search trials: 1\n'
+p1089
+aS'Line search step: 1.000000\n'
+p1090
+aS'Seconds required for this iteration: 0.042\n'
+p1091
+ag79
+aS'***** Iteration #126 *****\n'
+p1092
+aS'Loss: 341.638216\n'
+p1093
+aS'Feature norm: 27.431970\n'
+p1094
+aS'Error norm: 53.561276\n'
+p1095
+aS'Active features: 462\n'
+p1096
+aS'Line search trials: 1\n'
+p1097
+aS'Line search step: 1.000000\n'
+p1098
+aS'Seconds required for this iteration: 0.041\n'
+p1099
+ag79
+aS'***** Iteration #127 *****\n'
+p1100
+aS'Loss: 341.319939\n'
+p1101
+aS'Feature norm: 27.461763\n'
+p1102
+aS'Error norm: 30.619737\n'
+p1103
+aS'Active features: 460\n'
+p1104
+aS'Line search trials: 1\n'
+p1105
+aS'Line search step: 1.000000\n'
+p1106
+aS'Seconds required for this iteration: 0.042\n'
+p1107
+ag79
+aS'***** Iteration #128 *****\n'
+p1108
+aS'Loss: 341.081055\n'
+p1109
+aS'Feature norm: 27.513931\n'
+p1110
+aS'Error norm: 44.068006\n'
+p1111
+aS'Active features: 460\n'
+p1112
+aS'Line search trials: 1\n'
+p1113
+aS'Line search step: 1.000000\n'
+p1114
+aS'Seconds required for this iteration: 0.042\n'
+p1115
+ag79
+aS'***** Iteration #129 *****\n'
+p1116
+aS'Loss: 340.823320\n'
+p1117
+aS'Feature norm: 27.547650\n'
+p1118
+aS'Error norm: 32.010303\n'
+p1119
+aS'Active features: 458\n'
+p1120
+aS'Line search trials: 1\n'
+p1121
+aS'Line search step: 1.000000\n'
+p1122
+aS'Seconds required for this iteration: 0.041\n'
+p1123
+ag79
+aS'***** Iteration #130 *****\n'
+p1124
+aS'Loss: 340.686685\n'
+p1125
+aS'Feature norm: 27.594243\n'
+p1126
+aS'Error norm: 52.800196\n'
+p1127
+aS'Active features: 457\n'
+p1128
+aS'Line search trials: 1\n'
+p1129
+aS'Line search step: 1.000000\n'
+p1130
+aS'Seconds required for this iteration: 0.042\n'
+p1131
+ag79
+aS'***** Iteration #131 *****\n'
+p1132
+aS'Loss: 340.390930\n'
+p1133
+aS'Feature norm: 27.627933\n'
+p1134
+aS'Error norm: 29.252587\n'
+p1135
+aS'Active features: 457\n'
+p1136
+aS'Line search trials: 1\n'
+p1137
+aS'Line search step: 1.000000\n'
+p1138
+aS'Seconds required for this iteration: 0.042\n'
+p1139
+ag79
+aS'***** Iteration #132 *****\n'
+p1140
+aS'Loss: 340.260736\n'
+p1141
+aS'Feature norm: 27.668910\n'
+p1142
+aS'Error norm: 46.883856\n'
+p1143
+aS'Active features: 457\n'
+p1144
+aS'Line search trials: 1\n'
+p1145
+aS'Line search step: 1.000000\n'
+p1146
+aS'Seconds required for this iteration: 0.042\n'
+p1147
+ag79
+aS'***** Iteration #133 *****\n'
+p1148
+aS'Loss: 340.006475\n'
+p1149
+aS'Feature norm: 27.703275\n'
+p1150
+aS'Error norm: 25.085782\n'
+p1151
+aS'Active features: 459\n'
+p1152
+aS'Line search trials: 1\n'
+p1153
+aS'Line search step: 1.000000\n'
+p1154
+aS'Seconds required for this iteration: 0.042\n'
+p1155
+ag79
+aS'***** Iteration #134 *****\n'
+p1156
+aS'Loss: 339.931477\n'
+p1157
+aS'Feature norm: 27.748274\n'
+p1158
+aS'Error norm: 45.678748\n'
+p1159
+aS'Active features: 459\n'
+p1160
+aS'Line search trials: 1\n'
+p1161
+aS'Line search step: 1.000000\n'
+p1162
+aS'Seconds required for this iteration: 0.042\n'
+p1163
+ag79
+aS'***** Iteration #135 *****\n'
+p1164
+aS'Loss: 339.585979\n'
+p1165
+aS'Feature norm: 27.773796\n'
+p1166
+aS'Error norm: 17.270581\n'
+p1167
+aS'Active features: 459\n'
+p1168
+aS'Line search trials: 1\n'
+p1169
+aS'Line search step: 1.000000\n'
+p1170
+aS'Seconds required for this iteration: 0.043\n'
+p1171
+ag79
+aS'***** Iteration #136 *****\n'
+p1172
+aS'Loss: 339.475481\n'
+p1173
+aS'Feature norm: 27.816775\n'
+p1174
+aS'Error norm: 42.492395\n'
+p1175
+aS'Active features: 460\n'
+p1176
+aS'Line search trials: 1\n'
+p1177
+aS'Line search step: 1.000000\n'
+p1178
+aS'Seconds required for this iteration: 0.042\n'
+p1179
+ag79
+aS'***** Iteration #137 *****\n'
+p1180
+aS'Loss: 339.187907\n'
+p1181
+aS'Feature norm: 27.854463\n'
+p1182
+aS'Error norm: 31.181273\n'
+p1183
+aS'Active features: 461\n'
+p1184
+aS'Line search trials: 1\n'
+p1185
+aS'Line search step: 1.000000\n'
+p1186
+aS'Seconds required for this iteration: 0.042\n'
+p1187
+ag79
+aS'***** Iteration #138 *****\n'
+p1188
+aS'Loss: 339.148420\n'
+p1189
+aS'Feature norm: 27.923799\n'
+p1190
+aS'Error norm: 60.212837\n'
+p1191
+aS'Active features: 460\n'
+p1192
+aS'Line search trials: 1\n'
+p1193
+aS'Line search step: 1.000000\n'
+p1194
+aS'Seconds required for this iteration: 0.042\n'
+p1195
+ag79
+aS'***** Iteration #139 *****\n'
+p1196
+aS'Loss: 338.734479\n'
+p1197
+aS'Feature norm: 27.963874\n'
+p1198
+aS'Error norm: 32.333622\n'
+p1199
+aS'Active features: 460\n'
+p1200
+aS'Line search trials: 1\n'
+p1201
+aS'Line search step: 1.000000\n'
+p1202
+aS'Seconds required for this iteration: 0.042\n'
+p1203
+ag79
+aS'***** Iteration #140 *****\n'
+p1204
+aS'Loss: 338.609805\n'
+p1205
+aS'Feature norm: 28.028255\n'
+p1206
+aS'Error norm: 41.937610\n'
+p1207
+aS'Active features: 460\n'
+p1208
+aS'Line search trials: 1\n'
+p1209
+aS'Line search step: 1.000000\n'
+p1210
+aS'Seconds required for this iteration: 0.042\n'
+p1211
+ag79
+aS'***** Iteration #141 *****\n'
+p1212
+aS'Loss: 338.326757\n'
+p1213
+aS'Feature norm: 28.058906\n'
+p1214
+aS'Error norm: 25.855816\n'
+p1215
+aS'Active features: 460\n'
+p1216
+aS'Line search trials: 1\n'
+p1217
+aS'Line search step: 1.000000\n'
+p1218
+aS'Seconds required for this iteration: 0.042\n'
+p1219
+ag79
+aS'***** Iteration #142 *****\n'
+p1220
+aS'Loss: 338.163850\n'
+p1221
+aS'Feature norm: 28.114702\n'
+p1222
+aS'Error norm: 29.693514\n'
+p1223
+aS'Active features: 461\n'
+p1224
+aS'Line search trials: 1\n'
+p1225
+aS'Line search step: 1.000000\n'
+p1226
+aS'Seconds required for this iteration: 0.043\n'
+p1227
+ag79
+aS'***** Iteration #143 *****\n'
+p1228
+aS'Loss: 337.976517\n'
+p1229
+aS'Feature norm: 28.147350\n'
+p1230
+aS'Error norm: 30.619548\n'
+p1231
+aS'Active features: 459\n'
+p1232
+aS'Line search trials: 1\n'
+p1233
+aS'Line search step: 1.000000\n'
+p1234
+aS'Seconds required for this iteration: 0.042\n'
+p1235
+ag79
+aS'***** Iteration #144 *****\n'
+p1236
+aS'Loss: 337.832489\n'
+p1237
+aS'Feature norm: 28.202882\n'
+p1238
+aS'Error norm: 34.749622\n'
+p1239
+aS'Active features: 457\n'
+p1240
+aS'Line search trials: 1\n'
+p1241
+aS'Line search step: 1.000000\n'
+p1242
+aS'Seconds required for this iteration: 0.042\n'
+p1243
+ag79
+aS'***** Iteration #145 *****\n'
+p1244
+aS'Loss: 337.641179\n'
+p1245
+aS'Feature norm: 28.249749\n'
+p1246
+aS'Error norm: 34.872863\n'
+p1247
+aS'Active features: 458\n'
+p1248
+aS'Line search trials: 1\n'
+p1249
+aS'Line search step: 1.000000\n'
+p1250
+aS'Seconds required for this iteration: 0.042\n'
+p1251
+ag79
+aS'***** Iteration #146 *****\n'
+p1252
+aS'Loss: 337.445242\n'
+p1253
+aS'Feature norm: 28.303258\n'
+p1254
+aS'Error norm: 28.939865\n'
+p1255
+aS'Active features: 457\n'
+p1256
+aS'Line search trials: 1\n'
+p1257
+aS'Line search step: 1.000000\n'
+p1258
+aS'Seconds required for this iteration: 0.043\n'
+p1259
+ag79
+aS'***** Iteration #147 *****\n'
+p1260
+aS'Loss: 337.338731\n'
+p1261
+aS'Feature norm: 28.332580\n'
+p1262
+aS'Error norm: 37.266070\n'
+p1263
+aS'Active features: 454\n'
+p1264
+aS'Line search trials: 1\n'
+p1265
+aS'Line search step: 1.000000\n'
+p1266
+aS'Seconds required for this iteration: 0.043\n'
+p1267
+ag79
+aS'***** Iteration #148 *****\n'
+p1268
+aS'Loss: 337.101180\n'
+p1269
+aS'Feature norm: 28.384713\n'
+p1270
+aS'Error norm: 23.926889\n'
+p1271
+aS'Active features: 455\n'
+p1272
+aS'Line search trials: 1\n'
+p1273
+aS'Line search step: 1.000000\n'
+p1274
+aS'Seconds required for this iteration: 0.042\n'
+p1275
+ag79
+aS'***** Iteration #149 *****\n'
+p1276
+aS'Loss: 337.018434\n'
+p1277
+aS'Feature norm: 28.413695\n'
+p1278
+aS'Error norm: 36.456849\n'
+p1279
+aS'Active features: 456\n'
+p1280
+aS'Line search trials: 1\n'
+p1281
+aS'Line search step: 1.000000\n'
+p1282
+aS'Seconds required for this iteration: 0.041\n'
+p1283
+ag79
+aS'***** Iteration #150 *****\n'
+p1284
+aS'Loss: 336.801310\n'
+p1285
+aS'Feature norm: 28.470163\n'
+p1286
+aS'Error norm: 26.390381\n'
+p1287
+aS'Active features: 455\n'
+p1288
+aS'Line search trials: 1\n'
+p1289
+aS'Line search step: 1.000000\n'
+p1290
+aS'Seconds required for this iteration: 0.042\n'
+p1291
+ag79
+aS'***** Iteration #151 *****\n'
+p1292
+aS'Loss: 336.728020\n'
+p1293
+aS'Feature norm: 28.501411\n'
+p1294
+aS'Error norm: 37.747036\n'
+p1295
+aS'Active features: 453\n'
+p1296
+aS'Line search trials: 1\n'
+p1297
+aS'Line search step: 1.000000\n'
+p1298
+aS'Seconds required for this iteration: 0.042\n'
+p1299
+ag79
+aS'***** Iteration #152 *****\n'
+p1300
+aS'Loss: 336.487543\n'
+p1301
+aS'Feature norm: 28.556013\n'
+p1302
+aS'Error norm: 22.593671\n'
+p1303
+aS'Active features: 451\n'
+p1304
+aS'Line search trials: 1\n'
+p1305
+aS'Line search step: 1.000000\n'
+p1306
+aS'Seconds required for this iteration: 0.043\n'
+p1307
+ag79
+aS'***** Iteration #153 *****\n'
+p1308
+aS'Loss: 336.407417\n'
+p1309
+aS'Feature norm: 28.586746\n'
+p1310
+aS'Error norm: 35.534645\n'
+p1311
+aS'Active features: 451\n'
+p1312
+aS'Line search trials: 1\n'
+p1313
+aS'Line search step: 1.000000\n'
+p1314
+aS'Seconds required for this iteration: 0.042\n'
+p1315
+ag79
+aS'***** Iteration #154 *****\n'
+p1316
+aS'Loss: 336.219558\n'
+p1317
+aS'Feature norm: 28.638209\n'
+p1318
+aS'Error norm: 29.506827\n'
+p1319
+aS'Active features: 449\n'
+p1320
+aS'Line search trials: 1\n'
+p1321
+aS'Line search step: 1.000000\n'
+p1322
+aS'Seconds required for this iteration: 0.043\n'
+p1323
+ag79
+aS'***** Iteration #155 *****\n'
+p1324
+aS'Loss: 336.181344\n'
+p1325
+aS'Feature norm: 28.675440\n'
+p1326
+aS'Error norm: 39.982972\n'
+p1327
+aS'Active features: 447\n'
+p1328
+aS'Line search trials: 1\n'
+p1329
+aS'Line search step: 1.000000\n'
+p1330
+aS'Seconds required for this iteration: 0.044\n'
+p1331
+ag79
+aS'***** Iteration #156 *****\n'
+p1332
+aS'Loss: 335.913086\n'
+p1333
+aS'Feature norm: 28.723607\n'
+p1334
+aS'Error norm: 20.773681\n'
+p1335
+aS'Active features: 446\n'
+p1336
+aS'Line search trials: 1\n'
+p1337
+aS'Line search step: 1.000000\n'
+p1338
+aS'Seconds required for this iteration: 0.042\n'
+p1339
+ag79
+aS'***** Iteration #157 *****\n'
+p1340
+aS'Loss: 335.897243\n'
+p1341
+aS'Feature norm: 28.757678\n'
+p1342
+aS'Error norm: 35.606538\n'
+p1343
+aS'Active features: 449\n'
+p1344
+aS'Line search trials: 1\n'
+p1345
+aS'Line search step: 1.000000\n'
+p1346
+aS'Seconds required for this iteration: 0.042\n'
+p1347
+ag79
+aS'***** Iteration #158 *****\n'
+p1348
+aS'Loss: 335.639708\n'
+p1349
+aS'Feature norm: 28.793264\n'
+p1350
+aS'Error norm: 16.090600\n'
+p1351
+aS'Active features: 446\n'
+p1352
+aS'Line search trials: 1\n'
+p1353
+aS'Line search step: 1.000000\n'
+p1354
+aS'Seconds required for this iteration: 0.042\n'
+p1355
+ag79
+aS'***** Iteration #159 *****\n'
+p1356
+aS'Loss: 335.633481\n'
+p1357
+aS'Feature norm: 28.816791\n'
+p1358
+aS'Error norm: 34.982341\n'
+p1359
+aS'Active features: 445\n'
+p1360
+aS'Line search trials: 1\n'
+p1361
+aS'Line search step: 1.000000\n'
+p1362
+aS'Seconds required for this iteration: 0.042\n'
+p1363
+ag79
+aS'***** Iteration #160 *****\n'
+p1364
+aS'Loss: 335.417925\n'
+p1365
+aS'Feature norm: 28.853753\n'
+p1366
+aS'Error norm: 18.104947\n'
+p1367
+aS'Active features: 446\n'
+p1368
+aS'Line search trials: 1\n'
+p1369
+aS'Line search step: 1.000000\n'
+p1370
+aS'Seconds required for this iteration: 0.042\n'
+p1371
+ag79
+aS'***** Iteration #161 *****\n'
+p1372
+aS'Loss: 335.303480\n'
+p1373
+aS'Feature norm: 28.869730\n'
+p1374
+aS'Error norm: 14.267104\n'
+p1375
+aS'Active features: 444\n'
+p1376
+aS'Line search trials: 2\n'
+p1377
+aS'Line search step: 0.500000\n'
+p1378
+aS'Seconds required for this iteration: 0.082\n'
+p1379
+ag79
+aS'***** Iteration #162 *****\n'
+p1380
+aS'Loss: 335.263663\n'
+p1381
+aS'Feature norm: 28.915646\n'
+p1382
+aS'Error norm: 44.522004\n'
+p1383
+aS'Active features: 445\n'
+p1384
+aS'Line search trials: 1\n'
+p1385
+aS'Line search step: 1.000000\n'
+p1386
+aS'Seconds required for this iteration: 0.042\n'
+p1387
+ag79
+aS'***** Iteration #163 *****\n'
+p1388
+aS'Loss: 335.106625\n'
+p1389
+aS'Feature norm: 28.941984\n'
+p1390
+aS'Error norm: 36.423434\n'
+p1391
+aS'Active features: 444\n'
+p1392
+aS'Line search trials: 1\n'
+p1393
+aS'Line search step: 1.000000\n'
+p1394
+aS'Seconds required for this iteration: 0.043\n'
+p1395
+ag79
+aS'***** Iteration #164 *****\n'
+p1396
+aS'Loss: 334.970013\n'
+p1397
+aS'Feature norm: 28.987502\n'
+p1398
+aS'Error norm: 47.440315\n'
+p1399
+aS'Active features: 446\n'
+p1400
+aS'Line search trials: 1\n'
+p1401
+aS'Line search step: 1.000000\n'
+p1402
+aS'Seconds required for this iteration: 0.042\n'
+p1403
+ag79
+aS'***** Iteration #165 *****\n'
+p1404
+aS'Loss: 334.782596\n'
+p1405
+aS'Feature norm: 29.019582\n'
+p1406
+aS'Error norm: 33.327508\n'
+p1407
+aS'Active features: 446\n'
+p1408
+aS'Line search trials: 1\n'
+p1409
+aS'Line search step: 1.000000\n'
+p1410
+aS'Seconds required for this iteration: 0.042\n'
+p1411
+ag79
+aS'***** Iteration #166 *****\n'
+p1412
+aS'Loss: 334.620569\n'
+p1413
+aS'Feature norm: 29.057092\n'
+p1414
+aS'Error norm: 35.629147\n'
+p1415
+aS'Active features: 444\n'
+p1416
+aS'Line search trials: 1\n'
+p1417
+aS'Line search step: 1.000000\n'
+p1418
+aS'Seconds required for this iteration: 0.043\n'
+p1419
+ag79
+aS'***** Iteration #167 *****\n'
+p1420
+aS'Loss: 334.495573\n'
+p1421
+aS'Feature norm: 29.083060\n'
+p1422
+aS'Error norm: 26.822716\n'
+p1423
+aS'Active features: 443\n'
+p1424
+aS'Line search trials: 1\n'
+p1425
+aS'Line search step: 1.000000\n'
+p1426
+aS'Seconds required for this iteration: 0.042\n'
+p1427
+ag79
+aS'***** Iteration #168 *****\n'
+p1428
+aS'Loss: 334.389094\n'
+p1429
+aS'Feature norm: 29.113558\n'
+p1430
+aS'Error norm: 30.918302\n'
+p1431
+aS'Active features: 443\n'
+p1432
+aS'Line search trials: 1\n'
+p1433
+aS'Line search step: 1.000000\n'
+p1434
+aS'Seconds required for this iteration: 0.042\n'
+p1435
+ag79
+aS'***** Iteration #169 *****\n'
+p1436
+aS'Loss: 334.258480\n'
+p1437
+aS'Feature norm: 29.130576\n'
+p1438
+aS'Error norm: 19.583388\n'
+p1439
+aS'Active features: 441\n'
+p1440
+aS'Line search trials: 1\n'
+p1441
+aS'Line search step: 1.000000\n'
+p1442
+aS'Seconds required for this iteration: 0.042\n'
+p1443
+ag79
+aS'***** Iteration #170 *****\n'
+p1444
+aS'Loss: 334.218037\n'
+p1445
+aS'Feature norm: 29.159654\n'
+p1446
+aS'Error norm: 33.646158\n'
+p1447
+aS'Active features: 443\n'
+p1448
+aS'Line search trials: 1\n'
+p1449
+aS'Line search step: 1.000000\n'
+p1450
+aS'Seconds required for this iteration: 0.043\n'
+p1451
+ag79
+aS'***** Iteration #171 *****\n'
+p1452
+aS'Loss: 334.065152\n'
+p1453
+aS'Feature norm: 29.182530\n'
+p1454
+aS'Error norm: 20.480904\n'
+p1455
+aS'Active features: 441\n'
+p1456
+aS'Line search trials: 1\n'
+p1457
+aS'Line search step: 1.000000\n'
+p1458
+aS'Seconds required for this iteration: 0.041\n'
+p1459
+ag79
+aS'***** Iteration #172 *****\n'
+p1460
+aS'Loss: 334.045332\n'
+p1461
+aS'Feature norm: 29.217485\n'
+p1462
+aS'Error norm: 39.233465\n'
+p1463
+aS'Active features: 439\n'
+p1464
+aS'Line search trials: 1\n'
+p1465
+aS'Line search step: 1.000000\n'
+p1466
+aS'Seconds required for this iteration: 0.042\n'
+p1467
+ag79
+aS'***** Iteration #173 *****\n'
+p1468
+aS'Loss: 333.869932\n'
+p1469
+aS'Feature norm: 29.242649\n'
+p1470
+aS'Error norm: 22.778044\n'
+p1471
+aS'Active features: 437\n'
+p1472
+aS'Line search trials: 1\n'
+p1473
+aS'Line search step: 1.000000\n'
+p1474
+aS'Seconds required for this iteration: 0.042\n'
+p1475
+ag79
+aS'***** Iteration #174 *****\n'
+p1476
+aS'Loss: 333.860406\n'
+p1477
+aS'Feature norm: 29.279006\n'
+p1478
+aS'Error norm: 38.766906\n'
+p1479
+aS'Active features: 438\n'
+p1480
+aS'Line search trials: 1\n'
+p1481
+aS'Line search step: 1.000000\n'
+p1482
+aS'Seconds required for this iteration: 0.042\n'
+p1483
+ag79
+aS'***** Iteration #175 *****\n'
+p1484
+aS'Loss: 333.654680\n'
+p1485
+aS'Feature norm: 29.304427\n'
+p1486
+aS'Error norm: 19.070084\n'
+p1487
+aS'Active features: 436\n'
+p1488
+aS'Line search trials: 1\n'
+p1489
+aS'Line search step: 1.000000\n'
+p1490
+aS'Seconds required for this iteration: 0.041\n'
+p1491
+ag79
+aS'***** Iteration #176 *****\n'
+p1492
+aS'Loss: 333.642159\n'
+p1493
+aS'Feature norm: 29.337782\n'
+p1494
+aS'Error norm: 33.024938\n'
+p1495
+aS'Active features: 438\n'
+p1496
+aS'Line search trials: 1\n'
+p1497
+aS'Line search step: 1.000000\n'
+p1498
+aS'Seconds required for this iteration: 0.042\n'
+p1499
+ag79
+aS'***** Iteration #177 *****\n'
+p1500
+aS'Loss: 333.478814\n'
+p1501
+aS'Feature norm: 29.362932\n'
+p1502
+aS'Error norm: 18.898756\n'
+p1503
+aS'Active features: 439\n'
+p1504
+aS'Line search trials: 1\n'
+p1505
+aS'Line search step: 1.000000\n'
+p1506
+aS'Seconds required for this iteration: 0.042\n'
+p1507
+ag79
+aS'***** Iteration #178 *****\n'
+p1508
+aS'Loss: 333.428838\n'
+p1509
+aS'Feature norm: 29.395045\n'
+p1510
+aS'Error norm: 26.350886\n'
+p1511
+aS'Active features: 439\n'
+p1512
+aS'Line search trials: 1\n'
+p1513
+aS'Line search step: 1.000000\n'
+p1514
+aS'Seconds required for this iteration: 0.042\n'
+p1515
+ag79
+aS'***** Iteration #179 *****\n'
+p1516
+aS'Loss: 333.316681\n'
+p1517
+aS'Feature norm: 29.421411\n'
+p1518
+aS'Error norm: 21.302579\n'
+p1519
+aS'Active features: 440\n'
+p1520
+aS'Line search trials: 1\n'
+p1521
+aS'Line search step: 1.000000\n'
+p1522
+aS'Seconds required for this iteration: 0.042\n'
+p1523
+ag79
+aS'***** Iteration #180 *****\n'
+p1524
+aS'Loss: 333.262050\n'
+p1525
+aS'Feature norm: 29.456065\n'
+p1526
+aS'Error norm: 26.368385\n'
+p1527
+aS'Active features: 441\n'
+p1528
+aS'Line search trials: 1\n'
+p1529
+aS'Line search step: 1.000000\n'
+p1530
+aS'Seconds required for this iteration: 0.042\n'
+p1531
+ag79
+aS'***** Iteration #181 *****\n'
+p1532
+aS'Loss: 333.158924\n'
+p1533
+aS'Feature norm: 29.483608\n'
+p1534
+aS'Error norm: 23.933612\n'
+p1535
+aS'Active features: 440\n'
+p1536
+aS'Line search trials: 1\n'
+p1537
+aS'Line search step: 1.000000\n'
+p1538
+aS'Seconds required for this iteration: 0.043\n'
+p1539
+ag79
+aS'***** Iteration #182 *****\n'
+p1540
+aS'Loss: 333.083815\n'
+p1541
+aS'Feature norm: 29.515306\n'
+p1542
+aS'Error norm: 24.564330\n'
+p1543
+aS'Active features: 437\n'
+p1544
+aS'Line search trials: 1\n'
+p1545
+aS'Line search step: 1.000000\n'
+p1546
+aS'Seconds required for this iteration: 0.042\n'
+p1547
+ag79
+aS'***** Iteration #183 *****\n'
+p1548
+aS'Loss: 332.977092\n'
+p1549
+aS'Feature norm: 29.539679\n'
+p1550
+aS'Error norm: 20.752258\n'
+p1551
+aS'Active features: 437\n'
+p1552
+aS'Line search trials: 1\n'
+p1553
+aS'Line search step: 1.000000\n'
+p1554
+aS'Seconds required for this iteration: 0.042\n'
+p1555
+ag79
+aS'***** Iteration #184 *****\n'
+p1556
+aS'Loss: 332.916121\n'
+p1557
+aS'Feature norm: 29.570920\n'
+p1558
+aS'Error norm: 23.337329\n'
+p1559
+aS'Active features: 436\n'
+p1560
+aS'Line search trials: 1\n'
+p1561
+aS'Line search step: 1.000000\n'
+p1562
+aS'Seconds required for this iteration: 0.042\n'
+p1563
+ag79
+aS'***** Iteration #185 *****\n'
+p1564
+aS'Loss: 332.832983\n'
+p1565
+aS'Feature norm: 29.594241\n'
+p1566
+aS'Error norm: 21.368578\n'
+p1567
+aS'Active features: 435\n'
+p1568
+aS'Line search trials: 1\n'
+p1569
+aS'Line search step: 1.000000\n'
+p1570
+aS'Seconds required for this iteration: 0.042\n'
+p1571
+ag79
+aS'***** Iteration #186 *****\n'
+p1572
+aS'Loss: 332.756685\n'
+p1573
+aS'Feature norm: 29.623290\n'
+p1574
+aS'Error norm: 21.751090\n'
+p1575
+aS'Active features: 437\n'
+p1576
+aS'Line search trials: 1\n'
+p1577
+aS'Line search step: 1.000000\n'
+p1578
+aS'Seconds required for this iteration: 0.042\n'
+p1579
+ag79
+aS'***** Iteration #187 *****\n'
+p1580
+aS'Loss: 332.681053\n'
+p1581
+aS'Feature norm: 29.643021\n'
+p1582
+aS'Error norm: 21.232374\n'
+p1583
+aS'Active features: 434\n'
+p1584
+aS'Line search trials: 1\n'
+p1585
+aS'Line search step: 1.000000\n'
+p1586
+aS'Seconds required for this iteration: 0.042\n'
+p1587
+ag79
+aS'***** Iteration #188 *****\n'
+p1588
+aS'Loss: 332.608256\n'
+p1589
+aS'Feature norm: 29.672373\n'
+p1590
+aS'Error norm: 21.577245\n'
+p1591
+aS'Active features: 432\n'
+p1592
+aS'Line search trials: 1\n'
+p1593
+aS'Line search step: 1.000000\n'
+p1594
+aS'Seconds required for this iteration: 0.042\n'
+p1595
+ag79
+aS'***** Iteration #189 *****\n'
+p1596
+aS'Loss: 332.547283\n'
+p1597
+aS'Feature norm: 29.691765\n'
+p1598
+aS'Error norm: 22.615238\n'
+p1599
+aS'Active features: 430\n'
+p1600
+aS'Line search trials: 1\n'
+p1601
+aS'Line search step: 1.000000\n'
+p1602
+aS'Seconds required for this iteration: 0.042\n'
+p1603
+ag79
+aS'***** Iteration #190 *****\n'
+p1604
+aS'Loss: 332.456633\n'
+p1605
+aS'Feature norm: 29.719051\n'
+p1606
+aS'Error norm: 19.833039\n'
+p1607
+aS'Active features: 431\n'
+p1608
+aS'Line search trials: 1\n'
+p1609
+aS'Line search step: 1.000000\n'
+p1610
+aS'Seconds required for this iteration: 0.043\n'
+p1611
+ag79
+aS'***** Iteration #191 *****\n'
+p1612
+aS'Loss: 332.396868\n'
+p1613
+aS'Feature norm: 29.735852\n'
+p1614
+aS'Error norm: 21.847945\n'
+p1615
+aS'Active features: 430\n'
+p1616
+aS'Line search trials: 1\n'
+p1617
+aS'Line search step: 1.000000\n'
+p1618
+aS'Seconds required for this iteration: 0.042\n'
+p1619
+ag79
+aS'***** Iteration #192 *****\n'
+p1620
+aS'Loss: 332.314825\n'
+p1621
+aS'Feature norm: 29.762823\n'
+p1622
+aS'Error norm: 18.899628\n'
+p1623
+aS'Active features: 429\n'
+p1624
+aS'Line search trials: 1\n'
+p1625
+aS'Line search step: 1.000000\n'
+p1626
+aS'Seconds required for this iteration: 0.042\n'
+p1627
+ag79
+aS'***** Iteration #193 *****\n'
+p1628
+aS'Loss: 332.267013\n'
+p1629
+aS'Feature norm: 29.783966\n'
+p1630
+aS'Error norm: 22.536340\n'
+p1631
+aS'Active features: 428\n'
+p1632
+aS'Line search trials: 1\n'
+p1633
+aS'Line search step: 1.000000\n'
+p1634
+aS'Seconds required for this iteration: 0.043\n'
+p1635
+ag79
+aS'***** Iteration #194 *****\n'
+p1636
+aS'Loss: 332.177927\n'
+p1637
+aS'Feature norm: 29.808091\n'
+p1638
+aS'Error norm: 15.769107\n'
+p1639
+aS'Active features: 429\n'
+p1640
+aS'Line search trials: 1\n'
+p1641
+aS'Line search step: 1.000000\n'
+p1642
+aS'Seconds required for this iteration: 0.042\n'
+p1643
+ag79
+aS'***** Iteration #195 *****\n'
+p1644
+aS'Loss: 332.147389\n'
+p1645
+aS'Feature norm: 29.824066\n'
+p1646
+aS'Error norm: 23.896286\n'
+p1647
+aS'Active features: 430\n'
+p1648
+aS'Line search trials: 1\n'
+p1649
+aS'Line search step: 1.000000\n'
+p1650
+aS'Seconds required for this iteration: 0.042\n'
+p1651
+ag79
+aS'***** Iteration #196 *****\n'
+p1652
+aS'Loss: 332.057826\n'
+p1653
+aS'Feature norm: 29.850148\n'
+p1654
+aS'Error norm: 16.344351\n'
+p1655
+aS'Active features: 430\n'
+p1656
+aS'Line search trials: 1\n'
+p1657
+aS'Line search step: 1.000000\n'
+p1658
+aS'Seconds required for this iteration: 0.042\n'
+p1659
+ag79
+aS'***** Iteration #197 *****\n'
+p1660
+aS'Loss: 332.031402\n'
+p1661
+aS'Feature norm: 29.869518\n'
+p1662
+aS'Error norm: 25.519583\n'
+p1663
+aS'Active features: 430\n'
+p1664
+aS'Line search trials: 1\n'
+p1665
+aS'Line search step: 1.000000\n'
+p1666
+aS'Seconds required for this iteration: 0.041\n'
+p1667
+ag79
+aS'***** Iteration #198 *****\n'
+p1668
+aS'Loss: 331.922057\n'
+p1669
+aS'Feature norm: 29.893509\n'
+p1670
+aS'Error norm: 14.877556\n'
+p1671
+aS'Active features: 428\n'
+p1672
+aS'Line search trials: 1\n'
+p1673
+aS'Line search step: 1.000000\n'
+p1674
+aS'Seconds required for this iteration: 0.042\n'
+p1675
+ag79
+aS'***** Iteration #199 *****\n'
+p1676
+aS'Loss: 331.903202\n'
+p1677
+aS'Feature norm: 29.908399\n'
+p1678
+aS'Error norm: 25.814776\n'
+p1679
+aS'Active features: 427\n'
+p1680
+aS'Line search trials: 1\n'
+p1681
+aS'Line search step: 1.000000\n'
+p1682
+aS'Seconds required for this iteration: 0.042\n'
+p1683
+ag79
+aS'***** Iteration #200 *****\n'
+p1684
+aS'Loss: 331.784667\n'
+p1685
+aS'Feature norm: 29.928910\n'
+p1686
+aS'Error norm: 12.220448\n'
+p1687
+aS'Active features: 424\n'
+p1688
+aS'Line search trials: 1\n'
+p1689
+aS'Line search step: 1.000000\n'
+p1690
+aS'Seconds required for this iteration: 0.042\n'
+p1691
+ag79
+aS'L-BFGS terminated with the maximum number of iterations\n'
+p1692
+aS'Total seconds required for training: 9.433\n'
+p1693
+ag79
+aS'Storing the model\n'
+p1694
+aS'Number of active features: 424 (560)\n'
+p1695
+aS'Number of active attributes: 95 (119)\n'
+p1696
+aS'Number of active labels: 7 (7)\n'
+p1697
+aS'Writing labels\n'
+p1698
+aS'Writing attributes\n'
+p1699
+aS'Writing feature references for transitions\n'
+p1700
+aS'Writing feature references for attributes\n'
+p1701
+aS'Seconds required: 0.004\n'
+p1702
+ag79
+asS'featgen_num_features'
+p1703
+I560
+sS'training_seconds'
+p1704
+F9.433
+sS'featgen_percent'
+p1705
+I100
+sS'state'
+p1706
+S'STORING'
+p1707
+sS'storing_seconds'
+p1708
+F0.004
+sS'iterations'
+p1709
+(lp1710
+(dp1711
+g49
+F3254.040282
+sg50
+F1729.029067
+sg51
+I1
+sg52
+I559
+sg53
+I1
+sg54
+F0.078
+sg55
+(dp1712
+sg57
+F9.4e-05
+sg58
+F1.0
+sa(dp1713
+g49
+F3071.761991
+sg50
+F1367.037297
+sg51
+I1
+sg52
+I526
+sg53
+I2
+sg54
+F0.042
+sg55
+(dp1714
+sg57
+F1.0
+sg58
+F0.942596
+sa(dp1715
+g49
+F2657.630673
+sg50
+F1443.571431
+sg51
+I1
+sg52
+I452
+sg53
+I3
+sg54
+F0.044
+sg55
+(dp1716
+sg57
+F1.0
+sg58
+F1.023261
+sa(dp1717
+g49
+F2248.016467
+sg50
+F750.586275
+sg51
+I1
+sg52
+I500
+sg53
+I4
+sg54
+F0.042
+sg55
+(dp1718
+sg57
+F1.0
+sg58
+F1.459253
+sa(dp1719
+g49
+F1810.891971
+sg50
+F543.285829
+sg51
+I1
+sg52
+I512
+sg53
+I5
+sg54
+F0.041
+sg55
+(dp1720
+sg57
+F1.0
+sg58
+F2.45956
+sa(dp1721
+g49
+F1495.318176
+sg50
+F594.199461
+sg51
+I1
+sg52
+I493
+sg53
+I6
+sg54
+F0.042
+sg55
+(dp1722
+sg57
+F1.0
+sg58
+F3.419387
+sa(dp1723
+g49
+F1266.585288
+sg50
+F564.127234
+sg51
+I1
+sg52
+I518
+sg53
+I7
+sg54
+F0.042
+sg55
+(dp1724
+sg57
+F1.0
+sg58
+F4.668689
+sa(dp1725
+g49
+F1195.114475
+sg50
+F766.34429
+sg51
+I1
+sg52
+I539
+sg53
+I8
+sg54
+F0.041
+sg55
+(dp1726
+sg57
+F1.0
+sg58
+F5.132001
+sa(dp1727
+g49
+F1113.930747
+sg50
+F637.879796
+sg51
+I1
+sg52
+I546
+sg53
+I9
+sg54
+F0.042
+sg55
+(dp1728
+sg57
+F1.0
+sg58
+F5.720687
+sa(dp1729
+g49
+F1053.034451
+sg50
+F437.274474
+sg51
+I1
+sg52
+I542
+sg53
+I10
+sg54
+F0.042
+sg55
+(dp1730
+sg57
+F1.0
+sg58
+F6.079931
+sa(dp1731
+g49
+F992.685523
+sg50
+F343.814091
+sg51
+I1
+sg52
+I545
+sg53
+I11
+sg54
+F0.042
+sg55
+(dp1732
+sg57
+F1.0
+sg58
+F6.536866
+sa(dp1733
+g49
+F944.07778
+sg50
+F412.076127
+sg51
+I1
+sg52
+I539
+sg53
+I12
+sg54
+F0.042
+sg55
+(dp1734
+sg57
+F1.0
+sg58
+F7.141134
+sa(dp1735
+g49
+F905.773709
+sg50
+F584.383418
+sg51
+I1
+sg52
+I537
+sg53
+I13
+sg54
+F0.042
+sg55
+(dp1736
+sg57
+F1.0
+sg58
+F7.814741
+sa(dp1737
+g49
+F850.204695
+sg50
+F283.181161
+sg51
+I1
+sg52
+I538
+sg53
+I14
+sg54
+F0.042
+sg55
+(dp1738
+sg57
+F1.0
+sg58
+F8.465183
+sa(dp1739
+g49
+F817.857027
+sg50
+F295.484881
+sg51
+I1
+sg52
+I543
+sg53
+I15
+sg54
+F0.042
+sg55
+(dp1740
+sg57
+F1.0
+sg58
+F8.973717
+sa(dp1741
+g49
+F784.755711
+sg50
+F203.927716
+sg51
+I1
+sg52
+I542
+sg53
+I16
+sg54
+F0.044
+sg55
+(dp1742
+sg57
+F1.0
+sg58
+F9.458812
+sa(dp1743
+g49
+F751.975861
+sg50
+F331.488991
+sg51
+I1
+sg52
+I538
+sg53
+I17
+sg54
+F0.042
+sg55
+(dp1744
+sg57
+F1.0
+sg58
+F10.19599
+sa(dp1745
+g49
+F716.005537
+sg50
+F294.829871
+sg51
+I1
+sg52
+I536
+sg53
+I18
+sg54
+F0.042
+sg55
+(dp1746
+sg57
+F1.0
+sg58
+F11.168939
+sa(dp1747
+g49
+F685.198678
+sg50
+F350.733598
+sg51
+I1
+sg52
+I535
+sg53
+I19
+sg54
+F0.042
+sg55
+(dp1748
+sg57
+F1.0
+sg58
+F11.860368
+sa(dp1749
+g49
+F656.700477
+sg50
+F136.968881
+sg51
+I1
+sg52
+I533
+sg53
+I20
+sg54
+F0.043
+sg55
+(dp1750
+sg57
+F1.0
+sg58
+F12.399081
+sa(dp1751
+g49
+F641.223931
+sg50
+F259.306355
+sg51
+I1
+sg52
+I531
+sg53
+I21
+sg54
+F0.042
+sg55
+(dp1752
+sg57
+F1.0
+sg58
+F12.872342
+sa(dp1753
+g49
+F620.593772
+sg50
+F94.03884
+sg51
+I1
+sg52
+I533
+sg53
+I22
+sg54
+F0.044
+sg55
+(dp1754
+sg57
+F1.0
+sg58
+F13.251415
+sa(dp1755
+g49
+F603.282617
+sg50
+F409.003957
+sg51
+I1
+sg52
+I532
+sg53
+I23
+sg54
+F0.042
+sg55
+(dp1756
+sg57
+F1.0
+sg58
+F13.833137
+sa(dp1757
+g49
+F577.242228
+sg50
+F116.436613
+sg51
+I1
+sg52
+I529
+sg53
+I24
+sg54
+F0.042
+sg55
+(dp1758
+sg57
+F1.0
+sg58
+F14.129888
+sa(dp1759
+g49
+F573.049304
+sg50
+F270.16489
+sg51
+I1
+sg52
+I530
+sg53
+I25
+sg54
+F0.043
+sg55
+(dp1760
+sg57
+F1.0
+sg58
+F14.704484
+sa(dp1761
+g49
+F561.323993
+sg50
+F106.482218
+sg51
+I1
+sg52
+I536
+sg53
+I26
+sg54
+F0.042
+sg55
+(dp1762
+sg57
+F1.0
+sg58
+F14.701554
+sa(dp1763
+g49
+F553.510691
+sg50
+F98.064977
+sg51
+I1
+sg52
+I536
+sg53
+I27
+sg54
+F0.042
+sg55
+(dp1764
+sg57
+F1.0
+sg58
+F14.72866
+sa(dp1765
+g49
+F533.805359
+sg50
+F150.207441
+sg51
+I1
+sg52
+I534
+sg53
+I28
+sg54
+F0.042
+sg55
+(dp1766
+sg57
+F1.0
+sg58
+F15.065296
+sa(dp1767
+g49
+F518.135958
+sg50
+F175.702907
+sg51
+I1
+sg52
+I534
+sg53
+I29
+sg54
+F0.041
+sg55
+(dp1768
+sg57
+F1.0
+sg58
+F15.453072
+sa(dp1769
+g49
+F507.592147
+sg50
+F277.030829
+sg51
+I1
+sg52
+I528
+sg53
+I30
+sg54
+F0.042
+sg55
+(dp1770
+sg57
+F1.0
+sg58
+F15.79436
+sa(dp1771
+g49
+F495.705895
+sg50
+F104.640434
+sg51
+I1
+sg52
+I531
+sg53
+I31
+sg54
+F0.043
+sg55
+(dp1772
+sg57
+F1.0
+sg58
+F16.157868
+sa(dp1773
+g49
+F487.004777
+sg50
+F83.75759
+sg51
+I1
+sg52
+I529
+sg53
+I32
+sg54
+F0.042
+sg55
+(dp1774
+sg57
+F1.0
+sg58
+F16.317193
+sa(dp1775
+g49
+F473.3516
+sg50
+F61.829467
+sg51
+I1
+sg52
+I523
+sg53
+I33
+sg54
+F0.044
+sg55
+(dp1776
+sg57
+F1.0
+sg58
+F16.622837
+sa(dp1777
+g49
+F471.904794
+sg50
+F775.519046
+sg51
+I1
+sg52
+I502
+sg53
+I34
+sg54
+F0.043
+sg55
+(dp1778
+sg57
+F1.0
+sg58
+F17.954337
+sa(dp1779
+g49
+F448.926464
+sg50
+F96.885876
+sg51
+I1
+sg52
+I515
+sg53
+I35
+sg54
+F0.042
+sg55
+(dp1780
+sg57
+F1.0
+sg58
+F17.961567
+sa(dp1781
+g49
+F447.193737
+sg50
+F57.104421
+sg51
+I1
+sg52
+I523
+sg53
+I36
+sg54
+F0.042
+sg55
+(dp1782
+sg57
+F1.0
+sg58
+F17.940082
+sa(dp1783
+g49
+F443.452953
+sg50
+F64.152378
+sg51
+I1
+sg52
+I522
+sg53
+I37
+sg54
+F0.043
+sg55
+(dp1784
+sg57
+F1.0
+sg58
+F18.038719
+sa(dp1785
+g49
+F435.779291
+sg50
+F48.490479
+sg51
+I1
+sg52
+I518
+sg53
+I38
+sg54
+F0.042
+sg55
+(dp1786
+sg57
+F1.0
+sg58
+F18.266466
+sa(dp1787
+g49
+F427.097171
+sg50
+F127.641061
+sg51
+I1
+sg52
+I518
+sg53
+I39
+sg54
+F0.042
+sg55
+(dp1788
+sg57
+F1.0
+sg58
+F18.694809
+sa(dp1789
+g49
+F424.762529
+sg50
+F469.369202
+sg51
+I2
+sg52
+I515
+sg53
+I40
+sg54
+F0.083
+sg55
+(dp1790
+sg57
+F0.5
+sg58
+F19.146152
+sa(dp1791
+g49
+F416.442874
+sg50
+F93.762284
+sg51
+I1
+sg52
+I522
+sg53
+I41
+sg54
+F0.042
+sg55
+(dp1792
+sg57
+F1.0
+sg58
+F19.187502
+sa(dp1793
+g49
+F413.834104
+sg50
+F102.011662
+sg51
+I1
+sg52
+I521
+sg53
+I42
+sg54
+F0.042
+sg55
+(dp1794
+sg57
+F1.0
+sg58
+F19.326357
+sa(dp1795
+g49
+F411.148074
+sg50
+F48.708083
+sg51
+I1
+sg52
+I522
+sg53
+I43
+sg54
+F0.042
+sg55
+(dp1796
+sg57
+F1.0
+sg58
+F19.446663
+sa(dp1797
+g49
+F408.905197
+sg50
+F197.876303
+sg51
+I1
+sg52
+I519
+sg53
+I44
+sg54
+F0.042
+sg55
+(dp1798
+sg57
+F1.0
+sg58
+F19.697523
+sa(dp1799
+g49
+F405.585267
+sg50
+F119.664048
+sg51
+I1
+sg52
+I519
+sg53
+I45
+sg54
+F0.043
+sg55
+(dp1800
+sg57
+F1.0
+sg58
+F20.04943
+sa(dp1801
+g49
+F402.189277
+sg50
+F97.356598
+sg51
+I1
+sg52
+I519
+sg53
+I46
+sg54
+F0.042
+sg55
+(dp1802
+sg57
+F1.0
+sg58
+F20.365101
+sa(dp1803
+g49
+F399.867138
+sg50
+F64.262965
+sg51
+I1
+sg52
+I519
+sg53
+I47
+sg54
+F0.042
+sg55
+(dp1804
+sg57
+F1.0
+sg58
+F20.596354
+sa(dp1805
+g49
+F397.270293
+sg50
+F76.314567
+sg51
+I1
+sg52
+I520
+sg53
+I48
+sg54
+F0.043
+sg55
+(dp1806
+sg57
+F1.0
+sg58
+F20.716754
+sa(dp1807
+g49
+F394.626579
+sg50
+F94.164132
+sg51
+I1
+sg52
+I515
+sg53
+I49
+sg54
+F0.043
+sg55
+(dp1808
+sg57
+F1.0
+sg58
+F20.848893
+sa(dp1809
+g49
+F393.059661
+sg50
+F185.625128
+sg51
+I1
+sg52
+I512
+sg53
+I50
+sg54
+F0.044
+sg55
+(dp1810
+sg57
+F1.0
+sg58
+F21.128398
+sa(dp1811
+g49
+F389.740214
+sg50
+F73.50007
+sg51
+I1
+sg52
+I515
+sg53
+I51
+sg54
+F0.044
+sg55
+(dp1812
+sg57
+F1.0
+sg58
+F21.291335
+sa(dp1813
+g49
+F388.064753
+sg50
+F73.943819
+sg51
+I1
+sg52
+I515
+sg53
+I52
+sg54
+F0.044
+sg55
+(dp1814
+sg57
+F1.0
+sg58
+F21.460538
+sa(dp1815
+g49
+F386.284799
+sg50
+F41.077537
+sg51
+I1
+sg52
+I518
+sg53
+I53
+sg54
+F0.043
+sg55
+(dp1816
+sg57
+F1.0
+sg58
+F21.53638
+sa(dp1817
+g49
+F385.169229
+sg50
+F151.855966
+sg51
+I1
+sg52
+I517
+sg53
+I54
+sg54
+F0.042
+sg55
+(dp1818
+sg57
+F1.0
+sg58
+F21.675768
+sa(dp1819
+g49
+F383.787653
+sg50
+F101.209447
+sg51
+I1
+sg52
+I514
+sg53
+I55
+sg54
+F0.042
+sg55
+(dp1820
+sg57
+F1.0
+sg58
+F21.812979
+sa(dp1821
+g49
+F382.077869
+sg50
+F151.811506
+sg51
+I1
+sg52
+I514
+sg53
+I56
+sg54
+F0.042
+sg55
+(dp1822
+sg57
+F1.0
+sg58
+F21.959078
+sa(dp1823
+g49
+F380.685356
+sg50
+F74.657408
+sg51
+I1
+sg52
+I512
+sg53
+I57
+sg54
+F0.042
+sg55
+(dp1824
+sg57
+F1.0
+sg58
+F22.07761
+sa(dp1825
+g49
+F379.77575
+sg50
+F141.93126
+sg51
+I1
+sg52
+I512
+sg53
+I58
+sg54
+F0.042
+sg55
+(dp1826
+sg57
+F1.0
+sg58
+F22.19416
+sa(dp1827
+g49
+F378.616321
+sg50
+F61.263278
+sg51
+I1
+sg52
+I511
+sg53
+I59
+sg54
+F0.042
+sg55
+(dp1828
+sg57
+F1.0
+sg58
+F22.282095
+sa(dp1829
+g49
+F377.884354
+sg50
+F120.873203
+sg51
+I1
+sg52
+I511
+sg53
+I60
+sg54
+F0.042
+sg55
+(dp1830
+sg57
+F1.0
+sg58
+F22.365336
+sa(dp1831
+g49
+F376.756812
+sg50
+F56.932293
+sg51
+I1
+sg52
+I510
+sg53
+I61
+sg54
+F0.042
+sg55
+(dp1832
+sg57
+F1.0
+sg58
+F22.42637
+sa(dp1833
+g49
+F375.93972
+sg50
+F109.533151
+sg51
+I1
+sg52
+I510
+sg53
+I62
+sg54
+F0.043
+sg55
+(dp1834
+sg57
+F1.0
+sg58
+F22.508679
+sa(dp1835
+g49
+F374.922633
+sg50
+F67.5127
+sg51
+I1
+sg52
+I510
+sg53
+I63
+sg54
+F0.042
+sg55
+(dp1836
+sg57
+F1.0
+sg58
+F22.608805
+sa(dp1837
+g49
+F374.062864
+sg50
+F136.974337
+sg51
+I1
+sg52
+I507
+sg53
+I64
+sg54
+F0.042
+sg55
+(dp1838
+sg57
+F1.0
+sg58
+F22.735227
+sa(dp1839
+g49
+F372.928299
+sg50
+F73.965146
+sg51
+I1
+sg52
+I506
+sg53
+I65
+sg54
+F0.042
+sg55
+(dp1840
+sg57
+F1.0
+sg58
+F22.820479
+sa(dp1841
+g49
+F372.035876
+sg50
+F127.827995
+sg51
+I1
+sg52
+I505
+sg53
+I66
+sg54
+F0.042
+sg55
+(dp1842
+sg57
+F1.0
+sg58
+F22.953775
+sa(dp1843
+g49
+F370.568794
+sg50
+F57.901989
+sg51
+I1
+sg52
+I504
+sg53
+I67
+sg54
+F0.042
+sg55
+(dp1844
+sg57
+F1.0
+sg58
+F23.049812
+sa(dp1845
+g49
+F369.785691
+sg50
+F117.660744
+sg51
+I1
+sg52
+I502
+sg53
+I68
+sg54
+F0.043
+sg55
+(dp1846
+sg57
+F1.0
+sg58
+F23.178235
+sa(dp1847
+g49
+F368.474342
+sg50
+F64.779118
+sg51
+I1
+sg52
+I504
+sg53
+I69
+sg54
+F0.042
+sg55
+(dp1848
+sg57
+F1.0
+sg58
+F23.263224
+sa(dp1849
+g49
+F367.706517
+sg50
+F125.638792
+sg51
+I1
+sg52
+I505
+sg53
+I70
+sg54
+F0.042
+sg55
+(dp1850
+sg57
+F1.0
+sg58
+F23.402256
+sa(dp1851
+g49
+F366.378378
+sg50
+F71.41985
+sg51
+I1
+sg52
+I503
+sg53
+I71
+sg54
+F0.042
+sg55
+(dp1852
+sg57
+F1.0
+sg58
+F23.493896
+sa(dp1853
+g49
+F365.591902
+sg50
+F116.559481
+sg51
+I1
+sg52
+I499
+sg53
+I72
+sg54
+F0.042
+sg55
+(dp1854
+sg57
+F1.0
+sg58
+F23.624488
+sa(dp1855
+g49
+F364.437835
+sg50
+F65.82882
+sg51
+I1
+sg52
+I494
+sg53
+I73
+sg54
+F0.043
+sg55
+(dp1856
+sg57
+F1.0
+sg58
+F23.723134
+sa(dp1857
+g49
+F363.751233
+sg50
+F104.784051
+sg51
+I1
+sg52
+I496
+sg53
+I74
+sg54
+F0.042
+sg55
+(dp1858
+sg57
+F1.0
+sg58
+F23.864486
+sa(dp1859
+g49
+F362.623168
+sg50
+F48.557999
+sg51
+I1
+sg52
+I500
+sg53
+I75
+sg54
+F0.042
+sg55
+(dp1860
+sg57
+F1.0
+sg58
+F23.950899
+sa(dp1861
+g49
+F361.762518
+sg50
+F72.054803
+sg51
+I1
+sg52
+I500
+sg53
+I76
+sg54
+F0.041
+sg55
+(dp1862
+sg57
+F1.0
+sg58
+F24.05081
+sa(dp1863
+g49
+F361.034397
+sg50
+F59.485394
+sg51
+I1
+sg52
+I500
+sg53
+I77
+sg54
+F0.042
+sg55
+(dp1864
+sg57
+F1.0
+sg58
+F24.13226
+sa(dp1865
+g49
+F360.91681
+sg50
+F131.140798
+sg51
+I1
+sg52
+I500
+sg53
+I78
+sg54
+F0.042
+sg55
+(dp1866
+sg57
+F1.0
+sg58
+F24.268761
+sa(dp1867
+g49
+F359.538377
+sg50
+F55.015933
+sg51
+I1
+sg52
+I498
+sg53
+I79
+sg54
+F0.041
+sg55
+(dp1868
+sg57
+F1.0
+sg58
+F24.377473
+sa(dp1869
+g49
+F359.297541
+sg50
+F109.584321
+sg51
+I1
+sg52
+I498
+sg53
+I80
+sg54
+F0.042
+sg55
+(dp1870
+sg57
+F1.0
+sg58
+F24.504598
+sa(dp1871
+g49
+F358.20734
+sg50
+F40.451976
+sg51
+I1
+sg52
+I499
+sg53
+I81
+sg54
+F0.042
+sg55
+(dp1872
+sg57
+F1.0
+sg58
+F24.593513
+sa(dp1873
+g49
+F357.810948
+sg50
+F84.875045
+sg51
+I1
+sg52
+I499
+sg53
+I82
+sg54
+F0.042
+sg55
+(dp1874
+sg57
+F1.0
+sg58
+F24.697193
+sa(dp1875
+g49
+F356.924973
+sg50
+F31.281402
+sg51
+I1
+sg52
+I498
+sg53
+I83
+sg54
+F0.042
+sg55
+(dp1876
+sg57
+F1.0
+sg58
+F24.752489
+sa(dp1877
+g49
+F356.627161
+sg50
+F95.64228
+sg51
+I1
+sg52
+I497
+sg53
+I84
+sg54
+F0.043
+sg55
+(dp1878
+sg57
+F1.0
+sg58
+F24.856591
+sa(dp1879
+g49
+F355.789186
+sg50
+F54.096656
+sg51
+I1
+sg52
+I498
+sg53
+I85
+sg54
+F0.042
+sg55
+(dp1880
+sg57
+F1.0
+sg58
+F24.947279
+sa(dp1881
+g49
+F355.692705
+sg50
+F131.562893
+sg51
+I1
+sg52
+I496
+sg53
+I86
+sg54
+F0.042
+sg55
+(dp1882
+sg57
+F1.0
+sg58
+F25.090161
+sa(dp1883
+g49
+F354.458009
+sg50
+F54.503224
+sg51
+I1
+sg52
+I494
+sg53
+I87
+sg54
+F0.042
+sg55
+(dp1884
+sg57
+F1.0
+sg58
+F25.160082
+sa(dp1885
+g49
+F353.75701
+sg50
+F22.026773
+sg51
+I2
+sg52
+I498
+sg53
+I88
+sg54
+F0.082
+sg55
+(dp1886
+sg57
+F0.5
+sg58
+F25.23474
+sa(dp1887
+g49
+F353.203083
+sg50
+F44.808846
+sg51
+I1
+sg52
+I499
+sg53
+I89
+sg54
+F0.042
+sg55
+(dp1888
+sg57
+F1.0
+sg58
+F25.308354
+sa(dp1889
+g49
+F352.660781
+sg50
+F45.203905
+sg51
+I2
+sg52
+I499
+sg53
+I90
+sg54
+F0.082
+sg55
+(dp1890
+sg57
+F0.5
+sg58
+F25.395359
+sa(dp1891
+g49
+F352.186819
+sg50
+F30.256986
+sg51
+I2
+sg52
+I500
+sg53
+I91
+sg54
+F0.083
+sg55
+(dp1892
+sg57
+F0.5
+sg58
+F25.4458
+sa(dp1893
+g49
+F351.731316
+sg50
+F40.43525
+sg51
+I2
+sg52
+I497
+sg53
+I92
+sg54
+F0.082
+sg55
+(dp1894
+sg57
+F0.5
+sg58
+F25.528336
+sa(dp1895
+g49
+F351.285575
+sg50
+F35.650312
+sg51
+I2
+sg52
+I492
+sg53
+I93
+sg54
+F0.082
+sg55
+(dp1896
+sg57
+F0.5
+sg58
+F25.610565
+sa(dp1897
+g49
+F350.997912
+sg50
+F51.376775
+sg51
+I2
+sg52
+I493
+sg53
+I94
+sg54
+F0.081
+sg55
+(dp1898
+sg57
+F0.5
+sg58
+F25.674946
+sa(dp1899
+g49
+F350.511774
+sg50
+F33.51618
+sg51
+I2
+sg52
+I493
+sg53
+I95
+sg54
+F0.082
+sg55
+(dp1900
+sg57
+F0.5
+sg58
+F25.753655
+sa(dp1901
+g49
+F350.167858
+sg50
+F32.805968
+sg51
+I2
+sg52
+I492
+sg53
+I96
+sg54
+F0.081
+sg55
+(dp1902
+sg57
+F0.5
+sg58
+F25.805449
+sa(dp1903
+g49
+F349.828222
+sg50
+F23.207673
+sg51
+I2
+sg52
+I494
+sg53
+I97
+sg54
+F0.082
+sg55
+(dp1904
+sg57
+F0.5
+sg58
+F25.867447
+sa(dp1905
+g49
+F349.600431
+sg50
+F33.166177
+sg51
+I2
+sg52
+I493
+sg53
+I98
+sg54
+F0.082
+sg55
+(dp1906
+sg57
+F0.5
+sg58
+F25.915287
+sa(dp1907
+g49
+F349.264045
+sg50
+F21.874288
+sg51
+I2
+sg52
+I492
+sg53
+I99
+sg54
+F0.082
+sg55
+(dp1908
+sg57
+F0.5
+sg58
+F25.971738
+sa(dp1909
+g49
+F349.005177
+sg50
+F29.21496
+sg51
+I2
+sg52
+I491
+sg53
+I100
+sg54
+F0.083
+sg55
+(dp1910
+sg57
+F0.5
+sg58
+F26.019604
+sa(dp1911
+g49
+F348.662686
+sg50
+F25.927682
+sg51
+I2
+sg52
+I489
+sg53
+I101
+sg54
+F0.082
+sg55
+(dp1912
+sg57
+F0.5
+sg58
+F26.080787
+sa(dp1913
+g49
+F348.343457
+sg50
+F32.659124
+sg51
+I2
+sg52
+I488
+sg53
+I102
+sg54
+F0.081
+sg55
+(dp1914
+sg57
+F0.5
+sg58
+F26.134425
+sa(dp1915
+g49
+F347.985789
+sg50
+F31.610434
+sg51
+I2
+sg52
+I484
+sg53
+I103
+sg54
+F0.083
+sg55
+(dp1916
+sg57
+F0.5
+sg58
+F26.204494
+sa(dp1917
+g49
+F347.606583
+sg50
+F31.068562
+sg51
+I2
+sg52
+I481
+sg53
+I104
+sg54
+F0.082
+sg55
+(dp1918
+sg57
+F0.5
+sg58
+F26.265447
+sa(dp1919
+g49
+F347.277644
+sg50
+F28.446659
+sg51
+I2
+sg52
+I481
+sg53
+I105
+sg54
+F0.082
+sg55
+(dp1920
+sg57
+F0.5
+sg58
+F26.331955
+sa(dp1921
+g49
+F346.986074
+sg50
+F28.066641
+sg51
+I2
+sg52
+I480
+sg53
+I106
+sg54
+F0.082
+sg55
+(dp1922
+sg57
+F0.5
+sg58
+F26.385971
+sa(dp1923
+g49
+F346.598787
+sg50
+F23.24264
+sg51
+I2
+sg52
+I480
+sg53
+I107
+sg54
+F0.083
+sg55
+(dp1924
+sg57
+F0.5
+sg58
+F26.456743
+sa(dp1925
+g49
+F346.267641
+sg50
+F28.136969
+sg51
+I2
+sg52
+I479
+sg53
+I108
+sg54
+F0.082
+sg55
+(dp1926
+sg57
+F0.5
+sg58
+F26.503394
+sa(dp1927
+g49
+F345.956303
+sg50
+F23.324624
+sg51
+I2
+sg52
+I476
+sg53
+I109
+sg54
+F0.082
+sg55
+(dp1928
+sg57
+F0.5
+sg58
+F26.581144
+sa(dp1929
+g49
+F345.678604
+sg50
+F30.866031
+sg51
+I2
+sg52
+I474
+sg53
+I110
+sg54
+F0.082
+sg55
+(dp1930
+sg57
+F0.5
+sg58
+F26.642427
+sa(dp1931
+g49
+F345.665586
+sg50
+F56.555759
+sg51
+I1
+sg52
+I467
+sg53
+I111
+sg54
+F0.043
+sg55
+(dp1932
+sg57
+F1.0
+sg58
+F26.735073
+sa(dp1933
+g49
+F345.158037
+sg50
+F46.490912
+sg51
+I1
+sg52
+I465
+sg53
+I112
+sg54
+F0.042
+sg55
+(dp1934
+sg57
+F1.0
+sg58
+F26.825448
+sa(dp1935
+g49
+F344.723071
+sg50
+F29.188522
+sg51
+I1
+sg52
+I467
+sg53
+I113
+sg54
+F0.042
+sg55
+(dp1936
+sg57
+F1.0
+sg58
+F26.922659
+sa(dp1937
+g49
+F344.411461
+sg50
+F23.02969
+sg51
+I1
+sg52
+I466
+sg53
+I114
+sg54
+F0.042
+sg55
+(dp1938
+sg57
+F1.0
+sg58
+F26.961855
+sa(dp1939
+g49
+F344.100788
+sg50
+F12.795201
+sg51
+I1
+sg52
+I466
+sg53
+I115
+sg54
+F0.042
+sg55
+(dp1940
+sg57
+F1.0
+sg58
+F27.000931
+sa(dp1941
+g49
+F343.835856
+sg50
+F53.404965
+sg51
+I1
+sg52
+I462
+sg53
+I116
+sg54
+F0.042
+sg55
+(dp1942
+sg57
+F1.0
+sg58
+F27.04944
+sa(dp1943
+g49
+F343.622136
+sg50
+F39.055647
+sg51
+I1
+sg52
+I463
+sg53
+I117
+sg54
+F0.042
+sg55
+(dp1944
+sg57
+F1.0
+sg58
+F27.109433
+sa(dp1945
+g49
+F343.283621
+sg50
+F51.895709
+sg51
+I1
+sg52
+I466
+sg53
+I118
+sg54
+F0.043
+sg55
+(dp1946
+sg57
+F1.0
+sg58
+F27.1553
+sa(dp1947
+g49
+F342.980752
+sg50
+F28.375958
+sg51
+I1
+sg52
+I465
+sg53
+I119
+sg54
+F0.042
+sg55
+(dp1948
+sg57
+F1.0
+sg58
+F27.174075
+sa(dp1949
+g49
+F342.876471
+sg50
+F51.279137
+sg51
+I1
+sg52
+I465
+sg53
+I120
+sg54
+F0.042
+sg55
+(dp1950
+sg57
+F1.0
+sg58
+F27.218436
+sa(dp1951
+g49
+F342.596009
+sg50
+F27.754229
+sg51
+I1
+sg52
+I465
+sg53
+I121
+sg54
+F0.042
+sg55
+(dp1952
+sg57
+F1.0
+sg58
+F27.243333
+sa(dp1953
+g49
+F342.41539
+sg50
+F39.731734
+sg51
+I1
+sg52
+I464
+sg53
+I122
+sg54
+F0.042
+sg55
+(dp1954
+sg57
+F1.0
+sg58
+F27.282006
+sa(dp1955
+g49
+F342.182013
+sg50
+F24.432392
+sg51
+I1
+sg52
+I465
+sg53
+I123
+sg54
+F0.043
+sg55
+(dp1956
+sg57
+F1.0
+sg58
+F27.307607
+sa(dp1957
+g49
+F342.074742
+sg50
+F51.175998
+sg51
+I1
+sg52
+I466
+sg53
+I124
+sg54
+F0.042
+sg55
+(dp1958
+sg57
+F1.0
+sg58
+F27.349541
+sa(dp1959
+g49
+F341.818192
+sg50
+F33.409023
+sg51
+I1
+sg52
+I465
+sg53
+I125
+sg54
+F0.042
+sg55
+(dp1960
+sg57
+F1.0
+sg58
+F27.385671
+sa(dp1961
+g49
+F341.638216
+sg50
+F53.561276
+sg51
+I1
+sg52
+I462
+sg53
+I126
+sg54
+F0.041
+sg55
+(dp1962
+sg57
+F1.0
+sg58
+F27.43197
+sa(dp1963
+g49
+F341.319939
+sg50
+F30.619737
+sg51
+I1
+sg52
+I460
+sg53
+I127
+sg54
+F0.042
+sg55
+(dp1964
+sg57
+F1.0
+sg58
+F27.461763
+sa(dp1965
+g49
+F341.081055
+sg50
+F44.068006
+sg51
+I1
+sg52
+I460
+sg53
+I128
+sg54
+F0.042
+sg55
+(dp1966
+sg57
+F1.0
+sg58
+F27.513931
+sa(dp1967
+g49
+F340.82332
+sg50
+F32.010303
+sg51
+I1
+sg52
+I458
+sg53
+I129
+sg54
+F0.041
+sg55
+(dp1968
+sg57
+F1.0
+sg58
+F27.54765
+sa(dp1969
+g49
+F340.686685
+sg50
+F52.800196
+sg51
+I1
+sg52
+I457
+sg53
+I130
+sg54
+F0.042
+sg55
+(dp1970
+sg57
+F1.0
+sg58
+F27.594243
+sa(dp1971
+g49
+F340.39093
+sg50
+F29.252587
+sg51
+I1
+sg52
+I457
+sg53
+I131
+sg54
+F0.042
+sg55
+(dp1972
+sg57
+F1.0
+sg58
+F27.627933
+sa(dp1973
+g49
+F340.260736
+sg50
+F46.883856
+sg51
+I1
+sg52
+I457
+sg53
+I132
+sg54
+F0.042
+sg55
+(dp1974
+sg57
+F1.0
+sg58
+F27.66891
+sa(dp1975
+g49
+F340.006475
+sg50
+F25.085782
+sg51
+I1
+sg52
+I459
+sg53
+I133
+sg54
+F0.042
+sg55
+(dp1976
+sg57
+F1.0
+sg58
+F27.703275
+sa(dp1977
+g49
+F339.931477
+sg50
+F45.678748
+sg51
+I1
+sg52
+I459
+sg53
+I134
+sg54
+F0.042
+sg55
+(dp1978
+sg57
+F1.0
+sg58
+F27.748274
+sa(dp1979
+g49
+F339.585979
+sg50
+F17.270581
+sg51
+I1
+sg52
+I459
+sg53
+I135
+sg54
+F0.043
+sg55
+(dp1980
+sg57
+F1.0
+sg58
+F27.773796
+sa(dp1981
+g49
+F339.475481
+sg50
+F42.492395
+sg51
+I1
+sg52
+I460
+sg53
+I136
+sg54
+F0.042
+sg55
+(dp1982
+sg57
+F1.0
+sg58
+F27.816775
+sa(dp1983
+g49
+F339.187907
+sg50
+F31.181273
+sg51
+I1
+sg52
+I461
+sg53
+I137
+sg54
+F0.042
+sg55
+(dp1984
+sg57
+F1.0
+sg58
+F27.854463
+sa(dp1985
+g49
+F339.14842
+sg50
+F60.212837
+sg51
+I1
+sg52
+I460
+sg53
+I138
+sg54
+F0.042
+sg55
+(dp1986
+sg57
+F1.0
+sg58
+F27.923799
+sa(dp1987
+g49
+F338.734479
+sg50
+F32.333622
+sg51
+I1
+sg52
+I460
+sg53
+I139
+sg54
+F0.042
+sg55
+(dp1988
+sg57
+F1.0
+sg58
+F27.963874
+sa(dp1989
+g49
+F338.609805
+sg50
+F41.93761
+sg51
+I1
+sg52
+I460
+sg53
+I140
+sg54
+F0.042
+sg55
+(dp1990
+sg57
+F1.0
+sg58
+F28.028255
+sa(dp1991
+g49
+F338.326757
+sg50
+F25.855816
+sg51
+I1
+sg52
+I460
+sg53
+I141
+sg54
+F0.042
+sg55
+(dp1992
+sg57
+F1.0
+sg58
+F28.058906
+sa(dp1993
+g49
+F338.16385
+sg50
+F29.693514
+sg51
+I1
+sg52
+I461
+sg53
+I142
+sg54
+F0.043
+sg55
+(dp1994
+sg57
+F1.0
+sg58
+F28.114702
+sa(dp1995
+g49
+F337.976517
+sg50
+F30.619548
+sg51
+I1
+sg52
+I459
+sg53
+I143
+sg54
+F0.042
+sg55
+(dp1996
+sg57
+F1.0
+sg58
+F28.14735
+sa(dp1997
+g49
+F337.832489
+sg50
+F34.749622
+sg51
+I1
+sg52
+I457
+sg53
+I144
+sg54
+F0.042
+sg55
+(dp1998
+sg57
+F1.0
+sg58
+F28.202882
+sa(dp1999
+g49
+F337.641179
+sg50
+F34.872863
+sg51
+I1
+sg52
+I458
+sg53
+I145
+sg54
+F0.042
+sg55
+(dp2000
+sg57
+F1.0
+sg58
+F28.249749
+sa(dp2001
+g49
+F337.445242
+sg50
+F28.939865
+sg51
+I1
+sg52
+I457
+sg53
+I146
+sg54
+F0.043
+sg55
+(dp2002
+sg57
+F1.0
+sg58
+F28.303258
+sa(dp2003
+g49
+F337.338731
+sg50
+F37.26607
+sg51
+I1
+sg52
+I454
+sg53
+I147
+sg54
+F0.043
+sg55
+(dp2004
+sg57
+F1.0
+sg58
+F28.33258
+sa(dp2005
+g49
+F337.10118
+sg50
+F23.926889
+sg51
+I1
+sg52
+I455
+sg53
+I148
+sg54
+F0.042
+sg55
+(dp2006
+sg57
+F1.0
+sg58
+F28.384713
+sa(dp2007
+g49
+F337.018434
+sg50
+F36.456849
+sg51
+I1
+sg52
+I456
+sg53
+I149
+sg54
+F0.041
+sg55
+(dp2008
+sg57
+F1.0
+sg58
+F28.413695
+sa(dp2009
+g49
+F336.80131
+sg50
+F26.390381
+sg51
+I1
+sg52
+I455
+sg53
+I150
+sg54
+F0.042
+sg55
+(dp2010
+sg57
+F1.0
+sg58
+F28.470163
+sa(dp2011
+g49
+F336.72802
+sg50
+F37.747036
+sg51
+I1
+sg52
+I453
+sg53
+I151
+sg54
+F0.042
+sg55
+(dp2012
+sg57
+F1.0
+sg58
+F28.501411
+sa(dp2013
+g49
+F336.487543
+sg50
+F22.593671
+sg51
+I1
+sg52
+I451
+sg53
+I152
+sg54
+F0.043
+sg55
+(dp2014
+sg57
+F1.0
+sg58
+F28.556013
+sa(dp2015
+g49
+F336.407417
+sg50
+F35.534645
+sg51
+I1
+sg52
+I451
+sg53
+I153
+sg54
+F0.042
+sg55
+(dp2016
+sg57
+F1.0
+sg58
+F28.586746
+sa(dp2017
+g49
+F336.219558
+sg50
+F29.506827
+sg51
+I1
+sg52
+I449
+sg53
+I154
+sg54
+F0.043
+sg55
+(dp2018
+sg57
+F1.0
+sg58
+F28.638209
+sa(dp2019
+g49
+F336.181344
+sg50
+F39.982972
+sg51
+I1
+sg52
+I447
+sg53
+I155
+sg54
+F0.044
+sg55
+(dp2020
+sg57
+F1.0
+sg58
+F28.67544
+sa(dp2021
+g49
+F335.913086
+sg50
+F20.773681
+sg51
+I1
+sg52
+I446
+sg53
+I156
+sg54
+F0.042
+sg55
+(dp2022
+sg57
+F1.0
+sg58
+F28.723607
+sa(dp2023
+g49
+F335.897243
+sg50
+F35.606538
+sg51
+I1
+sg52
+I449
+sg53
+I157
+sg54
+F0.042
+sg55
+(dp2024
+sg57
+F1.0
+sg58
+F28.757678
+sa(dp2025
+g49
+F335.639708
+sg50
+F16.0906
+sg51
+I1
+sg52
+I446
+sg53
+I158
+sg54
+F0.042
+sg55
+(dp2026
+sg57
+F1.0
+sg58
+F28.793264
+sa(dp2027
+g49
+F335.633481
+sg50
+F34.982341
+sg51
+I1
+sg52
+I445
+sg53
+I159
+sg54
+F0.042
+sg55
+(dp2028
+sg57
+F1.0
+sg58
+F28.816791
+sa(dp2029
+g49
+F335.417925
+sg50
+F18.104947
+sg51
+I1
+sg52
+I446
+sg53
+I160
+sg54
+F0.042
+sg55
+(dp2030
+sg57
+F1.0
+sg58
+F28.853753
+sa(dp2031
+g49
+F335.30348
+sg50
+F14.267104
+sg51
+I2
+sg52
+I444
+sg53
+I161
+sg54
+F0.082
+sg55
+(dp2032
+sg57
+F0.5
+sg58
+F28.86973
+sa(dp2033
+g49
+F335.263663
+sg50
+F44.522004
+sg51
+I1
+sg52
+I445
+sg53
+I162
+sg54
+F0.042
+sg55
+(dp2034
+sg57
+F1.0
+sg58
+F28.915646
+sa(dp2035
+g49
+F335.106625
+sg50
+F36.423434
+sg51
+I1
+sg52
+I444
+sg53
+I163
+sg54
+F0.043
+sg55
+(dp2036
+sg57
+F1.0
+sg58
+F28.941984
+sa(dp2037
+g49
+F334.970013
+sg50
+F47.440315
+sg51
+I1
+sg52
+I446
+sg53
+I164
+sg54
+F0.042
+sg55
+(dp2038
+sg57
+F1.0
+sg58
+F28.987502
+sa(dp2039
+g49
+F334.782596
+sg50
+F33.327508
+sg51
+I1
+sg52
+I446
+sg53
+I165
+sg54
+F0.042
+sg55
+(dp2040
+sg57
+F1.0
+sg58
+F29.019582
+sa(dp2041
+g49
+F334.620569
+sg50
+F35.629147
+sg51
+I1
+sg52
+I444
+sg53
+I166
+sg54
+F0.043
+sg55
+(dp2042
+sg57
+F1.0
+sg58
+F29.057092
+sa(dp2043
+g49
+F334.495573
+sg50
+F26.822716
+sg51
+I1
+sg52
+I443
+sg53
+I167
+sg54
+F0.042
+sg55
+(dp2044
+sg57
+F1.0
+sg58
+F29.08306
+sa(dp2045
+g49
+F334.389094
+sg50
+F30.918302
+sg51
+I1
+sg52
+I443
+sg53
+I168
+sg54
+F0.042
+sg55
+(dp2046
+sg57
+F1.0
+sg58
+F29.113558
+sa(dp2047
+g49
+F334.25848
+sg50
+F19.583388
+sg51
+I1
+sg52
+I441
+sg53
+I169
+sg54
+F0.042
+sg55
+(dp2048
+sg57
+F1.0
+sg58
+F29.130576
+sa(dp2049
+g49
+F334.218037
+sg50
+F33.646158
+sg51
+I1
+sg52
+I443
+sg53
+I170
+sg54
+F0.043
+sg55
+(dp2050
+sg57
+F1.0
+sg58
+F29.159654
+sa(dp2051
+g49
+F334.065152
+sg50
+F20.480904
+sg51
+I1
+sg52
+I441
+sg53
+I171
+sg54
+F0.041
+sg55
+(dp2052
+sg57
+F1.0
+sg58
+F29.18253
+sa(dp2053
+g49
+F334.045332
+sg50
+F39.233465
+sg51
+I1
+sg52
+I439
+sg53
+I172
+sg54
+F0.042
+sg55
+(dp2054
+sg57
+F1.0
+sg58
+F29.217485
+sa(dp2055
+g49
+F333.869932
+sg50
+F22.778044
+sg51
+I1
+sg52
+I437
+sg53
+I173
+sg54
+F0.042
+sg55
+(dp2056
+sg57
+F1.0
+sg58
+F29.242649
+sa(dp2057
+g49
+F333.860406
+sg50
+F38.766906
+sg51
+I1
+sg52
+I438
+sg53
+I174
+sg54
+F0.042
+sg55
+(dp2058
+sg57
+F1.0
+sg58
+F29.279006
+sa(dp2059
+g49
+F333.65468
+sg50
+F19.070084
+sg51
+I1
+sg52
+I436
+sg53
+I175
+sg54
+F0.041
+sg55
+(dp2060
+sg57
+F1.0
+sg58
+F29.304427
+sa(dp2061
+g49
+F333.642159
+sg50
+F33.024938
+sg51
+I1
+sg52
+I438
+sg53
+I176
+sg54
+F0.042
+sg55
+(dp2062
+sg57
+F1.0
+sg58
+F29.337782
+sa(dp2063
+g49
+F333.478814
+sg50
+F18.898756
+sg51
+I1
+sg52
+I439
+sg53
+I177
+sg54
+F0.042
+sg55
+(dp2064
+sg57
+F1.0
+sg58
+F29.362932
+sa(dp2065
+g49
+F333.428838
+sg50
+F26.350886
+sg51
+I1
+sg52
+I439
+sg53
+I178
+sg54
+F0.042
+sg55
+(dp2066
+sg57
+F1.0
+sg58
+F29.395045
+sa(dp2067
+g49
+F333.316681
+sg50
+F21.302579
+sg51
+I1
+sg52
+I440
+sg53
+I179
+sg54
+F0.042
+sg55
+(dp2068
+sg57
+F1.0
+sg58
+F29.421411
+sa(dp2069
+g49
+F333.26205
+sg50
+F26.368385
+sg51
+I1
+sg52
+I441
+sg53
+I180
+sg54
+F0.042
+sg55
+(dp2070
+sg57
+F1.0
+sg58
+F29.456065
+sa(dp2071
+g49
+F333.158924
+sg50
+F23.933612
+sg51
+I1
+sg52
+I440
+sg53
+I181
+sg54
+F0.043
+sg55
+(dp2072
+sg57
+F1.0
+sg58
+F29.483608
+sa(dp2073
+g49
+F333.083815
+sg50
+F24.56433
+sg51
+I1
+sg52
+I437
+sg53
+I182
+sg54
+F0.042
+sg55
+(dp2074
+sg57
+F1.0
+sg58
+F29.515306
+sa(dp2075
+g49
+F332.977092
+sg50
+F20.752258
+sg51
+I1
+sg52
+I437
+sg53
+I183
+sg54
+F0.042
+sg55
+(dp2076
+sg57
+F1.0
+sg58
+F29.539679
+sa(dp2077
+g49
+F332.916121
+sg50
+F23.337329
+sg51
+I1
+sg52
+I436
+sg53
+I184
+sg54
+F0.042
+sg55
+(dp2078
+sg57
+F1.0
+sg58
+F29.57092
+sa(dp2079
+g49
+F332.832983
+sg50
+F21.368578
+sg51
+I1
+sg52
+I435
+sg53
+I185
+sg54
+F0.042
+sg55
+(dp2080
+sg57
+F1.0
+sg58
+F29.594241
+sa(dp2081
+g49
+F332.756685
+sg50
+F21.75109
+sg51
+I1
+sg52
+I437
+sg53
+I186
+sg54
+F0.042
+sg55
+(dp2082
+sg57
+F1.0
+sg58
+F29.62329
+sa(dp2083
+g49
+F332.681053
+sg50
+F21.232374
+sg51
+I1
+sg52
+I434
+sg53
+I187
+sg54
+F0.042
+sg55
+(dp2084
+sg57
+F1.0
+sg58
+F29.643021
+sa(dp2085
+g49
+F332.608256
+sg50
+F21.577245
+sg51
+I1
+sg52
+I432
+sg53
+I188
+sg54
+F0.042
+sg55
+(dp2086
+sg57
+F1.0
+sg58
+F29.672373
+sa(dp2087
+g49
+F332.547283
+sg50
+F22.615238
+sg51
+I1
+sg52
+I430
+sg53
+I189
+sg54
+F0.042
+sg55
+(dp2088
+sg57
+F1.0
+sg58
+F29.691765
+sa(dp2089
+g49
+F332.456633
+sg50
+F19.833039
+sg51
+I1
+sg52
+I431
+sg53
+I190
+sg54
+F0.043
+sg55
+(dp2090
+sg57
+F1.0
+sg58
+F29.719051
+sa(dp2091
+g49
+F332.396868
+sg50
+F21.847945
+sg51
+I1
+sg52
+I430
+sg53
+I191
+sg54
+F0.042
+sg55
+(dp2092
+sg57
+F1.0
+sg58
+F29.735852
+sa(dp2093
+g49
+F332.314825
+sg50
+F18.899628
+sg51
+I1
+sg52
+I429
+sg53
+I192
+sg54
+F0.042
+sg55
+(dp2094
+sg57
+F1.0
+sg58
+F29.762823
+sa(dp2095
+g49
+F332.267013
+sg50
+F22.53634
+sg51
+I1
+sg52
+I428
+sg53
+I193
+sg54
+F0.043
+sg55
+(dp2096
+sg57
+F1.0
+sg58
+F29.783966
+sa(dp2097
+g49
+F332.177927
+sg50
+F15.769107
+sg51
+I1
+sg52
+I429
+sg53
+I194
+sg54
+F0.042
+sg55
+(dp2098
+sg57
+F1.0
+sg58
+F29.808091
+sa(dp2099
+g49
+F332.147389
+sg50
+F23.896286
+sg51
+I1
+sg52
+I430
+sg53
+I195
+sg54
+F0.042
+sg55
+(dp2100
+sg57
+F1.0
+sg58
+F29.824066
+sa(dp2101
+g49
+F332.057826
+sg50
+F16.344351
+sg51
+I1
+sg52
+I430
+sg53
+I196
+sg54
+F0.042
+sg55
+(dp2102
+sg57
+F1.0
+sg58
+F29.850148
+sa(dp2103
+g49
+F332.031402
+sg50
+F25.519583
+sg51
+I1
+sg52
+I430
+sg53
+I197
+sg54
+F0.041
+sg55
+(dp2104
+sg57
+F1.0
+sg58
+F29.869518
+sa(dp2105
+g49
+F331.922057
+sg50
+F14.877556
+sg51
+I1
+sg52
+I428
+sg53
+I198
+sg54
+F0.042
+sg55
+(dp2106
+sg57
+F1.0
+sg58
+F29.893509
+sa(dp2107
+g49
+F331.903202
+sg50
+F25.814776
+sg51
+I1
+sg52
+I427
+sg53
+I199
+sg54
+F0.042
+sg55
+(dp2108
+sg57
+F1.0
+sg58
+F29.908399
+sag48
+asS'events'
+p2109
+(lp2110
+(S'start'
+p2111
+I0
+I1
+tp2112
+a(S'featgen_progress'
+p2113
+I1
+I6
+tp2114
+a(g2113
+I6
+I7
+tp2115
+a(g2113
+I7
+I8
+tp2116
+a(g2113
+I8
+I9
+tp2117
+a(g2113
+I9
+I10
+tp2118
+a(g2113
+I10
+I11
+tp2119
+a(g2113
+I11
+I12
+tp2120
+a(g2113
+I12
+I13
+tp2121
+a(g2113
+I13
+I14
+tp2122
+a(g2113
+I14
+I15
+tp2123
+a(g2113
+I15
+I16
+tp2124
+a(g2113
+I16
+I17
+tp2125
+a(g2113
+I17
+I18
+tp2126
+a(g2113
+I18
+I19
+tp2127
+a(g2113
+I19
+I20
+tp2128
+a(g2113
+I20
+I21
+tp2129
+a(g2113
+I21
+I22
+tp2130
+a(g2113
+I22
+I23
+tp2131
+a(g2113
+I23
+I24
+tp2132
+a(g2113
+I24
+I25
+tp2133
+a(g2113
+I25
+I26
+tp2134
+a(g2113
+I26
+I27
+tp2135
+a(g2113
+I27
+I28
+tp2136
+a(g2113
+I28
+I29
+tp2137
+a(g2113
+I29
+I30
+tp2138
+a(g2113
+I30
+I31
+tp2139
+a(g2113
+I31
+I32
+tp2140
+a(g2113
+I32
+I33
+tp2141
+a(g2113
+I33
+I34
+tp2142
+a(g2113
+I34
+I35
+tp2143
+a(g2113
+I35
+I36
+tp2144
+a(g2113
+I36
+I37
+tp2145
+a(g2113
+I37
+I38
+tp2146
+a(g2113
+I38
+I39
+tp2147
+a(g2113
+I39
+I40
+tp2148
+a(g2113
+I40
+I41
+tp2149
+a(g2113
+I41
+I42
+tp2150
+a(g2113
+I42
+I43
+tp2151
+a(g2113
+I43
+I44
+tp2152
+a(g2113
+I44
+I45
+tp2153
+a(g2113
+I45
+I46
+tp2154
+a(g2113
+I46
+I47
+tp2155
+a(g2113
+I47
+I48
+tp2156
+a(g2113
+I48
+I49
+tp2157
+a(g2113
+I49
+I50
+tp2158
+a(g2113
+I50
+I51
+tp2159
+a(g2113
+I51
+I52
+tp2160
+a(g2113
+I52
+I53
+tp2161
+a(g2113
+I53
+I54
+tp2162
+a(g2113
+I54
+I55
+tp2163
+a(g2113
+I55
+I56
+tp2164
+a(S'featgen_end'
+p2165
+I56
+I59
+tp2166
+a(S'prepared'
+p2167
+I59
+I71
+tp2168
+a(S'iteration'
+p2169
+I71
+I80
+tp2170
+a(g2169
+I80
+I89
+tp2171
+a(g2169
+I89
+I98
+tp2172
+a(g2169
+I98
+I107
+tp2173
+a(g2169
+I107
+I116
+tp2174
+a(g2169
+I116
+I125
+tp2175
+a(g2169
+I125
+I134
+tp2176
+a(g2169
+I134
+I143
+tp2177
+a(g2169
+I143
+I152
+tp2178
+a(g2169
+I152
+I161
+tp2179
+a(g2169
+I161
+I170
+tp2180
+a(g2169
+I170
+I179
+tp2181
+a(g2169
+I179
+I188
+tp2182
+a(g2169
+I188
+I197
+tp2183
+a(g2169
+I197
+I206
+tp2184
+a(g2169
+I206
+I215
+tp2185
+a(g2169
+I215
+I224
+tp2186
+a(g2169
+I224
+I233
+tp2187
+a(g2169
+I233
+I242
+tp2188
+a(g2169
+I242
+I251
+tp2189
+a(g2169
+I251
+I260
+tp2190
+a(g2169
+I260
+I269
+tp2191
+a(g2169
+I269
+I278
+tp2192
+a(g2169
+I278
+I287
+tp2193
+a(g2169
+I287
+I296
+tp2194
+a(g2169
+I296
+I305
+tp2195
+a(g2169
+I305
+I314
+tp2196
+a(g2169
+I314
+I323
+tp2197
+a(g2169
+I323
+I332
+tp2198
+a(g2169
+I332
+I341
+tp2199
+a(g2169
+I341
+I350
+tp2200
+a(g2169
+I350
+I359
+tp2201
+a(g2169
+I359
+I368
+tp2202
+a(g2169
+I368
+I377
+tp2203
+a(g2169
+I377
+I386
+tp2204
+a(g2169
+I386
+I395
+tp2205
+a(g2169
+I395
+I404
+tp2206
+a(g2169
+I404
+I413
+tp2207
+a(g2169
+I413
+I422
+tp2208
+a(g2169
+I422
+I431
+tp2209
+a(g2169
+I431
+I440
+tp2210
+a(g2169
+I440
+I449
+tp2211
+a(g2169
+I449
+I458
+tp2212
+a(g2169
+I458
+I467
+tp2213
+a(g2169
+I467
+I476
+tp2214
+a(g2169
+I476
+I485
+tp2215
+a(g2169
+I485
+I494
+tp2216
+a(g2169
+I494
+I503
+tp2217
+a(g2169
+I503
+I512
+tp2218
+a(g2169
+I512
+I521
+tp2219
+a(g2169
+I521
+I530
+tp2220
+a(g2169
+I530
+I539
+tp2221
+a(g2169
+I539
+I548
+tp2222
+a(g2169
+I548
+I557
+tp2223
+a(g2169
+I557
+I566
+tp2224
+a(g2169
+I566
+I575
+tp2225
+a(g2169
+I575
+I584
+tp2226
+a(g2169
+I584
+I593
+tp2227
+a(g2169
+I593
+I602
+tp2228
+a(g2169
+I602
+I611
+tp2229
+a(g2169
+I611
+I620
+tp2230
+a(g2169
+I620
+I629
+tp2231
+a(g2169
+I629
+I638
+tp2232
+a(g2169
+I638
+I647
+tp2233
+a(g2169
+I647
+I656
+tp2234
+a(g2169
+I656
+I665
+tp2235
+a(g2169
+I665
+I674
+tp2236
+a(g2169
+I674
+I683
+tp2237
+a(g2169
+I683
+I692
+tp2238
+a(g2169
+I692
+I701
+tp2239
+a(g2169
+I701
+I710
+tp2240
+a(g2169
+I710
+I719
+tp2241
+a(g2169
+I719
+I728
+tp2242
+a(g2169
+I728
+I737
+tp2243
+a(g2169
+I737
+I746
+tp2244
+a(g2169
+I746
+I755
+tp2245
+a(g2169
+I755
+I764
+tp2246
+a(g2169
+I764
+I773
+tp2247
+a(g2169
+I773
+I782
+tp2248
+a(g2169
+I782
+I791
+tp2249
+a(g2169
+I791
+I800
+tp2250
+a(g2169
+I800
+I809
+tp2251
+a(g2169
+I809
+I818
+tp2252
+a(g2169
+I818
+I827
+tp2253
+a(g2169
+I827
+I836
+tp2254
+a(g2169
+I836
+I845
+tp2255
+a(g2169
+I845
+I854
+tp2256
+a(g2169
+I854
+I863
+tp2257
+a(g2169
+I863
+I872
+tp2258
+a(g2169
+I872
+I881
+tp2259
+a(g2169
+I881
+I890
+tp2260
+a(g2169
+I890
+I899
+tp2261
+a(g2169
+I899
+I908
+tp2262
+a(g2169
+I908
+I917
+tp2263
+a(g2169
+I917
+I926
+tp2264
+a(g2169
+I926
+I935
+tp2265
+a(g2169
+I935
+I944
+tp2266
+a(g2169
+I944
+I953
+tp2267
+a(g2169
+I953
+I962
+tp2268
+a(g2169
+I962
+I971
+tp2269
+a(g2169
+I971
+I980
+tp2270
+a(g2169
+I980
+I989
+tp2271
+a(g2169
+I989
+I998
+tp2272
+a(g2169
+I998
+I1007
+tp2273
+a(g2169
+I1007
+I1016
+tp2274
+a(g2169
+I1016
+I1025
+tp2275
+a(g2169
+I1025
+I1034
+tp2276
+a(g2169
+I1034
+I1043
+tp2277
+a(g2169
+I1043
+I1052
+tp2278
+a(g2169
+I1052
+I1061
+tp2279
+a(g2169
+I1061
+I1070
+tp2280
+a(g2169
+I1070
+I1079
+tp2281
+a(g2169
+I1079
+I1088
+tp2282
+a(g2169
+I1088
+I1097
+tp2283
+a(g2169
+I1097
+I1106
+tp2284
+a(g2169
+I1106
+I1115
+tp2285
+a(g2169
+I1115
+I1124
+tp2286
+a(g2169
+I1124
+I1133
+tp2287
+a(g2169
+I1133
+I1142
+tp2288
+a(g2169
+I1142
+I1151
+tp2289
+a(g2169
+I1151
+I1160
+tp2290
+a(g2169
+I1160
+I1169
+tp2291
+a(g2169
+I1169
+I1178
+tp2292
+a(g2169
+I1178
+I1187
+tp2293
+a(g2169
+I1187
+I1196
+tp2294
+a(g2169
+I1196
+I1205
+tp2295
+a(g2169
+I1205
+I1214
+tp2296
+a(g2169
+I1214
+I1223
+tp2297
+a(g2169
+I1223
+I1232
+tp2298
+a(g2169
+I1232
+I1241
+tp2299
+a(g2169
+I1241
+I1250
+tp2300
+a(g2169
+I1250
+I1259
+tp2301
+a(g2169
+I1259
+I1268
+tp2302
+a(g2169
+I1268
+I1277
+tp2303
+a(g2169
+I1277
+I1286
+tp2304
+a(g2169
+I1286
+I1295
+tp2305
+a(g2169
+I1295
+I1304
+tp2306
+a(g2169
+I1304
+I1313
+tp2307
+a(g2169
+I1313
+I1322
+tp2308
+a(g2169
+I1322
+I1331
+tp2309
+a(g2169
+I1331
+I1340
+tp2310
+a(g2169
+I1340
+I1349
+tp2311
+a(g2169
+I1349
+I1358
+tp2312
+a(g2169
+I1358
+I1367
+tp2313
+a(g2169
+I1367
+I1376
+tp2314
+a(g2169
+I1376
+I1385
+tp2315
+a(g2169
+I1385
+I1394
+tp2316
+a(g2169
+I1394
+I1403
+tp2317
+a(g2169
+I1403
+I1412
+tp2318
+a(g2169
+I1412
+I1421
+tp2319
+a(g2169
+I1421
+I1430
+tp2320
+a(g2169
+I1430
+I1439
+tp2321
+a(g2169
+I1439
+I1448
+tp2322
+a(g2169
+I1448
+I1457
+tp2323
+a(g2169
+I1457
+I1466
+tp2324
+a(g2169
+I1466
+I1475
+tp2325
+a(g2169
+I1475
+I1484
+tp2326
+a(g2169
+I1484
+I1493
+tp2327
+a(g2169
+I1493
+I1502
+tp2328
+a(g2169
+I1502
+I1511
+tp2329
+a(g2169
+I1511
+I1520
+tp2330
+a(g2169
+I1520
+I1529
+tp2331
+a(g2169
+I1529
+I1538
+tp2332
+a(g2169
+I1538
+I1547
+tp2333
+a(g2169
+I1547
+I1556
+tp2334
+a(g2169
+I1556
+I1565
+tp2335
+a(g2169
+I1565
+I1574
+tp2336
+a(g2169
+I1574
+I1583
+tp2337
+a(g2169
+I1583
+I1592
+tp2338
+a(g2169
+I1592
+I1601
+tp2339
+a(g2169
+I1601
+I1610
+tp2340
+a(g2169
+I1610
+I1619
+tp2341
+a(g2169
+I1619
+I1628
+tp2342
+a(g2169
+I1628
+I1637
+tp2343
+a(g2169
+I1637
+I1646
+tp2344
+a(g2169
+I1646
+I1655
+tp2345
+a(g2169
+I1655
+I1664
+tp2346
+a(g2169
+I1664
+I1673
+tp2347
+a(g2169
+I1673
+I1682
+tp2348
+a(g2169
+I1682
+I1691
+tp2349
+a(g2169
+I1691
+I1700
+tp2350
+a(g2169
+I1700
+I1709
+tp2351
+a(g2169
+I1709
+I1718
+tp2352
+a(g2169
+I1718
+I1727
+tp2353
+a(g2169
+I1727
+I1736
+tp2354
+a(g2169
+I1736
+I1745
+tp2355
+a(g2169
+I1745
+I1754
+tp2356
+a(g2169
+I1754
+I1763
+tp2357
+a(g2169
+I1763
+I1772
+tp2358
+a(g2169
+I1772
+I1781
+tp2359
+a(g2169
+I1781
+I1790
+tp2360
+a(g2169
+I1790
+I1799
+tp2361
+a(g2169
+I1799
+I1808
+tp2362
+a(g2169
+I1808
+I1817
+tp2363
+a(g2169
+I1817
+I1826
+tp2364
+a(g2169
+I1826
+I1835
+tp2365
+a(g2169
+I1835
+I1844
+tp2366
+a(g2169
+I1844
+I1853
+tp2367
+a(g2169
+I1853
+I1862
+tp2368
+a(g2169
+I1862
+I1871
+tp2369
+a(S'optimization_end'
+p2370
+I1871
+I1874
+tp2371
+a(S'end'
+p2372
+I1874
+I1884
+tp2373
+asbsS'calibration_candidates'
+p2374
+NsS'epsilon'
+p2375
+NsS'variance'
+p2376
+NsS'max_linesearch'
+p2377
+NsS'calibration_max_trials'
+p2378
+NsS'all_possible_transitions'
+p2379
+I00
+sS'gamma'
+p2380
+Nsb.
