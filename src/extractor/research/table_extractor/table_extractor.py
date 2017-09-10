@@ -6,11 +6,12 @@ import json
 import os, shutil
 from os.path import basename
 import sys
+import codecs
 
-class AutoExtract(object):
-    """docstring for AutoExtract"""
+class TableExtractor(object):
+    """docstring for TableExtractor"""
     def __init__(self):
-        super(AutoExtract, self).__init__()
+        super(TableExtractor, self).__init__()
       
     def clearFile(self, dir3):
         for the_file in os.listdir(dir3):
@@ -23,7 +24,7 @@ class AutoExtract(object):
                 print(e)
 
     def print_to_file(self, file_name, content_file):
-        with open (file_name, 'w') as outfile:
+        with codecs.open (file_name, 'w', encoding="UTF-8") as outfile:
             outfile.write(content_file)
             outfile.close()
 
@@ -31,10 +32,9 @@ def main(argv):
     if len(argv) != 1:
         print 'usage: python rule_based_extractor.py <url>'
         sys.exit(2)    
-    
-    
+      
 
-    AE = AutoExtract()
+    AE = TableExtractor()
     AE.clearFile("new_feature_extraction/test")
     AE.clearFile("row_feature_extraction/test")
     AE.clearFile("clean_html/test")
@@ -46,8 +46,6 @@ def main(argv):
     rbe = RuleBasedExtractor(output_dir+sub_folder, argv[0])
     body_soup = rbe.getBody()
     tables = rbe.getCandidatesTable(body_soup)
-    tables = rbe.getCandidatesUnorderedList(body_soup)
-    tables = rbe.getCandidatesOrderedList(body_soup)
 
     input_dir = "clean_html/test/"
     output_dir = "row_feature_extraction/test/"
@@ -80,8 +78,19 @@ def main(argv):
         file_html = input_dir + str(i) + '-test.html'
         feature = new_output_dir + str(i) + '-test-features.txt'
         extracts = de.extract_table(file_html,feature)
+        table_data = extracts[0]['table_data']
+        texts = ""
+        for key, value in table_data.items():
+            text = ''
+            for key2, value2 in value.items():
+                    text = ' '.join(value2.split()) + ". " + text
+            if (text.strip() != ""):
+                texts = texts + text + "\n"
         js = json.dumps(extracts)
-        AE.print_to_file("result/" + str(i) + '-test.txt', js)
+
+        # JSON to Bibliography
+
+        AE.print_to_file("result/" + str(i) + '-table.txt', texts)
         i += 1
 
 if __name__ == "__main__":

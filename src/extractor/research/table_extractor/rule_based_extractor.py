@@ -11,8 +11,10 @@ from os.path import basename
 import json
 import re
 import urllib2
+from cookielib import CookieJar
+import requests
 
-class TableExtractor(object):
+class RuleBasedExtractor(object):
     def __init__(self, dirout, url):
         self.dirout = dirout
         self.url = url
@@ -21,10 +23,42 @@ class TableExtractor(object):
             self.positive = myfile.read().splitlines() 
 
     def getBody(self):
-        page = urllib2.urlopen(self.url).read()
+        # print(self.url)
+        # page = open(self.url, 'r').read()
+        s = requests.Session()
+        s.headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36'
+        req = s.get(self.url)
+        print req
+        page = urllib2.urlopen(req).read()
         soup = BeautifulSoup(page, 'html.parser')
         return soup
     
+    def getTitleInsideTable(self, body_soup):
+        # Title maybe in first th or first tr
+        titles = body_soup.find_all('th')
+        if len(titles) > 0:
+            i = 0
+            title = ""
+            while (title == ""):
+                header = titles[i]
+                title = header.find_all(string=True)
+                title = " ".join(title).strip() 
+                i += 1
+            return title
+        else:
+            titles = body_soup.find_all('td')
+            if len(titles) > 0:
+                i = 0
+                title = ""
+                while (title == ""):
+                    header = titles[i]
+                    title = header.find_all(string=True)
+                    title = " ".join(title).strip() 
+                    i += 1
+                return title
+            else:
+                return "None"
+
     def getCandidatesTable(self, body_soup):
         # TODO: add rules for cell length consistensy(?)
         isTable = False
@@ -32,9 +66,11 @@ class TableExtractor(object):
         counteri = len(table_element)
         headers = []
         for i in range(0,counteri):
-            header = body_soup.find_all('table')[i].find_previous(string=True)
-            while (header.strip() == ''):
-                header = header.find_previous(string=True)
+            titleInside = self.getTitleInsideTable(body_soup.find_all('table')[i])
+            titleOutside = body_soup.find_all('table')[i].find_previous(string=True)
+            while (titleOutside.strip() == ''):
+                titleOutside = titleOutside.find_previous(string=True)
+            header = titleInside + " " + titleOutside
             headers.append(header)
         tables = []
         if len(table_element) > 0:
@@ -44,16 +80,16 @@ class TableExtractor(object):
                 if len(child_table) == 0:
                     if (self.countBlank(t) != (self.countTh(t) + self.countTd(t))):
                         if self.countNonEmptyRow(t) > 2:
-                            print(headers[j])
-                            if (self.relevantTitle(headers[j])):
-                                isTable = True
+                            if (self.cellRowRatio(t) and self.imgLimit(t) and self.formLimit(t) and self.linkLimit(t)):
+                                if (self.relevantTitle(headers[j])):
+                                    isTable = True
                     if isTable:
                         out_path = self.printTableToFile(t, headers, j, self.tableCount)
                         tables.append(out_path)
                         self.tableCount = self.tableCount + 1
                         isTable = False
                 j += 1
-        print(tables)
+        # print(tables)
         return 0
 
     def isCellHasImage(self, cell_soup):
@@ -105,10 +141,10 @@ class TableExtractor(object):
         return nNonEmpty
     
     def cellRowRatio(self, table_soup):
-        threshold = 1 # TODO: rethink about the threshold
+        threshold = 1.5 # TODO: rethink about the threshold
         ret = False
         ratio = (self.countTd(table_soup)+self.countTh(table_soup)) / self.countTr(table_soup)
-        if ratio >= threshold:
+        if ratio > threshold:
             ret = True
         return ret
     
@@ -174,17 +210,44 @@ class TableExtractor(object):
         if (nblank == (ntd + nth)):
             ret = True
         return ret
-            
+
+    def wordAvgLimit(self, list_soup):
+        threshold = 6 # dipikirin ya
+        isPass = False
+        list_element = list_soup.find_all('li')
+        count = len(list_element)
+        total = 0
+        for i in xrange(0,len(list_element)):
+            # print(list_element[i].text)
+            words = re.split("[^a-zA-Z0-9']+", list_element[i].text)
+            total = total + len(words)
+        avg = total / (count+1)
+        return (avg > threshold)
+
+    def notContainNumberLimit(self, list_soup):
+        threshold = 0.90
+        list_element = list_soup.find_all('li')
+        count = len(list_element)
+        total = 0
+        for i in xrange(0,len(list_element)):
+            s = list_element[i].text
+            if re.search('20[0-9]{2,2}', s) is None:
+                total += 1
+        th = (count - total) / (count * (1.0))
+        # print(th)
+        # print(threshold)
+        return (th > threshold)
+
     def relevantTitle(self, header):
         for i in xrange(0,len(self.positive)):
             pattern = re.compile(self.positive[i], re.I)
             if re.search(pattern, header) is not None:
                 return True
         return False
-
+            
 def main(argv):
     if len(argv) != 1:
-        print 'usage: python table_extractor.py <url>'
+        print 'usage: python rule_based_extractor.py <url>'
         sys.exit(2)    
     
     output_dir = "clean_html/"
@@ -192,7 +255,7 @@ def main(argv):
     sub_folder = os.path.splitext(basename(filename))[0] + "/"
     print sub_folder
     os.mkdir(output_dir+sub_folder)
-    rbe = TableExtractor(output_dir+sub_folder, argv[0])
+    rbe = RuleBasedExtractor(output_dir+sub_folder, argv[0])
     body_soup = rbe.getBody()
     tables = rbe.getCandidatesTable(body_soup)
     

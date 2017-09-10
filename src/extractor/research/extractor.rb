@@ -4,7 +4,8 @@ require 'anystyle/parser'
 
 f = File.open(ARGV[0], "r")
 f.each_line do |line|
-  result = Anystyle.parse(line, :citeproc).to_s  
+  extracted = Anystyle.parse(line, :citeproc)
+  result = JSON.generate(extracted[0])
   puts result
 end
 f.close

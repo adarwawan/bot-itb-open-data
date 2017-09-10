@@ -6,7 +6,7 @@ from __future__ import division
 import sys, getopt
 from bs4 import BeautifulSoup
 import codecs
-import os
+import os, shutil
 from os.path import basename
 import json
 import re
@@ -20,8 +20,21 @@ class ListExtractor(object):
         with open('positive.txt', 'r') as myfile:
             self.positive = myfile.readlines()
 
+    def clearFile(self, dir3):
+        for the_file in os.listdir(dir3):
+            file_path = os.path.join(dir3, the_file)
+            try:
+                if os.path.isfile(file_path):
+                    os.unlink(file_path)
+                elif os.path.isdir(file_path): shutil.rmtree(file_path)
+            except Exception as e:
+                print(e)
+
     def getBody(self):
-        page = urllib2.urlopen(self.url).read()
+        opener = urllib2.build_opener(urllib2.HTTPCookieProcessor())
+        response = opener.open(self.url)
+        page = response.read()
+        # page = urllib2.urlopen(self.url).read()
         soup = BeautifulSoup(page, 'html.parser')
         return soup
 
@@ -47,7 +60,7 @@ class ListExtractor(object):
                     if (self.wordAvgLimit(l) and self.relevantTitle(headers[j]) and self.hasPunctuation(l)):
                         isList = True
                     if isList:
-                        print(l)
+                        # print(l)
                         out_path = self.printListToFile(l, headers, j, self.listCount)
                         lists.append(out_path)
                         self.listCount = self.listCount + 1
@@ -78,14 +91,14 @@ class ListExtractor(object):
                     if (self.wordAvgLimit(l) and self.relevantTitle(headers[j]) and self.hasPunctuation(l)):
                         isList = True
                     if isList:
-                        print(l)
-                        print("BBBBB")
+                        # print(l)
+                        # print("BBBBB")
                         out_path = self.printListToFile(l, headers, j, self.listCount)
                         lists.append(out_path)
                         self.listCount = self.listCount + 1
                         isList = False
                 j += 1
-        print(lists)
+        # print(lists)
         return 0
 
     def wordAvgLimit(self, list_soup):
@@ -108,16 +121,14 @@ class ListExtractor(object):
         return False
 
     def printListToFile(self, list_soup, headers, j, counter):
-        lines = list_soup.findAll('li')
-        fout = 'test' + '.txt'
+        lines = list_soup.findAll('li') 
+        fout = 'list' + '.txt'
         out_path = self.dirout + str(counter)+"-"+fout
-        for line in lines:
-            with codecs.open(out_path, 'a+', encoding='utf-8') as outfile:
-                outfile.write(line.get_text() + '\n')
+        
+        with codecs.open(out_path, 'w+', encoding='utf-8') as outfile:
+            for line in lines:
+                outfile.write(line.get_text().strip() + '\n')
         return out_path
-
-    def printCleanList(self, list_soup, headers, j, counter):
-        pass
 
     def hasPunctuation(self, list_soup):
         threshold = 0.95 # dipikirin ya
@@ -137,12 +148,9 @@ def main(argv):
         print 'usage: python list_extractor.py <url>'
         sys.exit(2)    
     
-    output_dir = "clean_html/"
-    filename = "test.html"
-    sub_folder = os.path.splitext(basename(filename))[0] + "/"
-    print sub_folder
-    os.mkdir(output_dir+sub_folder)
-    rbe = ListExtractor(output_dir+sub_folder, argv[0])
+    output_dir = "result/"
+    rbe = ListExtractor(output_dir, argv[0])
+    rbe.clearFile("result")
     body_soup = rbe.getBody()
     lists = rbe.getCandidatesUnorderedList(body_soup)
     lists = rbe.getCandidatesOrderedList(body_soup)

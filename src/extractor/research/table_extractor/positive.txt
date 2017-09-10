@@ -1,0 +1,10 @@
+20[0-9]{2,2}
+19[0-9]{2,2}
+jo?urnals?
+konferensi
+conferences?
+prosiding
+published
+publikasi
+publications?
+proceedings?
