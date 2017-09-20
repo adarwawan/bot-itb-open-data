@@ -1,0 +1,1722 @@
+{
+  "link" : "https://fa.itb.ac.id/publikasi-2016/",
+  "fakultas" : "Sekolah Farmasi",
+  "jurusan" : "",
+  "class" : "publication",
+  "access_date" : "2017-06-14 17:22:11",
+  "data" :
+  [
+    {
+      "author": [
+        {
+          "family": "Wikaningtyas",
+          "given": "P."
+        },
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Retnoningrum",
+          "given": "D.S."
+        },
+        {
+          "family": "Parwati",
+          "given": "I."
+        }
+      ],
+      "title": "A multicenter surveillance and reporting of antimicrobial resistance: Focus on Ceftriaxone-resistant Escherichia coli in the year 2012 and 2013",
+      "journal": "International Journal of Pharmaceutical and Clinical Research",
+      "volume": "8",
+      "page": "685\u2013689",
+      "issue": "7",
+      "language": "it",
+      "id": "wikaningtyas-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Ismaya",
+          "given": "W.T."
+        },
+        {
+          "family": "Yunita",
+          "given": "Efthyani"
+        },
+        {
+          "family": "A.",
+          "given": "Lai"
+        },
+        {
+          "family": "X.",
+          "given": "Retnoningrum"
+        },
+        {
+          "family": "D.S",
+          "given": "Rachmawati"
+        },
+        {
+          "family": "H.",
+          "given": "Dijkstra"
+        },
+        {
+          "family": "B.W.",
+          "given": "Tjandrawinata"
+        },
+        {
+          "family": "R.R."
+        }
+      ],
+      "title": "A novel immune-tolerable and permeable lectin-like protein from mushroom Agaricus bisporus",
+      "journal": "Biochemical and Biophysical Research Communications",
+      "volume": "473",
+      "page": "1090\u20131093",
+      "issue": "4",
+      "language": "en",
+      "id": "ismaya-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Hamzah",
+          "given": "N."
+        },
+        {
+          "family": "Tjahjono",
+          "given": "D.H."
+        }
+      ],
+      "title": "A quantitative structure-activity relationship study, compound development, pharmacophore feature, and molecular docking of pyrazolo-[3,4-d]-pyrimidine derivatives as mer tyrosine kinase inhibitor",
+      "journal": "International Journal of ChemTech Research",
+      "language": "en",
+      "id": "hamzah-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Herdwiani",
+          "given": "W."
+        },
+        {
+          "family": "Soemardji",
+          "given": "A.A."
+        },
+        {
+          "family": "Elfahmi",
+          "given": "Tan"
+        },
+        {
+          "family": "M.I."
+        }
+      ],
+      "title": "A review of cinnamon as a potent anticancer drug",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "volume": "9",
+      "page": "8\u201313",
+      "issue": "3",
+      "language": "en",
+      "id": "herdwiani-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Kurniati",
+          "given": "N.F."
+        },
+        {
+          "family": "Wikaningtyas",
+          "given": "P."
+        },
+        {
+          "family": "Agprikani",
+          "given": "D."
+        }
+      ],
+      "title": "Antibacterial interaction of combination of ethanolic extract of Zingiber officinale var rubrum rhizome, Boesenbergia pandurata rhizome, and Stevia rebaudiana leaves with certain antibiotics against infectious mouth microbial",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "volume": "9",
+      "page": "311\u2013314",
+      "issue": "1",
+      "language": "en",
+      "id": "sukandar-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Aligita",
+          "given": "W."
+        },
+        {
+          "family": "Kurniati",
+          "given": "N.F."
+        },
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        }
+      ],
+      "title": "Antidiabetic study of combination of andrographis paniculata (Burm. F.) wallich. ex nees. herbs extract and guazuma ulmifolia lamk. leaves extract in obese diabetic mice model",
+      "journal": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "volume": "8",
+      "page": "316\u2013320",
+      "issue": "1",
+      "language": "en",
+      "id": "aligita-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Wahyuningsih",
+          "given": "S."
+        },
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Sukrasno",
+          "given": "Lofika"
+        },
+        {
+          "family": "D.N."
+        }
+      ],
+      "title": "Antihyperuricemia activity of the ethanol extract of roselle calyx and its fraction (Hibiscus sabdariffa Linn) on male wistar rats",
+      "journal": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "volume": "8",
+      "page": "278\u2013280",
+      "issue": "3",
+      "language": "en",
+      "id": "wahyuningsih-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Kurniati",
+          "given": "N.F."
+        },
+        {
+          "family": "Nurdianti",
+          "given": "A.N."
+        }
+      ],
+      "title": "Antiobesity effect of ethanol extract of Anredera cordifolia (Ten) steenis leaves on obese male wistar rats induced by high-carbohydrate diet",
+      "journal": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "volume": "8",
+      "page": "171\u2013173",
+      "issue": "4",
+      "language": "en",
+      "id": "sukandar-b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        },
+        {
+          "family": "Amaliah",
+          "given": "A."
+        },
+        {
+          "family": "Sukrasno"
+        }
+      ],
+      "title": "Antioxidant activities evaluation of citrus leaves extracts from west Java-Indonesia using DPPH and FRAP assays",
+      "journal": "International Journal of Pharmacognosy and Phytochemical Research",
+      "language": "en",
+      "id": "fidrianny-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        },
+        {
+          "family": "Paramitha",
+          "given": "K."
+        },
+        {
+          "family": "Kusmardiyani",
+          "given": "S."
+        }
+      ],
+      "title": "Antioxidant activities from various leaves extracts of three cultivars of papaya from west Java-Indonesia",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "language": "en",
+      "id": "fidrianny-b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        },
+        {
+          "family": "Annisa",
+          "given": "Ruslan"
+        },
+        {
+          "family": "K."
+        }
+      ],
+      "title": "Antioxidant activities of arabica green coffee from three regions using ABTS and DPPH assays",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "language": "en",
+      "id": "fidrianny-c",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        },
+        {
+          "family": "Puspitaningrum",
+          "given": "D.A."
+        },
+        {
+          "family": "Ruslan",
+          "given": "K."
+        }
+      ],
+      "title": "Antioxidant capacities of various grains extracts of three kinds of rice grown in Central Java-Indonesia",
+      "journal": "International Journal of Pharmacognosy and Phytochemical Research",
+      "language": "es",
+      "id": "fidrianny-d",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Kusmardiyani",
+          "given": "S."
+        },
+        {
+          "family": "Alfianti",
+          "given": "F."
+        },
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        }
+      ],
+      "title": "Antioxidant profile and phytochemical content of three kinds of lemon grass grown in west Java-Indonesia",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "language": "es",
+      "id": "kusmardiyani-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Rachmawati",
+          "given": "H."
+        },
+        {
+          "family": "Sulastri",
+          "given": "E."
+        },
+        {
+          "family": "Iwo",
+          "given": "M.I."
+        },
+        {
+          "family": "Safitri",
+          "given": "D."
+        },
+        {
+          "family": "Rahma",
+          "given": "A."
+        }
+      ],
+      "title": "Bromelain encapsulated in self assembly nanoemulsion exhibits better debridement effect in animal model of burned skin",
+      "journal": "Journal of Nano Research",
+      "volume": "40",
+      "page": "158\u2013166",
+      "language": "en",
+      "id": "rachmawati-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Amalia",
+          "given": "L."
+        },
+        {
+          "family": "Zulfa",
+          "given": "I.M."
+        },
+        {
+          "family": "Soeroto",
+          "given": "A.Y."
+        }
+      ],
+      "title": "Comparative study of kanamycin and capreomycin on serum potassium level of multidrug resistance tuberculosis patientsat a hospital in Bandung, Indonesia",
+      "journal": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "volume": "8",
+      "page": "307\u2013310",
+      "issue": "1",
+      "language": "es",
+      "id": "amalia-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Dewi",
+          "given": "K.S."
+        },
+        {
+          "family": "Retnoningrum",
+          "given": "D.S."
+        },
+        {
+          "family": "Riani",
+          "given": "C."
+        },
+        {
+          "family": "Fuad",
+          "given": "A.M."
+        }
+      ],
+      "title": "Construction and periplasmic expression of the anti-EGFRvIII ScFv antibody gene in escherichia coli",
+      "journal": "Scientia Pharmaceutica",
+      "volume": "84",
+      "page": "141\u2013152",
+      "issue": "1",
+      "language": "en",
+      "id": "dewi-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Damayanti",
+          "given": "S."
+        },
+        {
+          "family": "Fernandez",
+          "given": "E.A."
+        },
+        {
+          "family": "Mahardhika",
+          "given": "A.B."
+        },
+        {
+          "family": "Apriantono",
+          "given": "T."
+        }
+      ],
+      "title": "Consumption study of supplement on member of gyms in bandung and qualitative analysis of steroid in selected supplement",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "volume": "9",
+      "page": "78\u201381",
+      "issue": "3",
+      "language": "en",
+      "id": "damayanti-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Rachmawati",
+          "given": "H."
+        },
+        {
+          "family": "Yanda",
+          "given": "Y.L."
+        },
+        {
+          "family": "Rahma",
+          "given": "A."
+        },
+        {
+          "family": "Mase",
+          "given": "N."
+        }
+      ],
+      "title": "Curcumin-loaded PLA nanoparticles: Formulation and physical evaluation",
+      "journal": "Scientia Pharmaceutica",
+      "volume": "84",
+      "page": "191\u2013202",
+      "issue": "1",
+      "language": "fr",
+      "id": "rachmawati-b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Megantara",
+          "given": "S."
+        },
+        {
+          "family": "Iwo",
+          "given": "M.I."
+        },
+        {
+          "family": "Levita",
+          "given": "J."
+        },
+        {
+          "family": "Ibrahim",
+          "given": "S."
+        }
+      ],
+      "title": "Determination of ligand position in aspartic proteases by correlating tanimoto coefficient and binding affinity with root mean square deviation",
+      "journal": "Journal of Applied Pharmaceutical Science",
+      "language": "en",
+      "id": "megantara-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Nugrahani",
+          "given": "I."
+        },
+        {
+          "family": "Mussadah",
+          "given": "M.V."
+        }
+      ],
+      "title": "Development and validation analysis of acyclovir tablet content determination method using FTIR",
+      "journal": "International Journal of Applied Pharmaceutics",
+      "language": "fr",
+      "id": "nugrahani-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Pamudji",
+          "given": "J.S."
+        },
+        {
+          "family": "Mauludin",
+          "given": "R."
+        },
+        {
+          "family": "Indriani",
+          "given": "N."
+        }
+      ],
+      "title": "Development of nanostructured lipid carrier formulation containing of retinyl palmitate",
+      "journal": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "volume": "8",
+      "page": "256\u2013260",
+      "issue": "2",
+      "language": "en",
+      "id": "pamudji-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Riyanti",
+          "given": "S."
+        },
+        {
+          "family": "Suganda",
+          "given": "A.G."
+        },
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        }
+      ],
+      "title": "Dipeptidyl peptidase-IV inhibitory activity of some Indonesian medicinal plants",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "volume": "9",
+      "page": "375\u2013377",
+      "issue": "2",
+      "language": "en",
+      "id": "riyanti-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Nurhikmah",
+          "given": "W."
+        },
+        {
+          "family": "Sumirtapura",
+          "given": "Y.C."
+        },
+        {
+          "family": "Pamudji",
+          "given": "J.S."
+        }
+      ],
+      "title": "Dissolution profile of mefenamic acid solid dosage forms in two compendial and biorelevant (FaSSIF) media",
+      "journal": "Scientia Pharmaceutica",
+      "volume": "84",
+      "page": "181\u2013190",
+      "issue": "1",
+      "language": "pt",
+      "id": "nurhikmah-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Purwidyaningrum",
+          "given": "I."
+        },
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        }
+      ],
+      "title": "Diuretic activity of different organs of matoa (Pometia pinnata) extracts and its influence on potassium and sodium levels",
+      "journal": "International Journal of Pharmacognosy and Phytochemical Research",
+      "volume": "8",
+      "page": "244\u2013247",
+      "issue": "2",
+      "language": "fr",
+      "id": "purwidyaningrum-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        },
+        {
+          "family": "Fitri",
+          "given": "A."
+        },
+        {
+          "family": "Hartati",
+          "given": "R."
+        }
+      ],
+      "title": "DPPH and ABTS scavenging activities of oolong tea from three regions in Indonesia",
+      "journal": "International Journal of Pharmacognosy and Phytochemical Research",
+      "language": "en",
+      "id": "fidrianny-e",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Mariani",
+          "given": "R."
+        },
+        {
+          "family": "Suganda",
+          "given": "A.G."
+        },
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        }
+      ],
+      "title": "Drug-drug interactions between griseofulvinand a new prenylated chalcone from elatostema parasiticum and its antibacterial activity nortriptylineat binding sites of bovine serum albumin",
+      "journal": "Pharmacologyonline",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "mariani2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Safitri",
+          "given": "D."
+        },
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Rachmamaryam",
+          "given": "S."
+        }
+      ],
+      "title": "Effect of ethanolic extract of breadfruit (Artocarpus altilis [Parkinson] fosberg) leaves on ameliorating renal function of rat",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "volume": "9",
+      "page": "200\u2013203",
+      "issue": "1",
+      "language": "en",
+      "id": "safitri-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Djalil",
+          "given": "A.D."
+        },
+        {
+          "family": "Istyastono",
+          "given": "E.P."
+        },
+        {
+          "family": "Ibrahim",
+          "given": "S."
+        },
+        {
+          "family": "Tjahjono",
+          "given": "D.H."
+        }
+      ],
+      "title": "Electronic absorption spectra of some photosensitizers bearing carboxylic acid groups: Insights from theory",
+      "journal": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "language": "en",
+      "id": "djalil-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        },
+        {
+          "family": "Kevin",
+          "given": "Hartati"
+        },
+        {
+          "family": "R."
+        }
+      ],
+      "title": "Evaluation of antioxidant activities of fruit extracts of chayote (Sechium edule [Jacq.] Swartz) grown in different sites in java-Indonesia",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "language": "en",
+      "id": "fidrianny-f",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Safitri",
+          "given": "D."
+        }
+      ],
+      "title": "Evaluation of teratogenic effect of tempuyung (Sonchus arvensis) extract on wistar rats",
+      "journal": "International Journal of Pharmacognosy and Phytochemical Research",
+      "volume": "8",
+      "page": "761\u2013766",
+      "issue": "5",
+      "language": "en",
+      "id": "sukandar-c",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Wikaningtyas",
+          "given": "P."
+        },
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        }
+      ],
+      "title": "Evaluation of the combined antibacterial activity of Kaempferia pandurata rhizome and Senna alata leaves against methicillin-resistant Staphylococcus aureus",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "language": "en",
+      "id": "wikaningtyas-b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Maryana",
+          "given": "W."
+        },
+        {
+          "family": "Rachmawati",
+          "given": "H."
+        },
+        {
+          "family": "Mudhakir",
+          "given": "D."
+        }
+      ],
+      "title": "Formation of Phytosome Containing Silymarin Using Thin Layer-Hydration Technique Aimed for Oral Delivery",
+      "event": "Materials Today: Proceedings",
+      "volume": "3",
+      "page": "855\u2013866",
+      "issue": "3",
+      "language": "en",
+      "id": "maryana-a",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Herdwiani",
+          "given": "W."
+        },
+        {
+          "family": "Soemardji",
+          "given": "A.A."
+        },
+        {
+          "family": "El-Fahmi",
+          "given": "Tan"
+        },
+        {
+          "family": "M.I."
+        }
+      ],
+      "title": "Gas chromatograph-mass spectrometer analysis and acute oral toxicity of Cinnamomum burmannii., Ness Ex Bl. essential oil",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "volume": "9",
+      "issue": "3",
+      "language": "it",
+      "id": "herdwiani-b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Ismaya",
+          "given": "W.T."
+        },
+        {
+          "family": "Yunita",
+          "given": "Damayanti"
+        },
+        {
+          "family": "S.",
+          "given": "Wijaya"
+        },
+        {
+          "family": "C.",
+          "given": "Tjandrawinata"
+        },
+        {
+          "family": "R.R.",
+          "given": "Retnoningrum"
+        },
+        {
+          "family": "D.S.",
+          "given": "Rachmawati"
+        },
+        {
+          "family": "H."
+        }
+      ],
+      "title": "In silico study to develop a lectin-like protein from mushroom agaricus bisporus for pharmaceutical application",
+      "journal": "Scientia Pharmaceutica",
+      "volume": "84",
+      "page": "203\u2013217",
+      "issue": "1",
+      "language": "en",
+      "id": "ismaya-b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Kurniati",
+          "given": "N.F."
+        },
+        {
+          "family": "Anggadiredja",
+          "given": "K."
+        },
+        {
+          "family": "Kamil",
+          "given": "A."
+        }
+      ],
+      "title": "In vitro antibacterial activity of kaempferia pandurata roxb. and curcuma xanthorrhiza roxb. extracts in combination with certain antibiotics against MSSA and MRSA",
+      "journal": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "volume": "8",
+      "page": "108\u2013111",
+      "issue": "1",
+      "language": "en",
+      "id": "sukandar-d",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        },
+        {
+          "family": "Elviana",
+          "given": "D."
+        },
+        {
+          "family": "Ruslan",
+          "given": "K."
+        }
+      ],
+      "title": "In vitro antioxidant activities in various beans extracts of five legumes from west of java-indonesia using DPPH and ABTS methods",
+      "journal": "International Journal of Pharmacognosy and Phytochemical Research",
+      "language": "en",
+      "id": "fidrianny-g",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        },
+        {
+          "family": "Wulandari",
+          "given": "E."
+        },
+        {
+          "family": "Hartati",
+          "given": "R."
+        }
+      ],
+      "title": "In vitro antioxidant activity of different organs extracts of corn grown in Cimahi-West Java-Indonesia",
+      "journal": "International Journal of Pharmacognosy and Phytochemical Research",
+      "language": "es",
+      "id": "fidrianny-h",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Hendriani",
+          "given": "R."
+        },
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Anggadiredja",
+          "given": "K."
+        },
+        {
+          "family": "Sukrasno"
+        }
+      ],
+      "title": "In Vitro evaluation of xanthine oxidase inhibitory activity of selected medicinal plants",
+      "journal": "International Journal of Pharmaceutical and Clinical Research",
+      "volume": "8",
+      "page": "235\u2013238",
+      "issue": "4",
+      "language": "en",
+      "id": "hendriani-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Rachmawati",
+          "given": "H."
+        },
+        {
+          "family": "Soraya",
+          "given": "I.S."
+        },
+        {
+          "family": "Kurniati",
+          "given": "N.F."
+        },
+        {
+          "family": "Rahma",
+          "given": "A."
+        }
+      ],
+      "title": "In vitro study on antihypertensive and antihypercholesterolemic effects of a curcumin nanoemulsion",
+      "journal": "Scientia Pharmaceutica",
+      "volume": "84",
+      "page": "131\u2013140",
+      "issue": "1",
+      "language": "de",
+      "id": "rachmawati-c",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Wahyuningsih",
+          "given": "S."
+        },
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Sukrasno"
+        }
+      ],
+      "title": "\u201cIn vitro xanthine oxidase inhibitor activity of ethanol extract and fraction Roselle calyx (Hibiscus sabdariffa L.)",
+      "journal": "International Journal of Pharmaceutical and Clinical Research",
+      "volume": "8",
+      "page": "619\u2013622",
+      "issue": "6",
+      "language": "en",
+      "id": "wahyuningsih-b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Ruslan",
+          "given": "K."
+        },
+        {
+          "family": "Nurfitri",
+          "given": "A."
+        },
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        }
+      ],
+      "title": "Influence of processing in two cultivar of Carica papaya from West Java-Indonesia to antioxidant activities, total phenolic, flavonoid and carotenoid content",
+      "journal": "International Journal of Pharmacognosy and Phytochemical Research",
+      "language": "en",
+      "id": "ruslan-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Rahma",
+          "given": "A."
+        },
+        {
+          "family": "Munir",
+          "given": "M.M."
+        },
+        {
+          "family": "Khairurrijal",
+          "given": "Prasetyo"
+        },
+        {
+          "family": "A.",
+          "given": "Suendo"
+        },
+        {
+          "family": "V.",
+          "given": "Rachmawati"
+        },
+        {
+          "family": "H."
+        }
+      ],
+      "title": " Intermolecular Interactions and the Release Pattern of Electrospun Curcumin-Polyvinyl(pyrrolidone) Fiber",
+      "journal": "Biological and Pharmaceutical Bulletin",
+      "volume": "39",
+      "page": "163\u2013173",
+      "issue": "2",
+      "language": "en",
+      "id": "rahma-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Soemardji",
+          "given": "A.A."
+        },
+        {
+          "family": "Umar",
+          "given": "M.H."
+        },
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        }
+      ],
+      "title": "Lipid profile and platelet aggregation of ethanolic seed extract of avocado (Persea Americana Mill.) in hyperlipidemic male wistar rat",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "volume": "9",
+      "page": "108\u2013112",
+      "issue": "1",
+      "language": "en",
+      "id": "soemardji-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sitepu",
+          "given": "R."
+        },
+        {
+          "family": "Retnoningrum",
+          "given": "D.S."
+        },
+        {
+          "family": "Tjandrawinata",
+          "given": "R.R."
+        }
+      ],
+      "title": "Molecular analysis of gene expression related to the effects of DLBS3233 treatment in differentiation of 3T3-L1 Pre-Adipocyte",
+      "journal": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "volume": "8",
+      "page": "350\u2013355",
+      "issue": "5",
+      "language": "en",
+      "id": "sitepu-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Hiendrawan",
+          "given": "S."
+        },
+        {
+          "family": "Veriansyah",
+          "given": "B."
+        },
+        {
+          "family": "Widjojokusumo",
+          "given": "E."
+        },
+        {
+          "family": "Soewandhi",
+          "given": "S.N."
+        },
+        {
+          "family": "Wikarsa",
+          "given": "S."
+        },
+        {
+          "family": "Tjandrawinata",
+          "given": "R.R."
+        }
+      ],
+      "title": "Physicochemical and mechanical properties of paracetamol cocrystal with 5-nitroisophthalic acid",
+      "journal": "International Journal of Pharmaceutics",
+      "volume": "497",
+      "page": "1\u20132",
+      "language": "en",
+      "id": "hiendrawan-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Maryana",
+          "given": "W."
+        },
+        {
+          "family": "Rahma",
+          "given": "A."
+        },
+        {
+          "family": "Mudhakir",
+          "given": "D."
+        },
+        {
+          "family": "Rachmawati",
+          "given": "H."
+        }
+      ],
+      "title": "Phytosome Containing Silymarin for Oral Administration: Formulation and physical evaluation",
+      "journal": "Journal of Biomimetics, Biomaterials and Biomedical Engineering",
+      "volume": "25",
+      "page": "54\u201365",
+      "language": "en",
+      "id": "maryana-b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Anindyajati",
+          "given": "Anita Artarini"
+        },
+        {
+          "family": "A.",
+          "given": "Riani"
+        },
+        {
+          "family": "C.",
+          "given": "Retnoningrum"
+        },
+        {
+          "family": "D.S."
+        }
+      ],
+      "title": "Plasmid copy number determination by quantitative polymerase chain reaction",
+      "journal": "Scientia Pharmaceutica",
+      "volume": "84",
+      "page": "89\u2013101",
+      "issue": "1",
+      "language": "en",
+      "id": "anindyajati-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Hasimun",
+          "given": "P."
+        },
+        {
+          "family": "Adnyana",
+          "given": "I.K."
+        },
+        {
+          "family": "Valentina",
+          "given": "R."
+        },
+        {
+          "family": "Lisnasari",
+          "given": "E."
+        }
+      ],
+      "title": "Potential alpha-glucosidase inhibitor from selected zingiberaceae family",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "volume": "9",
+      "page": "141\u2013144",
+      "issue": "1",
+      "language": "en",
+      "id": "hasimun-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Garmana",
+          "given": "A.N."
+        },
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        }
+      ],
+      "title": "Preliminary study of blood pressure lowering effect of Anredera cordifolia (Ten.) steenis) on Wistar rats\u201d",
+      "journal": "International Journal of Pharmacognosy and Phytochemical Research",
+      "volume": "8",
+      "page": "300\u2013304",
+      "issue": "2",
+      "language": "en",
+      "id": "garmana-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Prawiro",
+          "given": "W.S."
+        },
+        {
+          "family": "Asyarie",
+          "given": "S."
+        },
+        {
+          "family": "Wikarsa",
+          "given": "S."
+        }
+      ],
+      "title": "Preparation and characterization of gliclazide solid dispersion in binary and ternary system",
+      "journal": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "volume": "8",
+      "page": "363\u2013368",
+      "issue": "8",
+      "language": "en",
+      "id": "prawiro-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Amalia",
+          "given": "L."
+        },
+        {
+          "family": "Anggadireja",
+          "given": "K."
+        },
+        {
+          "family": "Aprami",
+          "given": "T.M."
+        },
+        {
+          "family": "Septiani",
+          "given": "V."
+        }
+      ],
+      "title": "Prevalence of adverse drug reactions in CAD STEMI patients treated in the cardiac intensive care unit at the public hospital in Bandung, Indonesia",
+      "journal": "Scientia Pharmaceutica",
+      "volume": "84",
+      "page": "167\u2013179",
+      "issue": "1",
+      "language": "en",
+      "id": "amalia-b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Abuzaid",
+          "given": "A.S."
+        },
+        {
+          "family": "Iskandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Kurniati",
+          "given": "N.F."
+        },
+        {
+          "family": "Adnyana",
+          "given": "I.K."
+        }
+      ],
+      "title": "Prevention of obesity and development of metabolic syndrome by mangosteen (Garcinia Mangostana L) pericarp ethanolic extract in male wistar rats fed with High-Fat diet ",
+      "journal": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "volume": "8",
+      "page": "372\u2013378",
+      "issue": "5",
+      "language": "en",
+      "id": "abuzaid-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Adnyana",
+          "given": "I.K."
+        },
+        {
+          "family": "Christopher",
+          "given": "W."
+        }
+      ],
+      "title": "Preventive effect of jasmine flower ethanol extract on MSG-high fat diet induced in male wistar rats\u201d",
+      "journal": "International Journal of Pharmacognosy and Phytochemical Research",
+      "volume": "8",
+      "page": "1066\u20131070",
+      "issue": "7",
+      "language": "en",
+      "id": "adnyana-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Abuzaid",
+          "given": "A.S."
+        },
+        {
+          "family": "Iskandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Kurniati",
+          "given": "N.F."
+        },
+        {
+          "family": "Adnyana",
+          "given": "I.K."
+        }
+      ],
+      "title": "Preventive effect on obesity of mangosteen (Garcinia mangostana L.) pericarp ethanolic extract by reduction of fatty acid synthase level in monosodium glutamate and high-calorie diet-induced male wistar rats",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "volume": "9",
+      "issue": "3",
+      "language": "en",
+      "id": "abuzaid-b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Rachmawati",
+          "given": "H."
+        },
+        {
+          "family": "Jessica",
+          "given": "A."
+        },
+        {
+          "family": "Sumirtaputra",
+          "given": "Y.C."
+        },
+        {
+          "family": "Retnoningrum",
+          "given": "D.S."
+        },
+        {
+          "family": "Adlia",
+          "given": "A."
+        },
+        {
+          "family": "Ningrum",
+          "given": "R.A."
+        }
+      ],
+      "title": "Removing a cystein group on interferon alpha 2b at position 2 and 99 does not diminish antitumor activity of the protein, even better",
+      "journal": "Scientia Pharmaceutica",
+      "volume": "84",
+      "page": "113\u2013130",
+      "issue": "1",
+      "language": "en",
+      "id": "rachmawati-d",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Lestari",
+          "given": "M.W."
+        },
+        {
+          "family": "Soemardji",
+          "given": "A.A."
+        },
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        }
+      ],
+      "title": "Review of traditional use, pharmacological effects, and toxicity of medicinal plants for women\u2019s health in Indonesia",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "volume": "9",
+      "page": "32\u201337",
+      "issue": "1",
+      "language": "en",
+      "id": "lestari-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Hiendrawan",
+          "given": "S."
+        },
+        {
+          "family": "Veriansyah",
+          "given": "B."
+        },
+        {
+          "family": "Widjojokusumo",
+          "given": "E."
+        },
+        {
+          "family": "Soewandhi",
+          "given": "S.N."
+        },
+        {
+          "family": "Wikarsa",
+          "given": "S."
+        },
+        {
+          "family": "Tjandrawinata",
+          "given": "R.R."
+        }
+      ],
+      "title": "Simultaneous cocrystallization and micronization of paracetamol-dipicolinic acid cocrystal by supercritical antisolvent (SAS)",
+      "journal": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "volume": "8",
+      "page": "89\u201398",
+      "issue": "2",
+      "language": "it",
+      "id": "hiendrawan-b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Virginia",
+          "given": "A."
+        },
+        {
+          "family": "Rachmawati",
+          "given": "H."
+        },
+        {
+          "family": "Riani",
+          "given": "C."
+        },
+        {
+          "family": "Retnoningrum",
+          "given": "D.S."
+        }
+      ],
+      "title": "Study of HMG-CoA Reductase Inhibition Activity of the Hydrolyzed Product of Snakehead Fish (Channa striata) Skin Collagen with 50 kDa Collagenase from Bacillus licheniformis F11.4",
+      "journal": "Scientia Pharmaceutica",
+      "volume": "84",
+      "page": "81\u201388",
+      "issue": "1",
+      "language": "en",
+      "id": "virginia-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Fidrianny",
+          "given": "I."
+        },
+        {
+          "family": "Nofianti",
+          "given": "T."
+        },
+        {
+          "family": "Safitri",
+          "given": "D."
+        }
+      ],
+      "title": "Subchronic toxicity study of corn silk (Zea mays l.) in combination with binahong (Anredera cordifolia (Ten.)) steenis leaves on wistar rats",
+      "journal": "Asian Journal of Pharmaceutical and Clinical Research",
+      "volume": "9",
+      "page": "274\u2013278",
+      "issue": "1",
+      "language": "en",
+      "id": "sukandar-e",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Tofiana",
+          "given": "F.A."
+        },
+        {
+          "family": "I.",
+          "given": "Immaculata"
+        },
+        {
+          "family": "M.",
+          "given": "Elfahmi"
+        },
+        {
+          "family": "Kartasasmita",
+          "given": "R.E."
+        }
+      ],
+      "title": "Synthesis of stigmasteryl oleate, palmitate and stearate applying ethyl chloroformate as activator",
+      "journal": "Journal of Chemical and Pharmaceutical Research",
+      "language": "en",
+      "id": "tofiana-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Permana",
+          "given": "B."
+        },
+        {
+          "family": "Ohba",
+          "given": "T."
+        },
+        {
+          "family": "Itoh",
+          "given": "T."
+        },
+        {
+          "family": "Kanoh",
+          "given": "H."
+        }
+      ],
+      "title": "Systematic sorption studies of camptothecin on oxidized single-walled carbon nanotubes",
+      "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+      "volume": "490",
+      "page": "121\u2013132",
+      "language": "en",
+      "id": "permana-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Wikaningtyas",
+          "given": "P."
+        },
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        }
+      ],
+      "title": "The antibacterial activity of selected plants towards resistant bacteria isolated from clinical specimens",
+      "journal": "Asian Pacific Journal of Tropical Biomedicine",
+      "volume": "6",
+      "page": "16\u201319",
+      "issue": "1",
+      "language": "en",
+      "id": "wikaningtyas-c",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Rahman",
+          "given": "H."
+        },
+        {
+          "family": "Sitompul",
+          "given": "J.P."
+        },
+        {
+          "family": "Anggadiredja",
+          "given": "K."
+        },
+        {
+          "family": "Lee",
+          "given": "H.W."
+        },
+        {
+          "family": "Gusdinar",
+          "given": "T."
+        }
+      ],
+      "title": "The stereospecific analysis of Canarium indicum oil-fatty acid based in triglycerides using high-performance liquid chromatography",
+      "journal": "International Journal of Pharmaceutical and Clinical Research",
+      "volume": "8",
+      "page": "403\u2013406",
+      "issue": "5",
+      "language": "en",
+      "id": "rahman-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Rachmawati",
+          "given": "H."
+        },
+        {
+          "family": "Safitri",
+          "given": "D."
+        },
+        {
+          "family": "Pradana",
+          "given": "A.T."
+        },
+        {
+          "family": "Adnyana",
+          "given": "I.K."
+        }
+      ],
+      "title": "TPGS-stabilized curcumin nanoparticles exhibit superior effect on carrageenan-induced inflammation in wistar rat",
+      "journal": "Pharmaceutics",
+      "volume": "8",
+      "issue": "3",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            24
+          ]
+        ]
+      },
+      "id": "rachmawati-e",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Retnoningrum",
+          "given": "D.S."
+        },
+        {
+          "family": "Rahayu",
+          "given": "A.P."
+        },
+        {
+          "family": "Mulyanti",
+          "given": "D."
+        },
+        {
+          "family": "Dita",
+          "given": "A."
+        },
+        {
+          "family": "Valerius",
+          "given": "O."
+        },
+        {
+          "family": "Ismaya",
+          "given": "W.T."
+        }
+      ],
+      "title": "Unique Characteristics of Recombinant Hybrid Manganese Superoxide Dismutase from Staphylococcus equorum and S. saprophyticus",
+      "journal": "Protein Journal",
+      "volume": "35",
+      "page": "136\u2013144",
+      "issue": "2",
+      "language": "en",
+      "id": "retnoningrum-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sukandar",
+          "given": "E.Y."
+        },
+        {
+          "family": "Ridwan",
+          "given": "A."
+        },
+        {
+          "family": "Sukmawan",
+          "given": "Y.P."
+        }
+      ],
+      "title": "Vasodilatation effect of ethanolic extract of Anredera cordifolia, Sonchus arvensis L, and Ursolic acid on isolated rabbit aortic and frog heart",
+      "journal": "International Journal of Pharmacy and Pharmaceutical Sciences",
+      "volume": "8",
+      "page": "145\u2013149",
+      "issue": "2",
+      "language": "en",
+      "id": "sukandar-f",
+      "type": "article-journal"
+    }
+  ]
+}

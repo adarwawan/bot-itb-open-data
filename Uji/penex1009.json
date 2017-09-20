@@ -1,0 +1,168 @@
+{
+  "link" : "http://www.fti.itb.ac.id/jurnal-nasional-2015",
+  "fakultas" : "Fakultas Teknologi Industri",
+  "jurusan" : "",
+  "class" : "publication",
+  "access_date" : "2017-06-13 17:56:11",
+  "data" :
+  [
+    {
+      "author": [
+        {
+          "family": "Suprayogi",
+          "given": "Hery Ramdhani"
+        }
+      ],
+      "title": "Model Optimasi untuk Penjadwalan Ulang Perjalanan Kereta Api",
+      "journal": "Jurnal Teknik Industri",
+      "volume": "17",
+      "page": "97\u2013104",
+      "ISBN": "1411-2485",
+      "issue": "2",
+      "language": "fi",
+      "issued": {
+        "date-parts": [
+          [
+            2015
+          ]
+        ]
+      },
+      "id": "suprayogi2015a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Suprayogi",
+          "given": "Valentine"
+        }
+      ],
+      "title": "Teknik Relaksasi Lagrange untuk Penjadwalan Pekerjaan Majemuk dengan Penggunaan Sumberdaya Simultan",
+      "journal": "Jurnal Teknik Industri",
+      "volume": "17",
+      "page": "71\u201380",
+      "ISBN": "1411-2485",
+      "issue": "2",
+      "language": "fi",
+      "issued": {
+        "date-parts": [
+          [
+            2015
+          ]
+        ]
+      },
+      "id": "suprayogi2015b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Govindaraju",
+          "given": "Rajesri"
+        },
+        {
+          "family": "Akbar",
+          "given": "Muhammad I."
+        }
+      ],
+      "title": "Leksananto Gondodiwiryo, Tota Simatupang, \u201cThe Application of a Decision making Approach based on Fuzzy ANP and TOPSIS for Selecting Strategic Supplier\u201d",
+      "journal": "International Journal of Engineering and Technological Sciences",
+      "volume": "47",
+      "page": "406\u2013425",
+      "unknown": "terakreditasi Dikti November 2011 s.d. November 2016",
+      "issue": "4 2015",
+      "language": "en",
+      "id": "govindaraju-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Hadisupadmo",
+          "given": "Sutanto"
+        },
+        {
+          "family": "Nugroho",
+          "given": "Arista"
+        },
+        {
+          "family": "Widyotriatmo",
+          "given": "Augie"
+        }
+      ],
+      "title": "A Small Signal State Space Model of Inverter-based Microgrid Control on Signal Phase AC Power System",
+      "unknown": "Acceptes in",
+      "journal": "Internetworking Indonesia Journal",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2015
+          ]
+        ]
+      },
+      "id": "hadisupadmo2015a",
+      "type": "chapter"
+    },
+    {
+      "author": [
+        {
+          "family": "Hartanto",
+          "given": "Yansen"
+        },
+        {
+          "family": "Adhi",
+          "given": "Tri Partono"
+        },
+        {
+          "family": "Indarto",
+          "given": "Antonius"
+        }
+      ],
+      "title": "Evaluasi Kesetimbangan Kelarutan Gas Karbon Dioksida (CO2) Dalam Pelarut Alkanolamina Menggunakan Simulator Proses",
+      "journal": "Jurnal Teknik Kimia USU",
+      "volume": "4",
+      "issue": "4",
+      "language": "es",
+      "issued": {
+        "date-parts": [
+          [
+            2015
+          ]
+        ]
+      },
+      "id": "hartanto2015a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Purwasasmita",
+          "given": "Mubiar"
+        },
+        {
+          "family": "Khairul Hadi",
+          "non-dropping-particle": "dan"
+        }
+      ],
+      "title": "Model Hidrodinamika Bioreaktor Tanaman: Konsep Permeabilitas",
+      "journal": "Jurnal Reaktor",
+      "volume": "15",
+      "page": "154\u2013164",
+      "URL": "http:\/\/ejournal.undip.ac.id",
+      "unknown": "terakreditasi Dikti No. 66b\/DIKTI\/Kep\/2011",
+      "issue": "3",
+      "language": "es",
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            4
+          ]
+        ]
+      },
+      "id": "purwasasmita2015a",
+      "type": "article-journal"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "link" : "http://www.fti.itb.ac.id/8899.xhtml",
+  "fakultas" : "Fakultas Teknologi Industri",
+  "jurusan" : "",
+  "class" : "publication",
+  "access_date" : "2017-06-13 21:34:11",
+  "data" :
+  [
+    {
+      "author": [
+        {
+          "family": "Gunawan",
+          "given": "H.A.Tjokronegoro"
+        },
+        {
+          "family": "Leksono",
+          "given": "E."
+        },
+        {
+          "family": "Nugraha"
+        }
+      ],
+      "title": "Non-Adiabatic Condition on the Natural Gas Energy Custody Transfer Using Office Flow Meter",
+      "journal": "MAPAN-Journal of Metrology Society of India",
+      "publisher": "Springer",
+      "volume": "30",
+      "page": "77\u201384",
+      "DOI": "DOI 10.1007\/s12647-015-0132-6",
+      "issue": "2",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            6
+          ]
+        ]
+      },
+      "id": "gunawan2015a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Simamora",
+          "given": "Y.S.M."
+        },
+        {
+          "family": "Tjokronegoro",
+          "given": "H.A."
+        },
+        {
+          "family": "Leksono",
+          "given": "E."
+        }
+      ],
+      "title": "On active surge control of compression systems via characteristic linearization and model nonlinearity cancellation",
+      "journal": "Journal of Engineering and Technological Sciences",
+      "volume": "46",
+      "page": "342\u2013359",
+      "issue": "3",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      },
+      "id": "simamora2014a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Barus",
+          "given": "R.P.P."
+        },
+        {
+          "family": "Tjokronegoro",
+          "given": "H.A."
+        },
+        {
+          "family": "Leksono",
+          "given": "E."
+        },
+        {
+          "family": "Ismunandar"
+        }
+      ],
+      "title": "Nonlinear modelling of polymer electrolyte membrane fuel cell stack using nonlinear cancellation technique",
+      "event": "AIP Conference Proceedings",
+      "volume": "1617",
+      "page": "71\u201374",
+      "unknown": "Code 109683",
+      "unmatched-event": "3rd International Conference on Theoretical and Applied Physics 2013, ICTAP 2013;",
+      "language": "es",
+      "publisher-place": "Malang, East Java; Indonesia",
+      "event-place": "Malang, East Java; Indonesia",
+      "issued": {
+        "date-parts": [
+          [
+            2014,
+            10,
+            10
+          ]
+        ]
+      },
+      "id": "barus2014a",
+      "type": "paper-conference"
+    }
+  ]
+}

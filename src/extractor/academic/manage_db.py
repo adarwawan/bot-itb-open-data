@@ -15,5 +15,5 @@ class DBManager(object):
       self.collection = self.db['data_research']
 
   def insertDoc(self, rjson):
-    post_id = self.collection.update_one({ 'url': rjson['url'] }, rjson, upsert= True )   
-    print(post_id)
+    post_id = self.collection.replace_one({ 'url': rjson['url'] }, rjson, upsert= True )   
+    print("#### SUCCESS GET DATA FROM: " + rjson['url'] + " ####")

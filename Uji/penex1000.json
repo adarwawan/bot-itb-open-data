@@ -1,0 +1,108 @@
+{
+  "link" : "https://www.stei.itb.ac.id/file/stei-script/bambanga.html",
+  "fakultas" : "Sekolah Teknik Elektro dan Informatika",
+  "jurusan" : "",
+  "class" : "publication",
+  "access_date" : "2017-06-13 11:23:11",
+  "data" :
+  [
+    {
+      "author": [
+        {
+          "family": "Anggoro",
+          "given": "B."
+        },
+        {
+          "family": "B",
+          "given": "Irman D."
+        }
+      ],
+      "title": "The Characteristics of Soil Which Is Treated by Salt Solution, and Water as The Basic of Grounding Diagnostics.",
+      "event": "Proceedings of the 2012 International Conference on Condition Monitoring and Diagnosis",
+      "ISBN": "978-1-4673-1020-8",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "anggoro2012a",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Anggoro",
+          "given": "B."
+        }
+      ],
+      "title": "The Concept of Grounding Impedance Diagnostics Method",
+      "event": "Proceedings of the 2012 International Conference on Condition Monitoring and Diagnosis",
+      "ISBN": "978-1-4673-1020-8",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "anggoro2012b",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Anggoro",
+          "given": "Bambang"
+        }
+      ],
+      "title": "The impedance characteristics and equipotential pattern in ground surface of horizontal and grid configuration of grounding systems which are injected by frequency variable alternating currents, ",
+      "container-title": "International Research Journal of Engineering Science, Technology and Innovation (IRJESTI)",
+      "volume": "2315",
+      "page": "17\u201328",
+      "issue": "5663",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            2
+          ]
+        ]
+      },
+      "id": "anggoro2013a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Anggoro",
+          "given": "Bambang"
+        }
+      ],
+      "title": "Impedance Characteristics of the Grounding Simulation for Grid and Combination of Grid-Rod Configuration which Injected by Variable Current Frequency",
+      "container-title": "International Journal of Electrical Engineering",
+      "ISBN": "0974-2158",
+      "volume": "6",
+      "page": "231\u2013240",
+      "issue": "2",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2013
+          ]
+        ]
+      },
+      "id": "anggoro2013b",
+      "type": "article-journal"
+    }
+  ]
+}

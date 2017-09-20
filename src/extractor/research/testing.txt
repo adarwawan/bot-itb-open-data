@@ -1,0 +1,2 @@
+{"author":[{"family":"Matheus","given":"Ian Joseph"}],"title":"Edward,\"Grid Computing Process Improvement through Computing Resource Scheduling Using Genetic Algorithm and Tabu","container-title":"Search Integration\",7th International Conference on Telecommunication Systems, Services and Applications (TSSA) 2012 Proc","page":"187–181","language":"","publisher-place":"Bali, Indonesia","id":"matheus2012a","issued":{"date-parts":[[2012,10]]},"type":"paper-conference","event-place":"Bali, Indonesia"}
+{"ISBN":"","page":"978–1","id":"unknown-a","type":"misc"}

@@ -203,7 +203,7 @@ class CRFLearner(object):
         return rs.grid_scores_, rs.best_params_, rs.best_score_
         
     def predictAtable(self, test_corpus, model_file):
-        print len(test_corpus)
+#       print len(test_corpus)
         X_test = [self.table2features(s) for s in test_corpus]
 #         Y_test = [self.table2labels(s) for s in test_corpus]
 #         print X_test
@@ -230,18 +230,3 @@ class CRFLearner(object):
         print(metrics.flat_classification_report(Y_test, y_pred, labels=sorted_labels, digits=3))
         print(confusion_matrix(Y_test, y_pred))
         return f1_score, seq_acc_score
-        
-# crf = CRFLearner(250,False)
-# train_file = "160_bpsitb.txt"
-# old_file_corpus = "-test-features.txt"
-# # model_file = "noyear_all_250_False.model"
-# model_file = "asam.model"
-# train_corpus = crf.prepareCorpus(train_file)
-# # test_corpus = crf.prepareATest(file_corpus)
-# # print test_corpus
-# crf.buildModel(train_corpus, train_corpus, model_file)
-# for i in xrange(0,10):
-#     crf = CRFLearner(250,False)
-#     file_corpus = str(i) + old_file_corpus
-#     test_corpus = crf.prepareATest(file_corpus)
-#     print crf.predictAtable([test_corpus], model_file)

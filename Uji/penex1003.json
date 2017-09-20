@@ -1,0 +1,321 @@
+{
+  "link" : "https://www.stei.itb.ac.id/file/stei-script/nhariyanto.html",
+  "fakultas" : "Sekolah Teknik Elektro dan Informatika",
+  "jurusan" : "",
+  "class" : "publication",
+  "access_date" : "2017-06-13 14:46:11",
+  "data" :
+  [
+    {
+      "author": [
+        {
+          "family": "Ikhsan",
+          "given": "M."
+        },
+        {
+          "family": "Purwadi",
+          "given": "Agus"
+        },
+        {
+          "family": "Hariyanto",
+          "given": "Nanang"
+        },
+        {
+          "family": "Heryana",
+          "given": "Nana"
+        },
+        {
+          "family": "Haroen",
+          "given": "Yanuarsyah"
+        }
+      ],
+      "title": "Study of Renewable Energy Sources Capacity and Loading Using Data Logger for Sizing of Solar-Wind Hybrid Power System",
+      "event": "The 4th International Conference of Electrical Engineering, Electronics and Informatics (ICEEI 2013",
+      "language": "en",
+      "publisher-place": "Selangor, Malaysia",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            6,
+            24
+          ]
+        ]
+      },
+      "id": "ikhsan2013a",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "Cahyonoa",
+          "given": "Marwah"
+        },
+        {
+          "family": "Tarid",
+          "given": "Yenni"
+        },
+        {
+          "family": "Nurdin",
+          "given": "Masaki Nagata Muhammad"
+        },
+        {
+          "family": "Hariyanto",
+          "given": "Nanang"
+        }
+      ],
+      "title": "Use of Shunt Compensator to Enhance Power Transfer Capability Limit, Case: Jawa Bali 500kV System Grid",
+      "event": "The 4th International Conference of Electrical Engineering, Electronics and Informatics (ICEEI 2013",
+      "language": "en",
+      "publisher-place": "Selangor, Malaysia",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            6,
+            24
+          ]
+        ]
+      },
+      "id": "cahyonoa2013a",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "Tarida",
+          "given": "Yenni"
+        },
+        {
+          "family": "Cahyonoa",
+          "given": "Marwah"
+        },
+        {
+          "family": "Yamashita",
+          "given": "Koji"
+        },
+        {
+          "family": "Nurdin",
+          "given": "Muhammad"
+        },
+        {
+          "family": "Hariyanto",
+          "given": "Nanang"
+        }
+      ],
+      "title": "Insertion of 275 kV Network in Jawa Bali System - Jakarta Area Case Study",
+      "event": "The 4th International Conference of Electrical Engineering, Electronics and Informatics (ICEEI 2013",
+      "language": "en",
+      "publisher-place": "Selangor, Malaysia",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            6,
+            24
+          ]
+        ]
+      },
+      "id": "tarida2013a",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "Nurdin",
+          "given": "Muhammad"
+        },
+        {
+          "family": "Hariyanto",
+          "given": "Nanang"
+        },
+        {
+          "family": "Sasmono",
+          "given": "Sudarmono"
+        },
+        {
+          "family": "Rahmani",
+          "given": "Rizky"
+        },
+        {
+          "family": "Armaini",
+          "given": "Ricky Faizal"
+        }
+      ],
+      "title": "Fix Series Capacitor for Increasing Power Transfer on Transmission 150 kV at Sumatera Interconection System",
+      "event": "Proceedings of the 2012 International Conference on Condition Monitoring and Diagnosis",
+      "ISBN": "978-1-4673-1020-8",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "nurdin2012a",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Rahman",
+          "given": "Fathin Saifur"
+        },
+        {
+          "family": "Hariyanto",
+          "given": "Nanang"
+        },
+        {
+          "family": "Nurdin",
+          "given": "Muhammad"
+        }
+      ],
+      "title": "An Approach of Generator Coherency for Underfrequency Load Shedding and Islanding Mechanism: Study on Sulawesi Selatan-Tenggara-Barat (Sulselrabar) System, Sulawesi, Indonesia ",
+      "event": "Proceedings of the 2012 International Conference on Condition Monitoring and Diagnosis",
+      "ISBN": "978-1-4673-1020-8",
+      "language": "de",
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "rahman2012a",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Cahyono",
+          "given": "Bambang"
+        },
+        {
+          "family": "Suwarno",
+          "given": "Nanang Hariyanto"
+        },
+        {
+          "family": "Takahashi",
+          "given": "Tsuguhiro"
+        },
+        {
+          "family": "Okamoto",
+          "given": "Tatsuki"
+        }
+      ],
+      "title": "Influence of Insulation Paper Degradation on Economical Operation Period of Power Transformers",
+      "event": "Proceedings of the 2012 International Conference on Condition Monitoring and Diagnosis",
+      "ISBN": "978-1-4673-1020-8",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "cahyono2012a",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "N.S.",
+          "given": "Hanung"
+        },
+        {
+          "family": "Suwarno",
+          "given": "Nanang H."
+        }
+      ],
+      "title": "Degree of Polymerization Estimation of Insulation Papers in Power Transformers Based on Load and Temperature Histories in Java-Bali Region of Indonesia National Electric Company",
+      "event": "Proceedings of the 2012 International Conference on Condition Monitoring and Diagnosis",
+      "ISBN": "978-1-4673-1020-8",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "n2012a",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Cahyono",
+          "given": "Bambang"
+        },
+        {
+          "family": "Takahashi",
+          "given": "Tsuguhiro"
+        },
+        {
+          "family": "Okamoto",
+          "given": "Tatsuki"
+        },
+        {
+          "family": "Suwarno",
+          "given": "Nanang Hariyanto"
+        }
+      ],
+      "title": "Analysis of Economical Service Period for Power Transformers",
+      "event": "Proceedings of the 2012 International Conference on Power Engineering and Renewable Energy",
+      "ISBN": "978-1-4673-2469-8",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            7,
+            3
+          ]
+        ]
+      },
+      "id": "cahyono2012b",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Sabri",
+          "given": "Yusra"
+        },
+        {
+          "family": "Hariyanto",
+          "given": "Nanang"
+        },
+        {
+          "family": "Fitriana"
+        }
+      ],
+      "title": "Spatial Short-Term Load Forecasting using Grey Dynamic Model Specific in Tropical Area",
+      "event": "International Conference on Electrical Engineering and Informatics (ICEEI 2011",
+      "ISBN": "978-1-4577-0750-6",
+      "unknown": "IEEE Catalog Number: CFP1177H-PRT",
+      "language": "es",
+      "issued": {
+        "date-parts": [
+          [
+            2011,
+            7,
+            17
+          ]
+        ]
+      },
+      "id": "sabri2011a",
+      "type": "misc"
+    }
+  ]
+}

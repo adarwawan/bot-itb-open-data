@@ -1,1 +1,0 @@
-{"table_notes": "", "table_title": "", "table_data": {"row-2": {"toponym": ""}, "row-3": {"toponym": ""}, "row-0": {"toponym": ""}, "row-1": {"toponym": ""}}}

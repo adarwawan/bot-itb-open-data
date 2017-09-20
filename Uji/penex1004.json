@@ -1,0 +1,167 @@
+{
+  "link" : "https://www.stei.itb.ac.id/file/stei-script/imam.html",
+  "fakultas" : "Sekolah Teknik Elektro dan Informatika",
+  "jurusan" : "",
+  "class" : "publication",
+  "access_date" : "2017-06-13 14:52:11",
+  "data" :
+  [
+    {
+      "title": "Agent-Message Based Multi-IO Application Framework Development",
+      "author": [
+        {
+          "family": "Muqtafi",
+          "given": "Ahmad"
+        },
+        {
+          "family": "Liem",
+          "given": "Inggriani",
+        },
+        {
+          "family": "Kistijantoro",
+          "given": "Achmad Imam",
+        }
+      ],
+      "event": "The 7th International Conference on Telecommunication Systems, Services, and Applications (TSSA 2012",
+      "language": "en",
+      "id": "ahmad-a",
+      "type": "misc"
+    },
+    {
+      "title": "Performance Analysis of Content-based Mobile Application on Content Delivery Networks",
+      "author": [
+        {
+          "family": "Kistijantoro",
+          "given": "Achmad Imam",
+        },
+        {
+          "family": "Haribowo",
+          "given": "Yudi",
+        }
+      ],
+      "event": "International Conference on Cloud Computing and Social Networking 2012",
+      "language": "en",
+      "publisher-place": "Bandung, Indonesia",
+      "issued": {
+        "date-parts": [
+          [
+            2012
+          ]
+        ]
+      },
+      "id": "and2012a",
+      "type": "misc"
+    },
+    {
+      "title": "Analysis and Benchmarking Performance of Real Time Patch Linux and Xenomai in Serving a Real Time Application",
+      "author": [
+        {
+          "family": "Marieska",
+          "given": "Mastura Diana"
+        },
+        {
+          "family": "Kistijantoro",
+          "given": "Achmad Imam"
+        },
+        {
+          "family": "Subair",
+          "given": "Muhammad",
+        }
+      ],
+      "event": "International Conference on Electrical Engineering and Informatics (ICEEI 2011",
+      "ISBN": "978-1-4577-0750-6",
+      "unknown": "IEEE Catalog Number: CFP1177H-PRT",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2011,
+            7,
+            17
+          ]
+        ]
+      },
+      "id": "marieska2011a",
+      "type": "misc"
+    },
+    {
+      "title": "CFD Solver untuk Persamaan Eliptik dengan Pemrosesan Paralel berbasis CUDA",
+      "author": [
+        {
+          "family": "Mushawwir",
+          "given": "Luqman Abdul"
+        },
+        {
+          "family": "Kistijantoro",
+          "given": "Achmad Imam"
+        },
+        {
+          "family": "Moelyadi",
+          "given": "Mochamad Agoes"
+        }
+      ],
+      "event": "Konferensi Nasional Informatika \u2013 KNIF 2011",
+      "ISBN": "2087-3328",
+      "language": "id",
+      "issued": {
+        "date-parts": [
+          [
+            2011,
+            11,
+            23
+          ]
+        ]
+      },
+      "id": "mushawwir2011a",
+      "type": "misc"
+    },
+    {
+      "title": "Domain Specific Language (DSL) Development for Application Generator for Desktop Database Application",
+      "author": [
+        {
+          "family": "Kistijantoro",
+          "given": "Achmad Imam",
+        },
+        {
+          "family": "Lolong",
+          "given": "Steven",
+        }
+      ],
+      "event": "3rd International Conference on Electrical Engineering and Informatics",
+      "language": "en",
+      "publisher-place": "Bandung, Indonesia",
+      "issued": {
+        "date-parts": [
+          [
+            2011,
+            7
+          ]
+        ]
+      },
+      "id": "and2011a",
+      "type": "misc"
+    },
+    {
+      "title": "Experiences in Implementing General-Purpose Applications on CUDA",
+      "author": [
+        {
+          "family": "Kistijantoro",
+          "given": "Achmad Imam"
+        }
+      ],
+      "event": "The First International Conference on Green Computing, IGGC-RCICT 2010",
+      "language": "en",
+      "publisher-place": "Yogyakarta",
+      "issued": {
+        "date-parts": [
+          [
+            2010,
+            3
+          ]
+        ]
+      },
+      "id": "kistijantoro2010a",
+      "type": "misc"
+    }
+  ]
+}

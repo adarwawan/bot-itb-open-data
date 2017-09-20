@@ -1,0 +1,175 @@
+{
+  "link" : "http://www.ti.itb.ac.id/dosen/dr-sukoyo/",
+  "fakultas" : "Fakultas Teknologi Industri",
+  "jurusan" : "Teknik Industri",
+  "class" : "publication",
+  "access_date" : "2017-06-13 21:34:11",
+  "data" :
+  [
+    {
+      "author": [
+        {
+          "family": "R.",
+          "given": "Yusriski"
+        },
+        {
+          "family": "Sukoyo",
+          "given": "Samadhi"
+        },
+        {
+          "family": "A.",
+          "given": "T.M.A."
+        },
+        {
+          "family": "Halim",
+          "given": "A.H."
+        }
+      ],
+      "title": "A Batch Scheduling Model for a Single Deterioting Machine to Minimize Total Actual Flow Time",
+      "unknown": "to be presented at",
+      "event": "the 2014 IEOM Conference",
+      "language": "pt",
+      "publisher-place": "Bali, Indonesia",
+      "issued": {
+        "date-parts": [
+          [
+            2013
+          ]
+        ]
+      },
+      "id": "r2013a",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "R.",
+          "given": "Yusriski"
+        },
+        {
+          "family": "Sukoyo",
+          "given": "Samadhi"
+        },
+        {
+          "family": "A.",
+          "given": "T.M.A."
+        },
+        {
+          "family": "Halim",
+          "given": "A.H."
+        }
+      ],
+      "title": "A Batch Scheduling Model with Learning Effect to Minimize Total Actual Flow Time",
+      "unknown": "to be presented at",
+      "event": "the 2013 Asia Pasific Industrial Engineering and Management System Conference",
+      "language": "en",
+      "publisher-place": "Cebu, the Phillippine",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            12
+          ]
+        ]
+      },
+      "id": "r2013b",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "Sukoyo",
+          "given": "Narendi Muhandri",
+          "non-dropping-particle": "and"
+        }
+      ],
+      "title": "Measurin Information Systems Service Quality using IS ZOT SERVQUAL",
+      "event": "Proceeding of Industrial Engineering and Service Science",
+      "language": "en",
+      "publisher-place": "Solo, Indonesia",
+      "issued": {
+        "date-parts": [
+          [
+            2011,
+            9,
+            20
+          ]
+        ]
+      },
+      "id": "and2011a",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "Sukoyo",
+          "given": "Samadhi"
+        },
+        {
+          "family": "A.",
+          "given": "T.M.A."
+        },
+        {
+          "family": "Iskandar",
+          "given": "B.P."
+        },
+        {
+          "family": "Halim",
+          "given": "A.H.Batch",
+          "non-dropping-particle": "dan"
+        }
+      ],
+      "title": "Production and Maintenance Scheduling for a Single Machine with Dependent Processing Time",
+      "event": "Proceedings of The 11-th Asia Pasific Industrial Engineering and Management Systems",
+      "language": "en",
+      "publisher-place": "Melaka, Malaysia",
+      "event-place": "Melaka, Malaysia",
+      "issued": {
+        "date-parts": [
+          [
+            8,
+            9
+          ]
+        ]
+      },
+      "id": "sukoyo-a",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Sukoyo",
+          "given": "Samadhi"
+        },
+        {
+          "family": "A.",
+          "given": "T.M.A."
+        },
+        {
+          "family": "Iskandar",
+          "given": "B.P."
+        },
+        {
+          "family": "Halim",
+          "given": "A.H.",
+          "non-dropping-particle": "dan"
+        }
+      ],
+      "title": "Batch scheduling for a single machine processing parts of a single item with dependent setup time to minimize total actual flow time",
+      "event": "Proceedings of The 10-th Asia Pasific Industrial Engineering and Management Systems",
+      "language": "en",
+      "publisher-place": "Kitakyushu, Japan",
+      "event-place": "Kitakyushu, Japan",
+      "issued": {
+        "date-parts": [
+          [
+            14,
+            16
+          ]
+        ]
+      },
+      "id": "sukoyo-b",
+      "type": "paper-conference"
+    }
+  ]
+}

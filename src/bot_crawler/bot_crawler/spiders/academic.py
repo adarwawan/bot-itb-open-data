@@ -22,12 +22,12 @@ class AcademicSpider(scrapy.Spider):
     start_url = ''
     allowed_domain = []
 
-    filename = 'result.csv'
+    filename = 'result_academic2.csv'
 
     def start_requests(self):
         start = getattr(self, 'url', None)
         allow = getattr(self, 'allow', None)
-        self.pat = getattr(self, 'pat', None)
+        # self.pat = getattr(self, 'pat', None)
 
         self.start_url = start
 
@@ -67,7 +67,8 @@ class AcademicSpider(scrapy.Spider):
         return [url.netloc]
 
     def violation_check(self, url, text):
-        pattern = re.compile(self.pat, re.I)
-        if re.search(pattern, url) is not None:
-            return True
-        return False
+        # pattern = re.compile(self.pat, re.I)
+        # if re.search(pattern, url) is not None:
+        #     return True
+        # return False
+        return True

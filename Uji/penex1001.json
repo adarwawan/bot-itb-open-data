@@ -1,0 +1,411 @@
+{
+  "link" : "https://www.stei.itb.ac.id/file/stei-script/aditk.html",
+  "fakultas" : "Sekolah Teknik Elektro dan Informatika",
+  "jurusan" : "",
+  "class" : "publication",
+  "access_date" : "2017-06-13 14:30:11",
+  "data" :
+  [
+    {
+      "author": [
+        {
+          "family": "Kurniawan",
+          "given": "A."
+        }
+      ],
+      "title": "Teknik Deteksi Multiuser pada Sistem CDMA,",
+      "event": "Seminar Nasional Forum Pendidikan Tinggi Teknik Elektro Indonesia (FORTEI) 2014",
+      "language": "et",
+      "publisher-place": "Bandung",
+      "issued": {
+        "date-parts": [
+          [
+            2014,
+            6,
+            2
+          ]
+        ]
+      },
+      "id": "kurniawan2014a",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "Baso Maruddani",
+          "given": "A.Kurniawan"
+        },
+        {
+          "family": "Sugihartono",
+          "given": "Achmad Munir"
+        }
+      ],
+      "title": "Prediction method for rain rate and rain propagation attenuation for K-band satellite communication link at tropical area,",
+      "container-title": "Journal of ICT Research And Application",
+      "volume": "8",
+      "issue": "1",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      },
+      "id": "baso2014a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Suyoto",
+          "given": "Adit Kurniawan"
+        },
+        {
+          "family": "Sugihartono"
+        },
+        {
+          "family": "Suryana",
+          "given": "Joko"
+        }
+      ],
+      "title": "Performance Evaluation Coarse Time Synchronization of OFDM System Under COST 207 Multipath Channel Model,",
+      "event": "in Proc. Of International Conference of Information and Communication Technology (ICoICT) 2013",
+      "language": "en",
+      "publisher-place": "Bandung",
+      "issued": {
+        "date-parts": [
+          [
+            2014,
+            5,
+            28
+          ]
+        ]
+      },
+      "id": "suyoto2014a",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "Zakia",
+          "given": "Irma"
+        },
+        {
+          "family": "Tjondronegoro",
+          "given": "Soehartono"
+        },
+        {
+          "family": "Iskandar"
+        },
+        {
+          "family": "Kurniawan",
+          "given": "Adit"
+        }
+      ],
+      "title": "On the Tracking Performance of Least Squares MIMO Channel Estimation in Ricean Fading,",
+      "container-title": "IEICE Communication Express",
+      "volume": "3",
+      "page": "27\u201332",
+      "issue": "1",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2014,
+            1
+          ]
+        ]
+      },
+      "id": "zakia2014a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Kurniawan",
+          "given": "Adit"
+        }
+      ],
+      "title": "Step-Size Optimization of Power Control Algorithm in CDMA Cellular Communication Systems,",
+      "event": "AUN\/SEED-Net RC-EEE\/ISMAC Regional Conference",
+      "page": "116\u2013119",
+      "language": "en",
+      "publisher-place": "Bangkok",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            2,
+            4
+          ]
+        ]
+      },
+      "id": "kurniawan2013a",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "Salik Mukhlishin",
+          "given": "Adit Kurniawan",
+          "non-dropping-particle": "and"
+        }
+      ],
+      "title": "Wideband and Multiband Antenna Design and Fabrication for Modern Wireless Communications Systems,",
+      "container-title": "Journal on ICT Research and Application",
+      "volume": "7",
+      "page": "151\u2013163",
+      "issue": "2",
+      "language": "fr",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            12
+          ]
+        ]
+      },
+      "id": "and2013a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Kurniawan",
+          "given": "Adit"
+        }
+      ],
+      "title": "\"Predictive Power Control in CDMA Wireless Communications Systems, \",Proceedings",
+      "container-title": "Regional Conference on Computer and Information Engineering (RC-CIE)",
+      "page": "2013\u20131",
+      "language": "en",
+      "publisher-place": "Bangkok",
+      "event-place": "Bangkok",
+      "issued": {
+        "date-parts": [
+          [
+            0,
+            23
+          ]
+        ]
+      },
+      "id": "kurniawan-a",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Kurniawan",
+          "given": "Adit"
+        },
+        {
+          "family": "Mukhlishin",
+          "given": "Salik"
+        }
+      ],
+      "title": "Wideband Antenna Design and Fabrication for Modern Wireless Communications Systems",
+      "event": "Procedia Technology (Sciencedirect-Elsevier), 2013\/4th International Conference on Electrical Engineering and Informatics, ICEEI 2013",
+      "page": "348\u2013353",
+      "unknown": "",
+      "language": "fr",
+      "id": "kurniawan-b",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "Kurniawan",
+          "given": "Adit"
+        }
+      ],
+      "title": "Step-Size Optimization of Power Control Algorithm in CDMA Cellular Communication Systems",
+      "event": "AUN\/SEED-Net RC-EEE\/ISMAC Regional Conference, 2013",
+      "page": "116\u2013119",
+      "language": "en",
+      "publisher-place": "Bangkok, Thailand",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            2,
+            4
+          ]
+        ]
+      },
+      "id": "kurniawan2013b",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "Zakia",
+          "given": "Irma"
+        },
+        {
+          "family": "Tjondronegoro",
+          "given": "Soehartono"
+        },
+        {
+          "family": "Iskandar"
+        },
+        {
+          "family": "Kurniawan",
+          "given": "Adit"
+        }
+      ],
+      "title": "Received Least Squares Beamforming on Ka-band Channel Model of HAP System,",
+      "container-title": "International Journal on Electrical Engineering and Informatics",
+      "volume": "5",
+      "page": "454\u2013473",
+      "issue": "4",
+      "language": "pt",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            12
+          ]
+        ]
+      },
+      "id": "zakia2013a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Zakia",
+          "given": "Irma"
+        },
+        {
+          "family": "Tjondronegoro",
+          "given": "Suhartono"
+        },
+        {
+          "family": "Iskandar"
+        },
+        {
+          "family": "Kurniawan",
+          "given": "Adit"
+        }
+      ],
+      "title": "Performance Comparisons of Adaptive MVDR and Received LS Beamforming on the Downlink Time Varying Channel of HAP System,",
+      "event": "in Proceedings the 19th Asia-Pacific Conference on Communication (APCC) 2013",
+      "page": "715\u2013719",
+      "language": "en",
+      "publisher-place": "Denpasar",
+      "event-place": "Denpasar",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            8,
+            29
+          ]
+        ]
+      },
+      "id": "zakia2013b",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Zakia",
+          "given": "Irma"
+        },
+        {
+          "family": "Tjondronegoro",
+          "given": "Suhartono"
+        },
+        {
+          "family": "Iskandar"
+        },
+        {
+          "family": "Kurniawan",
+          "given": "Adit"
+        }
+      ],
+      "title": "Performance Comparison of LMS and RLS Adaptive Array on High Speed Train Delivered From High Altitude Platforms",
+      "event": "in Proc. Of International Conference of Information and Communication Technology (ICoICT) 2013",
+      "page": "112\u2013116",
+      "language": "en",
+      "publisher-place": "Bandung",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            3,
+            20
+          ]
+        ]
+      },
+      "id": "zakia2013c",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "Resmana",
+          "given": "Rifan Budi"
+        },
+        {
+          "family": "Adit Kurniawan",
+          "given": "Rina Pudji Astuti",
+          "non-dropping-particle": "and"
+        }
+      ],
+      "title": "Wiener Filter-Based Channel Predictor Performance Improvement Using Polinomial Extrapolation,",
+      "event": "in Proceedings of 3rd International Conference on Instrumentation, Communications, Information Technology, and Biomedical Engineering (ICICI-BME",
+      "page": "184\u2013189",
+      "language": "en",
+      "publisher-place": "Bandung",
+      "event-place": "Bandung",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            11,
+            7
+          ]
+        ]
+      },
+      "id": "resmana2013a",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Zakia",
+          "given": "Irma"
+        },
+        {
+          "family": "Tjondronegoro",
+          "given": "Suhartono"
+        },
+        {
+          "family": "Iskandar"
+        },
+        {
+          "family": "Kurniawan",
+          "given": "Adit"
+        }
+      ],
+      "title": "Performance comparison of LMS and RLS adaptive array on high speed train delivered from High Altitude Platforms,",
+      "event": "in Proc. of International Conference on Information and Communication Technology (ICoICT",
+      "page": "112\u2013116",
+      "language": "en",
+      "publisher-place": "Bandung",
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            3,
+            20
+          ]
+        ]
+      },
+      "id": "zakia2013d",
+      "type": "misc"
+    }
+  ]
+}

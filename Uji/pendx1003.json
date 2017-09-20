@@ -1,0 +1,54 @@
+{
+  "link" : "https://six.akademik.itb.ac.id/publik/displaydpk.php?p=v2dQNiWpTBGpu2Z3RQv5FZd0czK734RLd9XubyGKexFMl4epGHq13RCmiozOHjm7%2BvAYLm7ZXxm%2BuAi2Bo7s2A%3D%3D",
+  "fakultas" : "",
+  "jurusan" : "",
+  "class" : "academic",
+  "access_date" : "2017-06-13 21:34:11",
+  "data" :
+  [
+    {
+    "smt": "2\/13",
+    "sks": "2 SKS",
+    "nomor_kelas": "03",
+    "dosen": "Chalid Idham Abdullah",
+    "fakultas": "Fakultas Ilmu dan Teknologi Kebumian",
+    "nama_kuliah": "Tektonofisik",
+    "kode_kuliah": "GL2213",
+    "prodi": "Teknik Geologi",
+    "mahasiswa": [
+        {
+        "nama": "I Made Mahendrayana",
+        "nim": "12112014"
+        },
+        {
+        "nama": "Muhammad Ridho",
+        "nim": "12112017"
+        },
+        {
+        "nama": "Benhard Saut Tahi",
+        "nim": "12112032"
+        },
+        {
+        "nama": "Faisal Dimas Raditya",
+        "nim": "12112040"
+        },
+        {
+        "nama": "Hendra Handriatno",
+        "nim": "12112049"
+        },
+        {
+        "nama": "Muhamad Aditya",
+        "nim": "12112057"
+        },
+        {
+        "nama": "Irham Mochamad",
+        "nim": "12112076"
+        },
+        {
+        "nama": "Ahnaf Muhammad",
+        "nim": "12112097"
+        }
+      ]
+    }
+  ]
+}

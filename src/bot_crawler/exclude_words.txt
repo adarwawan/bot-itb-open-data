@@ -1,0 +1,13 @@
+blog
+news
+berita
+tag
+event
+admin
+kategori
+category
+downloads
+download
+galeri
+upload
+uploads

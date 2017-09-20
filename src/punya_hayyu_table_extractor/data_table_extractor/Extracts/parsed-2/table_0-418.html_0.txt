@@ -1,1 +1,0 @@
-{"table_notes":"","table_title":"","table_data":[{"Program Name":"Chemical Engineering, BS","No":"1.","Criteria":"Chemical Engineering"},{"Program Name":"Engineering Physics, BS","No":"2.","Criteria":"Engineering,\u00a0Engineering Physics,\u00a0& Engineering Science"},{"Program Name":"Industrial Engineering, BS","No":"3.","Criteria":"Industrial Engineering"}]}

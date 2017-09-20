@@ -1,0 +1,136 @@
+{
+  "link" : "http://www.fti.itb.ac.id/prosiding-internasional-2017",
+  "fakultas" : "Fakultas Teknologi Industri",
+  "jurusan" : "",
+  "class" : "publication",
+  "access_date" : "2017-06-13 16:26:11",
+  "data" :
+  [
+    {
+      "author": [
+        {
+          "family": "Makertiharta",
+          "given": "I.G.B.N."
+        },
+        {
+          "family": "Dharmawijaya",
+          "given": "P.T."
+        },
+        {
+          "family": "Wenten",
+          "given": "I.G."
+        }
+      ],
+      "title": "Current progress on zeolite membrane reactor for CO<inf>2<\/inf> hydrogenation",
+      "event": "AIP Conference Proceedings",
+      "volume": "1788",
+      "URL": "scopus.com",
+      "language": "en",
+      "id": "makertiharta-a",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Sasongko",
+          "given": "D."
+        },
+        {
+          "family": "Wulandari",
+          "given": "W."
+        },
+        {
+          "family": "Rubani",
+          "given": "I.S."
+        },
+        {
+          "family": "Rusydiansyah",
+          "given": "R."
+        }
+      ],
+      "title": "Effects of biomass type, blend composition, and co-pyrolysis temperature on hybrid coal quality",
+      "event": "AIP Conference Proceedings",
+      "volume": "1805",
+      "URL": "scopus.com",
+      "language": "en",
+      "id": "sasongko-a",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Wulandari",
+          "given": "W."
+        },
+        {
+          "family": "Soerawidjaja",
+          "given": "T.H."
+        },
+        {
+          "family": "Joshua",
+          "given": "S."
+        },
+        {
+          "family": "Isradi",
+          "given": "H.R."
+        }
+      ],
+      "title": "Extraction of nickel from nickel limonite ore using dissolved gaseous SO<inf>2<\/inf> \u2013 Air",
+      "event": "AIP Conference Proceedings",
+      "volume": "1805",
+      "URL": "scopus.com",
+      "language": "en",
+      "id": "wulandari-a",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Wulandari",
+          "given": "W."
+        },
+        {
+          "family": "Purwasasmita",
+          "given": "M."
+        },
+        {
+          "family": "Sanwani",
+          "given": "E."
+        },
+        {
+          "family": "Pixelina",
+          "given": "A.A."
+        },
+        {
+          "family": "Maulidan",
+          "given": "A."
+        }
+      ],
+      "title": "Implementation of reverse flotation method to reduce reactive and non-reactive silica in bauxite ore from West Kalimantan",
+      "event": "AIP Conference Proceedings",
+      "volume": "1805",
+      "URL": "scopus.com",
+      "language": "en",
+      "id": "wulandari-b",
+      "type": "paper-conference"
+    },
+    {
+      "author": [
+        {
+          "family": "Ariono",
+          "given": "D."
+        },
+        {
+          "family": "Khoiruddin"
+        }
+      ],
+      "title": "Improving ion-exchange membrane properties by the role of nanoparticles",
+      "event": "AIP Conference Proceedings",
+      "volume": "1788",
+      "URL": "scopus.com",
+      "language": "es",
+      "id": "ariono-a",
+      "type": "paper-conference"
+    }
+  ]
+}

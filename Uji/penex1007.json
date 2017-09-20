@@ -1,0 +1,208 @@
+{
+  "link" : "http://www.fti.itb.ac.id/jurnal-nasional-2016",
+  "fakultas" : "Fakultas Teknologi Industri",
+  "jurusan" : "",
+  "class" : "publication",
+  "access_date" : "2017-06-13 17:05:11",
+  "data" :
+  [
+    {
+      "author": [
+        {
+          "family": "Abady",
+          "given": "H."
+        },
+        {
+          "family": "Joelianto",
+          "given": "E."
+        }
+      ],
+      "title": "Energy aware distributed estimator system over wireless sensor networks with ad-hoc on-demand distance vector (AODV) routing algorithm",
+      "journal": "Internetworking Indonesia Journal",
+      "volume": "8",
+      "page": "23\u201328",
+      "ISBN": "19429703",
+      "unknown": "Scopus",
+      "issue": "1",
+      "language": "en",
+      "id": "abady-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Joelianto",
+          "given": "E."
+        },
+        {
+          "family": "Widyotriatmo",
+          "given": "A."
+        },
+        {
+          "family": "Turnip",
+          "given": "A."
+        }
+      ],
+      "title": "Guest editors\u2019 introduction to special issue on Industrial Internet of Things (IIoT)",
+      "journal": "Internetworking Indonesia Journal",
+      "volume": "8",
+      "page": "1\u20133",
+      "ISBN": "1942-9703",
+      "unknown": "Scopus",
+      "issue": "1",
+      "language": "en",
+      "id": "joelianto-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Turnip",
+          "given": "A."
+        },
+        {
+          "family": "Soetraprawata",
+          "given": "D."
+        },
+        {
+          "family": "Turnip",
+          "given": "M."
+        },
+        {
+          "family": "Joelianto",
+          "given": "E."
+        }
+      ],
+      "title": "EEG-based brain-controlled wheelchair with four different stimuli frequencies",
+      "journal": "Internetworking Indonesia Journal",
+      "volume": "8",
+      "page": "65\u201369",
+      "ISBN": "19429703",
+      "unknown": "Scopus",
+      "issue": "1",
+      "language": "en",
+      "id": "turnip-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Hadisupadmo",
+          "given": "Sutanto"
+        },
+        {
+          "family": "Nugroho",
+          "given": "Arista"
+        },
+        {
+          "family": "Widyotriatmo",
+          "given": "Augie"
+        }
+      ],
+      "title": "A Small Signal State Space Model of Inverter-based Microgrid Control on Signal Phase AC Power System",
+      "journal": "Internetworking Indonesia Journal",
+      "volume": "8",
+      "issue": "1",
+      "language": "en",
+      "id": "hadisupadmo-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Govindaraju",
+          "given": "Rajesri"
+        },
+        {
+          "family": "Wiratmadja",
+          "given": "Iwan Inrawan"
+        },
+        {
+          "family": "Haryana",
+          "given": "Avif"
+        }
+      ],
+      "title": "Pengembangan Model Evaluasi Kualitas Layanan Sistem E-Goverment",
+      "journal": "Jurnal Manajemen Teknologi",
+      "volume": "15",
+      "page": "196\u2013205",
+      "issue": "2",
+      "language": "fr",
+      "id": "govindaraju-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Simatupang",
+          "given": "Tota"
+        },
+        {
+          "family": "Govindaraju",
+          "given": "Rajesri"
+        },
+        {
+          "family": "Amaranti",
+          "given": "Reni"
+        }
+      ],
+      "title": "Change Management Perspectives in an ERP Module Implementation: A Case Study in a Telecommunication Company",
+      "journal": "Jurnal Teknik Industri, Jurnal Keilmuan dan Aplikasi Teknik Industri",
+      "volume": "18",
+      "note": "Terakreditasi DIKTI",
+      "ISBN": "1411-2485",
+      "issue": "1",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      },
+      "id": "simatupang2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Suprayogi",
+          "given": "Senator Nur Bahagia"
+        },
+        {
+          "family": "Thaddeus",
+          "given": "Yudi"
+        }
+      ],
+      "title": "Genetic Algorithm for Solving Location Problem in a Supply Chain Network with Inbound and Outbound Product Flows",
+      "journal": "Jurnal Teknik Industri",
+      "ISBN": "1411-2485",
+      "volume": "18",
+      "issue": "2",
+      "language": "en",
+      "id": "suprayogi-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Widyanti",
+          "given": "Ari"
+        },
+        {
+          "family": "Agtriani",
+          "given": "Anisa"
+        }
+      ],
+      "title": "Budaya Organisasi yang Mendukung Keselamatan Pasien di Rumah Sakit",
+      "journal": "Jurnal Teknik Industri",
+      "ISBN": "1411-2485",
+      "volume": "18",
+      "issue": "2",
+      "language": "et",
+      "id": "widyanti-a",
+      "type": "article-journal"
+    }
+  ]
+}

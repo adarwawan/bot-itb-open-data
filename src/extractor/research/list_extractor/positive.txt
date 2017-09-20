@@ -8,3 +8,4 @@ published
 publikasi
 publications?
 proceedings?
+paper

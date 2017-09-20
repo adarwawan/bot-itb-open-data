@@ -19,18 +19,14 @@ class RuleBasedExtractor(object):
         self.dirout = dirout
         self.url = url
         self.tableCount = 0
-        with open('positive.txt', 'r') as myfile:
+        with open(self.dirout + 'positive.txt', 'r') as myfile:
             self.positive = myfile.read().splitlines() 
 
     def getBody(self):
-        # print(self.url)
-        # page = open(self.url, 'r').read()
         s = requests.Session()
         s.headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36'
-        req = s.get(self.url)
-        print req
-        page = urllib2.urlopen(req).read()
-        soup = BeautifulSoup(page, 'html.parser')
+        r = s.get(self.url)
+        soup = BeautifulSoup(r.content, 'html.parser')
         return soup
     
     def getTitleInsideTable(self, body_soup):
@@ -39,7 +35,7 @@ class RuleBasedExtractor(object):
         if len(titles) > 0:
             i = 0
             title = ""
-            while (title == ""):
+            while ((title == "") and (i < len(titles))):
                 header = titles[i]
                 title = header.find_all(string=True)
                 title = " ".join(title).strip() 
@@ -50,7 +46,7 @@ class RuleBasedExtractor(object):
             if len(titles) > 0:
                 i = 0
                 title = ""
-                while (title == ""):
+                while ((title == "") and (i < len(titles))):
                     header = titles[i]
                     title = header.find_all(string=True)
                     title = " ".join(title).strip() 
@@ -58,6 +54,12 @@ class RuleBasedExtractor(object):
                 return title
             else:
                 return "None"
+
+    def getTitleOutsideTable(self, body_soup):
+        title = body_soup.find_previous(string=True)
+        while (title.strip() == ''):
+            title = title.find_previous(string=True)
+        return title
 
     def getCandidatesTable(self, body_soup):
         # TODO: add rules for cell length consistensy(?)
@@ -67,9 +69,7 @@ class RuleBasedExtractor(object):
         headers = []
         for i in range(0,counteri):
             titleInside = self.getTitleInsideTable(body_soup.find_all('table')[i])
-            titleOutside = body_soup.find_all('table')[i].find_previous(string=True)
-            while (titleOutside.strip() == ''):
-                titleOutside = titleOutside.find_previous(string=True)
+            titleOutside = self.getTitleOutsideTable(body_soup.find_all('table')[i])
             header = titleInside + " " + titleOutside
             headers.append(header)
         tables = []
@@ -189,7 +189,7 @@ class RuleBasedExtractor(object):
         html_string = "<html><body>" + pretty + "</body></html>"
         soup = BeautifulSoup(html_string, "html.parser")
         fout = 'test' + '.html'
-        out_path = self.dirout + str(counter)+"-"+fout
+        out_path = self.dirout + "clean_html/test/" + str(counter)+"-"+fout
         with codecs.open(out_path, 'w+', encoding='utf-8') as outfile:
             outfile.write(soup.prettify())
         return out_path

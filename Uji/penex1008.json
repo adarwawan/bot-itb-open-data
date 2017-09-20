@@ -1,0 +1,2352 @@
+{
+  "link" : "http://www.fti.itb.ac.id/jurnal-internasional-2016",
+  "fakultas" : "Fakultas Teknologi Industri",
+  "jurusan" : "",
+  "class" : "publication",
+  "access_date" : "2017-06-13 17:48:11",
+  "data" :
+  [
+    {
+      "author": [
+        {
+          "family": "Ariono",
+          "given": "Danu"
+        },
+        {
+          "family": "Mubiar Purwasasmita",
+          "given": "I.Gede Wenten"
+        }
+      ],
+      "title": "Brine Effluents: Characteristics, Environmental Impacts, and Theirs Handing",
+      "journal": "Journal of Engineering and Technological Sciences",
+      "volume": "48",
+      "page": "367\u2013387",
+      "ISBN": "2337-5779",
+      "unknown": "Scopus",
+      "issue": "4",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "ariono2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Amalia Kartika",
+          "given": "I."
+        },
+        {
+          "family": "Evon",
+          "given": "P."
+        },
+        {
+          "family": "Cerny",
+          "given": "M."
+        },
+        {
+          "family": "Suparno",
+          "given": "O."
+        },
+        {
+          "family": "Hermawan",
+          "given": "D."
+        },
+        {
+          "family": "Ariono",
+          "given": "D."
+        },
+        {
+          "family": "Rigal",
+          "given": "L."
+        }
+      ],
+      "title": "Simultaneous Solvent Extraction and Transesterification of Jatropha Oil for Biodiesel Production, and Potential application of the obtained cakes for binderless particleboard",
+      "journal": "Journal Fuel",
+      "volume": "181",
+      "page": "870\u2013877",
+      "URL": "www.elsevier.com\/locate\/fuel",
+      "ISBN": "0016-2361",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            10
+          ]
+        ]
+      },
+      "id": "amalia2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Indarto",
+          "given": "A."
+        }
+      ],
+      "title": "Partial oxidation of methane to methanol with nitrogen dioxide in dielectric barrier discharge plasma: Experimental and molecular modeling",
+      "journal": "Plasma Sources Science and Technology",
+      "volume": "25",
+      "unknown": "Scopus",
+      "issue": "2",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "indarto2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Wenten",
+          "given": "I.G."
+        },
+        {
+          "family": "Khoiruddin"
+        }
+      ],
+      "title": "Recent developments in heterogeneous ion-exchange membrane: Preparation, modification, characterization and performance evaluation",
+      "journal": "Journal of Engineering Science and Technology",
+      "volume": "11",
+      "page": "916\u2013934",
+      "unknown": "Scopus",
+      "issue": "7",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "wenten2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Wenten",
+          "given": "I.G."
+        },
+        {
+          "family": "Khoiruddin"
+        }
+      ],
+      "title": "Reverse osmosis applications: Prospect and challenges, Desalination",
+      "volume": "391",
+      "page": "112\u2013125",
+      "unknown": "scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            8,
+            1
+          ]
+        ]
+      },
+      "id": "wenten2016b",
+      "type": "misc"
+    },
+    {
+      "author": [
+        {
+          "family": "Himma",
+          "given": "N.F."
+        },
+        {
+          "family": "Anisah",
+          "given": "S."
+        },
+        {
+          "family": "Prasetya",
+          "given": "N."
+        },
+        {
+          "family": "Wenten",
+          "given": "I.G."
+        }
+      ],
+      "title": "Advances in preparation, modification, and application of polypropylene membrane",
+      "journal": "Journal of Polymer Engineering",
+      "volume": "36",
+      "page": "329\u2013362",
+      "unknown": "scopus",
+      "issue": "4",
+      "language": "fr",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            5,
+            1
+          ]
+        ]
+      },
+      "id": "himma2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sitompul",
+          "given": "Johnner"
+        },
+        {
+          "family": "Insyani",
+          "given": "Rizky"
+        },
+        {
+          "family": "Prasetyo",
+          "given": "Daniel"
+        },
+        {
+          "family": "Prajitno",
+          "given": "Hermawan"
+        },
+        {
+          "family": "Lee",
+          "given": "Hyung Woo"
+        }
+      ],
+      "title": "Improvement of Properties of Poly(L-lactic acid) through Solution Blending of Biodegradable Polymers",
+      "journal": "Journal of Engineering and Technological Sciences",
+      "volume": "48",
+      "page": "430\u2013441",
+      "unknown": "Scopus",
+      "issue": "4",
+      "language": "en",
+      "id": "sitompul-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Rahman",
+          "given": "H."
+        },
+        {
+          "family": "Sitompul",
+          "given": "J.P."
+        },
+        {
+          "family": "Anggadiredja",
+          "given": "K."
+        },
+        {
+          "family": "Lee",
+          "given": "H.W."
+        },
+        {
+          "family": "Gusdinar",
+          "given": "T."
+        }
+      ],
+      "title": "The stereospecific analysis of Canarium indicum oil-fatty acid based in triglycerides using high-performance liquid chromatography",
+      "journal": "International Journal of Pharmaceutical and Clinical Research",
+      "volume": "8",
+      "page": "403\u2013406",
+      "unknown": "Scopus",
+      "issue": "5",
+      "language": "en",
+      "id": "rahman-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Bahrin",
+          "given": "D."
+        },
+        {
+          "family": "Subagjo",
+          "given": "S."
+        },
+        {
+          "family": "Susanto",
+          "given": "H."
+        }
+      ],
+      "title": "Kinetic study on the SO2 adsorption using CuO\/y-Al2O3 adsorbent",
+      "journal": "Bulletin of Chemical Reaction Engineering and Catalysis",
+      "volume": "11",
+      "page": "93\u201399",
+      "unknown": "Scopus",
+      "issue": "1",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            1,
+            1
+          ]
+        ]
+      },
+      "id": "bahrin2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Hendriyana",
+          "given": "Susanto"
+        },
+        {
+          "family": "H.",
+          "given": "Subagjo"
+        }
+      ],
+      "title": "Thermodynamics and kinetics study of CH3OK preparation from KOH and CH3OH",
+      "journal": "ARPN Journal of Engineering and Applied Sciences",
+      "volume": "11",
+      "page": "9946\u20139950",
+      "unknown": "Scopus",
+      "issue": "16",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "hendriyana2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Aryanti",
+          "given": "P.T.P."
+        },
+        {
+          "family": "Joscarita",
+          "given": "S.R."
+        },
+        {
+          "family": "Wardani",
+          "given": "A.K."
+        },
+        {
+          "family": "Subagjo",
+          "given": "S."
+        },
+        {
+          "family": "Ariono",
+          "given": "D."
+        },
+        {
+          "family": "Wenten",
+          "given": "I.G."
+        }
+      ],
+      "title": "The influence of PEG400 and acetone on polysulfone membrane morphology and fouling behaviour",
+      "journal": "Journal of Engineering and Technological Sciences",
+      "volume": "48",
+      "page": "15",
+      "unknown": "Scopus",
+      "issue": "2",
+      "language": "fr",
+      "id": "aryanti-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Khoiruddin",
+          "given": "I.G.Wenten"
+        }
+      ],
+      "title": "Investigation of Electrochemical and Morphological Properties of Mixed Matrix Polysulfone-Silica Anion Exchange Membrane",
+      "journal": "Journal of Engineering and Technological Sciences",
+      "volume": "48",
+      "page": "1\u201311",
+      "unknown": "Scopus",
+      "issue": "48",
+      "language": "en",
+      "id": "khoiruddin-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Hasanudin",
+          "given": "Udin"
+        },
+        {
+          "family": "Setiadi",
+          "given": "Tjandra"
+        }
+      ],
+      "title": "Sustainable Wastewater Management in Palm Oil Mills",
+      "journal": "E-Books Green Technologies for Sustainable Water Management",
+      "ISBN": "978-0-7844-1442-2",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "hasanudin2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Miyoshi",
+          "given": "T."
+        },
+        {
+          "family": "Setiadi",
+          "given": "T."
+        },
+        {
+          "family": "Effendi",
+          "given": "A.J."
+        },
+        {
+          "family": "Maeda",
+          "given": "H."
+        },
+        {
+          "family": "Tsukaraha",
+          "given": "T."
+        },
+        {
+          "family": "Yi",
+          "given": "H."
+        },
+        {
+          "family": "Jun",
+          "given": "H."
+        },
+        {
+          "family": "Saito",
+          "given": "M."
+        },
+        {
+          "family": "Matsuyama",
+          "given": "H."
+        }
+      ],
+      "title": "Low-cost water treatment system using submerged membrane filtration in developing countries",
+      "journal": "Desalination and Water Treatment",
+      "volume": "57",
+      "page": "18101\u201318108",
+      "unknown": "scopus",
+      "issue": "39",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            8,
+            20
+          ]
+        ]
+      },
+      "id": "miyoshi2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Abidin",
+          "given": "A.Z."
+        },
+        {
+          "family": "Afandi",
+          "given": "R.G."
+        },
+        {
+          "family": "Graha",
+          "given": "H.P.R."
+        }
+      ],
+      "title": "Synthesis of acrolein from glycerol using FePO4 catalyst in liquid phase dehydration",
+      "journal": "Journal of Engineering and Technological Sciences",
+      "volume": "48",
+      "page": "12\u201320",
+      "unknown": "Scopus",
+      "issue": "1",
+      "language": "en",
+      "id": "abidin-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sugiharto",
+          "given": "Y.E.C."
+        },
+        {
+          "family": "Harimawan",
+          "given": "A."
+        },
+        {
+          "family": "Kresnowati",
+          "given": "M.T.A.P."
+        },
+        {
+          "family": "Purwadi",
+          "given": "R."
+        },
+        {
+          "family": "Mariyana",
+          "given": "R."
+        },
+        {
+          "family": "Andry",
+          "given": "Fitriana"
+        },
+        {
+          "family": "H.N.",
+          "given": "Hosen"
+        },
+        {
+          "family": "H.F."
+        }
+      ],
+      "title": "Enzyme feeding strategies for better fed-batch enzymatic hydrolysis of empty fruit bunch",
+      "publisher": "Bioresource Technology",
+      "volume": "207",
+      "page": "175\u2013179",
+      "unknown": "scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            5,
+            1
+          ]
+        ]
+      },
+      "id": "sugiharto2016a",
+      "type": "book"
+    },
+    {
+      "author": [
+        {
+          "family": "Abduh",
+          "given": "M.Y."
+        },
+        {
+          "family": "Rasrendra",
+          "given": "C.B."
+        },
+        {
+          "family": "Subroto",
+          "given": "E."
+        },
+        {
+          "family": "Manurung",
+          "given": "R."
+        },
+        {
+          "family": "Heeres",
+          "given": "H.J."
+        }
+      ],
+      "title": "Experimental and modelling studies on the solvent assisted hydraulic pressing of dehulled rubber seeds",
+      "journal": "Industrial Crops and Products",
+      "volume": "92",
+      "page": "67\u201376",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            12,
+            15
+          ]
+        ]
+      },
+      "id": "abduh2016a",
+      "type": "chapter"
+    },
+    {
+      "author": [
+        {
+          "family": "Piskun",
+          "given": "A.S."
+        },
+        {
+          "family": "Bovenkamp",
+          "given": "H.H.",
+          "non-dropping-particle": "van de"
+        },
+        {
+          "family": "Rasrendra",
+          "given": "C.B."
+        },
+        {
+          "family": "Winkelman",
+          "given": "J.G.M."
+        },
+        {
+          "family": "Heeres",
+          "given": "H.J."
+        }
+      ],
+      "title": "Kinetic modeling of levulinic acid hydrogenation to y-valerolactone in water using a carbon supported Ru catalyst",
+      "journal": "Applied Catalysis A: General",
+      "volume": "525",
+      "page": "158\u2013167",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            9,
+            5
+          ]
+        ]
+      },
+      "id": "piskun2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Fachri",
+          "given": "B.A."
+        },
+        {
+          "family": "Abdilla",
+          "given": "R.M."
+        },
+        {
+          "family": "Rasrendra",
+          "given": "C.B."
+        },
+        {
+          "family": "Heeres",
+          "given": "H.J."
+        }
+      ],
+      "title": "Experimental and modeling studies on the acid-catalyzed conversion of inulin to 5-hydroxymethylfurfural in water",
+      "journal": "Chemical Engineering Research and Design",
+      "volume": "109",
+      "page": "65\u201375",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            5,
+            1
+          ]
+        ]
+      },
+      "id": "fachri2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sasongko",
+          "given": "D."
+        },
+        {
+          "family": "Arifpin",
+          "given": "N.Y."
+        },
+        {
+          "family": "Rasrendra",
+          "given": "C.B."
+        },
+        {
+          "family": "Indarto",
+          "given": "A."
+        }
+      ],
+      "title": "Numerical simulation of coal pyrolysis with Tar and Gas products prediction, Asia-Pacific",
+      "journal": "Journal of Chemical Engineering",
+      "volume": "11",
+      "page": "220\u2013228",
+      "unknown": "Scopus",
+      "issue": "2",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            3,
+            1
+          ]
+        ]
+      },
+      "id": "sasongko2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Harimawan",
+          "given": "A."
+        },
+        {
+          "family": "Ting",
+          "given": "Y.-P."
+        }
+      ],
+      "title": "Investigation of extracellular polymeric substances (EPS) properties of P. aeruginosa and B. subtilis and their role in bacterial adhesion",
+      "journal": "Colloids and Surfaces B: Biointerfaces",
+      "volume": "146",
+      "page": "459\u2013467",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            10,
+            1
+          ]
+        ]
+      },
+      "id": "harimawan2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Julian",
+          "given": "H."
+        },
+        {
+          "family": "Meng",
+          "given": "S."
+        },
+        {
+          "family": "Li",
+          "given": "H."
+        },
+        {
+          "family": "Ye",
+          "given": "Y."
+        },
+        {
+          "family": "Chen",
+          "given": "V."
+        }
+      ],
+      "title": "Effect of operation parameters on the mass transfer and fouling in submerged vacuum membrane distillation crystallization (VMDC) for inland brine water treatment",
+      "journal": "Journal of Membrane Science",
+      "volume": "520",
+      "page": "679\u2013692",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            12,
+            15
+          ]
+        ]
+      },
+      "id": "julian2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sasongko",
+          "given": "D."
+        },
+        {
+          "family": "Luthan",
+          "given": "A.F.H."
+        },
+        {
+          "family": "Wulandari",
+          "given": "W."
+        }
+      ],
+      "title": "Modified two-step dimethyl ether (DME) synthesis simulation from Indonesian brown coal",
+      "journal": "Journal of Engineering and Technological Sciences",
+      "volume": "48",
+      "page": "320\u2013333",
+      "unknown": "Scopus",
+      "issue": "3",
+      "language": "en",
+      "id": "sasongko-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Samadhi",
+          "given": "T.W."
+        },
+        {
+          "family": "Wulandari",
+          "given": "W."
+        },
+        {
+          "family": "Gumilar",
+          "given": "F.G."
+        },
+        {
+          "family": "Ramadani",
+          "given": "K.F."
+        }
+      ],
+      "title": "Thermomechanical characterization of blended biomass-coal ash waste materials",
+      "journal": "Key Engineering Materials",
+      "volume": "709",
+      "page": "38\u201341",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "samadhi2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Devianto",
+          "given": "Hary"
+        },
+        {
+          "family": "Sasongko",
+          "given": "Dwiwahju"
+        },
+        {
+          "family": "Sempurna",
+          "given": "Feri Indra"
+        },
+        {
+          "family": "Nurdin",
+          "given": "Isdiriayani"
+        },
+        {
+          "family": "Widiatmoko",
+          "given": "Pramujo"
+        }
+      ],
+      "title": "Effect of Gas Composition Produced by Gasification on The Performance and Durability of Molten Carbonate Fuel Cell (MCFC)",
+      "journal": "Journal of Natural Gas Science and Engineering",
+      "volume": "35",
+      "page": "896\u2013905",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "devianto2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Arie",
+          "given": "Arens Andreas"
+        },
+        {
+          "family": "Konstantia",
+          "given": "Inez Devina"
+        },
+        {
+          "family": "Susanti",
+          "given": "Ratna Frida"
+        },
+        {
+          "family": "Devianto",
+          "given": "Hary"
+        },
+        {
+          "family": "Halim",
+          "given": "Martin"
+        },
+        {
+          "family": "Lee",
+          "given": "Joong Kee"
+        }
+      ],
+      "title": "Synthesis of Turpentine Oil Based Carbon Nanospheres by Nebulized Spray Pyrolysis Method",
+      "journal": "Journal of Nanoscience and Nanotechnology",
+      "volume": "8",
+      "note": "Impact Factor: 0.358 (SJR",
+      "ISBN": "-",
+      "issue": "1-4",
+      "language": "en",
+      "id": "arie-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Arie",
+          "given": "Arenst Andreas"
+        },
+        {
+          "family": "Kristianto",
+          "given": "Hans"
+        },
+        {
+          "family": "Susanti",
+          "given": "Ratna Frida"
+        },
+        {
+          "family": "Devianto",
+          "given": "Hary"
+        },
+        {
+          "family": "Halim",
+          "given": "Martin"
+        },
+        {
+          "family": "Lee",
+          "given": "Joong Kee"
+        }
+      ],
+      "title": "Structural and preliminary electrochemical characteristics of palm oil based carbon nanospheres as anode materials in lithium ion batteries",
+      "journal": "Carbon Letters",
+      "volume": "18",
+      "page": "80\u201383",
+      "ISBN": "1976-4251",
+      "unknown": "Scopus",
+      "issue": "1",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            4
+          ]
+        ]
+      },
+      "id": "arie2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Duong",
+          "given": "L.H."
+        },
+        {
+          "family": "Fujita",
+          "given": "O."
+        },
+        {
+          "family": "Reksowardojo",
+          "given": "I.K."
+        },
+        {
+          "family": "Soerawidjaja",
+          "given": "T.H."
+        },
+        {
+          "family": "Neonufa",
+          "given": "G.F."
+        }
+      ],
+      "title": "Experimental investigation of the effects of cycloparaffins and aromatics on the sooting tendency and the freezing point of soap-derived biokerosene and normal paraffins",
+      "journal": "Fuel",
+      "volume": "185",
+      "page": "855\u2013862",
+      "ISBN": "00162361",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            12,
+            1
+          ]
+        ]
+      },
+      "id": "duong2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Meitha",
+          "given": "A."
+        },
+        {
+          "family": "Bindar",
+          "given": "Y."
+        },
+        {
+          "family": "Kresnowati",
+          "given": "M.T.A.P."
+        }
+      ],
+      "title": "Effects of cassava chips fermentation conditions on the produced flour properties",
+      "journal": "ASEAN Journal of Chemical Engineering",
+      "volume": "16",
+      "page": "50\u201358",
+      "unknown": "Scopus",
+      "issue": "1",
+      "language": "en",
+      "id": "meitha-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Prasetyaningsih",
+          "given": "Y."
+        },
+        {
+          "family": "Hendriyana",
+          "given": "Susanto"
+        },
+        {
+          "family": "H."
+        }
+      ],
+      "title": "Influence of impregnation and coprecipitation method in preparation of Cu\/ZnO catalyst for methanol synthesis",
+      "journal": "Journal of Engineering and Technological Sciences",
+      "volume": "48",
+      "page": "442\u2013450",
+      "ISBN": "23375779",
+      "unknown": "Scopus",
+      "issue": "4",
+      "language": "en",
+      "id": "prasetyaningsih-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Prima",
+          "given": "E.C."
+        },
+        {
+          "family": "Al Qibtiya",
+          "given": "M."
+        },
+        {
+          "family": "Yuliarto",
+          "given": "B."
+        },
+        {
+          "family": "Suyatman",
+          "given": "Dipojono"
+        },
+        {
+          "family": "H.K."
+        }
+      ],
+      "title": "Influence of anthocyanin co-pigment on electron transport and performance in black rice dye-sensitized solar cell",
+      "journal": "Ionics",
+      "volume": "22",
+      "page": "1687\u20131697",
+      "unknown": "Scopus",
+      "issue": "9",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "prima2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Prima",
+          "given": "E.C."
+        },
+        {
+          "family": "Hidayat",
+          "given": "N.N."
+        },
+        {
+          "family": "Yuliarto",
+          "given": "B."
+        },
+        {
+          "family": "Suyatman",
+          "given": "Dipojono"
+        },
+        {
+          "family": "H.K."
+        }
+      ],
+      "title": "A combined spectroscopic and TDDFT study of natural dyes extracted from fruit peels of Citrus reticulata and Musa acuminata for dye-sensitized solar cells",
+      "journal": "Spectrochimica Acta \u2013 Part A: Molecular and Biomolecular Spectroscopy",
+      "volume": "171",
+      "page": "112\u2013125",
+      "ISBN": "13861425",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            15
+          ]
+        ]
+      },
+      "id": "prima2017a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Prima",
+          "given": "E.C."
+        },
+        {
+          "family": "Yuliarto",
+          "given": "B."
+        },
+        {
+          "family": "Suyatman",
+          "given": "Dipojono"
+        },
+        {
+          "family": "H.K."
+        }
+      ],
+      "title": "Charge Transfer Dynamics of Highly Efficient Cyanidin-3-O- Glucoside Sensitizer for Dye-Sensitized Solar Cells",
+      "journal": "Journal of Physics: Conference Series",
+      "volume": "739",
+      "unknown": "Article number 012031",
+      "ISBN": "1742-6588",
+      "issue": "1",
+      "unmatched-unknown": "(Scopus).",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "prima2016b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Nugraha",
+          "given": "Saputro"
+        },
+        {
+          "family": "A.G.",
+          "given": "Agusta"
+        },
+        {
+          "family": "M.K.",
+          "given": "Yuliarto"
+        },
+        {
+          "family": "B.",
+          "given": "Dipojono"
+        },
+        {
+          "family": "H.K.",
+          "given": "Maezono"
+        },
+        {
+          "family": "R."
+        }
+      ],
+      "title": "Density functional study of adsorptions of CO2, NO2 and SO2 molecules on Zn(0002) surfaces",
+      "journal": "Journal of Physics: Conference Series",
+      "volume": "739",
+      "unknown": "Article number 012080",
+      "ISBN": "1742-6588",
+      "issue": "1",
+      "unmatched-unknown": "(Scopus)",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "nugraha2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Ahmad",
+          "given": "F."
+        },
+        {
+          "family": "Agusta",
+          "given": "M.K."
+        },
+        {
+          "family": "Dipojono",
+          "given": "H.K."
+        }
+      ],
+      "title": "Electronic and Optical Properties of CuO Based on DFT+U and GW Approximation",
+      "journal": "Journal of Physics: Conference Series",
+      "volume": "739",
+      "unknown": "Article number 012040",
+      "ISBN": "1742-6588",
+      "issue": "1",
+      "unmatched-unknown": "(Scopus)",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "ahmad2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Agusta",
+          "given": "M.K."
+        },
+        {
+          "family": "Prasetiyo",
+          "given": "I."
+        },
+        {
+          "family": "Saputro",
+          "given": "A.G."
+        },
+        {
+          "family": "Maezono",
+          "given": "R."
+        },
+        {
+          "family": "Dipojono",
+          "given": "H.K."
+        }
+      ],
+      "title": "First-Principles Molecular Dynamics Study on Helium- filled Carbon Nanotube",
+      "journal": "Journal of Physics: Conference Series",
+      "volume": "739",
+      "unknown": "Article number 012081",
+      "ISBN": "1742-6588",
+      "issue": "1",
+      "unmatched-unknown": "(Scopus)",
+      "language": "es",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "agusta2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Khoirunisa",
+          "given": "V."
+        },
+        {
+          "family": "Rusydi",
+          "given": "F."
+        },
+        {
+          "family": "Kasai",
+          "given": "H."
+        },
+        {
+          "family": "Gandaryus",
+          "given": "A.G."
+        },
+        {
+          "family": "Dipojono",
+          "given": "H.K."
+        }
+      ],
+      "title": "A first principle study on the interaction between acetylcholinesterase and acetylcholine, and also rivastigmine in Alzheimer\u2019s disease case",
+      "journal": "Journal of Physics: Conference Series",
+      "volume": "739",
+      "unknown": "Article number 012136",
+      "ISBN": "1742-6588",
+      "issue": "1",
+      "unmatched-unknown": "(Scopus)",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "khoirunisa2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Nugraha",
+          "given": "Saputro"
+        },
+        {
+          "family": "A.G.",
+          "given": "Agusta"
+        },
+        {
+          "family": "M.K.",
+          "given": "Rusydi"
+        },
+        {
+          "family": "F.",
+          "given": "Maezono"
+        },
+        {
+          "family": "R.",
+          "given": "Dipojono"
+        },
+        {
+          "family": "H.K."
+        }
+      ],
+      "title": "DFT study of the formate formation on Ni(111) surface doped by transition metals [Ni(111)-M; M=Cu, Pd, Pt, Rh]",
+      "journal": "Journal of Physics: Conference Series",
+      "volume": "739",
+      "unknown": "Article number 012082",
+      "ISBN": "1742-6588",
+      "issue": "1",
+      "unmatched-unknown": "(Scopus)",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "nugraha2016b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Saputro",
+          "given": "A.G."
+        },
+        {
+          "family": "Agusta",
+          "given": "M.K."
+        },
+        {
+          "family": "Wungu",
+          "given": "T.D.K."
+        },
+        {
+          "family": "Suprijadi",
+          "given": "Rusydi"
+        },
+        {
+          "family": "F.",
+          "given": "Dipojono"
+        },
+        {
+          "family": "H.K."
+        }
+      ],
+      "title": "DFT study of adsorption of CO2 on palladium cluster doped by transition metal",
+      "journal": "Journal of Physics: Conference Series",
+      "volume": "739",
+      "unknown": "Article number 012083",
+      "ISBN": "1742-6588",
+      "issue": "1",
+      "unmatched-unknown": "(Scopus)",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            9,
+            23
+          ]
+        ]
+      },
+      "id": "saputro2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Shukri",
+          "given": "G."
+        },
+        {
+          "family": "Di\u00f1o",
+          "given": "W.A."
+        },
+        {
+          "family": "Dipojono",
+          "given": "H.K."
+        },
+        {
+          "family": "Agusta",
+          "given": "M.K."
+        },
+        {
+          "family": "Kasai",
+          "given": "H."
+        }
+      ],
+      "title": "Enhanced molecular adsorption of ethylene on reduced anatase TiO2 ( 001): Role of surface O-vacancies",
+      "journal": "RSC Advances",
+      "volume": "6",
+      "page": "92241\u201392251",
+      "ISBN": "2046-2069",
+      "unknown": "Scopus",
+      "issue": "95",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "shukri2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Ramdan",
+          "given": "R.D."
+        },
+        {
+          "family": "Sunendar",
+          "given": "B."
+        },
+        {
+          "family": "Hermawan",
+          "given": "H."
+        }
+      ],
+      "title": "Naturally derived biomaterials and its processing",
+      "journal": "Advanced Structured Materials",
+      "volume": "58",
+      "page": "23\u201339",
+      "ISBN": "18698433",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            3,
+            1
+          ]
+        ]
+      },
+      "id": "ramdan2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Harmaji",
+          "given": "A."
+        },
+        {
+          "family": "Sunendar",
+          "given": "B."
+        }
+      ],
+      "title": "Utilization of fly ash, red mud, and electric arc furnace dust slag for geopolymer",
+      "journal": "Materials Science Forum",
+      "volume": "841",
+      "page": "157\u2013161",
+      "ISBN": "02555476",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "harmaji2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Aripin",
+          "given": "H."
+        },
+        {
+          "family": "Mitsudo",
+          "given": "S."
+        },
+        {
+          "family": "Sudiana",
+          "given": "I.N."
+        },
+        {
+          "family": "Busaeri",
+          "given": "N."
+        },
+        {
+          "family": "Sunendar",
+          "given": "B."
+        },
+        {
+          "family": "Sabchevski",
+          "given": "S."
+        }
+      ],
+      "title": "Structural characterization of a glass ceramic developed from TiO2 and a novel material-silica xerogel converted from sago waste ash",
+      "journal": "Materials Science Forum",
+      "volume": "872",
+      "page": "81\u201386",
+      "ISBN": "02555476",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "aripin2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Djustiana",
+          "given": "N."
+        },
+        {
+          "family": "Hasratiningsih",
+          "given": "Z."
+        },
+        {
+          "family": "Karlina",
+          "given": "E."
+        },
+        {
+          "family": "Febrida",
+          "given": "R."
+        },
+        {
+          "family": "Takarini",
+          "given": "V."
+        },
+        {
+          "family": "Cahyanto",
+          "given": "A."
+        },
+        {
+          "family": "Hardiansyah",
+          "given": "A."
+        },
+        {
+          "family": "Sunendar",
+          "given": "B."
+        }
+      ],
+      "title": "Hardness evaluation of dental composite with ceramic fillers",
+      "journal": "Key Engineering Materials",
+      "volume": "696",
+      "page": "74\u201379",
+      "ISBN": "10139826",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "djustiana2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Akasum",
+          "given": "G.F."
+        },
+        {
+          "family": "Ramdhania",
+          "given": "L.N."
+        },
+        {
+          "family": "Suprijanto",
+          "given": "Widyotriatmo"
+        },
+        {
+          "family": "A."
+        }
+      ],
+      "title": "Integration of soft tissue model and open haptic device for medical training simulator",
+      "journal": "Journal of Physics: Conference Series",
+      "volume": "694",
+      "unknown": "Article number 012063",
+      "ISBN": "1742-6588",
+      "issue": "1",
+      "unmatched-unknown": "(Scopus)",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            3,
+            24
+          ]
+        ]
+      },
+      "id": "akasum2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Aprilianty",
+          "given": "F."
+        },
+        {
+          "family": "Purwanegara",
+          "given": "M.S."
+        },
+        {
+          "family": "Suprijanto"
+        }
+      ],
+      "title": "Effects of colour towards underwear choice based on electroencephalography (EEG)",
+      "journal": "Australasian Marketing Journal",
+      "volume": "24",
+      "page": "331\u2013336",
+      "ISBN": "1441-3582",
+      "issue": "4",
+      "language": "en",
+      "publisher-place": "Scopus",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            11,
+            1
+          ]
+        ]
+      },
+      "id": "aprilianty2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Suprijanto",
+          "given": "Epsilawati"
+        },
+        {
+          "family": "L.",
+          "given": "Hajarini"
+        },
+        {
+          "family": "M.S.",
+          "given": "Juliastuti"
+        },
+        {
+          "family": "E.",
+          "given": "Susanti"
+        },
+        {
+          "family": "H."
+        }
+      ],
+      "title": "Image analysis for dental bone quality assessment using CBCT imaging",
+      "journal": "Journal of Physics: Conference Series",
+      "volume": "694",
+      "unknown": "Article number 012065",
+      "ISBN": "1742-6588",
+      "issue": "1",
+      "unmatched-unknown": "(Scopus)",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            3,
+            24
+          ]
+        ]
+      },
+      "id": "suprijanto2016a",
+      "type": "chapter"
+    },
+    {
+      "author": [
+        {
+          "family": "Suprijanto",
+          "given": "Azhari"
+        },
+        {
+          "family": "Juliastuti",
+          "given": "E."
+        },
+        {
+          "family": "Septyvergy",
+          "given": "A."
+        },
+        {
+          "family": "Setyagar",
+          "given": "N.P.P."
+        }
+      ],
+      "title": "Dental panoramic image analysis for enhancement biomarker of mandibular condyle for osteoporosis early detection",
+      "journal": "Journal of Physics: Conference Series",
+      "volume": "694",
+      "unknown": "Article number 012066",
+      "ISBN": "1742-6588",
+      "issue": "1",
+      "unmatched-unknown": "(Scopus)",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            3,
+            24
+          ]
+        ]
+      },
+      "id": "suprijanto2016b",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Djamal",
+          "given": "E.C."
+        },
+        {
+          "family": "Suprijanto",
+          "given": "Setiadi"
+        },
+        {
+          "family": "S.J."
+        }
+      ],
+      "title": "Classification of EEG-based hand grasping imagination using autoregressive and neural networks",
+      "journal": "Jurnal Teknologi",
+      "volume": "78",
+      "page": "105\u2013110",
+      "ISBN": "0127-969",
+      "unknown": "Scopus",
+      "issue": "6-6",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "djamal2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Septiani",
+          "given": "N.L.W."
+        },
+        {
+          "family": "Yuliarto",
+          "given": "B."
+        }
+      ],
+      "title": "Review-the development of gas sensor based on carbon nanotubes",
+      "journal": "Journal of the Electrochemical Society",
+      "volume": "163",
+      "page": "97\u2013106",
+      "ISBN": "0013-4651",
+      "unknown": "Scopus",
+      "issue": "3",
+      "language": "en",
+      "id": "septiani-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Solikhatun",
+          "given": "Saragih"
+        },
+        {
+          "family": "R.",
+          "given": "Joelianto"
+        },
+        {
+          "family": "E.",
+          "given": "Naiborhu"
+        },
+        {
+          "family": "J."
+        }
+      ],
+      "title": "Robust Hoo control for bilinear systems using the dynamic takagi-sugeno fuzzy models based on linear matrix inequalities",
+      "journal": "International Journal of Control and Automation,",
+      "volume" : "9",
+      "page": "7\u201322",
+      "ISBN": "2005-4297",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "solikhatun2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Jerusalem",
+          "given": "Mohammad Adam"
+        },
+        {
+          "family": "Lin",
+          "given": "Shi-Woei"
+        },
+        {
+          "family": "Irianto",
+          "given": "Dradjad"
+        }
+      ],
+      "title": "A Comprehensive model for process selection by considering offline an online quality control, Buletin of the JSME",
+      "journal": "Journal of Advanced Mechanical Design, Systems, and Manufacturing",
+      "volume": "10",
+      "unknown": "Scopus",
+      "issue": "0",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "jerusalem2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Zahedi",
+          "given": "T.M.A.Ari Samadhi"
+        },
+        {
+          "family": "Suprayogi",
+          "given": "Abdul H.H."
+        }
+      ],
+      "title": "Integrated batch production and maintenance scheduling for multiple items processed on a deteriorating machine to minimize total production and maintenance costs with due date constraint",
+      "journal": "International Journal of Industrial Engineering Computations",
+      "volume": "7",
+      "page": "229\u2013244",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "zahedi2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Huang",
+          "given": "K."
+        },
+        {
+          "family": "Suprayogi",
+          "given": "Ariantini"
+        }
+      ],
+      "title": "A continuous berth template design model with multiple wharfs",
+      "journal": "Maritime Policy and Management",
+      "volume": "43",
+      "page": "763\u2013775",
+      "unknown": "Scopus",
+      "issue": "6",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "huang2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Permana",
+          "given": "D."
+        },
+        {
+          "family": "Effendie",
+          "given": "A.R."
+        },
+        {
+          "family": "Pasaribu",
+          "given": "U.S."
+        },
+        {
+          "family": "Indratno",
+          "given": "S.W."
+        },
+        {
+          "family": "Suprayogi"
+        }
+      ],
+      "title": "Modelling of dynamical interest rates using binomial and trinomial trees",
+      "journal": "Far East Journal of Mathematical Sciences",
+      "volume": "99",
+      "page": "909\u2013920",
+      "ISBN": "0972-0871",
+      "unknown": "Scopus",
+      "issue": "6",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "permana2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Oktarina",
+          "given": "R."
+        },
+        {
+          "family": "Bahagia",
+          "given": "S.N."
+        },
+        {
+          "family": "Diawati",
+          "given": "L."
+        },
+        {
+          "family": "Pribadi",
+          "given": "K.S."
+        }
+      ],
+      "title": "Identification of minimum standards in emergency goods for earthquake relief in Indonesia",
+      "journal": "Journal of Disaster Research",
+      "volume": "11",
+      "page": "545\u2013551",
+      "unknown": "Scopus",
+      "issue": "3",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "oktarina2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Muslim",
+          "given": "K."
+        },
+        {
+          "family": "Nussbaum",
+          "given": "M.A."
+        }
+      ],
+      "title": "Traditional posterior load carriage: effects of load mass and size on torso kinematics, kinetics, muscle activity and movement stability",
+      "journal": "Ergonomics",
+      "volume": "59",
+      "unknown": "Scopus",
+      "issue": "1",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "muslim2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Tanotogono",
+          "given": "E.W."
+        },
+        {
+          "family": "Akasum",
+          "given": "G.F."
+        },
+        {
+          "family": "Suprijanto",
+          "given": "Sudirham"
+        },
+        {
+          "family": "J.J."
+        }
+      ],
+      "title": "Model-based assessment of probe placement criteria in cancer therapy using RF ablation",
+      "journal": "Journal of Physics: Conference Series",
+      "volume": "694",
+      "page": "012067",
+      "unknown": "Scopus",
+      "issue": "1",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "tanotogono2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sutalaksana",
+          "given": "I.Z."
+        },
+        {
+          "family": "Widyanti",
+          "given": "A."
+        }
+      ],
+      "title": "Anthropometry approach in workplace redesign in Indonesian Sundanese roof tile industries",
+      "journal": "International Journal of Industrial Ergonomics",
+      "volume": "53",
+      "page": "299\u2013305",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "sutalaksana2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Rosimah",
+          "given": "Siti"
+        },
+        {
+          "family": "Sudirman",
+          "given": "Iman"
+        },
+        {
+          "family": "Siswanto",
+          "given": "Joko"
+        },
+        {
+          "family": "Sunaryo",
+          "given": "Indryati"
+        }
+      ],
+      "title": "Autonomous Team for Information and Communication Technology Maintenance",
+      "journal": "Journal of Advanced Management Science",
+      "volume": "4",
+      "ISBN": "2168-0787",
+      "URL": "http:\/\/www.joams.com\/index.php",
+      "issue": "6",
+      "language": "fr",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            11
+          ]
+        ]
+      },
+      "id": "rosimah2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Silitonga",
+          "given": "Roland"
+        },
+        {
+          "family": "Siswanto",
+          "given": "Joko"
+        },
+        {
+          "family": "Simatupang",
+          "given": "Tota"
+        },
+        {
+          "family": "Bahagia",
+          "given": "Senator Nur"
+        }
+      ],
+      "title": "Modeling policy mix to improve the competitiveness of Indonesian palm oil industry",
+      "journal": "Journal of Industrial Engineering and Management (JIEM)",
+      "volume": "9",
+      "page": "231\u2013253",
+      "ISBN": "2013-0953",
+      "source": "(http:\/\/dx.doi.org\/10.3926\/jiem.1582)",
+      "unknown": "terindex SJR (Simago Journal rangking): 0,278 (Scopus",
+      "issue": "1",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "silitonga2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Yassierli",
+          "given": "Yassierli"
+        },
+        {
+          "family": "Juraida",
+          "given": "Anita"
+        }
+      ],
+      "title": "Effects of Netbook and Tablet Usage Postures on the Development of Fatigue, Discomfort and Pain",
+      "journal": "Journal of Engineering and Technological Sciences",
+      "volume": "48",
+      "page": "243\u2013253",
+      "unknown": "Scopus",
+      "issue": "3",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "id": "yassierli2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Sutalaksana",
+          "given": "I.Z."
+        },
+        {
+          "family": "Anatasia",
+          "given": "M."
+        },
+        {
+          "family": "Yassierli"
+        }
+      ],
+      "title": "Linking safety climate perception to types of behavior",
+      "journal": "Work",
+      "volume": "55",
+      "page": "231\u2013239",
+      "ISBN": "10519815",
+      "DOI": "DOI: 10.3233\/WOR-162391",
+      "publisher": "Publisher: IOS Press",
+      "unknown": "Scopus",
+      "issue": "1",
+      "language": "en",
+      "id": "sutalaksana-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Ion",
+          "given": "A."
+        },
+        {
+          "family": "Iliescu",
+          "given": "D."
+        },
+        {
+          "family": "Aldhafri",
+          "given": "S."
+        },
+        {
+          "family": "Rana",
+          "given": "N."
+        },
+        {
+          "family": "Ratanadilok",
+          "given": "K."
+        },
+        {
+          "family": "Widyanti",
+          "given": "A."
+        },
+        {
+          "family": "Nedelcea",
+          "given": "C."
+        }
+      ],
+      "title": "A Cross-Cultural Analysis of Personality Structure Through the Lens of the HEXACO Model",
+      "journal": "Journal of Personality Assessment",
+      "page": "1\u201310",
+      "publisher": "Publisher:Taylor and Francis Ltd",
+      "ISBN": "0022-3891",
+      "unknown": "Scopus",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            6,
+            29
+          ]
+        ]
+      },
+      "id": "ion2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Moerti",
+          "given": "Caecilia Hari"
+        },
+        {
+          "family": "Iridiastadi",
+          "given": "Hardianto"
+        },
+        {
+          "family": "Sutalaksana",
+          "given": "Iftikar Z."
+        }
+      ],
+      "title": "Stress Level amog Indonesia Train Drivers \u2013 A Study Utilizing Salivary a-Amylase and Subjective Method",
+      "journal": "International Journal of Science and Research (IJSR)",
+      "volume": "5",
+      "unknown": "",
+      "ISBN": "2319-7064",
+      "issue": "1",
+      "unmatched-unknown": "index copernicus value (2013) : 6.14, Impac Factor (2014) : 5.611",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            1
+          ]
+        ]
+      },
+      "id": "moerti2016a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Husniah",
+          "given": "H."
+        },
+        {
+          "family": "Iskandar",
+          "given": "B.P."
+        }
+      ],
+      "title": "Modelling two-dimensional lease contract with preventive maintenance and servicing strategy",
+      "journal": "Jurnal Teknologi",
+      "volume": "78",
+      "page": "19\u201325",
+      "ISBN": "-",
+      "unknown": "Scopus",
+      "issue": "6-6",
+      "language": "en",
+      "id": "husniah-a",
+      "type": "article-journal"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "link" : "http://ppprostk.fti.itb.ac.id/journal-proceedings",
+  "fakultas" : "Fakultas Teknologi Industri",
+  "jurusan" : "Teknik Kimia",
+  "kk" : "Perancangan dan Pengembangan Proses",
+  "class" : "publication",
+  "access_date" : "2017-06-13 19:05:11",
+  "data" :
+  [
+    {
+      "dataItems": [
+        {
+          "No": "01",
+          "Penulis": "I.N. Widiasa, I.G. Wenten,",
+          "Judul Makalah": "\u201cFouling Behaviour During Cross Flow Ultrafiltration of Cassava Starch Hydrolysate\u201d,",
+          "Nama Jurnal, No Publikasi": "Fouling Behaviour During Cross Flow Ultrafiltration of Cassava Starch Hydrolysate, Applied Membrane Science & Teknology, Vol. 1, June 2005, 29 - 45, ISSN 1823-366X"
+        },
+        {
+          "No": "02",
+          "Penulis": "Y.W. Budhi, A. Jaree, J.H.B.J. Hoebink, J.C. Schouten,",
+          "Judul Makalah": "\u201cSimulation of reverse flow operation for manipulation of catalyst surface coverage in the selective oxidation of ammonia\u201d,",
+          "Nama Jurnal, No Publikasi": "Chemical Engineering Science, 59, 5365-5377 (2005)"
+        },
+        {
+          "No": "03",
+          "Penulis": "Yogi Wibisono Budhi,",
+          "Judul Makalah": "\u201cIntensifikasi Program Studi: sebuah Paradigma Baru Sistem Pendidikan di Perguruan Tinggi\u201d,",
+          "Nama Jurnal, No Publikasi": "1st Indonesian Process Technology Forum, Eindhoven, the Netherlands. ISSN 0216-6690 (2005)"
+        },
+        {
+          "No": "04",
+          "Penulis": "Y.W. Budhi, J.H.B.J. Hoebink, J.C. Schouten,",
+          "Judul Makalah": "\u201cDynamic operation for control of conversion and selectivity\u201d,",
+          "Nama Jurnal, No Publikasi": "1st Indonesian Process Technology Forum, Eindhoven, the Netherlands. ISSN 0216-6690 (2005)"
+        },
+        {
+          "No": "05",
+          "Penulis": "Y.W. Budhi,",
+          "Judul Makalah": "The Production of Palm Sugar from Unfermented Palm Juice using Spray Dryer: Two-Level Factorial Design\u201d,",
+          "Nama Jurnal, No Publikasi": "12th International Drying Symposium, Ed.: Kerkhof, P.J.A.M., The Netherlands, paper 285 (2005)"
+        },
+        {
+          "No": "06",
+          "Penulis": "Yogi Wibisono Budhi,",
+          "Judul Makalah": "\u201cProses-Proses Keadaan Tak Tunak dalam Katalisis\u201d,",
+          "Nama Jurnal, No Publikasi": "Indonesian Symposium on Science and Technology, LIPI, 2006, ISSN 1907-1485."
+        },
+        {
+          "No": "07",
+          "Penulis": "Yogi Wibisono Budhi, Subagjo,",
+          "Judul Makalah": "\u201cPemodelan dan Simulasi Reaktor Mikro Untuk Produksi Hidrogen Sebagai Umpan Sel Bahan Bakar Kendaraan Bermotor\u201d,",
+          "Nama Jurnal, No Publikasi": "Seminar Nasional Teknik Kimia Indonesia, Palembang (2006"
+        },
+        {
+          "No": "08",
+          "Penulis": "Yogi Wibisono Budhi,",
+          "Judul Makalah": "\u201cProcess Intensification for Process Innovation: Improved Productivity, Selectivity, Conversion, and Reduced Energy Consumption via Dedicated Flow Reversal\u201d,",
+          "Nama Jurnal, No Publikasi": "Seminar Nasional Soehadi Reksowardojo, ITB, ISSN: 0854-7769 (2006)"
+        }
+      ]
+    }
+  ]
+}

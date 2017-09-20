@@ -261,7 +261,7 @@ class DataExtractor(object):
         # print len(list_tables)
         extracts = []
         for it in range(len(list_tables)):
-            print "processing %s table from %s" % (it,table_file)
+            # print "processing %s table from %s" % (it,table_file)
             t = list_tables[it]
             res = self.extract_data(t)
             extracts.append(res)
@@ -308,16 +308,11 @@ class DataExtractor(object):
                     count_temp_data_arr += 1
                 agg = {}
                 if (len(agregat_group) > 0):
-                    # process agregat row
                     agregat_data = {}
                     for z in xrange(len(agregat_group[0].list_of_cells) - 1, 0, -1):
                         agregat_data[keys[z]] = agregat_group[0].list_of_cells[z].text
-                    # agg['_aggregate_'] = agregat_data
-                    # temp_data_arr.append(json.loads(json.dumps(agg)))
                     temp_data_arr["_aggregate_"] = json.loads(json.dumps(agregat_data))
-            #     data_group_arr[a_table[groups_idx[it]].list_of_cells[0].text] = temp_data_arr
                 data_arr[a_table[groups_idx[it]].list_of_cells[0].text] = temp_data_arr
-            # data_arr.append(data_group_arr)
         else:  # process all data in one
             agregat_group = [x for x in a_table if x.rowclass == 'A']
 
@@ -354,7 +349,7 @@ class DataExtractor(object):
         grouplist = []
         group = []
         for i in xrange(len(l)):
-            print i
+            # print i
             if len(group) == 0:
                 group.append(l[i])
             elif l[i]-group[-1] == 1:

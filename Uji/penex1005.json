@@ -1,0 +1,200 @@
+{
+  "link" : "http://www.fti.itb.ac.id/jurnal-internasional-2017",
+  "fakultas" : "Fakultas Teknologi Industri",
+  "jurusan" : "",
+  "class" : "publication",
+  "access_date" : "2017-06-13 16:19:11",
+  "data" :
+  [
+    {
+      "author": [
+        {
+          "family": "Prima",
+          "given": "E.C."
+        },
+        {
+          "family": "Hidayat",
+          "given": "N.N."
+        },
+        {
+          "family": "Yuliarto",
+          "given": "B."
+        },
+        {
+          "family": "Suyatman",
+          "given": "Dipojono"
+        },
+        {
+          "family": "H.K."
+        }
+      ],
+      "title": "A combined spectroscopic and TDDFT study of natural dyes extracted from fruit peels of Citrus reticulata and Musa acuminata for dye-sensitized solar cells",
+      "journal": "Spectrochimica Acta \u2013 Part A: Molecular and Biomolecular Spectroscopy",
+      "volume": "171",
+      "page": "112\u2013125",
+      "URL": "scopus.com",
+      "language": "en",
+      "id": "prima-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Ion",
+          "given": "A."
+        },
+        {
+          "family": "Iliescu",
+          "given": "D."
+        },
+        {
+          "family": "Aldhafri",
+          "given": "S."
+        },
+        {
+          "family": "Rana",
+          "given": "N."
+        },
+        {
+          "family": "Ratanadilok",
+          "given": "K."
+        },
+        {
+          "family": "Widyanti",
+          "given": "A."
+        },
+        {
+          "family": "Nedelcea",
+          "given": "C."
+        }
+      ],
+      "title": "A Cross-Cultural Analysis of Personality Structure Through the Lens of the HEXACO Model",
+      "journal": "Journal of Personality Assessment",
+      "volume": "99",
+      "page": "763\u2013775",
+      "unknown": "",
+      "publisher": "scopus.com",
+      "language": "en",
+      "id": "ion-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Yu",
+          "given": "V.F."
+        },
+        {
+          "family": "Redi",
+          "given": "A.A.N.P."
+        },
+        {
+          "family": "Hidayat",
+          "given": "Y.A."
+        },
+        {
+          "family": "Wibowo",
+          "given": "O.J."
+        }
+      ],
+      "title": "A simulated annealing heuristic for the hybrid vehicle routing problem",
+      "journal": "Applied Soft Computing Journal",
+      "volume": "53",
+      "page": "119\u2013132",
+      "URL": "scopus.com",
+      "language": "en",
+      "id": "yu-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Setiawan",
+          "given": "A.R."
+        },
+        {
+          "family": "Ramelan",
+          "given": "A."
+        },
+        {
+          "family": "Nuruddin",
+          "given": "A."
+        },
+        {
+          "family": "Hasanah",
+          "given": "I.U."
+        }
+      ],
+      "title": "Effect of pulse frequency on the deposition of Cu-Fe alloy via pulsed current electrodeposition method",
+      "journal": "Key Engineering Materials",
+      "volume": "728",
+      "page": "111\u2013116",
+      "note": "Scopus.com",
+      "language": "en",
+      "id": "setiawan-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Yuliarto",
+          "given": "B."
+        },
+        {
+          "family": "Ramadhani",
+          "given": "M.F."
+        },
+        {
+          "family": "Nugraha",
+          "given": "Septiani"
+        },
+        {
+          "family": "N.L.W.",
+          "given": "Hamam"
+        },
+        {
+          "family": "K.A."
+        }
+      ],
+      "title": "Enhancement of SO<inf>2<\/inf> gas sensing performance using ZnO nanorod thin films: the role of deposition time",
+      "journal": "Journal of Materials Science",
+      "volume": "52",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [
+            0
+          ]
+        ]
+      },
+      "id": "yuliarto-a",
+      "type": "article-journal"
+    },
+    {
+      "author": [
+        {
+          "family": "Septiani",
+          "given": "N.L.W."
+        },
+        {
+          "family": "Yuliarto",
+          "given": "B."
+        },
+        {
+          "family": "Nugraha",
+          "given": "Dipojono"
+        },
+        {
+          "family": "H.K."
+        }
+      ],
+      "title": "Multiwalled carbon nanotubes\u2013zinc oxide nanocomposites as low temperature toluene gas sensor",
+      "journal": "Applied Physics A: Materials Science and Processing",
+      "volume": "123",
+      "URL": "scopus.com",
+      "language": "es",
+      "id": "septiani-a",
+      "type": "article-journal"
+    }
+  ]
+}

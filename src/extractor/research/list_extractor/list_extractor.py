@@ -10,15 +10,20 @@ import os, shutil
 from os.path import basename
 import json
 import re
-import urllib2
+import urllib2, requests
 
 class ListExtractor(object):
     def __init__(self, dirout, url):
         self.dirout = dirout
         self.url = url
+        # self.body = body
         self.listCount = 0
-        with open('positive.txt', 'r') as myfile:
+        with open(self.dirout + 'positive.txt', 'r') as myfile:
             self.positive = myfile.readlines()
+        self.clearFile(self.dirout + "result")
+        body_soup = self.getBody()
+        lists = self.getCandidatesUnorderedList(body_soup)
+        lists = self.getCandidatesOrderedList(body_soup)
 
     def clearFile(self, dir3):
         for the_file in os.listdir(dir3):
@@ -31,11 +36,10 @@ class ListExtractor(object):
                 print(e)
 
     def getBody(self):
-        opener = urllib2.build_opener(urllib2.HTTPCookieProcessor())
-        response = opener.open(self.url)
-        page = response.read()
-        # page = urllib2.urlopen(self.url).read()
-        soup = BeautifulSoup(page, 'html.parser')
+        s = requests.Session()
+        s.headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36'
+        r = s.get(self.url)
+        soup = BeautifulSoup(r.content, 'html.parser')
         return soup
 
     def getCandidatesUnorderedList(self, body_soup):
@@ -66,7 +70,7 @@ class ListExtractor(object):
                         self.listCount = self.listCount + 1
                         isList = False
                 j += 1
-        print(lists)
+        # print(lists)
         return 0
 
     def getCandidatesOrderedList(self, body_soup):
@@ -123,7 +127,7 @@ class ListExtractor(object):
     def printListToFile(self, list_soup, headers, j, counter):
         lines = list_soup.findAll('li') 
         fout = 'list' + '.txt'
-        out_path = self.dirout + str(counter)+"-"+fout
+        out_path = self.dirout + "result/" + str(counter)+"-"+fout
         
         with codecs.open(out_path, 'w+', encoding='utf-8') as outfile:
             for line in lines:
@@ -148,12 +152,8 @@ def main(argv):
         print 'usage: python list_extractor.py <url>'
         sys.exit(2)    
     
-    output_dir = "result/"
+    output_dir = ""
     rbe = ListExtractor(output_dir, argv[0])
-    rbe.clearFile("result")
-    body_soup = rbe.getBody()
-    lists = rbe.getCandidatesUnorderedList(body_soup)
-    lists = rbe.getCandidatesOrderedList(body_soup)
 
 if __name__ == "__main__":
    main(sys.argv[1:])
